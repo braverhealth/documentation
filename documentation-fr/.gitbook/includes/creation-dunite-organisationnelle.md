@@ -8,19 +8,23 @@ title: Création d'unité organisationnelle
 
 {% stepper %}
 {% step %}
-## Cliquer sur l'item du menu
+## Cliquer sur l'item correspondant dans le menu de gauche
 
 <div align="left"><figure><img src="../assets/CleanShot 2025-01-02 at 20.33.06@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-## Cliquer sur le bouton d'ajout
+## Cliquer sur le bouton d'ajout en bas à droite
 
 <div align="left"><figure><img src="../assets/CleanShot 2025-01-02 at 20.33.41@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-## Entrer un titre, l'unité "mère" puis cliquer sur "Sauvegarder"
+## Entrer les informations
+
+* Entrer un nom facilement reconnaissable
+* Sélectionner l'unité mère
+* Cliquer sur Sauvegarder
 
 <div align="left"><figure><img src="../assets/CleanShot 2025-01-02 at 20.34.05@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
