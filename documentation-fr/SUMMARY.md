@@ -29,7 +29,8 @@
 
 ## Pour les administrateurs
 
-* [Unités organisationnelles](pour-les-administrateurs/openapi.md)
+* [Unités organisationnelles](pour-les-administrateurs/openapi/README.md)
+  * [Comment en créer une?](pour-les-administrateurs/openapi/comment-en-creer-une.md)
 * [Lieux de travail](pour-les-administrateurs/integrations.md)
 * [Équipes](pour-les-administrateurs/equipes.md)
 * [Utilisateurs](pour-les-administrateurs/utilisateurs.md)
