@@ -6,11 +6,9 @@ description: >-
 
 # Comment créer un lieu de travail?
 
-{% embed url="https://www.loom.com/share/0f760717cc1a4a41ba87a49768fce17e?sid=b49489b1-89ab-4d8e-a377-13e92929b6ee" %}
+{% embed url="https://www.loom.com/share/0f760717cc1a4a41ba87a49768fce17e?sid=b49489b1-89ab-4d8e-a377-13e92929b6ee" fullWidth="true" %}
 
 ## Pas-à-pas
-
-
 
 {% stepper %}
 {% step %}
