@@ -6,7 +6,7 @@ description: >-
 
 # Comment créer une équipe?
 
-{% embed url="https://www.loom.com/share/5eb876cbec8845fa9ba3f31994cba2ce?sid=79569547-2002-45dc-b0b2-3c4a70f60d84" %}
+{% embed url="https://www.loom.com/share/5eb876cbec8845fa9ba3f31994cba2ce?sid=79569547-2002-45dc-b0b2-3c4a70f60d84" fullWidth="true" %}
 
 ## Pas-à-pas
 
