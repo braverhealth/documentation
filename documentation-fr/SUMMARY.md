@@ -29,8 +29,8 @@
 
 ## Pour les administrateurs
 
-* [Unités organisationnelles](pour-les-administrateurs/openapi/README.md)
-  * [Comment créer une unité organisationnelle?](pour-les-administrateurs/openapi/comment-en-creer-une.md)
+* [Unités organisationnelles](pour-les-administrateurs/unites-organisationelles/README.md)
+  * [Comment créer une unité organisationnelle?](pour-les-administrateurs/unites-organisationelles/comment-creer-une-unite-organisationnelle.md)
 * [Lieux de travail](pour-les-administrateurs/lieux-de-travail/README.md)
   * [Comment créer un lieu de travail?](pour-les-administrateurs/lieux-de-travail/comment-creer-un-lieu-de-travail.md)
 * [Équipes](pour-les-administrateurs/equipes/README.md)
