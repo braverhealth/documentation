@@ -1,5 +1,7 @@
 # Comment créer un nouveau fil de discussion clinique?
 
+## Pas-à-pas
+
 {% stepper %}
 {% step %}
 ### Sélectionnez l'onglet _Accueil_, puis, sélectionnez la bulle dans le bas de la page.
