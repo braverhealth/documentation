@@ -1,5 +1,17 @@
 # Rejoindre et quitter un appel conférence
 
+{% tabs %}
+{% tab title="Appareil mobile" %}
+
+{% endtab %}
+
+{% tab title="Ordinateur" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
 ## Sur un appareil mobile
 
 {% embed url="https://www.loom.com/share/02943825c3394fbb83f323aaf10dffd5?sid=b4220703-f17d-4d6e-b61d-2a90cf5d15e5" %}
