@@ -55,6 +55,6 @@ Par exemple, une organisation de santé qui aurait deux centres d'hébergement d
 
 ## Est-ce que j'ai besoin de créer des unités organisationnelles pour mon organisation?
 
-Dans bien des cas, non. Une organisation comprend d'emblée une unité "racine" (qui ne peut pas d'ailleurs pas être supprimée) et pour la plupart des petites organisations, cette unité est suffisante.
+Dans bien des cas, non. Une organisation comprend d'emblée une unité "racine" (qui ne peut d'ailleurs pas être supprimée) et pour la plupart des petites organisations, cette unité est suffisante.
 
 Or, si votre organisation comprend plusieurs sites, où des employés distincts travaillent, où des administrateurs différents ont des responsabilités propres à différents sites et où des patients distincts sont suivis ou traités, les unités organisationnelles peuvent vous permettre de mettre en place des contrôles d'accès adéquats pour chacun.
