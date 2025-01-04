@@ -70,12 +70,8 @@ Et finalement, cliquez sur *Envoyer*.
 {% endhint %}
 
 
-{% hint style="info" %}
+## Autres chemins pour créer un fil de discussion clinique
 
-### Autre chemin pour créer un fil de discussion clinique
-
-- Onglet *Patients &gt;* Choisissez un patient &gt; *icône de bulle de discussion* (voir image)
+- Dans l'onglet *Patients &gt;* Choisissez un patient &gt; *icône de bulle de discussion* (voir image)
 
 <div align="left"><figure><img src="../../.gitbook/assets/documentation-fr/Créer un nouveau fil de discussion clinique - info.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
-
-{% endhint %}
