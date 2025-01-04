@@ -8,6 +8,10 @@ title: Création d'unité organisationnelle
 
 {% stepper %}
 {% step %}
+## Accéder à la [console administrative](https://admin.braver.net)
+{% endstep %}
+
+{% step %}
 ## Cliquer sur l'item correspondant dans le menu de gauche
 
 <div align="left"><figure><img src="../assets/CleanShot 2025-01-02 at 20.33.06@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
