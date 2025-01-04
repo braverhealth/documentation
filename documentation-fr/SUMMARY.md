@@ -12,6 +12,7 @@
 * [Création de compte](pour-les-professionnels/creation-de-compte.md)
 * [Le réseau](pour-les-professionnels/quickstart.md)
 * [Fils de discussions](pour-les-professionnels/fils-de-discussions/README.md)
+  * [Actions possibles dans un appel audio et vidéo](pour-les-professionnels/fils-de-discussions/actions-possibles-dans-un-appel-audio-et-video.md)
   * [Créer un nouveau fil de discussion clinique](pour-les-professionnels/fils-de-discussions/creer-un-fil-de-discussion-clinique.md)
   * [Créer un nouveau fil de discussion non clinique](pour-les-professionnels/fils-de-discussions/creer-un-fil-de-discussion-non-clinique.md)
   * [Assigner/Désassigner un participant comme responsable d'un fil](pour-les-professionnels/fils-de-discussions/assigner-desassigner-un-participant-comme-responsable-dun-fil.md)
