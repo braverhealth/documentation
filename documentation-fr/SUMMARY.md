@@ -22,7 +22,8 @@
 
 ## Pour les patients et proches aidants
 
-* [Fils de discussions et appels](pour-les-patients-et-proches-aidants/editor.md)
+* [Fils de discussions et appels](pour-les-patients-et-proches-aidants/fils-de-discussions/README.md)
+  * [Comment créer un nouveau fil de discussion clinique?](pour-les-patients-et-proches-aidants/fils-de-discussions/comment-creer-un-fil-de-discussion-clinique.md)
 * [Gestion du profil](pour-les-patients-et-proches-aidants/markdown.md)
 * [Gestion des notifications](pour-les-patients-et-proches-aidants/images-and-media.md)
 * [Sécurité](pour-les-patients-et-proches-aidants/interactive-blocks.md)

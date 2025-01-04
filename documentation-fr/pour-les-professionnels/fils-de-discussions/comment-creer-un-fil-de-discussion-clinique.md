@@ -1,33 +1,31 @@
----
-title: Créer un nouveau fil de discussion clinique
----
+# Comment créer un nouveau fil de discussion clinique?
 
 {% stepper %}
 {% step %}
 ## Sélectionnez l'onglet *Accueil*, puis, sélectionnez la bulle dans le bas de la page.
 
-<div align="left"><figure><img src="../assets/Créer un nouveau fil de discussion clinique - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% endstep %}
 
 {% step %}
 ## Choisissez le *Fil clinique*.
 
-<div align="left"><figure><img src="../assets/Créer un nouveau fil de discussion clinique - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% endstep %}
 
 {% step %}
 ## Sélectionnez *Choisir un patient ou un canal de soins.*
 
-<div align="left"><figure><img src="../assets/Créer un nouveau fil de discussion clinique - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% endstep %}
 
 {% step %}
 ## Choisissez le patient concerné.
 
-<div align="left"><figure><img src="../assets/Créer un nouveau fil de discussion clinique - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% endstep %}
 
@@ -39,7 +37,7 @@ Les encadrés représentent les canaux de soins. Vous sélectionnez le canal *R�
 Si vous aviez voulu démarrer un fil de discussion *hors canal*, vous auriez cliqué dans le bas de la page (voir encadré orange).
 {% endhint %}
 
-<div align="left"><figure><img src="../assets/Créer un nouveau fil de discussion clinique - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% endstep %}
 
@@ -56,7 +54,7 @@ Consultez le tutoriel *Gérer les participants d'un fil de discussion.* pour plu
 
 Et finalement, cliquez sur *Envoyer*.
 
-<div align="left"><figure><img src="../assets/Créer un nouveau fil de discussion clinique - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% endstep %}
 
@@ -78,6 +76,6 @@ Et finalement, cliquez sur *Envoyer*.
 
 - Onglet *Patients &gt;* Choisissez un patient &gt; *icône de bulle de discussion* (voir image)
 
-<div align="left"><figure><img src="../assets/documentation-fr/Créer un nouveau fil de discussion clinique - Step undefined.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/documentation-fr/Créer un nouveau fil de discussion clinique - info.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% endhint %}
