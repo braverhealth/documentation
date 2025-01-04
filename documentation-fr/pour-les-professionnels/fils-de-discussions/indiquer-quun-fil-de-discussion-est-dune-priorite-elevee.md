@@ -16,12 +16,12 @@ Si vous indiquez qu'un fil de discussion est d'une priorité élevée, votre des
 {% step %}
 #### Vous pourrez alors la modifier pour une _Priorité élevée_.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Indiquer quun fil de discussion est dune priorité élevée - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Indiquer quun fil de discussion est dune priorité élevée - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 #### Remplissez tous les champs nécessaires afin de débuter le fil de discussion, puis cliquez sur _Envoyer_.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Indiquer quun fil de discussion est dune priorité élevée - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Indiquer quun fil de discussion est dune priorité élevée - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
