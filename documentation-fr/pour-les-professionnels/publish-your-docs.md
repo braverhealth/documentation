@@ -4,9 +4,9 @@ icon: message-pen
 
 # Fils de discussions et appels
 
-Once you’ve finished writing, editing, or importing your content, you can publish your work to the web as a docs site. Once published, your site will be accessible online only to your selected audience.
+## Fils de discussion clinique
 
-You can publish your site and find related settings from your docs site's homepage.
+Par définition, un *fil de discussion clinique* est **relié à un patient**. C'est une discussion que vous pouvez avoir avec une personne ou en équipe.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/publish-hero.png" alt=""><figcaption></figcaption></figure>
+Vous pouvez démarrer un fil de discussion clinique dans un *canal de soins* ou *hors canal*. **Les canaux de soins** vous aident à regrouper les fils de discussions sous un même thème en plus d'ajouter automatiquement les personnes requises à la discussion.
 
