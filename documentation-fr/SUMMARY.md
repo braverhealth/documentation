@@ -40,5 +40,5 @@
   * [Comment annuler ou renvoyer une invitation?](pour-les-administrateurs/utilisateurs/comment-annuler-ou-renvoyer-une-invitation.md)
 * [Journaux d'audit](pour-les-administrateurs/journaux-daudit/README.md)
   * [Comment faire une recherche dans le journal d'audits?](pour-les-administrateurs/journaux-daudit/comment-faire-une-recherche-dans-le-journal-daudits.md)
-  * [Que-puis-je retrouver dans le journal d'audits?](pour-les-administrateurs/journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md)
+  * [Que puis-je retrouver dans le journal d'audits?](pour-les-administrateurs/journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md)
 * [Bottins](pour-les-administrateurs/bottins.md)
