@@ -4,19 +4,19 @@ icon: person-circle-question
 
 # Qui peut rejoindre Braver?
 
-## 1. Réseau Braver
+## Réseau Braver
 
-### 1.1. Professionnels de la santé
+### Professionnels de la santé
 
-#### 1.1.1 Participation autonome
+#### Participation autonome
 
 La plateforme Braver offre un réseau unique pour tous les professionnels de la santé. Ceux-ci peuvent devenir membres du réseau Braver de façon indépendante, c’est-à-dire qu’il n’est pas nécessaire que l'organisation pour laquelle il ou elle travaille soit membre du réseau.
 
-#### 1.1.2. Profil détaillé
+#### Profil détaillé
 
 Chaque professionnel de la santé peut créer son propre profil détaillé qui lui permettra d’être visible sur le réseau et d’ainsi pouvoir être contacté par d’autres professionnels. Le profil détaillé présente la profession du professionnel, ses diplômes, ses compétences particulières, son lieu de travail et ses coordonnées.
 
-### 1.2. Organisations de santé
+### Organisations de santé
 
 Les organisations du réseau de Braver peuvent inclure n’importe quelle entité qui
 
@@ -25,8 +25,12 @@ Les organisations du réseau de Braver peuvent inclure n’importe quelle entit�
 * peut être habilitée à confirmer qu’un membre est bel et bien un professionnel de la santé qualifié
 * compte parmi ses membres du personnel qui n’est pas professionnel de la santé
 
-**1.2.0.1. Un utilisateur de Braver peut être membre d’une ou de plusieurs organisations distinctes. Ainsi, un membre administratif d’une organisation invite d’autres membres de Braver à faire partie de l’organisation et ceux-ci reçoivent du même coup un ou plusieurs** [**rôles**](https://docs.google.com/document/d/1OxaaFzT7lZjQyaFeG_DALoue5b6wGzeR4pDodEXeHpA/edit#heading=h.55jhwg1vabvt) **applicables.**
+**Un utilisateur de Braver peut être membre d’une ou de plusieurs organisations distinctes.** Ainsi, un membre administratif d’une organisation invite d’autres membres de Braver à faire partie de l’organisation et ceux-ci reçoivent du même coup un ou plusieurs rôles applicables.
 
-**1.2.0.2. Un utilisateur de Braver qui est membre de plusieurs organisations ne peut avoir qu’un seul contexte organisationnel actif à la fois. Ainsi, les canaux ou fiches-patients auxquels il ou elle a accès à un temps donné sont toujours ceux d’une seule organisation à la fois, et l’identification de cette organisation active est évidente visuellement dans l’application.**
+{% hint style="warning" %}
+Un utilisateur de Braver qui est membre de plusieurs organisations ne peut avoir qu’un seul contexte organisationnel actif à la fois.&#x20;
 
-1.2.0.3. Un utilisateur de Braver peut ne pas être un professionnel de la santé si il ou elle est invité explicitement dans un [canal de soins](https://docs.google.com/document/d/1OxaaFzT7lZjQyaFeG_DALoue5b6wGzeR4pDodEXeHpA/edit#heading=h.6dmeksci3s91) ou dans une organisation.
+Ainsi, les canaux ou fiches-patients auxquels il ou elle a accès à un temps donné sont toujours ceux d’une seule organisation à la fois, et l’identification de cette organisation active est évidente visuellement dans l’application.
+{% endhint %}
+
+Un utilisateur de Braver peut ne pas être un professionnel de la santé si il ou elle est invité explicitement dans un [canal de soins](https://docs.google.com/document/d/1OxaaFzT7lZjQyaFeG_DALoue5b6wGzeR4pDodEXeHpA/edit#heading=h.6dmeksci3s91) ou dans une organisation.
