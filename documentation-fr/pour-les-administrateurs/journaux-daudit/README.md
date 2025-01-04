@@ -11,7 +11,7 @@ En tant qu'organisations de santé, il est possible que vous soyez dans l'obliga
 Braver collige automatiquement les accès en lecture effectués par les membres de l'organisation à toutes les informations dont votre organisation est la gardienne. Braver collige aussi automatiquement les actions de création et modification des renseignements, ainsi que toute action de communication effectuées sur la plateforme.
 
 {% hint style="success" %}
-Pour une liste complète des éléments capturés dans les journaux d'audit, référez-vous à la page [Que puis-je retrouver dans le journal d'audit](que-puis-je-retrouver-dans-les-journaux-daudits.md).
+Pour une liste complète des éléments capturés dans les journaux d'audit, référez-vous à la page [Que puis-je retrouver dans le journal d'audit](que-puis-je-retrouver-dans-le-journal-daudits.md).
 {% endhint %}
 
 ### Que constitue un élément historique du journal d'audit?
