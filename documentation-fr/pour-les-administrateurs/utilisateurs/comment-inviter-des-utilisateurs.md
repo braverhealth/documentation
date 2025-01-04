@@ -6,9 +6,7 @@ description: >-
 
 # Comment inviter des utilisateurs?
 
-
-
-{% embed url="https://www.loom.com/share/39ed9428899c43c69dfd971354c888e4?sid=ca755c62-f947-49e6-b574-71aa3e85c32f" %}
+{% embed url="https://www.loom.com/share/39ed9428899c43c69dfd971354c888e4?sid=ca755c62-f947-49e6-b574-71aa3e85c32f" fullWidth="true" %}
 
 ## Pas-à-pas
 

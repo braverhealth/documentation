@@ -6,9 +6,7 @@ description: >-
 
 # Comment annuler ou renvoyer une invitation?
 
-
-
-{% embed url="https://www.loom.com/share/39ed9428899c43c69dfd971354c888e4?sid=f1e8ba07-4a39-4a35-9bb2-212d3a8096d8" %}
+{% embed url="https://www.loom.com/share/39ed9428899c43c69dfd971354c888e4?sid=f1e8ba07-4a39-4a35-9bb2-212d3a8096d8" fullWidth="true" %}
 
 ## Pas-à-pas
 
