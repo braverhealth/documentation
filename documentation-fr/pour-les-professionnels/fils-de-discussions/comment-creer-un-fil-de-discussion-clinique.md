@@ -1,4 +1,4 @@
-# Comment créer un nouveau fil de discussion clinique?
+# Créer un nouveau fil de discussion clinique
 
 ## Pas-à-pas
 
