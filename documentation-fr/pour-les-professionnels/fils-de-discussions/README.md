@@ -2,9 +2,9 @@
 icon: message-pen
 ---
 
-# Fils de discussions et appels
+# Fils de discussions
 
-## Fils de discussion clinique
+## Fils de discussion "clinique"
 
 Par définition, un *fil de discussion clinique* est **relié à un patient**. C'est une discussion que vous pouvez avoir avec une personne ou en équipe.
 

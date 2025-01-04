@@ -11,7 +11,8 @@
 
 * [Création de compte](pour-les-professionnels/creation-de-compte.md)
 * [Le réseau](pour-les-professionnels/quickstart.md)
-* [Fils de discussions et appels](pour-les-professionnels/publish-your-docs.md)
+* [Fils de discussions](pour-les-professionnels/fils-de-discussions/README.md)
+  * [Comment créer un nouveau fil de discussion clinique?](pour-les-professionnels/fils-de-discussions/comment-creer-un-fil-de-discussion-clinique.md)
 * [Canaux de soins](pour-les-professionnels/canaux-de-soins.md)
 * [Fiches patient](pour-les-professionnels/fiches-patient.md)
 * [Équipes](pour-les-professionnels/equipes.md)
@@ -22,8 +23,6 @@
 
 ## Pour les patients et proches aidants
 
-* [Fils de discussions et appels](pour-les-patients-et-proches-aidants/fils-de-discussions/README.md)
-  * [Comment créer un nouveau fil de discussion clinique?](pour-les-patients-et-proches-aidants/fils-de-discussions/comment-creer-un-fil-de-discussion-clinique.md)
 * [Gestion du profil](pour-les-patients-et-proches-aidants/markdown.md)
 * [Gestion des notifications](pour-les-patients-et-proches-aidants/images-and-media.md)
 * [Sécurité](pour-les-patients-et-proches-aidants/interactive-blocks.md)
