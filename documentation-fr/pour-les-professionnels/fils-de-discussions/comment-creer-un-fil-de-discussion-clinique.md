@@ -57,7 +57,7 @@ Et finalement, cliquez sur _Envoyer_.
 {% endstepper %}
 
 {% hint style="success" %}
-### Où les retrouver?
+**Où les retrouver:**
 
 * Les _fils cliniques_ sont accessibles à partir de l'onglet _Accueil_. Ce sont ceux qui sont reliés à une fiche patient en violet.
 * Vous pouvez également retrouver les _fils cliniques_ sous l'onglet _Patients_, en sélectionnant le patient concerné.
