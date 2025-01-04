@@ -28,6 +28,7 @@
   * [Rejoindre et quitter un appel conférence](pour-les-professionnels/fils-de-discussions/rejoindre-et-quitter-un-appel.md)
   * [Rejoindre une discussion concernant un nouveau patient](pour-les-professionnels/fils-de-discussions/rejoindre-une-discussion-concernant-un-nouveau-patient.md)
   * [Retrouver un fil de discussion fermé](pour-les-professionnels/fils-de-discussions/retrouver-un-fil-de-discussion-fermé.md)
+  * [Sauvegarder le brouillon d’un fil de discussion](pour-les-professionnels/fils-de-discussions/sauvegarder-le-brouillon-dun-fil-de-discussion.md)
 * [Canaux de soins](pour-les-professionnels/canaux-de-soins.md)
 * [Fiches patient](pour-les-professionnels/fiches-patient.md)
 * [Équipes](pour-les-professionnels/equipes.md)
