@@ -14,6 +14,10 @@ description: >-
 
 {% stepper %}
 {% step %}
+### Accéder à la [console administrative](https://admin.braver.net)
+{% endstep %}
+
+{% step %}
 ### Cliquer sur l'item correspondant dans le menu de gauche
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-04 at 09.13.11@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
@@ -30,7 +34,7 @@ description: >-
 
 * Entrer le prénom et nom
 * Entrer l'adresse courriel
-* Sélectionner les rôles et permissions
+* Sélectionner les rôles et permissions applicables
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-04 at 09.24.57@2x (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -38,8 +42,8 @@ description: >-
 {% step %}
 ### Sélectionner l'équipe dans laquelle se retrouvera l'utilisateur
 
-* &#x20;En sélectionnant Participant pour que la personne fasse partie de l'Équipe
-* En sélectionnant Triage pour la personne ait accès à la boite de triage de l'équipe (si pertinent)
+* En sélectionnant **Participant** pour que la personne fasse partie de l'équipe en tant que participant à des discussions et canaux de soins
+* En sélectionnant **Triage** pour que la personne ait accès à la [boite de triage](../../pour-les-professionnels/equipes.md) de l'équipe (si pertinent)
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-04 at 09.25.20@2x (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
