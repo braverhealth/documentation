@@ -24,7 +24,7 @@ L'accès aux ressources suivantes peuvent être ainsi segmentés en utilisant de
 * Les informations nominatives des patients
 * Les détails des utilisateurs membres d'une unité organisationnelle
 * Les [bottins](../bottins.md)
-* Les [journaux d'audits](../journaux-daudit.md)
+* Les [journaux d'audits](../journaux-daudit/)
 * Les [lieux de travails](../lieux-de-travail/) (seulement la permission de **gestion des lieux de travail**, car leurs détails sont publiques sur le Réseau Braver)
 * Les [équipes](../equipes/)
 * Les fils de discussions et canaux de soins (voir section en jaune ci-bas pour une précision à cet égard)

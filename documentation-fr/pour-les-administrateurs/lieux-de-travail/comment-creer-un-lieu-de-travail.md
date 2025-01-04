@@ -24,7 +24,7 @@ description: >-
 {% step %}
 ### Cliquer sur le bouton d'ajout en bas à droite
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-02 at 21.05.23@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-02 at 21.05.23@2x (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
