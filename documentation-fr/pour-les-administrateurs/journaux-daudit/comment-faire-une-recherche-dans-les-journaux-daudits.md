@@ -1,10 +1,10 @@
 ---
 description: >-
-  Cette page vous montre comment faire une recherche dans le journal d'audits,
+  Cette page vous montre comment faire une recherche dans les journaux d'audits,
   soit avec une vidéo ou un pas-à-pas.
 ---
 
-# Comment faire une recherche dans le journal d'audits?
+# Comment faire une recherche dans les journaux d'audits?
 
 {% embed url="https://www.loom.com/share/674c57b709a145d3970ff8a4fe6a3971?sid=8e5171c4-3441-4de9-a1e3-649578e2b670" fullWidth="true" %}
 
