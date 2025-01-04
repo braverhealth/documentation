@@ -2,22 +2,24 @@
 
 ## Sur un appareil mobile
 
+{% embed url="https://www.loom.com/share/02943825c3394fbb83f323aaf10dffd5?sid=b4220703-f17d-4d6e-b61d-2a90cf5d15e5" %}
+
+
+
 ### Pas-à-pas
 
 {% stepper %}
 {% step %}
-### Lors de la réception d'un appel conférence, votre mobile ou votre tablette sonnera.
+#### Lors de la réception d'un appel conférence, votre mobile ou votre tablette sonnera.
 
 <div align="left"><figure><img src="../../.gitbook/assets/rejoindre-et-quitter-un appel-sur-un-appareil-mobile - Recevoir un appel.png" alt="" width="375"><figcaption></figcaption></figure></div>
-
 {% endstep %}
 
 {% step %}
-### Pour quitter la réunion, cliquez sur le téléphone rouge.
+#### Pour quitter la réunion, cliquez sur le téléphone rouge.
 
 <div align="left"><figure><img src="../../.gitbook/assets/rejoindre-et-quitter-un appel-sur-un-appareil-mobile - Quitter un appel.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
-
 {% endstepper %}
 
 ## Sur ordinateur
@@ -28,17 +30,14 @@
 
 {% stepper %}
 {% step %}
-### Lors de la réception d'un appel conférence, si vous travaillez sur un ordinateur, vous recevrez une notification indiquant un nouveau message dans la discussion correspondante, puis y trouverai un bouton pour rejoindre l'appel.
+#### Lors de la réception d'un appel conférence, si vous travaillez sur un ordinateur, vous recevrez une notification indiquant un nouveau message dans la discussion correspondante, puis y trouverai un bouton pour rejoindre l'appel.
 
 <div align="left"><figure><img src="../../.gitbook/assets/rejoindre-et-quitter-un-appel-sur-lordinateur - Rejoindre lappel.png" alt="" width="375"><figcaption></figcaption></figure></div>
-
 {% endstep %}
 
 {% step %}
-### Pour quitter la réunion, cliquez sur le téléphone rouge.
+#### Pour quitter la réunion, cliquez sur le téléphone rouge.
 
 <div align="left"><figure><img src="../../.gitbook/assets/rejoindre-et-quitter-un-appel-sur-lordinateur - Quitter lappel.png" alt="" width="375"><figcaption></figcaption></figure></div>
-
 {% endstep %}
-
 {% endstepper %}

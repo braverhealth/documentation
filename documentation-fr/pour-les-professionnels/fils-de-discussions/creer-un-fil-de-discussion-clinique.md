@@ -4,31 +4,31 @@
 
 {% stepper %}
 {% step %}
-### Sélectionnez l'onglet _Accueil_, puis, sélectionnez la bulle dans le bas de la page.
+#### Sélectionnez l'onglet _Accueil_, puis, sélectionnez la bulle dans le bas de la page.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Choisissez le _Fil clinique_.
+#### Choisissez le _Fil clinique_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Sélectionnez _Choisir un patient ou un canal de soins._
+#### Sélectionnez _Choisir un patient ou un canal de soins._
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Choisissez le patient concerné.
+#### Choisissez le patient concerné.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Choisissez le canal de soins ou _Hors canal_.
+#### Choisissez le canal de soins ou _Hors canal_.
 
 Les encadrés représentent les canaux de soins. Vous sélectionnez le canal _Réhabilitation_ dans cet exemple.
 
@@ -40,7 +40,7 @@ Si vous aviez voulu démarrer un fil de discussion _hors canal_, vous auriez cli
 {% endstep %}
 
 {% step %}
-### Inscrivez votre premier message.
+#### Inscrivez votre premier message.
 
 Vous pouvez également ajouter du contenu additionnel tel que des images, fichiers ou vidéos si vous le désirez.
 
