@@ -67,7 +67,11 @@
   * [Activer les notifications sur un appareil mobile](pour-les-professionnels/gestion-des-notifications/activer-les-notifications-sur-appareils-mobile.md)
   * [Régler sa période d'indisponibilité](pour-les-professionnels/gestion-des-notifications/regler-sa-periode-dindisponibilite.md)
   * [Régler son horaire de disponibilités](pour-les-professionnels/gestion-des-notifications/regler-son-horaire-de-disponibilités.md)
-* [Sécurité](pour-les-professionnels/securite.md)
+* [Sécurité](pour-les-professionnels/securite/README.md)
+  * [Verrouiller ou fermer votre session](pour-les-professionnels/securite/basculer-de-session-sur-un-appareil-partage.md)
+  * [Générer un nouveau code de récupération ](pour-les-professionnels/securite/generer-un-nouveau-code-de-recuperation.md)
+  * [Modifier son mot de passe](pour-les-professionnels/securite/modifier-son-mot-de-passe.md)
+  * [Modifier son NIP](pour-les-professionnels/securite/modifier-son-nip.md)
 
 ## Pour les patients et proches aidants
 
