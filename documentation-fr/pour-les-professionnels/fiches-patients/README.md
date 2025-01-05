@@ -6,7 +6,7 @@ icon: folder-medical
 
 Pour visionner, créer ou modifier des fiches patients, vous pouvez utiliser l'onglet "Patients".
 
-<div align="left"><figure><img src="../../.gitbook/assets/Créer une nouvelle fiche patient - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Creer une nouvelle fiche patient - Step4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 1. Le filtres "Avec fils actifs" vous montre les patients pour lesquels il y a actuellement des fils en cours qui les concerne. Si vous faites partie d'une équipe et que vous avec les permissions de voir les discussions que les autres membres de votre équipe ont par rapport à des patients de votre organisation, vous verrez également ces patients ici.
 
