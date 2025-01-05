@@ -38,11 +38,11 @@ Si vous avez téléchargé Braver de façon autonome dans un magasin d'applicati
 {% step %}
 ### Un message de confirmation apparaîtra à l'écran.
 
+<div align="left"><figure><img src="../../.gitbook/assets/Ajouter sa profession - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+
 {% hint style="info" %}
 Pour être validé et ainsi avoir accès à la communication avec tous les membres du réseau, peu importe votre lieu de travail, consultez vos courriels et faites parvenir les preuves demandés.
 {% endhint %}
-
-<div align="left"><figure><img src="../../.gitbook/assets/Ajouter sa profession - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% endstepper %}
