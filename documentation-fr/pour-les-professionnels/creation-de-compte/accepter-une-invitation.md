@@ -17,7 +17,7 @@
     <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-via-une-invitation - Option 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
     \
-    Vous pouvez alors choisir l'option "Créer un nouveau compte" pour continuer à l'étape 3, à moins que vous ayez déjà créé un compte Braver dans le passé (auquel cas vous devriez choisir l'autre option, et vous passerez à l'étape 4 directement). &#x20;
+    Vous pouvez alors choisir l'option "Créer un nouveau compte" pour continuer à l'[étape 3](#suivez-les-etapes-de-creation-de-votre-compte), à moins que vous ayez déjà créé un compte Braver dans le passé (auquel cas vous devriez choisir l'autre option, et vous passerez à l'[étape 4](#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete) directement). &#x20;
 *   Si c'est la première fois que vous ouvrez Braver, mais que Braver a déjà été utilisé par quelqu'un d'autre sur votre appareil, vous verrez un écran comme le suivant:
 
     &#x20;
@@ -25,7 +25,7 @@
     <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-via-une-invitation - Option 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
     \
-    Vous pouvez alors choisir l'option "Créer un nouveau compte" pour continuer à l'étape 3, à moins que vous ayez déjà créé un compte Braver dans le passé (auquel cas vous devriez choisir l'une des autres options, et vous passerez à l'étape 4 directement). &#x20;
+    Vous pouvez alors choisir l'option "Créer un nouveau compte" pour continuer à l'[étape 3](#suivez-les-etapes-de-creation-de-votre-compte), à moins que vous ayez déjà créé un compte Braver dans le passé (auquel cas vous devriez choisir l'une des autres options, et vous passerez à l'[étape 4](#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete) directement). &#x20;
 *   Si vous avez déjà créé votre compte dans le passé avec la même adresse courriel que celle de l'invitation, mais que votre session n'est pas déjà active sur votre appareil, vous verrez un écran comme le suivant:
 
     &#x20;
@@ -33,7 +33,7 @@
     <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-via-une-invitation - Option 3.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
     \
-    Dans ce cas, vous devriez entrer votre mot de passe et dans l'étape suivante, le code de sécurité que vous recevrez pas courriel ou SMS, afin de passer à l'étape 4. &#x20;
+    Dans ce cas, vous devriez entrer votre mot de passe et dans l'étape suivante, le code de sécurité que vous recevrez pas courriel ou SMS, afin de passer à l'[étape 4](#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete). &#x20;
 *   Si vous avez déjà créé votre compte dans le passé avec la même adresse courriel que celle de l'invitation, et que votre session est déjà active sur votre appareil, vous verrez un écran comme le suivant:
 
     &#x20;
@@ -41,7 +41,7 @@
     <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-via-une-invitation - Option 4.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
     \
-    Dans ce cas, vous devriez simplement entrer votre NIP afin de passer à l'étape 4. &#x20;
+    Dans ce cas, vous devriez simplement entrer votre NIP afin de passer à l'[étape 4](#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete). &#x20;
 {% endstep %}
 
 {% step %}
@@ -60,7 +60,7 @@ Vous pouvez [suivre le tutoriel](creation-de-compte-autonome.md) à cet effet.
 {% hint style="info" %}
 Dépendant de la manière que l'invitation a été sécurisée, vous devrez soit **répondre à une question de sécurité** ou **entrer un code secret à 12 chiffres** (p. ex. 1234-1234-1234).&#x20;
 
-S'il vous demande un code secret, vous le trouverez **sous le bouton d'invitation** dans le courriel d'invitation sur lequel vous avez cliqué dans l'étape 1.
+S'il vous demande un code secret, vous le trouverez **sous le bouton d'invitation** dans le courriel d'invitation sur lequel vous avez cliqué dans l'[étape 1](#dans-le-courriel-que-vous-avez-recu-cliquez-sur-le-bouton-vous-invitant-a-accepter-linvitation).
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-via-une-invitation - Step 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
