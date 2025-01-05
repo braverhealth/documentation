@@ -72,6 +72,9 @@
   * [Générer un nouveau code de récupération ](pour-les-professionnels/securite/generer-un-nouveau-code-de-recuperation.md)
   * [Modifier son mot de passe](pour-les-professionnels/securite/modifier-son-mot-de-passe.md)
   * [Modifier son NIP](pour-les-professionnels/securite/modifier-son-nip.md)
+  * [Recevoir l’authentification à 2 facteurs par SMS](pour-les-professionnels/securite/recevoir-lauthentification-a-2-facteurs-par-sms.md)
+  * [Réinitialiser son mot de passe](pour-les-professionnels/securite/reinitialiser-son-mot-de-passe.md)
+  * [Supprimer votre compte Braver](pour-les-professionnels/securite/supprimer-un-compte-braver.md)
 
 ## Pour les patients et proches aidants
 
