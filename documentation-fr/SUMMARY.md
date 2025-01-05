@@ -84,6 +84,9 @@
 
 ## Pour les patients et proches aidants
 
+* [Appels audios et vidéos](pour-les-patients-et-proches-aidants/appels-audios-et-videos/README.md)
+  * [Rejoindre et quitter un appel conférence](pour-les-patients-et-proches-aidants/appels-audios-et-videos/rejoindre-et-quitter-un-appel.md)
+  * [Actions possibles dans un appel audio et vidéo](pour-les-patients-et-proches-aidants/appels-audios-et-videos/actions-possibles-dans-un-appel-audio-et-video.md)
 * [Gestion du profil](pour-les-patients-et-proches-aidants/gestion-du-profil/README.md)
   * [Gestion du profil](pour-les-patients-et-proches-aidants/gestion-du-profil/modifier-son-profil-photo.md)
 * [Gestion des notifications](pour-les-patients-et-proches-aidants/gestion-des-notifications/README.md)
