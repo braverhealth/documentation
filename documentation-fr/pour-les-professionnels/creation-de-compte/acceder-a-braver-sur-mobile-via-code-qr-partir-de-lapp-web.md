@@ -14,7 +14,7 @@
 
 On vous demandera d'installer l'application, puis vous aurez accès à votre session sans vous connecter. Le code QR vous donnera accès directement à votre session.
 
-Au besoin, vous pouvez installer rapidement l'application en vous rendant à l'adresse https://www.braver.net/fr/download/ avant de scanner le code QR.
+Au besoin, vous pouvez installer rapidement l'application en vous rendant à notre [page de téléchargement](https://www.braver.net/fr/download/) avant de scanner le code QR.
 
 <div align="left"><figure><img src="../../.gitbook/assets/acceder-a-braver-sur-mobile-via-code-qr-partir-de-lapp-web - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
