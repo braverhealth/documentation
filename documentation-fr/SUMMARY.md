@@ -43,6 +43,7 @@
   * [Rejoindre et quitter un appel conférence](pour-les-professionnels/appels-audios-et-videos/rejoindre-et-quitter-un-appel.md)
 * [Canaux de soins](pour-les-professionnels/canaux-de-soins/README.md)
   * [Créer un fil de discussion clinique dans un canal de soins existant](pour-les-professionnels/canaux-de-soins/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant.md)
+  * [Ajouter un participant à un canal de soins existant](pour-les-professionnels/canaux-de-soins/ajouter-un-participant-a-un-canal-de-soins-existant.md)
 * [Fiches patient](pour-les-professionnels/fiches-patients/README.md)
   * [Archiver une fiche patient](pour-les-professionnels/fiches-patients/archiver-une-fiche-patient.md)
   * [Créer une nouvelle fiche patient](pour-les-professionnels/fiches-patients/creer-une-nouvelle-fiche-patient.md)
