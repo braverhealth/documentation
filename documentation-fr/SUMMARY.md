@@ -78,9 +78,18 @@
 
 ## Pour les patients et proches aidants
 
-* [Gestion du profil](pour-les-patients-et-proches-aidants/markdown.md)
-* [Gestion des notifications](pour-les-patients-et-proches-aidants/images-and-media.md)
-* [Sécurité](pour-les-patients-et-proches-aidants/interactive-blocks.md)
+* [Gestion du profil](pour-les-patients-et-proches-aidants/gestion-du-profil/README.md)
+  * [Gestion du profil](pour-les-patients-et-proches-aidants/gestion-du-profil/modifier-son-profil-photo.md)
+* [Gestion des notifications](pour-les-patients-et-proches-aidants/gestion-des-notifications/README.md)
+  * [Activer les notifications sur un appareil mobile](pour-les-patients-et-proches-aidants/gestion-des-notifications/activer-les-notifications-sur-appareils-mobile.md)
+  * [Régler sa période d'indisponibilité](pour-les-patients-et-proches-aidants/gestion-des-notifications/regler-sa-periode-dindisponibilite.md)
+  * [Régler son horaire de disponibilités](pour-les-patients-et-proches-aidants/gestion-des-notifications/regler-son-horaire-de-disponibilités.md)
+* [Sécurité](pour-les-patients-et-proches-aidants/securite/README.md)
+  * [Générer un nouveau code de récupération](pour-les-patients-et-proches-aidants/securite/generer-un-nouveau-code-de-recuperation.md)
+  * [Modifier son mot de passe](pour-les-patients-et-proches-aidants/securite/modifier-son-mot-de-passe.md)
+  * [Modifier son NIP](pour-les-patients-et-proches-aidants/securite/modifier-son-nip.md)
+  * [Recevoir l’authentification à 2 facteurs par SMS](pour-les-patients-et-proches-aidants/securite/recevoir-lauthentification-a-2-facteurs-par-sms.md)
+  * [Réinitialiser son mot de passe](pour-les-patients-et-proches-aidants/securite/reinitialiser-son-mot-de-passe.md)
 
 ## Pour les administrateurs
 
