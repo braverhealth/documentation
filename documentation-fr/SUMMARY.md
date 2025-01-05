@@ -59,7 +59,7 @@
 * [Communication patients et proche aidants](pour-les-professionnels/communication-patients-et-proche-aidants/README.md)
   * [Inviter un patient ou un proche aidant à rejoindre Braver](pour-les-professionnels/communication-patients-et-proche-aidants/inviter-un-patient-ou-un-proche-aidant-a-rejoindre-braver.md)
   * [Créer un canal de soins avec patient et proches aidants](pour-les-professionnels/communication-patients-et-proche-aidants/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins.md)
-  * [Initier un nouveau fil de discussion avec le patient ou les proche aidant](pour-les-professionnels/communication-patients-et-proche-aidants/clavarder-avec-un-patient-ou-un-proche-aidants.md)
+  * [Initier un nouveau fil de discussion avec le patient ou les proche aidant](pour-les-professionnels/communication-patients-et-proche-aidants/clavarder-avec-un-patient-ou-un-proche-aidant.md)
 * [Gestion du profil](pour-les-professionnels/gestion-du-profil/README.md)
   * [Modifier sa photo et son texte de présentation](pour-les-professionnels/gestion-du-profil/modifier-son-profil-photo-et-texte-de-presentation.md)
   * [Ajouter sa profession](pour-les-professionnels/gestion-du-profil/ajouter-sa-profession.md)
