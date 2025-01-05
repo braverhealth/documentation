@@ -88,7 +88,7 @@
   * [Rejoindre et quitter un appel conférence](pour-les-patients-et-proches-aidants/appels-audios-et-videos/rejoindre-et-quitter-un-appel.md)
   * [Actions possibles dans un appel audio et vidéo](pour-les-patients-et-proches-aidants/appels-audios-et-videos/actions-possibles-dans-un-appel-audio-et-video.md)
 * [Gestion du profil](pour-les-patients-et-proches-aidants/gestion-du-profil/README.md)
-  * [Gestion du profil](pour-les-patients-et-proches-aidants/gestion-du-profil/modifier-son-profil-photo.md)
+  * [Modifier sa photo](pour-les-patients-et-proches-aidants/gestion-du-profil/modifier-son-profil-photo.md)
 * [Gestion des notifications](pour-les-patients-et-proches-aidants/gestion-des-notifications/README.md)
   * [Activer les notifications sur un appareil mobile](pour-les-patients-et-proches-aidants/gestion-des-notifications/activer-les-notifications-sur-appareils-mobile.md)
   * [Régler sa période d'indisponibilité](pour-les-patients-et-proches-aidants/gestion-des-notifications/regler-sa-periode-dindisponibilite.md)
