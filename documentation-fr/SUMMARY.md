@@ -9,6 +9,7 @@
 
 ## Pour les professionnels
 
+* [Pour débuter](pour-les-professionnels/pour-debuter.md)
 * [Création de compte](pour-les-professionnels/creation-de-compte/README.md)
   * [Création de compte autonome](pour-les-professionnels/creation-de-compte/creation-de-compte-autonome.md)
   * [Accepter une invitation](pour-les-professionnels/creation-de-compte/accepter-une-invitation.md)
@@ -84,6 +85,7 @@
 
 ## Pour les patients et proches aidants
 
+* [Pour débuter](pour-les-patients-et-proches-aidants/pour-debuter.md)
 * [Fils de discussions](pour-les-patients-et-proches-aidants/fils-de-discussions.md)
 * [Appels audios et vidéos](pour-les-patients-et-proches-aidants/appels-audios-et-videos/README.md)
   * [Rejoindre et quitter un appel conférence](pour-les-patients-et-proches-aidants/appels-audios-et-videos/rejoindre-et-quitter-un-appel.md)
@@ -103,6 +105,7 @@
 
 ## Pour les administrateurs
 
+* [Pour débuter](pour-les-administrateurs/pour-debuter.md)
 * [Unités organisationnelles](pour-les-administrateurs/unites-organisationelles/README.md)
   * [Comment créer une unité organisationnelle?](pour-les-administrateurs/unites-organisationelles/comment-creer-une-unite-organisationnelle.md)
 * [Lieux de travail](pour-les-administrateurs/lieux-de-travail/README.md)
