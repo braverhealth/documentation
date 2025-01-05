@@ -1,7 +1,3 @@
----
-icon: signs-post
----
-
 # Fermer et exporter en PDF un fil de discussion
 
 {% hint style="info" %}

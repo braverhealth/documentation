@@ -1,7 +1,3 @@
----
-icon: signs-post
----
-
 # Dupliquer un fil de discussion
 
 ## Pas-à-pas

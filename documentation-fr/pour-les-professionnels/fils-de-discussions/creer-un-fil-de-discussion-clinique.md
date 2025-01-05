@@ -1,7 +1,3 @@
----
-icon: signs-post
----
-
 # Créer un nouveau fil de discussion clinique
 
 ## Pas-à-pas

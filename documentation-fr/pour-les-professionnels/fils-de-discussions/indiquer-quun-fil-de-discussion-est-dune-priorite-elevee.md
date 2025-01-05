@@ -1,7 +1,3 @@
----
-icon: signs-post
----
-
 # Indiquer qu’un fil de discussion est d'une priorité élevée
 
 {% hint style="info" %}

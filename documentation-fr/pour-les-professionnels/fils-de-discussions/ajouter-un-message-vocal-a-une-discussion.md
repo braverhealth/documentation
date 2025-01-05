@@ -1,7 +1,3 @@
----
-icon: signs-post
----
-
 # Ajouter un message vocal à une discussion
 
 ## Pas-à-pas

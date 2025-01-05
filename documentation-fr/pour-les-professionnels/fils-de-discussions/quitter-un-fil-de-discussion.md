@@ -1,7 +1,3 @@
----
-icon: signs-post
----
-
 # Quitter un fil de discussion
 
 ## Pas-à-pas
