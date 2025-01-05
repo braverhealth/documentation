@@ -84,7 +84,7 @@
 
 ## Pour les patients et proches aidants
 
-* [Fils de discussions](pour-les-patients-et-proches-aidants/fils-de-discussions/README.md)
+* [Fils de discussions](pour-les-patients-et-proches-aidants/fils-de-discussions.md)
 * [Appels audios et vidéos](pour-les-patients-et-proches-aidants/appels-audios-et-videos/README.md)
   * [Rejoindre et quitter un appel conférence](pour-les-patients-et-proches-aidants/appels-audios-et-videos/rejoindre-et-quitter-un-appel.md)
   * [Actions possibles dans un appel audio et vidéo](pour-les-patients-et-proches-aidants/appels-audios-et-videos/actions-possibles-dans-un-appel-audio-et-video.md)
