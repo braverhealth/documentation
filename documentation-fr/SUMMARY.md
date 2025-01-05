@@ -35,7 +35,10 @@
 * [Équipes](pour-les-professionnels/equipes.md)
 * [Communication patients et proche aidants](pour-les-professionnels/communication-patients-et-proche-aidants.md)
 * [Gestion du profil](pour-les-professionnels/gestion-du-profil.md)
-* [Gestion des notifications](pour-les-professionnels/gestion-des-notifications.md)
+* [Gestion des notifications](pour-les-professionnels/gestion-des-notifications/README.md)
+  * [Activer les notifications sur un appareil mobile](pour-les-professionnels/gestion-des-notifications/activer-les-notifications-sur-appareils-mobile.md)
+  * [Régler sa période d'indisponibilité](pour-les-professionnels/gestion-des-notifications/regler-sa-periode-dindisponibilite.md)
+  * [Régler son horaire de disponibilités](pour-les-professionnels/gestion-des-notifications/regler-son-horaire-de-disponibilités.md)
 * [Sécurité](pour-les-professionnels/securite.md)
 
 ## Pour les patients et proches aidants
