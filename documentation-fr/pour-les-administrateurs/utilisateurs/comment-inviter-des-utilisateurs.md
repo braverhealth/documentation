@@ -41,7 +41,7 @@ description: >-
 ### Sélectionner l'équipe dans laquelle se retrouvera l'utilisateur
 
 * En sélectionnant **Participant** pour que la personne fasse partie de l'équipe en tant que participant à des discussions et canaux de soins
-* En sélectionnant **Triage** pour que la personne ait accès à la [boite de triage](../../pour-les-professionnels/equipes.md) de l'équipe (si pertinent)
+* En sélectionnant **Triage** pour que la personne ait accès à la [boite de triage](../../pour-les-professionnels/equipes/) de l'équipe (si pertinent)
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-04 at 09.25.20@2x (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
