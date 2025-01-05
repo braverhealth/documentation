@@ -12,6 +12,7 @@
 * [Création de compte](pour-les-professionnels/creation-de-compte/README.md)
   * [Création de compte autonome](pour-les-professionnels/creation-de-compte/creation-de-compte-autonome.md)
   * [Accepter une invitation](pour-les-professionnels/creation-de-compte/accepter-une-invitation.md)
+  * [Connectez-vous instantanément sur mobile à partir de votre session Web](pour-les-professionnels/creation-de-compte/acceder-a-braver-sur-mobile-via-code-qr-partir-de-lapp-web.md)
 * [Le réseau](pour-les-professionnels/reseau/README.md)
   * [Accepter ou ignorer une demande d'amitié](pour-les-professionnels/reseau/accepter-ou-ignorer-une-demande-damitie.md)
   * [Ajouter un contact à votre bottin](pour-les-professionnels/reseau/ajouter-un-contact-a-votre-bottin.md)
