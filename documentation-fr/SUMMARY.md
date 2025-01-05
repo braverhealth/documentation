@@ -48,6 +48,7 @@
   * [Modifier une fiche patient](pour-les-professionnels/fiches-patients/modifier-une-fiche-patient.md)
 * [Équipes](pour-les-professionnels/equipes/README.md)
   * [Écrire à une équipe](pour-les-professionnels/equipes/ecrire-a-une-equipe.md)
+  * [Retourner une discussion dans la boîte de triage](pour-les-professionnels/equipes/retourner-une-discussion-dans-la-boite-de-triage.md)
 * [Communication patients et proche aidants](pour-les-professionnels/communication-patients-et-proche-aidants.md)
 * [Gestion du profil](pour-les-professionnels/gestion-du-profil/README.md)
   * [Modifier sa photo et son texte de présentation](pour-les-professionnels/gestion-du-profil/modifier-son-profil-photo-et-texte-de-presentation.md)
