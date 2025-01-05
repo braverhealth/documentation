@@ -4,11 +4,11 @@
 
 {% stepper %}
 {% step %}
-#### Dans le courriel que vous avez reçu, cliquez sur le bouton vous invitant à accepter l'invitation.
+### Dans le courriel que vous avez reçu, cliquez sur le bouton vous invitant à accepter l'invitation.
 {% endstep %}
 
 {% step %}
-#### Un des écrans suivants pourraient être affiché
+### Un des écrans suivants pourraient être affiché
 
 *   Si c'est la première fois que vous ouvrez Braver, et que Braver n'a jamais non plus été ouvert sur votre appareil, vous verrez un écran comme le suivant:
 
@@ -45,7 +45,7 @@
 {% endstep %}
 
 {% step %}
-#### Suivez les étapes de création de votre compte
+### Suivez les étapes de création de votre compte
 
 {% hint style="info" %}
 Cette étape est seulement nécessaire si c'est la première fois que vous utilisez Braver.
@@ -55,7 +55,7 @@ Vous pouvez [suivre le tutoriel](creation-de-compte-autonome.md) à cet effet.
 {% endstep %}
 
 {% step %}
-#### Entrez le code secret de l'invitation ou répondez à la question secrète
+### Entrez le code secret de l'invitation ou répondez à la question secrète
 
 {% hint style="info" %}
 Dépendant de la manière que l'invitation a été sécurisée, vous devrez soit **répondre à une question de sécurité** ou **entrer un code secret à 12 chiffres** (p. ex. 1234-1234-1234).&#x20;
