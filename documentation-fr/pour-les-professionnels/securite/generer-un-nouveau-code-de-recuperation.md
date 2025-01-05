@@ -9,13 +9,11 @@
 <div align="left"><figure><img src="../../.gitbook/assets/generer-un-nouveau-code-de-recuperation  - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
-{% stepper %}
 {% step %}
 ### Sélectionnez l’onglet *Paramètres*.
 
 <div align="left"><figure><img src="../../.gitbook/assets/generer-un-nouveau-code-de-recuperation  - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
-{% endstepper %}
 
 {% step %}
 ### Sous la section Sécurité, cliquez sur *Générer un code de récupération*.
