@@ -1,3 +1,7 @@
+---
+icon: signs-post
+---
+
 # Éditer une photo ou une vidéo
 
 {% hint style="warning" %}

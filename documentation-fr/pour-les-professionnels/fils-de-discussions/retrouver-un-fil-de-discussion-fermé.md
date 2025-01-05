@@ -1,3 +1,7 @@
+---
+icon: signs-post
+---
+
 # Retrouver un fil de discussion fermé
 
 {% hint style="info" %}

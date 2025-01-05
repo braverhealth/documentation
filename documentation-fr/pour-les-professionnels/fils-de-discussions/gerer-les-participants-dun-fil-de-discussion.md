@@ -1,3 +1,7 @@
+---
+icon: signs-post
+---
+
 # Gérer les participants d'un fil de discussion
 
 ## Pas-à-pas de l'ajout d'un participant à partir de son lieu de travail

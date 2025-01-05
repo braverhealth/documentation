@@ -1,3 +1,7 @@
+---
+icon: signs-post
+---
+
 # Ajouter un fichier, une photo ou une vidéo à un fil de discussion
 
 ## Pas-à-pas

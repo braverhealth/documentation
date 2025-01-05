@@ -1,3 +1,7 @@
+---
+icon: signs-post
+---
+
 # Rejoindre une discussion concernant un nouveau patient
 
 ## Pas-à-pas

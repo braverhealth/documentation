@@ -1,3 +1,7 @@
+---
+icon: signs-post
+---
+
 # Consulter les pièces jointes d’un fil de discussion
 
 ## Pas-à-pas

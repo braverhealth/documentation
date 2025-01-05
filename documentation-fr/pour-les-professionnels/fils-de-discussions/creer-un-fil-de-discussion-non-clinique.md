@@ -1,3 +1,7 @@
+---
+icon: signs-post
+---
+
 # Créer un nouveau fil de discussion non clinique
 
 ## Pas-à-pas

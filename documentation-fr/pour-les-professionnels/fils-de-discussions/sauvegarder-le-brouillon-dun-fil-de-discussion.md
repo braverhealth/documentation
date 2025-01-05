@@ -1,3 +1,7 @@
+---
+icon: signs-post
+---
+
 # Sauvegarder le brouillon d’un fil de discussion
 
 ## Pas-à-pas
