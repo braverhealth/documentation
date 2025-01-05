@@ -21,8 +21,10 @@
 {% hint style="info" %}
 N'oubliez pas de vérifiez vos indésirables s'il n'apparaît pas dans votre boîte courriel rapidement.
 {% endhint %}
+{% endstep %}
 
-Faites défiler jusqu'en bas de la page et acceptez les conditions d’utilisation.
+{% step %}
+### Faites défiler jusqu'en bas de la page et acceptez les conditions d’utilisation.
 
 <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-autonome - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
