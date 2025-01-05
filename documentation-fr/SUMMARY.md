@@ -10,7 +10,15 @@
 ## Pour les professionnels
 
 * [Création de compte](pour-les-professionnels/creation-de-compte.md)
-* [Le réseau](pour-les-professionnels/quickstart.md)
+* [Le réseau](pour-les-professionnels/reseau/README.md)
+  * [Accepter ou ignorer une demande d'amitié](pour-les-professionnels/reseau/accepter-ou-ignorer-une-demande-damitie.md)
+  * [Ajouter un contact à votre bottin](pour-les-professionnels/reseau/ajouter-un-contact-a-votre-bottin.md)
+  * [Configurer un numéro de téléphone accessible aux amis](pour-les-professionnels/reseau/configurer-un-numero-de-telephone-accessible-aux-amis.md)
+  * [Consulter le profil des utilisateurs sur le réseau](pour-les-professionnels/reseau/consulter-le-profil-des-utilisateurs-sur-le-reseau.md)
+  * [Échanger des messages directs](pour-les-professionnels/reseau/envoyer-un-message-direct-avec-amis-seulement.md)
+  * [Envoyer une demande d'amitié](pour-les-professionnels/reseau/envoyer-une-demande-damitie.md)
+  * [Inviter un professionnel de la santé à rejoindre le réseau Braver](pour-les-professionnels/reseau/inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver.md)
+  * [Restreindre sa visibilité du réseau externe](pour-les-professionnels/reseau/restreindre-sa-visibilite-du-reseau-externe.md)
 * [Fils de discussions](pour-les-professionnels/fils-de-discussions/README.md)
   * [Actions possibles dans un appel audio et vidéo](pour-les-professionnels/fils-de-discussions/actions-possibles-dans-un-appel-audio-et-video.md)
   * [Créer un nouveau fil de discussion clinique](pour-les-professionnels/fils-de-discussions/creer-un-fil-de-discussion-clinique.md)
