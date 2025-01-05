@@ -45,6 +45,7 @@
   * [Créer un nouveau canal de soins](pour-les-professionnels/canaux-de-soins/creer-un-nouveau-canal-de-soins.md)
   * [Créer un fil de discussion clinique dans un canal de soins existant](pour-les-professionnels/canaux-de-soins/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant.md)
   * [Ajouter un participant à un canal de soins existant](pour-les-professionnels/canaux-de-soins/ajouter-un-participant-a-un-canal-de-soins-existant.md)
+  * [Épingler un document et consulter l'historique des versions](pour-les-professionnels/canaux-de-soins/epingler-un-document-et-consulter-lhistorique-des-versions.md)
 * [Fiches patient](pour-les-professionnels/fiches-patients/README.md)
   * [Archiver une fiche patient](pour-les-professionnels/fiches-patients/archiver-une-fiche-patient.md)
   * [Créer une nouvelle fiche patient](pour-les-professionnels/fiches-patients/creer-une-nouvelle-fiche-patient.md)
