@@ -4,25 +4,25 @@
 
 {% stepper %}
 {% step %}
-#### Sélectionnez l'onglet "Accueil", puis, cliquez ou appuyez le bouton de création de discussion dans le bas de la page.
+**Sélectionnez l'onglet "Accueil", puis, cliquez ou appuyez le bouton de création de discussion dans le bas de la page.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion non clinique  - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Choisissez le "Fil non clinique"
+**Choisissez le "Fil non clinique"**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion non clinique  - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Indiquez quels participants vous souhaitez impliquer dans le fil de discussion en cliquant sur "Inviter".
+**Indiquez quels participants vous souhaitez impliquer dans le fil de discussion en cliquant sur "Inviter".**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion non clinique  - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### À ce moment, vous pourriez choisir un participant à partir d'un lieu de travail (comme le démontre l'exemple).
+**À ce moment, vous pourriez choisir un participant à partir d'un lieu de travail (comme le démontre l'exemple).**
 
 Vous pourriez également utiliser la barre de recherche dans le haut de la page pour trouver le participant désiré.
 
@@ -30,25 +30,25 @@ Vous pourriez également utiliser la barre de recherche dans le haut de la page 
 {% endstep %}
 
 {% step %}
-### Dans un lieu de travail, vous pouvez sélectionner une équipe ou un utilisateur en particulier.
+#### Dans un lieu de travail, vous pouvez sélectionner une équipe ou un utilisateur en particulier.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion non clinique  - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Après avoir sélectionné le participant, cliquez sur "Ajouter à la discussion".
+**Après avoir sélectionné le participant, cliquez sur "Ajouter à la discussion".**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion non clinique  - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Si vous désirez impliquer une équipe au fil non clinique, cliquez directement sur "Ajouter à la discussion" dans le haut du lieu de travail. Sélectionnez ensuite la ou les équipes nécessaires.
+**Si vous désirez impliquer une équipe au fil non clinique, cliquez directement sur "Ajouter à la discussion" dans le haut du lieu de travail. Sélectionnez ensuite la ou les équipes nécessaires.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion non clinique  - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Une fois vos invitation lancée, inscrivez votre premier message et ajoutez du contenu si vous le désirez. Pour terminer, cliquez sur "Envoyer".\\
+**Une fois vos invitation lancée, inscrivez votre premier message et ajoutez du contenu si vous le désirez. Pour terminer, cliquez sur "Envoyer".\\**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion non clinique  - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
