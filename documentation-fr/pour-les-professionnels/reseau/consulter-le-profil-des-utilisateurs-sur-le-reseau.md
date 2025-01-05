@@ -6,13 +6,13 @@
 {% step %}
 ### Sous l'onglet *Réseau*, choisissez la personne pour laquelle vous voulez consulter le profil.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Consulter le profil des utilisateurs sur le réseau - Step 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/consulter-le-profil-des-utilisateurs-sur-le-reseau - Step 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 ### Sous sa fiche, sélectionnez *Profil détaillé*.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Consulter le profil des utilisateurs sur le réseau - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/consulter-le-profil-des-utilisateurs-sur-le-reseau - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
