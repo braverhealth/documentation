@@ -9,7 +9,8 @@
 
 ## Pour les professionnels
 
-* [Création de compte](pour-les-professionnels/creation-de-compte.md)
+* [Création de compte](pour-les-professionnels/creation-de-compte/README.md)
+  * [Création de compte autonome](pour-les-professionnels/creation-de-compte/creation-de-compte-autonome.md)
 * [Le réseau](pour-les-professionnels/reseau/README.md)
   * [Accepter ou ignorer une demande d'amitié](pour-les-professionnels/reseau/accepter-ou-ignorer-une-demande-damitie.md)
   * [Ajouter un contact à votre bottin](pour-les-professionnels/reseau/ajouter-un-contact-a-votre-bottin.md)
