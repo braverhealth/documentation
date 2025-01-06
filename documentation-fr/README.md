@@ -8,6 +8,14 @@ icon: book
 [README (1).md](<README (1).md>)
 {% endcontent-ref %}
 
+{% content-ref url="introduction/qui-peut-rejoindre-braver.md" %}
+[qui-peut-rejoindre-braver.md](introduction/qui-peut-rejoindre-braver.md)
+{% endcontent-ref %}
+
+{% content-ref url="introduction/dans-quel-contexte-peut-on-lutiliser.md" %}
+[dans-quel-contexte-peut-on-lutiliser.md](introduction/dans-quel-contexte-peut-on-lutiliser.md)
+{% endcontent-ref %}
+
 ### Pour vous rendre productif rapidement
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Vous êtes un professionnel</strong></td><td>Vous utilisez Braver pour communiquer dans le cadre de votre travail.</td><td><a href="https://braver-1.gitbook.io/braver/training/pour-les-professionnels/debuter-ici">https://braver-1.gitbook.io/braver/training/pour-les-professionnels/debuter-ici</a></td><td><a href=".gitbook/assets/clinician-woman-1.jpg">clinician-woman-1.jpg</a></td></tr><tr><td><strong>Vous êtes un patient ou proche aidant</strong></td><td>Vous avez été invité par votre équipe de soins ou celle d'un proche.</td><td><a href="https://braver-1.gitbook.io/braver/training/pour-les-patients-et-proches-aidants/pour-debuter">https://braver-1.gitbook.io/braver/training/pour-les-patients-et-proches-aidants/pour-debuter</a></td><td><a href=".gitbook/assets/iStock-2063461725 copy.jpg">iStock-2063461725 copy.jpg</a></td></tr><tr><td><strong>Vous êtes un administrateur</strong></td><td>Vous gérez un déploiement de Braver dans votre organisation de santé.</td><td><a href="https://braver-1.gitbook.io/braver/training/pour-les-administrateurs/pour-debuter">https://braver-1.gitbook.io/braver/training/pour-les-administrateurs/pour-debuter</a></td><td><a href=".gitbook/assets/professional-woman-1.jpg">professional-woman-1.jpg</a></td></tr></tbody></table>
