@@ -105,3 +105,8 @@
   * [Comment faire une recherche dans les journaux d'audits?](pour-les-administrateurs/journaux-daudit/comment-faire-une-recherche-dans-le-journal-daudits.md)
   * [Que puis-je retrouver dans le journal d'audits?](pour-les-administrateurs/journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md)
 * [Bottins](pour-les-administrateurs/bottins.md)
+
+## Intégrations
+
+* [Leomed](integrations/leomed.md)
+* [Gustav](integrations/gustav.md)
