@@ -1,15 +1,17 @@
 # Table of contents
 
+* [Centre d'assistance de Braver](README.md)
+
 ## Introduction
 
-* [Qu'est-ce que Braver?](README.md)
+* [Qu'est-ce que Braver?](<README (1).md>)
 * [Qui peut rejoindre Braver?](introduction/qui-peut-rejoindre-braver.md)
 * [Dans quel contexte peut-on l'utiliser?](introduction/dans-quel-contexte-peut-on-lutiliser.md)
 * [Comment nous rejoindre?](introduction/comment-nous-rejoindre.md)
 
 ## Pour les professionnels
 
-* [Pour débuter](pour-les-professionnels/pour-debuter.md)
+* [Survol](pour-les-professionnels/pour-debuter.md)
 * [Création de compte](pour-les-professionnels/creation-de-compte/README.md)
 * [Le réseau](pour-les-professionnels/reseau/README.md)
   * [Comprendre le Réseau](pour-les-professionnels/reseau/comprendre-le-reseau.md)
@@ -30,7 +32,7 @@
 
 ## Pour les patients et proches aidants
 
-* [Pour débuter](pour-les-patients-et-proches-aidants/pour-debuter.md)
+* [Survol](pour-les-patients-et-proches-aidants/pour-debuter.md)
 * [Fils de discussions](pour-les-patients-et-proches-aidants/fils-de-discussions.md)
 * [Appels audios et vidéos](pour-les-patients-et-proches-aidants/appels-audios-et-videos/README.md)
 * [Gestion du profil](pour-les-patients-et-proches-aidants/gestion-du-profil/README.md)
@@ -39,7 +41,7 @@
 
 ## Pour les administrateurs
 
-* [Pour débuter](pour-les-administrateurs/pour-debuter.md)
+* [Survol](pour-les-administrateurs/pour-debuter.md)
 * [Unités organisationnelles](pour-les-administrateurs/unites-organisationelles/README.md)
 * [Lieux de travail](pour-les-administrateurs/lieux-de-travail/README.md)
 * [Équipes](pour-les-administrateurs/equipes/README.md)
