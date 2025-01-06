@@ -12,23 +12,23 @@ description: >-
 
 {% stepper %}
 {% step %}
-### Accéder à la [console administrative](https://admin.braver.net)
+#### Accéder à la [console administrative](https://admin.braver.net)
 {% endstep %}
 
 {% step %}
-### Cliquer sur l'item correspondant dans le menu de gauche
+#### Cliquer sur l'item correspondant dans le menu de gauche
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-02 at 21.25.13@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Cliquer sur le bouton d'ajout en bas à droite
+#### Cliquer sur le bouton d'ajout en bas à droite
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-02 at 21.05.23@2x (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Entrer les informations
+#### Entrer les informations
 
 * Entrer le nom de l'équipe
 * Entrer la description de l'équipe

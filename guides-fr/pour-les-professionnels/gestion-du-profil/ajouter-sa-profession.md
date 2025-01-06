@@ -12,31 +12,31 @@ Si vous avez téléchargé Braver de façon autonome dans un magasin d'applicati
 
 {% stepper %}
 {% step %}
-### Accédez à votre profil via votre avatar en bas de l'écran.
+#### Accédez à votre profil via votre avatar en bas de l'écran.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Ajouter sa profession - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Sélectionnez *Ajouter une profession*. On voit ici que la profession d'Omnipraticien avait déjà été validée par l'équipe Braver (voir encadré orange).
+#### Sélectionnez _Ajouter une profession_. On voit ici que la profession d'Omnipraticien avait déjà été validée par l'équipe Braver (voir encadré orange).
 
 <div align="left"><figure><img src="../../.gitbook/assets/Ajouter sa profession - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Remplissez les champs nécessaires pour ajouter votre profession.
+#### Remplissez les champs nécessaires pour ajouter votre profession.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Ajouter sa profession - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Cliquez ensuite sur le crochet en haut, à droite, pour enregistrer votre profession.
+#### Cliquez ensuite sur le crochet en haut, à droite, pour enregistrer votre profession.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Ajouter sa profession - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Un message de confirmation apparaîtra à l'écran.
+#### Un message de confirmation apparaîtra à l'écran.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Ajouter sa profession - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -44,5 +44,4 @@ Si vous avez téléchargé Braver de façon autonome dans un magasin d'applicati
 Pour être validé et ainsi avoir accès à la communication avec tous les membres du réseau, peu importe votre lieu de travail, consultez vos courriels et faites parvenir les preuves demandés.
 {% endhint %}
 {% endstep %}
-
 {% endstepper %}

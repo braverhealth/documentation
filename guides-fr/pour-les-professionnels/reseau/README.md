@@ -20,21 +20,15 @@ GitBook supports importing content from many popular writing tools and formats. 
 
 {% stepper %}
 {% step %}
-###
-
-
+####
 {% endstep %}
 
 {% step %}
-###
-
-
+####
 {% endstep %}
 
 {% step %}
-###
-
-
+####
 {% endstep %}
 {% endstepper %}
 

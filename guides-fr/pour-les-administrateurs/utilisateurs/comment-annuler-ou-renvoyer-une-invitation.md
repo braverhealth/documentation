@@ -12,17 +12,17 @@ description: >-
 
 {% stepper %}
 {% step %}
-### Accéder à la [console administrative](https://admin.braver.net)
+#### Accéder à la [console administrative](https://admin.braver.net)
 {% endstep %}
 
 {% step %}
-### Cliquer sur le sous-onglet Invitation se retrouvant dans l'onglet principal Utilisateurs
+#### Cliquer sur le sous-onglet Invitation se retrouvant dans l'onglet principal Utilisateurs
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-04 at 09.42.38@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Cliquer sur les trois petits points à droite de chacune des lignes pour faire apparaitre le menu permettant
+#### Cliquer sur les trois petits points à droite de chacune des lignes pour faire apparaitre le menu permettant
 
 * De renvoyer une invitation
 * D'annuler une invitation
@@ -30,4 +30,3 @@ description: >-
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-04 at 09.24.40@2x (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
-

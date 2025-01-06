@@ -8,13 +8,13 @@ Si vous ne faites pas partie d'une équipe, vous n'aurez pas accès aux élémen
 
 {% stepper %}
 {% step %}
-### Cliquez dans le carré, en haut, à gauche.
+#### Cliquez dans le carré, en haut, à gauche.
 
 <div align="left"><figure><img src="../../.gitbook/assets/voir-de-quelle-equipe-on-fait-partie - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Votre équipe s'affiche ici. 
+#### Votre équipe s'affiche ici.
 
 {% hint style="success" %}
 Si vous avez plus d'une équipe, vous pouvez basculer de l'une à l'autre à cet endroit.
@@ -22,5 +22,4 @@ Si vous avez plus d'une équipe, vous pouvez basculer de l'une à l'autre à cet
 
 <div align="left"><figure><img src="../../.gitbook/assets/voir-de-quelle-equipe-on-fait-partie - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
-
 {% endstepper %}

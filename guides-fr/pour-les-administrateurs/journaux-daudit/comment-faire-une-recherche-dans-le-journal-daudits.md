@@ -12,13 +12,13 @@ description: >-
 
 {% stepper %}
 {% step %}
-### Cliquer sur l'item correspondant dans le menu de gauche
+#### Cliquer sur l'item correspondant dans le menu de gauche
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-04 at 09.50.25@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Cliquer sur l'icône Filtres et compléter votre recherche en cherchant par
+#### Cliquer sur l'icône Filtres et compléter votre recherche en cherchant par
 
 * Acteur (nom de l'utilisateur)
 * Cible ( fiche patient, discussion, etc)
@@ -29,19 +29,19 @@ description: >-
 {% endstep %}
 
 {% step %}
-### Pour faire une recherche à partir du patient, vous devez avoir en main l'identifiant du patient. Pour l'obtenir, vous devez vous connecter à l'application clinicien à partir d'un ordinateur et accéder à la fiche patient en question
+#### Pour faire une recherche à partir du patient, vous devez avoir en main l'identifiant du patient. Pour l'obtenir, vous devez vous connecter à l'application clinicien à partir d'un ordinateur et accéder à la fiche patient en question
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-04 at 10.02.59@2x.png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Après avoir accédé à la fiche patient en question, vous retrouverez l'identifiant du patient à la fin de l'URL dans la barre de navigation. Copiez l'identifiant du patient.
+#### Après avoir accédé à la fiche patient en question, vous retrouverez l'identifiant du patient à la fin de l'URL dans la barre de navigation. Copiez l'identifiant du patient.
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-04 at 10.01.24@2x.png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Collez l'identifiant du patient dans la boite de texte "Patient" des filtres du journal d'audits.
+#### Collez l'identifiant du patient dans la boite de texte "Patient" des filtres du journal d'audits.
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-04 at 10.27.23@2x.png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
