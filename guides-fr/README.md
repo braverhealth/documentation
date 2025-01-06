@@ -1,15 +1,7 @@
 ---
-icon: hand-wave
+icon: seal-question
 ---
 
-# Bienvenue
+# Qu'est-ce que Braver?
 
-Tutoriel
-
-Formation essentielle et approfondie
-
-Qu'est-ce Braver
-
-FAQ
-
-Comment nous contacter
+{% embed url="https://pitch.com/embed-link/5f59k2" fullWidth="true" %}
