@@ -4,12 +4,10 @@ icon: book
 
 # Centre d'assistance de Braver
 
-<details>
+### Braver en bref
 
-<summary>Si vous désirez en savoir un peu plus sur Braver</summary>
-
-{% content-ref url="README (1).md" %}
-[README (1).md](<README (1).md>)
+{% content-ref url="introduction/quest-ce-que-braver.md" %}
+[quest-ce-que-braver.md](<quest-ce-que-braver.md>)
 {% endcontent-ref %}
 
 {% content-ref url="introduction/qui-peut-rejoindre-braver.md" %}
@@ -19,8 +17,6 @@ icon: book
 {% content-ref url="introduction/dans-quel-contexte-peut-on-lutiliser.md" %}
 [dans-quel-contexte-peut-on-lutiliser.md](introduction/dans-quel-contexte-peut-on-lutiliser.md)
 {% endcontent-ref %}
-
-</details>
 
 ### Pour vous rendre productif rapidement
 
