@@ -76,8 +76,8 @@ Utilisez la barre de recherche en haut de cette page pour rechercher du contenu 
 
 ### Comment nous rejoindre?
 
-{% content-ref url="nous-rapporter-un-probleme.md" %}
-[nous-rapporter-un-probleme.md](nous-rapporter-un-probleme.md)
+{% content-ref url="introduction/nous-rapporter-un-probleme.md" %}
+[nous-rapporter-un-probleme.md](introduction/nous-rapporter-un-probleme.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

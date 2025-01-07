@@ -2,7 +2,7 @@
 
 * [Centre d'assistance de Braver](README.md)
 * [Foire aux questions](foire-aux-questions.md)
-* [Nous rapporter un problème](nous-rapporter-un-probleme.md)
+* [Nous rapporter un problème](introduction/nous-rapporter-un-probleme.md)
 
 ## Introduction
 
