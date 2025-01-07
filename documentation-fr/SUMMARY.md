@@ -2,13 +2,13 @@
 
 * [Centre d'assistance de Braver](README.md)
 * [Foire aux questions](foire-aux-questions.md)
+* [Nous rapporter un problème](nous-rapporter-un-probleme.md)
 
 ## Introduction
 
 * [Qu'est-ce que Braver?](introduction/quest-ce-que-braver.md)
 * [Qui peut rejoindre Braver?](introduction/qui-peut-rejoindre-braver.md)
 * [Dans quel contexte peut-on l'utiliser?](introduction/dans-quel-contexte-peut-on-lutiliser.md)
-* [Nous rapporter un problème](introduction/nous-rapporter-un-probleme.md)
 
 ## Pour les professionnels
 
