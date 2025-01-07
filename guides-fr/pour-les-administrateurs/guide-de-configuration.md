@@ -9,9 +9,13 @@ description: >-
 
 ## À quoi puis-je m'attendre comme charge de pilotage
 
-Si vous utilisez Braver de manière autonome (sans intégration), la configuration  et le déploiement dépend de la grosseur de votre organisation. Par exemple, pour une petite organisation d'une trentaine de cliniciens, son implantation demande seulement quelques heures de travail.
+La configuration et le déploiement dépend de la grosseur de votre organisation.&#x20;
 
-Si vous utilisez Braver via un partenaire d'intégration (ex: Leomed, Gustav), la configuration et le déploiement sont grandement simplifiés puisque plusieurs éléments de configuration sont automatisé à partir de la configuration du logiciel partenaire.&#x20;
+Par exemple, pour une petite organisation d'une trentaine de cliniciens, son implantation demande seulement quelques heures de travail.
+
+{% hint style="warning" %}
+Si vous utilisez Braver via un partenaire d'intégration (p.ex. Leomed ou Gustav), la configuration et le déploiement sont grandement simplifiés puisque plusieurs éléments de configuration sont automatisé à partir de la configuration du logiciel partenaire.&#x20;
+{% endhint %}
 
 ## Les concepts de Braver
 
@@ -39,7 +43,7 @@ Pour en savoir plus sur les **Segments** référez-vous à cette page (à venir)
 Pour en savoir plus sur les **Utilisateurs** référez-vous à [cette page](utilisateurs/).
 {% endhint %}
 
-## Les étapes pour configurer Braver dans mon organisation
+
 
 ### 1. Définir la structure de votre organisation
 
@@ -53,7 +57,15 @@ Voici quelques exemples concrets de structure de différentes organisation de sa
 
 <img src="../.gitbook/assets/file.excalidraw (2).svg" alt="Unité virtuelle de soins, Centre hospitalier" class="gitbook-drawing">
 
-### 2. Partager les informations de votre organisation à Braver
+## Configurer Braver
+
+Prêt à commencer?
+
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Braver autonome</td><td></td><td></td></tr><tr><td></td><td>Braver Leomed</td><td></td></tr><tr><td></td><td>Braver Gustav</td><td></td></tr></tbody></table>
+
+### 1. Partager les informations de votre organisation à Braver
 
 Maintenant que vous avez défini votre structure organisationnelle, nous pouvons débuter la configuration!
 
@@ -67,7 +79,7 @@ Si vous utilisez Braver avec Leomed, utilisez ce formulaire.
 
 
 
-Si vous utilisez Braver avec Gustv, utilisez ce formulaire.
+Si vous utilisez Braver avec Gustva, utilisez ce formulaire.
 
 ### 3. Créer vos unités organisationnelles
 
