@@ -95,6 +95,8 @@
 ## Pour les administrateurs
 
 * [Débuter ici](pour-les-administrateurs/pour-debuter.md)
+* [Guide de configuration](pour-les-administrateurs/guide-de-configuration.md)
+* [Organisation](pour-les-administrateurs/organisation.md)
 * [Unités organisationnelles](pour-les-administrateurs/unites-organisationelles/README.md)
   * [Comment créer une unité organisationnelle?](pour-les-administrateurs/unites-organisationelles/comment-creer-une-unite-organisationnelle.md)
 * [Lieux de travail](pour-les-administrateurs/lieux-de-travail/README.md)
