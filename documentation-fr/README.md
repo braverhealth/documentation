@@ -74,8 +74,8 @@ Utilisez la barre de recherche en haut de cette page pour rechercher du contenu 
 
 ### Comment nous rejoindre?
 
-{% content-ref url="introduction/comment-nous-rejoindre.md" %}
-[comment-nous-rejoindre.md](introduction/comment-nous-rejoindre.md)
+{% content-ref url="comment-nous-rejoindre.md" %}
+[comment-nous-rejoindre.md](comment-nous-rejoindre.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
