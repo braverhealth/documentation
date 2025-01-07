@@ -1,8 +1,8 @@
 ---
+icon: user-pilot
 description: >-
   Ce guide est destiné aux pilotes, super-utilisateurs ou administrateurs qui
   devront configurer la plateforme Braver en vue de son implantation.
-icon: user-pilot
 ---
 
 # Guide de configuration
@@ -77,6 +77,11 @@ Si vous utilisez Braver avec Gustv, utilisez ce formulaire.
 
 ### 6. Envoyer les invitations aux utilisateurs
 
+#### Les journaux d'audits et rôle administrateur
+
 ## Le module patient et proche aidant
 
-## Les journaux d'audits
+## Autres détails techniques
+
+Addresses IPs, référer à notre page dédiée dans la documentation.
+
