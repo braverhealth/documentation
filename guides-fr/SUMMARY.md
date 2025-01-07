@@ -95,7 +95,10 @@
 ## Pour les administrateurs
 
 * [Débuter ici](pour-les-administrateurs/pour-debuter.md)
-* [Guide de configuration](pour-les-administrateurs/guide-de-configuration.md)
+* [Guide de configuration](pour-les-administrateurs/guide-de-configuration/README.md)
+  * [Je déploie Braver en version autonome](pour-les-administrateurs/guide-de-configuration/je-deploie-braver-en-version-autonome.md)
+  * [Je déploie Braver via la plateforme Leomed](pour-les-administrateurs/guide-de-configuration/je-deploie-braver-via-la-plateforme-leomed.md)
+  * [Je déploie Braver via la plateforme Gustav](pour-les-administrateurs/guide-de-configuration/je-deploie-braver-via-la-plateforme-gustav.md)
 * [Organisation](pour-les-administrateurs/organisation.md)
 * [Unités organisationnelles](pour-les-administrateurs/unites-organisationelles/README.md)
   * [Comment créer une unité organisationnelle?](pour-les-administrateurs/unites-organisationelles/comment-creer-une-unite-organisationnelle.md)
