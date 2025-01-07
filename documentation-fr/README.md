@@ -1,15 +1,26 @@
 ---
 icon: book
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Centre d'assistance de Braver
 
-Que vous soyez sur le point de débuter l'utilisation de Braver, que vous soyez un utilisateur aguerri qui désire aller encore plus loin, ou que si vous soyez bloqué devant un problème, vous êtes au bon endroit!
+Que vous soyez sur le point de débuter l'utilisation de Braver, un utilisateur aguerri qui désire aller encore plus loin ou bloqué devant un problème, vous êtes au bon endroit!
 
 ### Braver en bref
 
 {% content-ref url="introduction/quest-ce-que-braver.md" %}
-[quest-ce-que-braver.md](<introduction/quest-ce-que-braver.md>)
+[quest-ce-que-braver.md](introduction/quest-ce-que-braver.md)
 {% endcontent-ref %}
 
 {% content-ref url="introduction/qui-peut-rejoindre-braver.md" %}
@@ -53,3 +64,8 @@ Que vous soyez sur le point de débuter l'utilisation de Braver, que vous soyez 
 </details>
 
 ### Comment nous rejoindre?
+
+{% content-ref url="introduction/comment-nous-rejoindre.md" %}
+[comment-nous-rejoindre.md](introduction/comment-nous-rejoindre.md)
+{% endcontent-ref %}
+

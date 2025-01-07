@@ -5,10 +5,10 @@
 
 ## Introduction
 
-* [Qu'est-ce que Braver?](<README (1).md>)
+* [Qu'est-ce que Braver?](introduction/quest-ce-que-braver.md)
 * [Qui peut rejoindre Braver?](introduction/qui-peut-rejoindre-braver.md)
 * [Dans quel contexte peut-on l'utiliser?](introduction/dans-quel-contexte-peut-on-lutiliser.md)
-* [Comment nous rejoindre?](introduction/comment-nous-rejoindre.md)
+* [Comment nous rapporter un problème?](introduction/comment-nous-rejoindre.md)
 
 ## Pour les professionnels
 
