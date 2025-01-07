@@ -4,22 +4,17 @@ icon: book
 
 # Centre d'assistance de Braver
 
-Que vous soyez sur le point de débuter l'utilisation de Braver, que vous soyez un utilisateur aguerri qui désire aller encore plus loin, ou que si vous soyez bloqué devant un problème, vous êtes au bon endroit!
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
+{% endcontent-ref %}
 
-**Voici d'abord quelques pages utiles si vous êtes curieux de comprendre Braver**
+{% content-ref url="introduction/qui-peut-rejoindre-braver.md" %}
+[qui-peut-rejoindre-braver.md](introduction/qui-peut-rejoindre-braver.md)
+{% endcontent-ref %}
 
-| {% content-ref url="README (1).md" %} [README (1).md](<README (1).md>) {% endcontent-ref %} |
-| - |
-| {% content-ref url="introduction/qui-peut-rejoindre-braver.md" %} [qui-peut-rejoindre-braver.md](introduction/qui-peut-rejoindre-braver.md) {% endcontent-ref %}  |
-| {% content-ref url="introduction/dans-quel-contexte-peut-on-lutiliser.md" %} [dans-quel-contexte-peut-on-lutiliser.md](introduction dans-quel-contexte-peut-on-lutiliser.md) {% endcontent-ref %} |
-
-
-
-
-
-
-
-
+{% content-ref url="introduction/dans-quel-contexte-peut-on-lutiliser.md" %}
+[dans-quel-contexte-peut-on-lutiliser.md](introduction/dans-quel-contexte-peut-on-lutiliser.md)
+{% endcontent-ref %}
 
 ### Pour vous rendre productif rapidement
 
