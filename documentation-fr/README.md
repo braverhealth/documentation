@@ -19,7 +19,9 @@ layout:
 
 # Centre d'assistance de Braver
 
+{% hint style="success" %}
 Utilisez la barre de recherche en haut de cette page pour rechercher du contenu ou encore poser une question à l'engin de recherche intelligent!
+{% endhint %}
 
 ### Braver en bref
 
@@ -86,4 +88,3 @@ Il se peut que votre organisation reçu un numéro de support disponible 24h/24,
 * Vous pouvez nous écrire à tout moment à [support@braver.health](mailto:support@braver.health)
 * Vous pouvez également nous appeler au [+1-888-342-8032](tel:1-888-342-8032) (suivant nos heures d'ouverture)
 * Si vous désirez rester en contact avec nos avancées, vous pouvez vous [inscrire à notre infolettre](https://braverhealth.typeform.com/to/htc30Hk5#email=xxxxx\&language=fr)!
-
