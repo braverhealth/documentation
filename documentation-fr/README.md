@@ -1,10 +1,14 @@
 ---
 icon: book
+description: >-
+  Que vous soyez sur le point de débuter l'utilisation de Braver, un utilisateur
+  aguerri qui désire aller encore plus loin ou bloqué devant un problème, vous
+  êtes au bon endroit!
 layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: false
   outline:
@@ -15,7 +19,7 @@ layout:
 
 # Centre d'assistance de Braver
 
-Que vous soyez sur le point de débuter l'utilisation de Braver, un utilisateur aguerri qui désire aller encore plus loin ou bloqué devant un problème, vous êtes au bon endroit!
+Utilisez la barre de recherche en haut de cette page pour rechercher du contenu ou encore poser une question à l'engin de recherche intelligent!
 
 ### Braver en bref
 
@@ -59,11 +63,11 @@ Que vous soyez sur le point de débuter l'utilisation de Braver, un utilisateur 
 
 <summary>Si vous êtes administrateur de Braver dans une organisation de santé</summary>
 
-* [Unités organisationnelles](pour-les-administrateurs/unites-organisationelles/README.md)
-* [Lieux de travail](pour-les-administrateurs/lieux-de-travail/README.md)
-* [Équipes](pour-les-administrateurs/equipes/README.md)
-* [Utilisateurs](pour-les-administrateurs/utilisateurs/README.md)
-* [Journaux d'audit](pour-les-administrateurs/journaux-daudit/README.md)
+* [Unités organisationnelles](pour-les-administrateurs/unites-organisationelles/)
+* [Lieux de travail](pour-les-administrateurs/lieux-de-travail/)
+* [Équipes](pour-les-administrateurs/equipes/)
+* [Utilisateurs](pour-les-administrateurs/utilisateurs/)
+* [Journaux d'audit](pour-les-administrateurs/journaux-daudit/)
 * [Bottins](pour-les-administrateurs/bottins.md)
 
 </details>
@@ -75,7 +79,7 @@ Que vous soyez sur le point de débuter l'utilisation de Braver, un utilisateur 
 {% endcontent-ref %}
 
 {% hint style="info" %}
-Il se peut que votre organisation reçu un numéro de support disponible 24h/24, 7 jours sur 7. \
+Il se peut que votre organisation reçu un numéro de support disponible 24h/24, 7 jours sur 7.\
 **Si c'est le cas, utilisez celui-ci en cas de problème!**
 {% endhint %}
 
