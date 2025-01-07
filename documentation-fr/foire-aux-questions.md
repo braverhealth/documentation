@@ -4,6 +4,28 @@ icon: message-question
 
 # Foire aux questions
 
+## Compte
+
+<details>
+
+<summary>Comment fait-on pour se créer un compte ?</summary>
+
+Si vous êtes professionnels de la santé, vous pouvez télécharger l’application directement dans les magasins d’application (App store ou Play store) et procéder à la création de votre profil. Vous devrez par la suite être validé par l’équipe de Braver, soit en fournissant votre numéro de pratique ainsi qu’une preuve d’identité.
+
+Après avoir été validé, vous pourrez utiliser la version de base gratuite de Braver pour collaborer en toute sécurité! Pour remplir sa mission de permettre aux professionnels de la santé de faire un pas vers le changement, il est primordial pour Braver que le réseau soit inclusif.
+
+</details>
+
+<details>
+
+<summary>Pourquoi faut-il être invité? Comment être invité?</summary>
+
+Braver est un réseau de professionnels de la santé vérifiés. Ainsi, pour être admissible au réseau, vous devez être invité par un professionnel déjà validé sur le réseau qui pourra vous valider à votre tour.&#x20;
+
+Si vous ne connaissez personne sur le réseau qui peut vous inviter, Braver peut procéder à un processus de validation et de vérification manuel.
+
+</details>
+
 ## Sécurité
 
 <details>
@@ -42,9 +64,9 @@ En attendant, vous pouvez facilement [exporter le contenu des collaborations en 
 
 <summary>Pouvons-nous envoyer des photos, vidéos, documents, etc.?</summary>
 
-Dans la version gratuite de Braver, il vous est permis de partager des photos, des documents et des messages audios retranscrits.&#x20;
+Dans la version gratuite de Braver, il vous est permis de partager des photos, des documents et des [messages audios retranscrits](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/fils-de-discussions/ajouter-un-message-vocal-a-une-discussion).&#x20;
 
-La fonctionnalité du partage et de l'édition de vidéo est une fonctionnalité avancée, tout comme l'édition de photos.
+La fonctionnalité du partage et de l'[édition de vidéo](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/fils-de-discussions/editer-une-photo-ou-une-video) est une fonctionnalité avancée, tout comme l'[édition de photos](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/fils-de-discussions/editer-une-photo-ou-une-video).
 
 [Contactez-nous si cela fait partie de vos besoins!](https://braverhealth.typeform.com/to/D8CEMzqZ)
 
@@ -79,27 +101,5 @@ Vous pouvez également rechercher par lieu de travail si cela vous est utile; un
 Braver fonctionne bien lorsque vous êtes connecté à un réseau wifi, le réseau Internet cellulaire (3G, LTE, 5G), mais pas les réseaux de téléphonie et Bluetooth.&#x20;
 
 Dans ces situations, ce que vous partagez sera stocké temporairement et envoyé lorsque vous serez à nouveau connecté sur l’un des réseaux supportés.
-
-</details>
-
-## Compte
-
-<details>
-
-<summary>Comment fait-on pour se créer un compte ?</summary>
-
-Si vous êtes professionnels de la santé, vous pouvez télécharger l’application directement dans les magasins d’application (App store ou Play store) et procéder à la création de votre profil. Vous devrez par la suite être validé par l’équipe de Braver, soit en fournissant votre numéro de pratique ainsi qu’une preuve d’identité.
-
-Après avoir été validé, vous pourrez utiliser la version de base gratuite de Braver pour collaborer en toute sécurité! Pour remplir sa mission de permettre aux professionnels de la santé de faire un pas vers le changement, il est primordial pour Braver que le réseau soit inclusif.
-
-</details>
-
-<details>
-
-<summary>Pourquoi faut-il être invité? Comment être invité?</summary>
-
-Braver est un réseau de professionnels de la santé vérifiés. Ainsi, pour être admissible au réseau, vous devez être invité par un professionnel déjà validé sur le réseau qui pourra vous valider à votre tour.&#x20;
-
-Si vous ne connaissez personne sur le réseau qui peut vous inviter, Braver peut procéder à un processus de validation et de vérification manuel.
 
 </details>
