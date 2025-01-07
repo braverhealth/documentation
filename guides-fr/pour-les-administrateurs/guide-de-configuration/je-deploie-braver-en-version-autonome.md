@@ -1,3 +1,7 @@
+---
+description: Configurer votre organisation en seulement 7 étapes!
+---
+
 # Je déploie Braver en version autonome
 
 ### Voici les étapes à suivre pour configurer votre organisation dans Braver:
@@ -62,3 +66,11 @@ Vous êtes maintenant prêt à envoyer les invitations aux utilisateurs. Voici[ 
 {% endstep %}
 {% endstepper %}
 
+{% hint style="success" %}
+### Félicitations, vous organisation fait maintenant partie du réseau Braver! 🎉
+
+Il ne reste que deux sections à parcourir:
+
+* [Module patient et proche aidant](./) (si pertinent pour vous)
+* [Autres détails techniques](./) (si pertinent pour vous)
+{% endhint %}

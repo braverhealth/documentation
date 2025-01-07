@@ -59,33 +59,13 @@ Cliquez sur ce qui convient à votre organisation:
 
 <table data-view="cards"><thead><tr><th align="right"></th><th align="center"></th><th></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="right"></td><td align="center"><strong>Je déploie Braver en version autonome</strong></td><td></td><td></td><td></td><td><a href="../../.gitbook/assets/BRAVER_logo_couleur.svg">BRAVER_logo_couleur.svg</a></td><td><a href="je-deploie-braver-en-version-autonome.md">je-deploie-braver-en-version-autonome.md</a></td></tr><tr><td align="right"></td><td align="center"><strong>Je déploie Braver via la plateforme Leomed</strong></td><td></td><td></td><td></td><td><a href="../../.gitbook/assets/Logo Leomed.png">Logo Leomed.png</a></td><td><a href="je-deploie-braver-via-la-plateforme-leomed.md">je-deploie-braver-via-la-plateforme-leomed.md</a></td></tr><tr><td align="right"></td><td align="center"><strong>Je déploie Braver via la plateforme Gustav</strong></td><td></td><td></td><td></td><td><a href="../../.gitbook/assets/5f5bc9e4b5010a486bd857e4_gustav_logo1 1.png">5f5bc9e4b5010a486bd857e4_gustav_logo1 1.png</a></td><td><a href="je-deploie-braver-via-la-plateforme-gustav.md">je-deploie-braver-via-la-plateforme-gustav.md</a></td></tr></tbody></table>
 
-### 1. Partager les informations de votre organisation à Braver
-
-Maintenant que vous avez défini votre structure organisationnelle, nous pouvons débuter la configuration!
-
-Si vous utilisez Braver de manière autonome, utilisez ce formulaire.
-
-
-
-Si vous utilisez Braver avec Leomed, utilisez ce formulaire.
-
-
-
-
-
-Si vous utilisez Braver avec Gustva, utilisez ce formulaire.
-
-### 3. Créer vos unités organisationnelles
-
-### 4. Créer vos lieux de travail
-
-### 5. Créer vos équipes
-
-### 6. Envoyer les invitations aux utilisateurs
-
-#### Les journaux d'audits et rôle administrateur
-
 ## Le module patient et proche aidant
+
+Si vous prévoyez utiliser le module patient et proche aidant via des appareils mobiles (ex: tablette) fournit et gérés par votre organisation, voici <mark style="background-color:red;">un document pour vous guider dans le choix des appareils et certaines pistes de réflexions.</mark>
+
+Si vous prévoyez utiliser le module patient et proche aidant en invitant ces derniers sur leurs appareils personnels (mobile ou ordinateur), nous recommandons de soutenir les personnes dans la création de leur compte. Si vous le faites en personne, assurez-vous d'avoir accès à un réseau Wifi ou des données cellulaires.
+
+Nous avons également développer un outil de formation express pour les patients que vous pouvez utiliser en version électronique ou papier.
 
 ## Autres détails techniques
 
