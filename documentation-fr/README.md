@@ -59,7 +59,12 @@ Que vous soyez sur le point de débuter l'utilisation de Braver, un utilisateur 
 
 <summary>Si vous êtes administrateur de Braver dans une organisation de santé</summary>
 
-
+* [Unités organisationnelles](pour-les-administrateurs/unites-organisationelles/README.md)
+* [Lieux de travail](pour-les-administrateurs/lieux-de-travail/README.md)
+* [Équipes](pour-les-administrateurs/equipes/README.md)
+* [Utilisateurs](pour-les-administrateurs/utilisateurs/README.md)
+* [Journaux d'audit](pour-les-administrateurs/journaux-daudit/README.md)
+* [Bottins](pour-les-administrateurs/bottins.md)
 
 </details>
 
