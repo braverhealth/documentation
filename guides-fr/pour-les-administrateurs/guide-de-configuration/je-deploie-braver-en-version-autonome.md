@@ -1,6 +1,6 @@
 # Je déploie Braver en version autonome
 
-### Voici les étapes à suivre pour configurer votre organisation:
+### Voici les étapes à suivre pour configurer votre organisation dans Braver:
 
 {% stepper %}
 {% step %}
@@ -16,7 +16,7 @@ Voici quelques exemples concrets de structure de différentes organisation de sa
 {% endstep %}
 
 {% step %}
-### Partager les informations de votre organisation à l'équipe Braver
+### Partager le nom de votre organisation à l'équipe Braver
 
 <mark style="background-color:red;">Insérer le type form</mark>
 {% endstep %}
@@ -56,7 +56,7 @@ Si vous ne comprenez pas le concept d'équipe, voici l[a documentation](../equip
 {% step %}
 ### Envoyer les invitations aux utilisateurs
 
-Avant d'envoyer les invitations aux utilisateurs, il est très important de comprendre quel rôles et permissions vous leur donnerez. Voici la documentation pour vous aider.
+Avant d'envoyer les invitations aux utilisateurs, il est très important de comprendre quel rôles et permissions que vous aller leur octroyer. Voici la documentation pour vous aider.
 
 Vous êtes maintenant prêt à envoyer les invitations aux utilisateurs. Voici[ comment inviter un utilisateur](../utilisateurs/comment-inviter-des-utilisateurs.md).
 {% endstep %}
