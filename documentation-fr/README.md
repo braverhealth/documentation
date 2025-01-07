@@ -69,3 +69,12 @@ Que vous soyez sur le point de débuter l'utilisation de Braver, un utilisateur 
 [comment-nous-rejoindre.md](introduction/comment-nous-rejoindre.md)
 {% endcontent-ref %}
 
+{% hint style="info" %}
+Il se peut que votre organisation reçu un numéro de support disponible 24h/24, 7 jours sur 7. \
+**Si c'est le cas, utilisez celui-ci en cas de problème!**
+{% endhint %}
+
+* Vous pouvez nous écrire à tout moment à [support@braver.health](mailto:support@braver.health)
+* Vous pouvez également nous appeler au [+1-888-342-8032](tel:1-888-342-8032) (suivant nos heures d'ouverture)
+* Si vous désirez rester en contact avec nos avancées, vous pouvez vous [inscrire à notre infolettre](https://braverhealth.typeform.com/to/htc30Hk5#email=xxxxx\&language=fr)!
+
