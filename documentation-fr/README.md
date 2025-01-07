@@ -4,6 +4,17 @@ icon: book
 
 # Centre d'assistance de Braver
 
+Que vous soyez sur le point de débuter l'utilisation de Braver, que vous soyez un utilisateur aguerri qui désire aller encore plus loin, ou que si vous soyez bloqué devant un problème, vous êtes au bon endroit!
+
+**Voici d'abord quelques pages utiles si vous êtes curieux de comprendre Braver**
+
+|   |
+| - |
+|   |
+|   |
+
+
+
 {% content-ref url="README (1).md" %}
 [README (1).md](<README (1).md>)
 {% endcontent-ref %}

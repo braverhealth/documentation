@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Centre d'assistance de Braver](README.md)
+* [Foire aux questions](foire-aux-questions.md)
 
 ## Introduction
 
