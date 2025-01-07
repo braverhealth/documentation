@@ -8,24 +8,24 @@ Que vous soyez sur le point de débuter l'utilisation de Braver, que vous soyez 
 
 **Voici d'abord quelques pages utiles si vous êtes curieux de comprendre Braver**
 
-|   |
-| - |
-|   |
-|   |
-
-
-
-{% content-ref url="README (1).md" %}
+| {% content-ref url="README (1).md" %}
 [README (1).md](<README (1).md>)
-{% endcontent-ref %}
-
-{% content-ref url="introduction/qui-peut-rejoindre-braver.md" %}
+{% endcontent-ref %} |
+| - |
+| {% content-ref url="introduction/qui-peut-rejoindre-braver.md" %}
 [qui-peut-rejoindre-braver.md](introduction/qui-peut-rejoindre-braver.md)
-{% endcontent-ref %}
-
-{% content-ref url="introduction/dans-quel-contexte-peut-on-lutiliser.md" %}
+{% endcontent-ref %}  |
+|  {% content-ref url="introduction/dans-quel-contexte-peut-on-lutiliser.md" %}
 [dans-quel-contexte-peut-on-lutiliser.md](introduction/dans-quel-contexte-peut-on-lutiliser.md)
-{% endcontent-ref %}
+{% endcontent-ref %} |
+
+
+
+
+
+
+
+
 
 ### Pour vous rendre productif rapidement
 
