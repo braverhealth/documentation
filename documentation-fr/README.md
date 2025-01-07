@@ -9,7 +9,7 @@ Que vous soyez sur le point de débuter l'utilisation de Braver, que vous soyez 
 ### Braver en bref
 
 {% content-ref url="introduction/quest-ce-que-braver.md" %}
-[quest-ce-que-braver.md](<quest-ce-que-braver.md>)
+[quest-ce-que-braver.md](<introduction/quest-ce-que-braver.md>)
 {% endcontent-ref %}
 
 {% content-ref url="introduction/qui-peut-rejoindre-braver.md" %}
