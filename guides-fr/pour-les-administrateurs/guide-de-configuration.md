@@ -63,7 +63,7 @@ Prêt à commencer?
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Braver autonome</td><td></td><td></td></tr><tr><td></td><td>Braver Leomed</td><td></td></tr><tr><td></td><td>Braver Gustav</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="right"></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="right"><a data-footnote-ref href="#user-content-fn-1"><strong>Braver s</strong></a><strong>eul</strong></td><td align="center"></td><td></td><td><a href="../.gitbook/assets/BRAVER_logo_couleur.png">BRAVER_logo_couleur.png</a></td></tr><tr><td align="right"></td><td align="center">Braver Leomed</td><td></td><td></td></tr><tr><td align="right"></td><td align="center">Braver Gustav</td><td></td><td></td></tr></tbody></table>
 
 ### 1. Partager les informations de votre organisation à Braver
 
@@ -97,3 +97,6 @@ Si vous utilisez Braver avec Gustva, utilisez ce formulaire.
 
 Addresses IPs, référer à notre page dédiée dans la documentation.
 
+
+
+[^1]: 
