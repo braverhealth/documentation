@@ -4,6 +4,8 @@ icon: book
 
 # Centre d'assistance de Braver
 
+Que vous soyez sur le point de débuter l'utilisation de Braver, que vous soyez un utilisateur aguerri qui désire aller encore plus loin, ou que si vous soyez bloqué devant un problème, vous êtes au bon endroit!
+
 ### Braver en bref
 
 {% content-ref url="introduction/quest-ce-que-braver.md" %}
