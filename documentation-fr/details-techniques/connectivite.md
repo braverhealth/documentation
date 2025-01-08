@@ -4,7 +4,7 @@ icon: plug-circle-check
 
 # Connectivité
 
-### [Production](https://app.braver.net)
+### Production
 
 ```url
 https://*.braver.net
@@ -25,7 +25,7 @@ Les URLs principales accédées par les utilisateurs seront pour l'[application 
 | Appels vidéos 2 | 35.203.48.63  | 3478    | UDP STUN    |
 | Appels vidéos 3 | 34.118.155.6  | 443     | HTTPS       |
 
-### [Pré-production](https://app.pre-prod.braver.dev)
+### Pré-production
 
 ```url
 https://*.pre-prod.braver.dev
