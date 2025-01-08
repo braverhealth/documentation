@@ -76,7 +76,12 @@
 ## Pour les patients et proches aidants
 
 * [Débuter ici](pour-les-patients-et-proches-aidants/pour-debuter.md)
-* [Fils de discussions](pour-les-patients-et-proches-aidants/fils-de-discussions.md)
+* [Fils de discussions](pour-les-patients-et-proches-aidants/fils-de-discussion/README.md)
+  * [Répondre à un nouveau message](pour-les-patients-et-proches-aidants/fils-de-discussion/repondre-a-un-nouveau-message.md)
+  * [Accéder aux pièces jointes dans un fil de discussion](pour-les-patients-et-proches-aidants/fils-de-discussion/acceder-aux-pieces-jointes-dans-un-fil-de-discussion.md)
+  * [Ajouter un fichier, une photo ou une vidéo à un fil de discussion](pour-les-patients-et-proches-aidants/fils-de-discussion/ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion-patient.md)
+  * [Indiquer un message comme non lu](pour-les-patients-et-proches-aidants/fils-de-discussion/indiquer-un-message-comme-non-lu-patient.md)
+  * [Trouver un fil de discussion fermé](pour-les-patients-et-proches-aidants/fils-de-discussion/trouver-un-fil-de-discussion-ferme-patient.md)
 * [Appels audios et vidéos](pour-les-patients-et-proches-aidants/appels-audios-et-videos/README.md)
   * [Rejoindre et quitter un appel conférence](pour-les-patients-et-proches-aidants/appels-audios-et-videos/rejoindre-et-quitter-un-appel.md)
   * [Actions possibles dans un appel audio et vidéo](pour-les-patients-et-proches-aidants/appels-audios-et-videos/actions-possibles-dans-un-appel-audio-et-video.md)
