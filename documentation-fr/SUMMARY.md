@@ -51,4 +51,8 @@
 * [Journaux d'audit](pour-les-administrateurs/journaux-daudit/README.md)
   * [Que puis-je retrouver dans le journal d'audits?](pour-les-administrateurs/journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md)
 * [Bottins](pour-les-administrateurs/bottins.md)
-* [Détails techniques](pour-les-administrateurs/details-techniques.md)
+
+## Détails techniques
+
+* [Connectivité](details-techniques/connectivite.md)
+* [Compatibilité](details-techniques/compatibilite.md)
