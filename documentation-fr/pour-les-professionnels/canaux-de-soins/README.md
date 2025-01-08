@@ -12,26 +12,14 @@ Un canal de soins regroupe en quelque sorte une équipe de soins dans laquelle s
 [comprendre-les-canaux-de-soins.md](comprendre-les-canaux-de-soins.md)
 {% endcontent-ref %}
 
-**Voici quelques guides pour comprendre rapidement comment utiliser les canaux de soins:**
-
-{% content-ref url="https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/canaux-de-soins/creer-un-nouveau-canal-de-soins" %}
-[Créer un nouveau canal de soins](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/canaux-de-soins/creer-un-nouveau-canal-de-soins)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/fils-de-discussions/creer-un-fil-de-discussion-clinique" %}
-[Créer un nouveau fil de discussion clinique](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/fils-de-discussions/creer-un-fil-de-discussion-clinique)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/canaux-de-soins/ajouter-un-participant-a-un-canal-de-soins-existant" %}
-[Ajouter un participant à un canal de soins existant](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/canaux-de-soins/ajouter-un-participant-a-un-canal-de-soins-existant)
-{% endcontent-ref %}
+**Voici** [**quelques guides**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/canaux-de-soins) **pour comprendre rapidement comment utiliser les canaux de soins.**
 
 ## Dites-moi en plus!
 
 * Un canal de soins est toujours associé à une fiche-patient.
 * Ces canaux sont titrés afin d’offrir un contexte immédiatement reconnaissable par les membres de l’équipe de soins (par exemple: “Soins de confort”, “Mal de dos chronique”, “Soins multidisciplinaires”, “Hospitalisation” etc.).
 * Un membre de l’équipe de soins d’un patient ayant créé ou ayant été invité dans un canal de soins (ex: son médecin de famille, le pharmacien, l’infirmière de soins à domicile) peut aisément initier des fils de discussions avec un ou plusieurs autres membres de l’équipe de soins, sur demande.
-* Une équipe de soins peut comprendre:
+* L'équipe d'un canal de soins peut comprendre:
   * des individus intervenants de santé
   * le [patient ou des membres de l'entourage du patient](../communication-patients-et-proche-aidants/) (ex: famille, proche-aidant)
   * des [équipes](../equipes/)
