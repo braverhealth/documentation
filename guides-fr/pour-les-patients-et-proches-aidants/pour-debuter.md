@@ -16,3 +16,38 @@ description: >-
 * [Allez consulter les pièces jointes d'un fil de discussion](fils-de-discussion/acceder-aux-pieces-jointes-dans-un-fil-de-discussion.md)
 
 Pour en découvrir davantage, les différentes sections ci-bas vous aiderons à explorer Braver selon différentes thématiques.
+
+### Utiliser Braver
+
+{% content-ref url="accepter-une-invitation.md" %}
+[accepter-une-invitation.md](accepter-une-invitation.md)
+{% endcontent-ref %}
+
+{% content-ref url="equipes-de-soins/" %}
+[equipes-de-soins](equipes-de-soins/)
+{% endcontent-ref %}
+
+### Communiquer à l'aide de Braver
+
+{% content-ref url="fils-de-discussion/" %}
+[fils-de-discussion](fils-de-discussion/)
+{% endcontent-ref %}
+
+{% content-ref url="appels-audios-et-videos/" %}
+[appels-audios-et-videos](appels-audios-et-videos/)
+{% endcontent-ref %}
+
+### Configurer Braver pour vous
+
+{% content-ref url="gestion-du-profil/" %}
+[gestion-du-profil](gestion-du-profil/)
+{% endcontent-ref %}
+
+{% content-ref url="gestion-des-notifications/" %}
+[gestion-des-notifications](gestion-des-notifications/)
+{% endcontent-ref %}
+
+{% content-ref url="securite/" %}
+[securite](securite/)
+{% endcontent-ref %}
+
