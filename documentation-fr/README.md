@@ -75,6 +75,12 @@ Voici des sections de la documentation qui pourrait vous être utiles:
 * [Utilisateurs](pour-les-administrateurs/utilisateurs/)
 * [Journaux d'audit](pour-les-administrateurs/journaux-daudit/)
 * [Bottins](pour-les-administrateurs/bottins.md)
+* [Appareil mobile géré à distance](pour-les-administrateurs/appareil-mobile-gere-a-distance.md)
+
+Et si vous avez besoin de connaître les détails techniques en vue d'un déploiement
+
+* [Informations sur la compatibilité](details-techniques/compatibilite.md)
+* [Informations sur la connectivité](details-techniques/connectivite.md)
 
 </details>
 
