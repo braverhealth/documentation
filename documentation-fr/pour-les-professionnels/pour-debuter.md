@@ -39,8 +39,8 @@ Elle peut être utilisée à partir des applications mobiles natives [iOS](https
 [canaux-de-soins.md](canaux-de-soins.md)
 {% endcontent-ref %}
 
-{% content-ref url="equipes/" %}
-[equipes](equipes/)
+{% content-ref url="equipes.md" %}
+[equipes.md](equipes.md)
 {% endcontent-ref %}
 
 {% content-ref url="communication-patients-et-proche-aidants/" %}
