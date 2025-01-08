@@ -1,3 +1,7 @@
+---
+icon: house-circle-check
+---
+
 # Appareil mobile géré à distance
 
 ### Appareils fournis par l'organisation aux patients ou proches aidants
