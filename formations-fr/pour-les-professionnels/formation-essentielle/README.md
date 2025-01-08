@@ -8,7 +8,7 @@ description: >-
 
 # Formation essentielle
 
-### Voici le plan de formation
+### Plan de formation
 
 1. **Introduction à la plateforme** - Qu'est-ce que Braver?
 2. **Tâches d'autoformation** - Laissez-nous vous guider vers les fonctionnalités principales

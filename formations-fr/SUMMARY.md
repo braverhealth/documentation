@@ -8,7 +8,9 @@
   * [Pour aller un peu plus loin](pour-les-professionnels/formation-essentielle/pour-aller-un-peu-plus-loin.md)
   * [Bâtissez votre réseau de collaborateurs](pour-les-professionnels/formation-essentielle/batissez-votre-reseau-de-collaborateurs.md)
   * [Besoin d'aide?](pour-les-professionnels/formation-essentielle/besoin-daide.md)
-* [Formation approfondie](pour-les-professionnels/formation-approfondie.md)
+* [Formation approfondie](pour-les-professionnels/formation-approfondie/README.md)
+  * [Module 1 - Introduction et collaborer dans Braver](pour-les-professionnels/formation-approfondie/module-1-introduction-et-collaborer-dans-braver.md)
+  * [Module 2 - Collaborer avec le réseau Braver externe](pour-les-professionnels/formation-approfondie/module-2-collaborer-avec-le-reseau-braver-externe.md)
 
 ## Pour les patients et proches aidants
 
