@@ -2,5 +2,59 @@
 icon: flag
 ---
 
-# Pour débuter
+# Survol
+
+La plateforme Braver permet une communication facile, agréable et sécurisée entre deux parties ou plus.&#x20;
+
+Elle peut être utilisée à partir des applications mobiles natives [iOS](https://brvr.io/ios-app) et [Android](https://brvr.io/android-app), à partir de l’[application Web](https://app.braver.net/) ou à partir d’une version imbriquée à l’intérieur d’applications tierces.
+
+### Comprendre Braver
+
+{% content-ref url="creation-de-compte/" %}
+[creation-de-compte](creation-de-compte/)
+{% endcontent-ref %}
+
+{% content-ref url="reseau/" %}
+[reseau](reseau/)
+{% endcontent-ref %}
+
+{% content-ref url="fiches-patients/" %}
+[fiches-patients](fiches-patients/)
+{% endcontent-ref %}
+
+### Communiquer avec Braver
+
+{% content-ref url="fils-de-discussions/" %}
+[fils-de-discussions](fils-de-discussions/)
+{% endcontent-ref %}
+
+{% content-ref url="appels-audios-et-videos/" %}
+[appels-audios-et-videos](appels-audios-et-videos/)
+{% endcontent-ref %}
+
+{% content-ref url="canaux-de-soins/" %}
+[canaux-de-soins](canaux-de-soins/)
+{% endcontent-ref %}
+
+{% content-ref url="equipes/" %}
+[equipes](equipes/)
+{% endcontent-ref %}
+
+{% content-ref url="communication-patients-et-proche-aidants/" %}
+[communication-patients-et-proche-aidants](communication-patients-et-proche-aidants/)
+{% endcontent-ref %}
+
+### Configurer Braver
+
+{% content-ref url="gestion-du-profil/" %}
+[gestion-du-profil](gestion-du-profil/)
+{% endcontent-ref %}
+
+{% content-ref url="gestion-des-notifications/" %}
+[gestion-des-notifications](gestion-des-notifications/)
+{% endcontent-ref %}
+
+{% content-ref url="securite/" %}
+[securite](securite/)
+{% endcontent-ref %}
 
