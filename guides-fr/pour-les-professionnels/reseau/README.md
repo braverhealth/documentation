@@ -1,35 +1,38 @@
 ---
 icon: globe
+description: Pour être un bon collaborateur!
 ---
 
 # Le réseau
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+{% content-ref url="accepter-ou-ignorer-une-demande-damitie.md" %}
+[accepter-ou-ignorer-une-demande-damitie.md](accepter-ou-ignorer-une-demande-damitie.md)
+{% endcontent-ref %}
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+{% content-ref url="ajouter-un-contact-a-votre-bottin.md" %}
+[ajouter-un-contact-a-votre-bottin.md](ajouter-un-contact-a-votre-bottin.md)
+{% endcontent-ref %}
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
-{% endhint %}
+{% content-ref url="configurer-un-numero-de-telephone-accessible-aux-amis.md" %}
+[configurer-un-numero-de-telephone-accessible-aux-amis.md](configurer-un-numero-de-telephone-accessible-aux-amis.md)
+{% endcontent-ref %}
 
-### Import
+{% content-ref url="consulter-le-profil-des-utilisateurs-sur-le-reseau.md" %}
+[consulter-le-profil-des-utilisateurs-sur-le-reseau.md](consulter-le-profil-des-utilisateurs-sur-le-reseau.md)
+{% endcontent-ref %}
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+{% content-ref url="envoyer-une-demande-damitie.md" %}
+[envoyer-une-demande-damitie.md](envoyer-une-demande-damitie.md)
+{% endcontent-ref %}
 
-<div data-full-width="false"><figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure></div>
+{% content-ref url="envoyer-un-message-direct-avec-amis-seulement.md" %}
+[envoyer-un-message-direct-avec-amis-seulement.md](envoyer-un-message-direct-avec-amis-seulement.md)
+{% endcontent-ref %}
 
-{% stepper %}
-{% step %}
-####
-{% endstep %}
+{% content-ref url="inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver.md" %}
+[inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver.md](inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver.md)
+{% endcontent-ref %}
 
-{% step %}
-####
-{% endstep %}
-
-{% step %}
-####
-{% endstep %}
-{% endstepper %}
-
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+{% content-ref url="restreindre-sa-visibilite-du-reseau-externe.md" %}
+[restreindre-sa-visibilite-du-reseau-externe.md](restreindre-sa-visibilite-du-reseau-externe.md)
+{% endcontent-ref %}
