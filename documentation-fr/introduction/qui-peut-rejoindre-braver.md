@@ -4,19 +4,17 @@ icon: person-circle-question
 
 # Qui peut rejoindre Braver?
 
-## Réseau Braver
+## Professionnels de la santé
 
-### Professionnels de la santé
-
-#### Participation autonome
+### Participation autonome
 
 La plateforme Braver offre un réseau unique pour tous les professionnels de la santé. Ceux-ci peuvent devenir membres du réseau Braver de façon indépendante, c’est-à-dire qu’il n’est pas nécessaire que l'organisation pour laquelle il ou elle travaille soit membre du réseau.
 
-#### Profil détaillé
+### Profil détaillé
 
 Chaque professionnel de la santé peut créer son propre profil détaillé qui lui permettra d’être visible sur le réseau et d’ainsi pouvoir être contacté par d’autres professionnels. Le profil détaillé présente la profession du professionnel, ses diplômes, ses compétences particulières, son lieu de travail et ses coordonnées.
 
-### Organisations de santé
+## Organisations de santé
 
 Les organisations du réseau de Braver peuvent inclure n’importe quelle entité qui
 

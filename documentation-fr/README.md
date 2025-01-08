@@ -88,11 +88,30 @@ Voici des sections de la documentation qui pourrait vous être utiles:
 [foire-aux-questions.md](foire-aux-questions.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-Il se peut que votre organisation reçu un numéro de support disponible 24h/24, 7 jours sur 7.\
-**Si c'est le cas, utilisez celui-ci en cas de problème!**
-{% endhint %}
+<details>
 
-* Vous pouvez nous écrire à tout moment à [support@braver.health](mailto:support@braver.health)
-* Vous pouvez également nous appeler au [+1-888-342-8032](tel:1-888-342-8032) (suivant nos heures d'ouverture)
-* Si vous désirez rester en contact avec nos avancées, vous pouvez vous [inscrire à notre infolettre](https://braverhealth.typeform.com/to/htc30Hk5#email=xxxxx\&language=fr)!
+<summary><strong>Par téléphone</strong> (disponible de jour en semaine, excluant les jours fériés)</summary>
+
+Appelez-nous au [+1-888-342-8032](tel:1-888-342-8032)
+
+</details>
+
+<details>
+
+<summary>Par téléphone (disponible 24h sur 24, 7 jours sur 7)</summary>
+
+Il se peut que votre organisation ait accès à notre numéro de téléphone de support disponible en tout temps. **Si c'est le cas, utilisez celui-ci en cas de problème!**
+
+Si vous n'en avez pas et désirez vous informez sur nos forfaits avancés de support, [écrivez-nous](https://braverhealth.typeform.com/to/D8CEMzqZ)!
+
+</details>
+
+<details>
+
+<summary>Par courriel</summary>
+
+Écrivez-nous au [support@braver.health](mailto:support@braver.health)
+
+</details>
+
+Si vous désirez rester en contact avec nos avancées, vous pouvez vous [inscrire à notre infolettre](https://braverhealth.typeform.com/to/htc30Hk5#email=xxxxx\&language=fr)!

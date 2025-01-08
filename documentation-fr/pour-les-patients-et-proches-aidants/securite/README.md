@@ -1,6 +1,0 @@
----
-icon: shield-check
----
-
-# Sécurité
-

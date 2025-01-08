@@ -31,15 +31,6 @@
 * [Gestion des notifications](pour-les-professionnels/gestion-des-notifications/README.md)
 * [Sécurité](pour-les-professionnels/securite/README.md)
 
-## Pour les patients et proches aidants
-
-* [Survol](pour-les-patients-et-proches-aidants/pour-debuter.md)
-* [Fils de discussions](pour-les-patients-et-proches-aidants/fils-de-discussions.md)
-* [Appels audios et vidéos](pour-les-patients-et-proches-aidants/appels-audios-et-videos/README.md)
-* [Gestion du profil](pour-les-patients-et-proches-aidants/gestion-du-profil/README.md)
-* [Gestion des notifications](pour-les-patients-et-proches-aidants/gestion-des-notifications/README.md)
-* [Sécurité](pour-les-patients-et-proches-aidants/securite/README.md)
-
 ## Pour les administrateurs
 
 * [Survol](pour-les-administrateurs/pour-debuter.md)
