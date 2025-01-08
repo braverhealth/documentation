@@ -17,7 +17,7 @@
 * [Le réseau](pour-les-professionnels/reseau/README.md)
   * [Concepts](pour-les-professionnels/reseau/comprendre-le-reseau.md)
 * [Fiches patient](pour-les-professionnels/fiches-patients/README.md)
-  * [Concepts](pour-les-professionnels/fiches-patients/comprendre-les-fiches-patients.md)
+  * [Fiches patients en bref](pour-les-professionnels/fiches-patients/comprendre-les-fiches-patients.md)
 * [Fils de discussions](pour-les-professionnels/fils-de-discussions.md)
 * [Appels audios et vidéos](pour-les-professionnels/appels-audios-et-videos/README.md)
 * [Canaux de soins](pour-les-professionnels/canaux-de-soins/README.md)
