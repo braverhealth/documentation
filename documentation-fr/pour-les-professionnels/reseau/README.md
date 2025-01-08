@@ -31,7 +31,7 @@ Si vous ne faites pas partie d'une organisation sur Braver, on vous invite tout 
 
 ### Vos amis
 
-Il est possible de demander à des collègues d'être "ami" sur Braver. Si vous êtes invité vous-mêmes à être ami par l'un de vos collègues, vous recevrez une notification à cet effet.
+Il est possible de demander à des collègues d'être "amis" sur Braver. Si vous êtes invité vous-mêmes à être ami par l'un de vos collègues, vous recevrez une notification à cet effet.
 
 Lorsque vous êtes ami avec un autre usager de Braver,
 
