@@ -11,6 +11,9 @@
 * [Formation approfondie](pour-les-professionnels/formation-approfondie/README.md)
   * [Module 1 - Introduction et collaborer dans Braver](pour-les-professionnels/formation-approfondie/module-1-introduction-et-collaborer-dans-braver.md)
   * [Module 2 - Collaborer avec le réseau Braver externe](pour-les-professionnels/formation-approfondie/module-2-collaborer-avec-le-reseau-braver-externe.md)
+  * [Module 3 - Communiquer avec les patients et proches aidants](pour-les-professionnels/formation-approfondie/module-3-communiquer-avec-les-patients-et-proches-aidants.md)
+  * [Module 4: Personnaliser son profil et ses préférences](pour-les-professionnels/formation-approfondie/module-4-personnaliser-son-profil-et-ses-preferences.md)
+  * [Module 5 - Sécurité et soutien technique](pour-les-professionnels/formation-approfondie/module-5-securite-et-soutien-technique.md)
 
 ## Pour les patients et proches aidants
 

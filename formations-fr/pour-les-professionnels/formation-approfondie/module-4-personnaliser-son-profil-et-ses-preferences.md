@@ -4,6 +4,7 @@ description: >-
   présentation et il est également possible de la télécharger en format PDF.
 ---
 
-# Module 2 - Collaborer avec le réseau Braver externe
+# Module 4: Personnaliser son profil et ses préférences
 
-{% embed url="https://pitch.com/embed-link/qc4s5p" fullWidth="true" %}
+{% embed url="https://pitch.com/embed-link/t23sri" fullWidth="true" %}
+

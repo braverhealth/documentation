@@ -4,6 +4,6 @@ description: >-
   présentation et il est également possible de la télécharger en format PDF.
 ---
 
-# Module 2 - Collaborer avec le réseau Braver externe
+# Module 3 - Communiquer avec les patients et proches aidants
 
-{% embed url="https://pitch.com/embed-link/qc4s5p" fullWidth="true" %}
+{% embed url="https://pitch.com/embed-link/6tpcrt" fullWidth="true" %}
