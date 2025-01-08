@@ -40,7 +40,7 @@ Voici des sections de la documentation qui pourrait vous être utiles:
 * [Lieux de travail](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/lieux-de-travail)
 * [Équipes](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/equipes)
 * Segments (à venir)
-* Utilisateurs
+* [Utilisateurs](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/utilisateurs)
 * Journaux d'audit
 * Bottin (à venir)
 
