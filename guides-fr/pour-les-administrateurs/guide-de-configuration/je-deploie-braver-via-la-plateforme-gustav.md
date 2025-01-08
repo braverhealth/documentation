@@ -28,7 +28,7 @@ Nom et adresse des lieux de travail
 {% step %}
 ### Regrouper les professions que vous avez dans Gustav par équipe
 
-screenshot des professions et domaines
+screenshot des professions et domaines (aller chercher le id des domaines et des professions)
 {% endstep %}
 
 {% step %}
