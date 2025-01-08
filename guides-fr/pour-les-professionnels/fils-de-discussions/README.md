@@ -5,6 +5,8 @@ description: Pour communiquer efficacement!
 
 # Fils de discussions
 
+## Création
+
 {% content-ref url="creer-un-fil-de-discussion-clinique.md" %}
 [creer-un-fil-de-discussion-clinique.md](creer-un-fil-de-discussion-clinique.md)
 {% endcontent-ref %}
@@ -21,10 +23,6 @@ description: Pour communiquer efficacement!
 [rejoindre-une-discussion-concernant-un-nouveau-patient.md](rejoindre-une-discussion-concernant-un-nouveau-patient.md)
 {% endcontent-ref %}
 
-{% content-ref url="assigner-desassigner-un-participant-comme-responsable-dun-fil.md" %}
-[assigner-desassigner-un-participant-comme-responsable-dun-fil.md](assigner-desassigner-un-participant-comme-responsable-dun-fil.md)
-{% endcontent-ref %}
-
 {% content-ref url="sauvegarder-le-brouillon-dun-fil-de-discussion.md" %}
 [sauvegarder-le-brouillon-dun-fil-de-discussion.md](sauvegarder-le-brouillon-dun-fil-de-discussion.md)
 {% endcontent-ref %}
@@ -33,12 +31,24 @@ description: Pour communiquer efficacement!
 [dupliquer-un-fil-de-discussion.md](dupliquer-un-fil-de-discussion.md)
 {% endcontent-ref %}
 
-{% content-ref url="ajouter-un-message-vocal-a-une-discussion.md" %}
-[ajouter-un-message-vocal-a-une-discussion.md](ajouter-un-message-vocal-a-une-discussion.md)
+## Gestion du fil de discussion
+
+{% content-ref url="assigner-desassigner-un-participant-comme-responsable-dun-fil.md" %}
+[assigner-desassigner-un-participant-comme-responsable-dun-fil.md](assigner-desassigner-un-participant-comme-responsable-dun-fil.md)
 {% endcontent-ref %}
 
 {% content-ref url="gerer-les-participants-dun-fil-de-discussion.md" %}
 [gerer-les-participants-dun-fil-de-discussion.md](gerer-les-participants-dun-fil-de-discussion.md)
+{% endcontent-ref %}
+
+{% content-ref url="quitter-un-fil-de-discussion.md" %}
+[quitter-un-fil-de-discussion.md](quitter-un-fil-de-discussion.md)
+{% endcontent-ref %}
+
+## Contenu échangé
+
+{% content-ref url="ajouter-un-message-vocal-a-une-discussion.md" %}
+[ajouter-un-message-vocal-a-une-discussion.md](ajouter-un-message-vocal-a-une-discussion.md)
 {% endcontent-ref %}
 
 {% content-ref url="consulter-les-pieces-jointes-dun-fil-de-discussion.md" %}
@@ -49,12 +59,10 @@ description: Pour communiquer efficacement!
 [editer-une-photo-ou-une-video.md](editer-une-photo-ou-une-video.md)
 {% endcontent-ref %}
 
+## Archivage
+
 {% content-ref url="fermer-et-exporter-en-pdf-un-fil-de-discussion.md" %}
 [fermer-et-exporter-en-pdf-un-fil-de-discussion.md](fermer-et-exporter-en-pdf-un-fil-de-discussion.md)
-{% endcontent-ref %}
-
-{% content-ref url="quitter-un-fil-de-discussion.md" %}
-[quitter-un-fil-de-discussion.md](quitter-un-fil-de-discussion.md)
 {% endcontent-ref %}
 
 {% content-ref url="retrouver-un-fil-de-discussion-fermé.md" %}
