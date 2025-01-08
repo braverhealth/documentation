@@ -79,8 +79,8 @@ Voici des sections de la documentation qui pourrait vous être utiles:
 
 Et si vous avez besoin de connaître les détails techniques en vue d'un déploiement
 
-- [Informations sur la compatibilité](details-techniques/compatibilite.md)
-- [Informations sur la connectivité](details-techniques/connectivite.md)
+* [Informations sur la compatibilité](details-techniques/compatibilite.md)
+* [Informations sur la connectivité](details-techniques/connectivite.md)
 
 </details>
 
