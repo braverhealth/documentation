@@ -14,6 +14,8 @@
   * [Module 3 - Communiquer avec les patients et proches aidants](pour-les-professionnels/formation-approfondie/module-3-communiquer-avec-les-patients-et-proches-aidants.md)
   * [Module 4: Personnaliser son profil et ses préférences](pour-les-professionnels/formation-approfondie/module-4-personnaliser-son-profil-et-ses-preferences.md)
   * [Module 5 - Sécurité et soutien technique](pour-les-professionnels/formation-approfondie/module-5-securite-et-soutien-technique.md)
+  * [Module 6 - Créer son compte et utiliser l’application Web ou mobile](pour-les-professionnels/formation-approfondie/module-6-creer-son-compte-et-utiliser-lapplication-web-ou-mobile.md)
+  * [Annexes - Astuces et foire aux questions](pour-les-professionnels/formation-approfondie/annexes-astuces-et-foire-aux-questions.md)
 
 ## Pour les patients et proches aidants
 

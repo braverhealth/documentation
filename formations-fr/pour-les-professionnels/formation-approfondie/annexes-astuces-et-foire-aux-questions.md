@@ -4,9 +4,7 @@ description: >-
   présentation et il est également possible de la télécharger en format PDF.
 ---
 
-# Module 5 - Sécurité et soutien technique
+# Annexes - Astuces et foire aux questions
 
-{% embed url="https://pitch.com/embed-link/z76m4r" fullWidth="true" %}
-
-
+{% embed url="https://pitch.com/embed-link/6h94qy" fullWidth="true" %}
 

@@ -14,4 +14,6 @@ description: >-
 3. **Module 3 -** Communiquer avec les patients et proches aidants
 4. **Module 4** - Personnaliser son profil et ses préférences
 5. **Module 5** - Sécurité et soutien technique
+6. **Module 6**: Créer son compte et utiliser l’application Web ou mobile
+7. **Annexes** - Astuces et foire aux questions
 
