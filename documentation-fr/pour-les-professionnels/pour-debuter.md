@@ -32,8 +32,8 @@ Elle peut être utilisée à partir des applications mobiles natives [iOS](https
 [appels-audios-et-videos](appels-audios-et-videos/)
 {% endcontent-ref %}
 
-{% content-ref url="canaux-de-soins/" %}
-[canaux-de-soins](canaux-de-soins/)
+{% content-ref url="canaux-de-soins.md" %}
+[canaux-de-soins.md](canaux-de-soins.md)
 {% endcontent-ref %}
 
 {% content-ref url="equipes/" %}

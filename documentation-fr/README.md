@@ -53,7 +53,7 @@ Commencer par [un survol](pour-les-professionnels/pour-debuter.md), ou passez di
 * [Le réseau](pour-les-professionnels/reseau/)
 * [Fils de discussion](pour-les-professionnels/fils-de-discussions.md)
 * [Appels audios et vidéos](pour-les-professionnels/appels-audios-et-videos/)
-* [Canaux de soins](pour-les-professionnels/canaux-de-soins/)
+* [Canaux de soins](pour-les-professionnels/canaux-de-soins.md)
 * [Fiches patients](pour-les-professionnels/fiches-patients/)
 * [Équipes](pour-les-professionnels/equipes/)
 * [Communication patients et proches aidant](pour-les-professionnels/communication-patients-et-proche-aidants/)
