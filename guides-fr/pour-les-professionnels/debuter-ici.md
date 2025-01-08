@@ -1,5 +1,9 @@
 ---
 icon: flag
+description: >-
+  Dans cette section, vous trouverez une banque de tutoriels sous forme de
+  vidéos et de pas-à-pas qui vous aideront à vous familiariser avec chacune des
+  fonctionnalités de Braver.
 ---
 
 # Débuter ici
