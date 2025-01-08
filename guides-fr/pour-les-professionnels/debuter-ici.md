@@ -15,7 +15,7 @@ description: >-
 * [Créer votre premier fil de discussion clinique](fils-de-discussions/creer-un-fil-de-discussion-clinique.md).
 * [Fermer un fil de discussion et l'exporter en PDF](fils-de-discussions/fermer-et-exporter-en-pdf-un-fil-de-discussion.md) pour le déposer au dossier patient.
 
-Pour en découvrir davantage, vous trouverez ci-bas différentes sections pour mieux explorer l'utilisation de Braver.
+Pour en découvrir davantage, les différentes sections ci-bas vous aiderons à explorer Braver selon différentes thématiques.
 
 ### Utiliser Braver
 
