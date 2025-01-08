@@ -1,49 +1,53 @@
+---
+icon: envelope-open-text
+---
+
 # Accepter une invitation à rejoindre son équipe de soins sur Braver
 
 ## Pas-à-pas
 
 {% stepper %}
 {% step %}
-#### Dans le courriel que vous avez reçu, cliquez sur le bouton vous invitant à accepter l'invitation.
+**Dans le courriel que vous avez reçu, cliquez sur le bouton vous invitant à accepter l'invitation.**
 {% endstep %}
 
 {% step %}
-#### Un des écrans suivants pourraient être affiché
+**Un des écrans suivants pourraient être affiché**
 
 *   Si c'est la première fois que vous ouvrez Braver, et que Braver n'a jamais non plus été ouvert sur votre appareil, vous verrez un écran comme le suivant:
 
     <div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Option 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
     \
-    Vous pouvez alors choisir l'option "Créer un nouveau compte" pour continuer à l'[étape 3](accepter-une-invitation.md#suivez-les-etapes-de-creation-de-votre-compte), à moins que vous ayez déjà créé un compte Braver dans le passé (auquel cas vous devriez choisir l'autre option, et vous passerez à l'[étape 4](accepter-une-invitation.md#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete) directement).
+    Vous pouvez alors choisir l'option "Créer un nouveau compte" pour continuer à l'[étape 3](accepter-une-invitation.md#suivez-les-etapes-de-creation-de-votre-compte), à moins que vous ayez déjà créé un compte Braver dans le passé (auquel cas vous devriez choisir l'autre option, et vous passerez à l'[étape 10](accepter-une-invitation.md#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete) directement).
 *   Si c'est la première fois que vous ouvrez Braver, mais que Braver a déjà été utilisé par quelqu'un d'autre sur votre appareil, vous verrez un écran comme le suivant:
 
     <div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Option 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
     \
-    Vous pouvez alors choisir l'option "Créer un nouveau compte" pour continuer à l'[étape 3](accepter-une-invitation.md#suivez-les-etapes-de-creation-de-votre-compte), à moins que vous ayez déjà créé un compte Braver dans le passé (auquel cas vous devriez choisir l'une des autres options, et vous passerez à l'[étape 4](accepter-une-invitation.md#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete) directement).
+    Vous pouvez alors choisir l'option "Créer un nouveau compte" pour continuer à l'[étape 3](accepter-une-invitation.md#suivez-les-etapes-de-creation-de-votre-compte), à moins que vous ayez déjà créé un compte Braver dans le passé (auquel cas vous devriez choisir l'une des autres options, et vous passerez à l'[étape 10](accepter-une-invitation.md#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete) directement).
 *   Si vous avez déjà créé votre compte dans le passé avec la même adresse courriel que celle de l'invitation, mais que votre session n'est pas déjà active sur votre appareil, vous verrez un écran comme le suivant:
 
     <div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Option 3.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
     \
-    Dans ce cas, vous devriez entrer votre mot de passe et dans l'étape suivante, le code de sécurité que vous recevrez pas courriel ou SMS, afin de passer à l'[étape 4](accepter-une-invitation.md#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete).
+    Dans ce cas, vous devriez entrer votre mot de passe et dans l'étape suivante, le code de sécurité que vous recevrez pas courriel ou SMS, afin de passer à l'[étape 10](accepter-une-invitation.md#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete).
 *   Si vous avez déjà créé votre compte dans le passé avec la même adresse courriel que celle de l'invitation, et que votre session est déjà active sur votre appareil, vous verrez un écran comme le suivant:
 
     <div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Option 4.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
     \
-    Dans ce cas, vous devriez simplement entrer votre NIP afin de passer à l'[étape 4](accepter-une-invitation.md#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete).
+    Dans ce cas, vous devriez simplement entrer votre NIP afin de passer à l'[étape 10](accepter-une-invitation.md#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete).
 {% endstep %}
 
 {% step %}
-#### Inscrivez votre adresse courriel et le mot de passe de votre choix. Sélectionnez ensuite _Créer mon compte_.
+**Inscrivez votre adresse courriel et le mot de passe de votre choix. Sélectionnez ensuite&#x20;**_**Créer mon compte**_**.**
 
 <div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Récupérez le code de sécurité à 6 chiffres dans vos courriels et saisissez-le dans le champ de texte prévu à cet effet.
+**Récupérez le code de sécurité à 6 chiffres dans vos courriels et saisissez-le dans le champ de texte prévu à cet effet.**
 
 {% hint style="info" %}
 N'oubliez pas de vérifiez vos indésirables s'il n'apparaît pas dans votre boîte courriel rapidement.
@@ -51,19 +55,19 @@ N'oubliez pas de vérifiez vos indésirables s'il n'apparaît pas dans votre bo�
 {% endstep %}
 
 {% step %}
-#### Faites défiler jusqu'en bas de la page et acceptez les conditions d’utilisation.
+**Faites défiler jusqu'en bas de la page et acceptez les conditions d’utilisation.**
 
 <div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Créez votre code de récupération en cliquant sur _Débuter_.
+**Créez votre code de récupération en cliquant sur&#x20;**_**Débuter**_**.**
 
 <div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez ensuite sur _Créer mon code de récupération_. Il sera dans vos courriels.
+**Cliquez ensuite sur&#x20;**_**Créer mon code de récupération**_**. Il sera dans vos courriels.**
 
 {% hint style="info" %}
 N'oubliez pas de vérifiez vos indésirables s'il n'apparaît pas dans votre boîte courriel rapidement.
@@ -77,19 +81,19 @@ Garder ce code dans un lieu sécuritaire!
 {% endstep %}
 
 {% step %}
-#### Configurez un NIP qui vous servira à déverrouiller facilement votre application si vous n’avez pas l’option de reconnaissance faciale. Cliquez sur _Configurer_.
+**Configurez un NIP qui vous servira à déverrouiller facilement votre application si vous n’avez pas l’option de reconnaissance faciale. Cliquez sur&#x20;**_**Configurer**_**.**
 
 <div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 10.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Entrez votre NIP et répétez-le une seconde fois.
+**Entrez votre NIP et répétez-le une seconde fois.**
 
 <div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 11.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Entrez le code secret de l'invitation ou répondez à la question secrète
+#### **Entrez le code secret de l'invitation ou répondez à la question secrète**
 
 {% hint style="info" %}
 Dépendant de la manière que l'invitation a été sécurisée, vous devrez soit **répondre à une question de sécurité** ou **entrer un code secret à 12 chiffres** (p. ex. 1234-1234-1234).

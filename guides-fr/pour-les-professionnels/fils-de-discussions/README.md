@@ -51,6 +51,10 @@ description: Pour communiquer efficacement!
 [ajouter-un-message-vocal-a-une-discussion.md](ajouter-un-message-vocal-a-une-discussion.md)
 {% endcontent-ref %}
 
+{% content-ref url="ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion.md" %}
+[ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion.md](ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion.md)
+{% endcontent-ref %}
+
 {% content-ref url="consulter-les-pieces-jointes-dun-fil-de-discussion.md" %}
 [consulter-les-pieces-jointes-dun-fil-de-discussion.md](consulter-les-pieces-jointes-dun-fil-de-discussion.md)
 {% endcontent-ref %}

@@ -8,4 +8,11 @@ description: >-
 
 # Débuter ici
 
-## Voici le top 5 des tutoriels pour débuter l'utilisation de Braver:
+## Tutoriels essentiels pour débuter
+
+* Si vous n'avez pas encore accepté l'invitation à rejoindre votre équipe de soins sur Braver, [c'est par ici](accepter-une-invitation.md).
+* [Allez consulter les participants de votre équipe de soins](equipes-de-soins/voir-tous-les-participants-dune-equipe-de-soins-patient.md)
+* [Répondez à un message dans un fil de discussion](fils-de-discussion/repondre-a-un-nouveau-message.md)
+* [Allez consulter les pièces jointes d'un fil de discussion](fils-de-discussion/acceder-aux-pieces-jointes-dans-un-fil-de-discussion.md)
+
+Pour en découvrir davantage, les différentes sections ci-bas vous aiderons à explorer Braver selon différentes thématiques.
