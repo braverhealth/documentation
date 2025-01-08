@@ -24,6 +24,7 @@
   * [Créer un nouveau fil de discussion non clinique](pour-les-professionnels/fils-de-discussions/creer-un-fil-de-discussion-non-clinique.md)
   * [Indiquer qu’un fil de discussion est d'une priorité élevée](pour-les-professionnels/fils-de-discussions/indiquer-quun-fil-de-discussion-est-dune-priorite-elevee.md)
   * [Rejoindre une discussion concernant un nouveau patient](pour-les-professionnels/fils-de-discussions/rejoindre-une-discussion-concernant-un-nouveau-patient.md)
+  * [Ajouter un fichier, une photo ou une vidéo à un fil de discussion](pour-les-professionnels/fils-de-discussions/ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion.md)
   * [Sauvegarder le brouillon d’un fil de discussion](pour-les-professionnels/fils-de-discussions/sauvegarder-le-brouillon-dun-fil-de-discussion.md)
   * [Dupliquer un fil de discussion](pour-les-professionnels/fils-de-discussions/dupliquer-un-fil-de-discussion.md)
   * [Assigner/Désassigner un participant comme responsable d'un fil](pour-les-professionnels/fils-de-discussions/assigner-desassigner-un-participant-comme-responsable-dun-fil.md)
