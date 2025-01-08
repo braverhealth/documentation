@@ -31,7 +31,7 @@ Pour en découvrir davantage, vous trouverez ci-bas différentes sections pour m
 [fiches-patients](fiches-patients/)
 {% endcontent-ref %}
 
-### Communiquer avec Braver
+### Communiquer à l'aide de Braver
 
 {% content-ref url="fils-de-discussions/" %}
 [fils-de-discussions](fils-de-discussions/)
