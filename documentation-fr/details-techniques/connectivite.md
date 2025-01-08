@@ -4,10 +4,10 @@ icon: plug-circle-check
 
 # Connectivité
 
-### Production
+### [Production](https://app.braver.net)
 
 ```url
-httpss://*.braver.net
+https://*.braver.net
 ```
 
 {% hint style="info" %}
@@ -23,10 +23,10 @@ L'accessibilité des protocols HTTP n'est activée que pour rediriger tout traff
 | Appels vidéos 2 | 35.203.48.63  | 3478    | UDP STUN    |
 | Appels vidéos 3 | 34.118.155.6  | 443     | HTTPS       |
 
-### Pré-production
+### [Pré-production](https://app.pre-prod.braver.dev)
 
 ```
-httpss://*.pre-prod.braver.dev
+https://*.pre-prod.braver.dev
 ```
 
 {% hint style="info" %}
