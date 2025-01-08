@@ -14,12 +14,12 @@ Elle peut être utilisée à partir des applications mobiles natives [iOS](https
 [creation-de-compte](creation-de-compte/)
 {% endcontent-ref %}
 
-{% content-ref url="reseau/" %}
-[reseau](reseau/)
+{% content-ref url="reseau.md" %}
+[reseau.md](reseau.md)
 {% endcontent-ref %}
 
-{% content-ref url="fiches-patients/" %}
-[fiches-patients](fiches-patients/)
+{% content-ref url="fiches-patients.md" %}
+[fiches-patients.md](fiches-patients.md)
 {% endcontent-ref %}
 
 ### Communiquer avec Braver

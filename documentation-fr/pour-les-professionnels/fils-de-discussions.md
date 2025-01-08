@@ -8,7 +8,9 @@ Tout échange d’information sur la plateforme se fait par le biais de fils de 
 
 Les fils de discussion peuvent inclure des messages (textuels, vocaux et vidéos), des fichiers (photos, vidéos ou documents). Un fil peut être clos lorsqu’il est considéré comme terminé, ce qui le rend immuable.
 
-### Accepter ou refuser
+**N'hésitez-pas à consulter** [**nos quelques guides**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/fils-de-discussions) **pour comprendre rapidement comment utiliser les fils de discussion.**
+
+### Accepter et refuser
 
 Lorsque vous êtes invités dans un fil de discussion par un collègue à l'extérieur de votre organisation, vous aurez l'option d'**accepter** ou **refuser** la discussion. Si vous refusez, le fil de discussion disparaîtra complètement et ne pourra plus être retrouvée. L'envoyeur verra aussi que vous avez refusé.
 
@@ -46,6 +48,6 @@ Si vous naviguez vers le profil d'un collègue avec qui vous avez eu des discuss
 
 ### Fils de discussions liés à des fiches patients
 
-Si vous naviguez vers une [fiche patient](fiches-patients/), vous y trouverez entre autres toute l'historique des fils de discussion qui y sont rattachés, ouverts ou fermés.
+Si vous naviguez vers une [fiche patient](fiches-patients.md), vous y trouverez entre autres toute l'historique des fils de discussion qui y sont rattachés, ouverts ou fermés.
 
 Les fils de discussions cliniques qui concerne des patients peuvent aussi se trouver dans des canaux de soins. Dans ces cas, vous les trouverez en navigant dans le canal de soins.

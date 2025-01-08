@@ -14,10 +14,8 @@
 
 * [Survol](pour-les-professionnels/pour-debuter.md)
 * [Création de compte](pour-les-professionnels/creation-de-compte/README.md)
-* [Le réseau](pour-les-professionnels/reseau/README.md)
-  * [Le réseau en bref](pour-les-professionnels/reseau/comprendre-le-reseau.md)
-* [Fiches patient](pour-les-professionnels/fiches-patients/README.md)
-  * [Fiches patients en bref](pour-les-professionnels/fiches-patients/comprendre-les-fiches-patients.md)
+* [Le réseau](pour-les-professionnels/reseau.md)
+* [Fiches patient](pour-les-professionnels/fiches-patients.md)
 * [Fils de discussions](pour-les-professionnels/fils-de-discussions.md)
 * [Appels audios et vidéos](pour-les-professionnels/appels-audios-et-videos/README.md)
 * [Canaux de soins](pour-les-professionnels/canaux-de-soins.md)

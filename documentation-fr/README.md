@@ -50,11 +50,11 @@ Utilisez la barre de recherche en haut de cette page pour rechercher du contenu 
 Commencer par [un survol](pour-les-professionnels/pour-debuter.md), ou passez directement à une section de la documentation qui pourrait vous être utile:
 
 * [Création de compte](pour-les-professionnels/creation-de-compte/)
-* [Le réseau](pour-les-professionnels/reseau/)
+* [Le réseau](pour-les-professionnels/reseau.md)
 * [Fils de discussion](pour-les-professionnels/fils-de-discussions.md)
 * [Appels audios et vidéos](pour-les-professionnels/appels-audios-et-videos/)
 * [Canaux de soins](pour-les-professionnels/canaux-de-soins.md)
-* [Fiches patients](pour-les-professionnels/fiches-patients/)
+* [Fiches patients](pour-les-professionnels/fiches-patients.md)
 * [Équipes](pour-les-professionnels/equipes/)
 * [Communication patients et proches aidant](pour-les-professionnels/communication-patients-et-proche-aidants/)
 * [Gestion du profil](pour-les-professionnels/gestion-du-profil/)

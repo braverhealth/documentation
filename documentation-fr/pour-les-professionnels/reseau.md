@@ -8,6 +8,29 @@ Dans l'onglet Réseau de Braver, vous retrouverez **votre** réseau. Ce réseau 
 
 Pour ajouter des lieux de pratiques et des gens dans votre réseau, vous devez d'abord les trouver, puis cliquer sur le bouton **Ajouter à mon bottin**.&#x20;
 
+**N'hésitez-pas à consulter** [**nos quelques guides**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/reseau) **pour comprendre rapidement comment utiliser le réseau.**
+
+<details>
+
+<summary>Le réseau en quelques lignes</summary>
+
+* Braver permet aux professionnels de la santé de collaborer avec tous les acteurs gravitant autour de leurs patients, qu’ils travaillent dans la même organisation ou non. Braver permet donc à des professionnels de la santé validés de trouver des professionnels de la santé travaillant dans d'autres organisations: c'est ce qu'on appelle le **Réseau Braver**.
+* On appelle **Réseau Interne** tous les membres d’une même organisation qui échangent sur Braver. Par exemple, en cliquant sur un lieu de travail, on peut voir tous les membres du réseau interne d’un établissement de santé.
+
+</details>
+
+<details>
+
+<summary>Le bottin en quelques lignes</summary>
+
+* Dans l’onglet Réseau de Braver, il est possible de retrouver tous les membres du réseau interne ou externe à votre établissement de travail dans la barre de recherche.
+* Si l’on discute fréquemment avec un professionnel de la santé, il est une bonne pratique de l’ajouter à notre bottin. Son ajout à des fils de discussion sera accéléré car il ou elle sera d'emblée suggéré.
+* Lorsque vous ajoutez un professionnel dans votre bottin, il n’est pas notifié.
+  * Voici [comment ajouter des gens à votre bottin](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/reseau/ajouter-un-contact-a-votre-bottin). L'ajout de lieux de travail fonctionne de la même manière.
+* Si vous invitez un collègue à être **ami,** il sera d'emblée également ajouté à votre bottin, et sera notifié de cette demande.
+
+</details>
+
 ### Recherche dans le Réseau
 
 L'outil de recherche dans le haut de la page vous permet justement de trouver d'autres employés de votre organisation, ainsi que d'autres professionnels de la santé et lieux de travails du Réseau Braver.
@@ -21,13 +44,30 @@ La validation de votre profession peut être faite de deux façons:
 * Vous ajoutez une profession à votre profil et fournissez des preuves à l'équipe de vérification de Braver. Voici [comment ajouter une profession à votre profil](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/gestion-du-profil/ajouter-sa-profession).
 {% endhint %}
 
-Voici [comment ajouter des gens à votre bottin](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/reseau/ajouter-un-contact-a-votre-bottin). L'ajout de lieux de travail fonctionne de la même manière.
+<details>
+
+<summary>Le profil en quelques lignes</summary>
+
+* Lorsqu’un collègue vous trouve dans le bottin Braver ou clique sur votre nom dans un canal de soins, il est possible pour cette personne de consulter votre profil.
+* Votre profil comprend votre photographie, un espace pour vous décrire, votre profession ainsi que votre lieu ou vos lieux de travail.
+* Il vous permet de vous assurer qu’il s’agit bien de la bonne personne à qui vous voulez parler ainsi que d’en apprendre plus sur elle.
+
+</details>
 
 ### Vos lieux de travails
 
 Si vous faites partie d'une organisation sur Braver, vous verrez d'emblée vos lieux de travail dans votre réseau. En navigant dans ces ceux-ci, vous verrez vos équipes de collègues, et pourrez ajouter certains de ces collègues à votre bottin afin de rendre encore plus facile d'accès, si pertinent.
 
 Si vous ne faites pas partie d'une organisation sur Braver, on vous invite tout de même à identifier votre lieu de travail en le trouvant sur le Réseau ou en le créant. Ceci va permettre à vos collègues du réseau de vous retrouver en cas de besoin.
+
+<details>
+
+<summary>Les lieux de travails en quelques lignes</summary>
+
+* Un lieu de travail regroupe les professionnels de la santé qui oeuvrent ensemble dans lieu de pratique (ex. une clinique privée, une pharmacie, un centre hospitalier, etc.).&#x20;
+* Une organisation de santé peut rassembler plusieurs lieux de travail.
+
+</details>
 
 ### Vos amis
 
@@ -38,7 +78,3 @@ Lorsque vous êtes ami avec un autre usager de Braver,
 * Vous avez accès à un lieu privé pour discuter avec cette personne, que l'on nomme **messages directs**. Nul autre personne que vous et votre ami pouvez accéder aux informations qui y sont échangées.
 * Si vous partagez votre numéro de téléphone dans votre profil, votre ami peut vous appeler directement en un clic
 * Vous et votre ami pouvez démarrer un appel Braver audio ou vidéo avec l'autre à tout moment
-
-{% content-ref url="comprendre-le-reseau.md" %}
-[comprendre-le-reseau.md](comprendre-le-reseau.md)
-{% endcontent-ref %}
