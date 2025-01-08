@@ -116,6 +116,6 @@
 
 ## Intégrations
 
-* [Leomed](integrations/leomed/README.md)
-  * [Comment activer un compte patient ou proche aidant](integrations/leomed/comment-activer-un-compte-patient-ou-proche-aidant.md)
+* [Leomed](integrations/leomed.md)
+  * [Activer un compte patient ou proche aidant](integrations/leomed/activer-un-compte-patient-ou-proche-aidant.md)
 * [Gustav](integrations/gustav.md)
