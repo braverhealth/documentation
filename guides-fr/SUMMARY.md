@@ -80,7 +80,7 @@
   * [Répondre à un nouveau message](pour-les-patients-et-proches-aidants/fils-de-discussion/repondre-a-un-nouveau-message.md)
   * [Accéder aux pièces jointes dans un fil de discussion](pour-les-patients-et-proches-aidants/fils-de-discussion/acceder-aux-pieces-jointes-dans-un-fil-de-discussion.md)
   * [Ajouter un fichier, une photo ou une vidéo à un fil de discussion](pour-les-patients-et-proches-aidants/fils-de-discussion/ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion-patient.md)
-  * [Indiquer un message comme non lu](pour-les-patients-et-proches-aidants/fils-de-discussion/indiquer-un-message-comme-non-lu-patient.md)
+  * [Indiquer une discussion comme non lue](pour-les-patients-et-proches-aidants/fils-de-discussion/indiquer-un-message-comme-non-lu-patient.md)
   * [Trouver un fil de discussion fermé](pour-les-patients-et-proches-aidants/fils-de-discussion/trouver-un-fil-de-discussion-ferme-patient.md)
 * [Appels audios et vidéos](pour-les-patients-et-proches-aidants/appels-audios-et-videos/README.md)
   * [Rejoindre et quitter un appel conférence](pour-les-patients-et-proches-aidants/appels-audios-et-videos/rejoindre-et-quitter-un-appel.md)
