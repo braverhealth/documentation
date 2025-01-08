@@ -6,8 +6,6 @@ icon: globe
 
 Dans l'onglet Réseau de Braver, vous retrouverez **votre** réseau. Ce réseau est **le vôtre**, c'est à dire que vous êtes seul à voir ce que vous y ajoutez, et il vous permet de rendre facile d'accès les gens ou les équipes avec qui vous travaillez le plus fréquemment, afin de pouvoir leur parler rapidement.
 
-Pour ajouter des lieux de pratiques et des gens dans votre réseau, vous devez d'abord les trouver, puis cliquer sur le bouton **Ajouter à mon bottin**.&#x20;
-
 **N'hésitez-pas à consulter** [**nos guides dédiés**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/reseau) **pour comprendre rapidement comment utiliser le réseau.**
 
 <details>
@@ -33,6 +31,8 @@ Pour ajouter des lieux de pratiques et des gens dans votre réseau, vous devez d
 
 ### Recherche dans le Réseau
 
+Pour ajouter des lieux de pratiques et des gens dans votre réseau, vous devez d'abord les trouver.
+
 L'outil de recherche dans le haut de la page vous permet justement de trouver d'autres employés de votre organisation, ainsi que d'autres professionnels de la santé et lieux de travails du Réseau Braver.
 
 {% hint style="warning" %}
@@ -43,6 +43,8 @@ La validation de votre profession peut être faite de deux façons:
 * Un autre utilisateur de Braver ayant une profession validée vous invite sur le réseau. Voici [comment accepter une invitation](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/creation-de-compte/accepter-une-invitation) et [comment en envoyer une](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/reseau/inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver).
 * Vous ajoutez une profession à votre profil et fournissez des preuves à l'équipe de vérification de Braver. Voici [comment ajouter une profession à votre profil](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/gestion-du-profil/ajouter-sa-profession).
 {% endhint %}
+
+Une fois que vous avez trouvé les gens ou les lieux de travail que vous désirez garder à portée de main, cliquez sur le bouton **Ajouter à mon bottin!**
 
 <details>
 

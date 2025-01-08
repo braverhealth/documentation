@@ -1,5 +1,8 @@
 ---
 icon: flag
+description: >-
+  Dans cette section, vous trouverez un survol des concepts de Braver pour vous
+  aider à mieux comprendre la plateforme et en tirer le maximum!
 ---
 
 # Survol
