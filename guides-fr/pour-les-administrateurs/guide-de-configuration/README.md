@@ -29,6 +29,23 @@ Le schéma ci-dessous représente la hiérarchie des concepts dans Braver qui pe
 
 
 
+<details>
+
+<summary>Pour aller plus en profondeur dans les concepts</summary>
+
+Voici des sections de la documentation qui pourrait vous être utiles:
+
+* Organisation
+* [Unités organisationnelles](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/unites-organisationelles)
+* Lieux de travail
+* Équipes
+* Segments (à venir)
+* Utilisateurs
+* Journaux d'audit
+* Bottin (à venir)
+
+</details>
+
 {% hint style="info" %}
 Pour en savoir plus sur l'**Organisation** référez-vous à [cette page](../organisation.md).
 
@@ -43,14 +60,6 @@ Pour en savoir plus sur les **Segments** référez-vous à cette page (à venir)
 Pour en savoir plus sur les **Utilisateurs** référez-vous à [cette page](../utilisateurs/).
 {% endhint %}
 
-
-
-
-
-
-
-<img src="../../.gitbook/assets/file.excalidraw (2).svg" alt="Unité virtuelle de soins, Centre hospitalier" class="gitbook-drawing">
-
 ## Configurer Braver
 
 Prêt à commencer votre configuration?
@@ -61,7 +70,7 @@ Cliquez sur ce qui convient à votre organisation:
 
 ## Le module patient et proche aidant
 
-Si vous prévoyez utiliser le module patient et proche aidant via des appareils mobiles (ex: tablette) fournit et gérés par votre organisation, voici <mark style="background-color:red;">un document pour vous guider dans le choix des appareils et certaines pistes de réflexions.</mark>
+Si vous prévoyez utiliser le module patient et proche aidant via des appareils mobiles (ex: tablette) fournis et gérés par votre organisation, voici <mark style="background-color:red;">un document pour vous guider dans le choix des appareils et certains éléments à considérer.</mark>
 
 Si vous prévoyez utiliser le module patient et proche aidant en invitant ces derniers sur leurs appareils personnels (mobile ou ordinateur), nous recommandons de soutenir les personnes dans la création de leur compte. Si vous le faites en personne, assurez-vous d'avoir accès à un réseau Wifi ou des données cellulaires.
 
