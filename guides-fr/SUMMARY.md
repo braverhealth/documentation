@@ -76,8 +76,12 @@
 ## Pour les patients et proches aidants
 
 * [Débuter ici](pour-les-patients-et-proches-aidants/pour-debuter.md)
+* [Équipes de soins](pour-les-patients-et-proches-aidants/equipes-de-soins/README.md)
+  * [Voir tous les participants d’une équipe de soins](pour-les-patients-et-proches-aidants/equipes-de-soins/voir-tous-les-participants-dune-equipe-de-soins-patient.md)
+  * [Trouver une pièce jointe épinglée dans l’espace de mon équipe de soins](pour-les-patients-et-proches-aidants/equipes-de-soins/trouver-une-piece-jointe-epinglee-dans-lespace-de-mon-equipe-de-soins-patient.md)
 * [Fils de discussions](pour-les-patients-et-proches-aidants/fils-de-discussion/README.md)
   * [Répondre à un nouveau message](pour-les-patients-et-proches-aidants/fils-de-discussion/repondre-a-un-nouveau-message.md)
+  * [Voir tous les participants d’un fil de discussion](pour-les-patients-et-proches-aidants/fils-de-discussion/voir-tous-les-participants-dun-fil-de-discussion.md)
   * [Accéder aux pièces jointes dans un fil de discussion](pour-les-patients-et-proches-aidants/fils-de-discussion/acceder-aux-pieces-jointes-dans-un-fil-de-discussion.md)
   * [Ajouter un fichier, une photo ou une vidéo à un fil de discussion](pour-les-patients-et-proches-aidants/fils-de-discussion/ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion-patient.md)
   * [Indiquer une discussion comme non lue](pour-les-patients-et-proches-aidants/fils-de-discussion/indiquer-un-message-comme-non-lu-patient.md)
