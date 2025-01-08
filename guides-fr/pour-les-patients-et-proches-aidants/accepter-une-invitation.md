@@ -12,25 +12,25 @@
 
 *   Si c'est la première fois que vous ouvrez Braver, et que Braver n'a jamais non plus été ouvert sur votre appareil, vous verrez un écran comme le suivant:
 
-    <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-via-une-invitation - Option 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Option 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
     \
     Vous pouvez alors choisir l'option "Créer un nouveau compte" pour continuer à l'[étape 3](accepter-une-invitation.md#suivez-les-etapes-de-creation-de-votre-compte), à moins que vous ayez déjà créé un compte Braver dans le passé (auquel cas vous devriez choisir l'autre option, et vous passerez à l'[étape 4](accepter-une-invitation.md#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete) directement).
 *   Si c'est la première fois que vous ouvrez Braver, mais que Braver a déjà été utilisé par quelqu'un d'autre sur votre appareil, vous verrez un écran comme le suivant:
 
-    <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-via-une-invitation - Option 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Option 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
     \
     Vous pouvez alors choisir l'option "Créer un nouveau compte" pour continuer à l'[étape 3](accepter-une-invitation.md#suivez-les-etapes-de-creation-de-votre-compte), à moins que vous ayez déjà créé un compte Braver dans le passé (auquel cas vous devriez choisir l'une des autres options, et vous passerez à l'[étape 4](accepter-une-invitation.md#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete) directement).
 *   Si vous avez déjà créé votre compte dans le passé avec la même adresse courriel que celle de l'invitation, mais que votre session n'est pas déjà active sur votre appareil, vous verrez un écran comme le suivant:
 
-    <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-via-une-invitation - Option 3.png" alt="" width="375"><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Option 3.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
     \
     Dans ce cas, vous devriez entrer votre mot de passe et dans l'étape suivante, le code de sécurité que vous recevrez pas courriel ou SMS, afin de passer à l'[étape 4](accepter-une-invitation.md#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete).
 *   Si vous avez déjà créé votre compte dans le passé avec la même adresse courriel que celle de l'invitation, et que votre session est déjà active sur votre appareil, vous verrez un écran comme le suivant:
 
-    <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-via-une-invitation - Option 4.png" alt="" width="375"><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Option 4.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
     \
     Dans ce cas, vous devriez simplement entrer votre NIP afin de passer à l'[étape 4](accepter-une-invitation.md#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete).
@@ -39,7 +39,7 @@
 {% step %}
 #### Inscrivez votre adresse courriel et le mot de passe de votre choix. Sélectionnez ensuite _Créer mon compte_.
 
-<div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-autonome - Step 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -53,13 +53,13 @@ N'oubliez pas de vérifiez vos indésirables s'il n'apparaît pas dans votre bo�
 {% step %}
 #### Faites défiler jusqu'en bas de la page et acceptez les conditions d’utilisation.
 
-<div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-autonome - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 #### Créez votre code de récupération en cliquant sur _Débuter_.
 
-<div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-autonome - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -73,19 +73,19 @@ N'oubliez pas de vérifiez vos indésirables s'il n'apparaît pas dans votre bo�
 Garder ce code dans un lieu sécuritaire!
 {% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-autonome - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 #### Configurez un NIP qui vous servira à déverrouiller facilement votre application si vous n’avez pas l’option de reconnaissance faciale. Cliquez sur _Configurer_.
 
-<div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-autonome - Step 10.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 10.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 #### Entrez votre NIP et répétez-le une seconde fois.
 
-<div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-autonome - Step 11.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 11.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -97,6 +97,6 @@ Dépendant de la manière que l'invitation a été sécurisée, vous devrez soit
 S'il vous demande un code secret, vous le trouverez **sous le bouton d'invitation** dans le courriel d'invitation sur lequel vous avez cliqué dans l'[étape 1](accepter-une-invitation.md#dans-le-courriel-que-vous-avez-recu-cliquez-sur-le-bouton-vous-invitant-a-accepter-linvitation).
 {% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-via-une-invitation - Step 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Step 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
