@@ -21,7 +21,7 @@
 * [Fils de discussions](pour-les-professionnels/fils-de-discussions.md)
 * [Appels audios et vidéos](pour-les-professionnels/appels-audios-et-videos/README.md)
 * [Canaux de soins](pour-les-professionnels/canaux-de-soins/README.md)
-  * [Concepts](pour-les-professionnels/canaux-de-soins/comprendre-les-canaux-de-soins.md)
+  * [Canaux de soins en bref](pour-les-professionnels/canaux-de-soins/comprendre-les-canaux-de-soins.md)
 * [Équipes](pour-les-professionnels/equipes/README.md)
   * [Comprendre les équipes](pour-les-professionnels/equipes/comprendre-les-equipes.md)
 * [Communication patients et proche aidants](pour-les-professionnels/communication-patients-et-proche-aidants/README.md)
