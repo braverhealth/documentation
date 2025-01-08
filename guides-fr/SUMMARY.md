@@ -76,6 +76,7 @@
 ## Pour les patients et proches aidants
 
 * [Débuter ici](pour-les-patients-et-proches-aidants/pour-debuter.md)
+* [Accepter une invitation à rejoindre son équipe de soins sur Braver](pour-les-patients-et-proches-aidants/accepter-une-invitation.md)
 * [Équipes de soins](pour-les-patients-et-proches-aidants/equipes-de-soins/README.md)
   * [Voir tous les participants d’une équipe de soins](pour-les-patients-et-proches-aidants/equipes-de-soins/voir-tous-les-participants-dune-equipe-de-soins-patient.md)
   * [Trouver une pièce jointe épinglée dans l’espace de mon équipe de soins](pour-les-patients-et-proches-aidants/equipes-de-soins/trouver-une-piece-jointe-epinglee-dans-lespace-de-mon-equipe-de-soins-patient.md)
