@@ -13,7 +13,7 @@ icon: mobile-notch
 
 <summary>Utilisation en mode "géré à distance"</summary>
 
-Si vous êtes une organisation de santé et que vous désirez distribuer Braver à des patients ou proches aidants sur des appareils mobiles qui vous appartiennent, vous avez la possibilité d'utiliser Braver en mode "**géré à distance**".&#x20;
+Si vous êtes une organisation de santé et que vous désirez distribuer Braver à des patients ou proches aidants sur des appareils mobiles qui vous appartiennent, vous avez la possibilité d'utiliser Braver en [mode **géré à distance**](../pour-les-administrateurs/appareil-mobile-gere-a-distance.md)**.**&#x20;
 
 Dans ce mode:
 
