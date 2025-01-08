@@ -37,7 +37,7 @@ Voici des sections de la documentation qui pourrait vous être utiles:
 
 * Organisation
 * [Unités organisationnelles](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/unites-organisationelles)
-* Lieux de travail
+* [Lieux de travail](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/lieux-de-travail)
 * Équipes
 * Segments (à venir)
 * Utilisateurs
