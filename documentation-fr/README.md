@@ -47,7 +47,7 @@ Utilisez la barre de recherche en haut de cette page pour rechercher du contenu 
 
 <summary>Si vous utilisez Braver pour communiquer dans le cadre de votre travail</summary>
 
-Voici des sections de la documentation qui pourrait vous être utiles:
+Commencer par [un survol](pour-les-professionnels/pour-debuter.md), ou passez directement à une section de la documentation qui pourrait vous être utile:
 
 * [Création de compte](pour-les-professionnels/creation-de-compte/)
 * [Le réseau](pour-les-professionnels/reseau/)
@@ -67,7 +67,7 @@ Voici des sections de la documentation qui pourrait vous être utiles:
 
 <summary>Si vous êtes administrateur de Braver dans une organisation de santé</summary>
 
-Voici des sections de la documentation qui pourrait vous être utiles:
+Commencer par [un survol](pour-les-administrateurs/pour-debuter.md), ou passez directement à une section de la documentation qui pourrait vous être utile:
 
 * [Unités organisationnelles](pour-les-administrateurs/unites-organisationelles/)
 * [Lieux de travail](pour-les-administrateurs/lieux-de-travail/)
