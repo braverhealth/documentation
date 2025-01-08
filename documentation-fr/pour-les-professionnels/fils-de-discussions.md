@@ -8,7 +8,7 @@ Tout échange d’information sur la plateforme se fait par le biais de fils de 
 
 Les fils de discussion peuvent inclure des messages (textuels, vocaux et vidéos), des fichiers (photos, vidéos ou documents). Un fil peut être clos lorsqu’il est considéré comme terminé, ce qui le rend immuable.
 
-**N'hésitez-pas à consulter** [**nos quelques guides**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/fils-de-discussions) **pour comprendre rapidement comment utiliser les fils de discussion.**
+**N'hésitez-pas à consulter** [**nos guides dédiés**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/fils-de-discussions) **pour comprendre rapidement comment utiliser les fils de discussion.**
 
 ### Accepter et refuser
 

@@ -13,7 +13,7 @@ Pour visionner, créer ou modifier des fiches patients, vous pouvez utiliser l'o
 
 <div align="center"><figure><img src="../.gitbook/assets/Creer une nouvelle fiche patient - Step4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**N'hésitez-pas à consulter** [**nos quelques guides**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/fiches-patients) **pour comprendre rapidement comment utiliser les fiches patients.**
+**N'hésitez-pas à consulter** [**nos guides dédiés**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/fiches-patients) **pour comprendre rapidement comment utiliser les fiches patients.**
 
 <details>
 

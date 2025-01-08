@@ -8,7 +8,7 @@ Dans l'onglet Réseau de Braver, vous retrouverez **votre** réseau. Ce réseau 
 
 Pour ajouter des lieux de pratiques et des gens dans votre réseau, vous devez d'abord les trouver, puis cliquer sur le bouton **Ajouter à mon bottin**.&#x20;
 
-**N'hésitez-pas à consulter** [**nos quelques guides**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/reseau) **pour comprendre rapidement comment utiliser le réseau.**
+**N'hésitez-pas à consulter** [**nos guides dédiés**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/reseau) **pour comprendre rapidement comment utiliser le réseau.**
 
 <details>
 

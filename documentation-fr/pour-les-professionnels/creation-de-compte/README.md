@@ -11,7 +11,7 @@ icon: user-plus
 3. Si vous vous créez un compte d'une manière complètement autonome, on vous demandera de fournir quelques informations à votre sujet, puis on vous demandera de prouver votre droit de pratique. Voici [les étapes à suivre](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/creation-de-compte/creation-de-compte-autonome).
 
 {% hint style="info" %}
-Même si vous créez votre compte de manière autonome (**option 3**), vous pourrez réutiliser ce compte si vous vous faites invitez par la suite à rejoindre une organisation de santé (**option 2**) ou si vous commencez à utiliser Braver d'une manière intégrée dans un autre logiciel (**option 1**).&#x20;
+Même si vous créez votre compte de manière autonome (**option 3**), vous pourrez réutiliser ce compte si vous vous faites par la suite inviter à rejoindre une organisation de santé (**option 2**) ou si vous commencez à utiliser Braver d'une manière intégrée dans un autre logiciel (**option 1**).&#x20;
 
 Dans ces situations, vous n'aurez qu'à choisir l'option **Utiliser un compte existant** qui vous sera proposé.
 {% endhint %}
