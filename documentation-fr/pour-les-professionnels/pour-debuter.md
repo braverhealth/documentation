@@ -24,8 +24,8 @@ Elle peut être utilisée à partir des applications mobiles natives [iOS](https
 
 ### Communiquer avec Braver
 
-{% content-ref url="fils-de-discussions/" %}
-[fils-de-discussions](fils-de-discussions/)
+{% content-ref url="fils-de-discussions.md" %}
+[fils-de-discussions.md](fils-de-discussions.md)
 {% endcontent-ref %}
 
 {% content-ref url="appels-audios-et-videos/" %}

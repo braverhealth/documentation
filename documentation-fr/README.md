@@ -51,7 +51,7 @@ Commencer par [un survol](pour-les-professionnels/pour-debuter.md), ou passez di
 
 * [Création de compte](pour-les-professionnels/creation-de-compte/)
 * [Le réseau](pour-les-professionnels/reseau/)
-* [Fils de discussion](pour-les-professionnels/fils-de-discussions/)
+* [Fils de discussion](pour-les-professionnels/fils-de-discussions.md)
 * [Appels audios et vidéos](pour-les-professionnels/appels-audios-et-videos/)
 * [Canaux de soins](pour-les-professionnels/canaux-de-soins/)
 * [Fiches patients](pour-les-professionnels/fiches-patients/)

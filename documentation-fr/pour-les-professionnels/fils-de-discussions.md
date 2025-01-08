@@ -14,7 +14,7 @@ Lorsque vous êtes invités dans un fil de discussion par un collègue à l'ext�
 
 Si vous acceptez le fil de discussion, vous pourrez commencer à échanger des messages ou du contenu.&#x20;
 
-Vous pourrez par la suite quitter le fil de discussion lorsque vous considérez que c'est adéquat, ce qui le fera disparaître de vos [fils actifs](./#fils-actifs). Il sera par contre toujours accessible aux endroits pertinents (p.ex. profil du collègue, fiche patient, etc).
+Vous pourrez par la suite quitter le fil de discussion lorsque vous considérez que c'est adéquat, ce qui le fera disparaître de vos [fils actifs](fils-de-discussions.md#fils-actifs). Il sera par contre toujours accessible aux endroits pertinents (p.ex. profil du collègue, fiche patient, etc).
 
 ## Types de fils de discussion
 
@@ -22,7 +22,7 @@ Vous pourrez par la suite quitter le fil de discussion lorsque vous considérez 
 
 Un fil de discussion clinique est **relié à un patient**. C'est une discussion que vous pouvez avoir avec une personne ou en équipe.
 
-Vous pouvez démarrer un fil de discussion clinique dans un **canal de soins** ou **hors canal**. [Les canaux de soins](../canaux-de-soins/) vous aident à regrouper les fils de discussions sous un même thème en plus d'ajouter automatiquement les personnes requises à la discussion.
+Vous pouvez démarrer un fil de discussion clinique dans un **canal de soins** ou **hors canal**. [Les canaux de soins](canaux-de-soins/) vous aident à regrouper les fils de discussions sous un même thème en plus d'ajouter automatiquement les personnes requises à la discussion.
 
 ### Fils de discussion non-clinique
 
@@ -46,6 +46,6 @@ Si vous naviguez vers le profil d'un collègue avec qui vous avez eu des discuss
 
 ### Fils de discussions liés à des fiches patients
 
-Si vous naviguez vers une [fiche patient](../fiches-patients/), vous y trouverez entre autres toute l'historique des fils de discussion qui y sont rattachés, ouverts ou fermés.
+Si vous naviguez vers une [fiche patient](fiches-patients/), vous y trouverez entre autres toute l'historique des fils de discussion qui y sont rattachés, ouverts ou fermés.
 
 Les fils de discussions cliniques qui concerne des patients peuvent aussi se trouver dans des canaux de soins. Dans ces cas, vous les trouverez en navigant dans le canal de soins.
