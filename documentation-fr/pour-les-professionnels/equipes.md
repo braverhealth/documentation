@@ -10,7 +10,7 @@ Lorsque l'on crée un fil de discussion, on peut inclure des individus et des **
 
 <details>
 
-<summary>Les équipes en quelques lignes</summary>
+<summary>Les <strong>équipes</strong> en quelques lignes</summary>
 
 * Si l'on inclut des équipes sans identifier à qui dans l'équipe nous voulons parler, le fil de discussion se retrouve dans la [boîte de triage](equipes.md#la-boite-de-triage) de l'équipe.&#x20;
 * Si l'on inclut un individu qui est membre d'une équipe, son équipe est du même coup ajouté dans le fil de discussion, et l'invité en question peut à son gré inviter d'autres membres de son équipe à rejoindre le fil de discussion.

@@ -17,7 +17,7 @@ Pour visionner, créer ou modifier des fiches patients, vous pouvez utiliser l'o
 
 <details>
 
-<summary>Les fiches patients en quelques lignes</summary>
+<summary>Les <strong>fiches patients</strong> en quelques lignes</summary>
 
 * Les fiches patients permettent d’identifier les patients au sujet desquels vous collaborez. Tous les fils de discussions cliniques au sujet de ce patient seront enregistrés à cet emplacement.
 * Chaque professionnel indépendant ou organisation peut créer des fiches-patients, et collaborer avec d’autres intervenants en utilisant ces fiches comme ancrages.

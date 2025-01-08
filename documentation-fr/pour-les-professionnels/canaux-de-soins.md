@@ -10,7 +10,7 @@ Les canaux de soins sont des espaces sécurisés partagés entre plusieurs parti
 
 <details>
 
-<summary>Les canaux de soins en quelques lignes</summary>
+<summary>Les <strong>canaux de soins</strong> en quelques lignes</summary>
 
 * Un canal de soins regroupe en quelque sorte une “équipe de soins” dans laquelle se produisent des discussions. Ainsi, les fils de discussion peuvent être classés dans une fiche patient puis dans un canal de soins spécifique.
 * Les canaux de soins permettent de rejoindre toute l'équipe de soins en un seul clic, sans devoir ajouter tous les participants 1 à 10.
