@@ -1,4 +1,4 @@
-# Appareil mobile en mode partagé
+# Appareil mobile géré à distance
 
 ### Appareils fournis par l'organisation aux patients ou proches aidants
 

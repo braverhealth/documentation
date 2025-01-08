@@ -51,7 +51,7 @@
 * [Journaux d'audit](pour-les-administrateurs/journaux-daudit/README.md)
   * [Que puis-je retrouver dans le journal d'audits?](pour-les-administrateurs/journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md)
 * [Bottins](pour-les-administrateurs/bottins.md)
-* [Appareil mobile en mode partagé](pour-les-administrateurs/appareil-mobile-en-mode-partage.md)
+* [Appareil mobile géré à distance](pour-les-administrateurs/appareil-mobile-gere-a-distance.md)
 
 ## Détails techniques
 
