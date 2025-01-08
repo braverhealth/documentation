@@ -41,30 +41,14 @@ Voici des sections de la documentation qui pourrait vous être utiles:
 * [Équipes](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/equipes)
 * Segments (à venir)
 * [Utilisateurs](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/utilisateurs)
-* Journaux d'audit
+* [Journaux d'audit](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/journaux-daudit)
 * Bottin (à venir)
 
 </details>
 
-{% hint style="info" %}
-Pour en savoir plus sur l'**Organisation** référez-vous à [cette page](../organisation.md).
-
-Pour en savoir plus sur les **Unités organisationnelles** référez-vous à [cette page](../unites-organisationelles/).
-
-Pour en savoir plus sur les **Lieux de travail** référez-vous à [cette page](../lieux-de-travail/).
-
-Pour en savoir plus sur les **Équipes** référez-vous à [cette page](../equipes/).
-
-Pour en savoir plus sur les **Segments** référez-vous à cette page (à venir).
-
-Pour en savoir plus sur les **Utilisateurs** référez-vous à [cette page](../utilisateurs/).
-{% endhint %}
-
 ## Configurer Braver
 
-Prêt à commencer votre configuration?
-
-Cliquez sur ce qui convient à votre organisation:
+Prêt à commencer votre configuration? Cliquez sur ce qui convient à votre organisation:
 
 <table data-view="cards"><thead><tr><th align="right"></th><th align="center"></th><th></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="right"></td><td align="center"><strong>Je déploie Braver en version autonome</strong></td><td></td><td></td><td></td><td><a href="../../.gitbook/assets/BRAVER_logo_couleur.svg">BRAVER_logo_couleur.svg</a></td><td><a href="je-deploie-braver-en-version-autonome.md">je-deploie-braver-en-version-autonome.md</a></td></tr><tr><td align="right"></td><td align="center"><strong>Je déploie Braver via la plateforme Leomed</strong></td><td></td><td></td><td></td><td><a href="../../.gitbook/assets/Logo Leomed.png">Logo Leomed.png</a></td><td><a href="je-deploie-braver-via-la-plateforme-leomed.md">je-deploie-braver-via-la-plateforme-leomed.md</a></td></tr><tr><td align="right"></td><td align="center"><strong>Je déploie Braver via la plateforme Gustav</strong></td><td></td><td></td><td></td><td><a href="../../.gitbook/assets/5f5bc9e4b5010a486bd857e4_gustav_logo1 1.png">5f5bc9e4b5010a486bd857e4_gustav_logo1 1.png</a></td><td><a href="je-deploie-braver-via-la-plateforme-gustav.md">je-deploie-braver-via-la-plateforme-gustav.md</a></td></tr></tbody></table>
 

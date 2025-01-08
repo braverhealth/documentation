@@ -109,6 +109,7 @@
 * [Utilisateurs](pour-les-administrateurs/utilisateurs/README.md)
   * [Comment inviter des utilisateurs?](pour-les-administrateurs/utilisateurs/comment-inviter-des-utilisateurs.md)
   * [Comment annuler ou renvoyer une invitation?](pour-les-administrateurs/utilisateurs/comment-annuler-ou-renvoyer-une-invitation.md)
+  * [Comment octroyer un rôle à un utilisateur existant?](pour-les-administrateurs/utilisateurs/comment-octroyer-un-role-a-un-utilisateur-existant.md)
 * [Journaux d'audit](pour-les-administrateurs/journaux-daudit/README.md)
   * [Comment faire une recherche dans les journaux d'audits?](pour-les-administrateurs/journaux-daudit/comment-faire-une-recherche-dans-le-journal-daudits.md)
   * [Que puis-je retrouver dans le journal d'audits?](pour-les-administrateurs/journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md)

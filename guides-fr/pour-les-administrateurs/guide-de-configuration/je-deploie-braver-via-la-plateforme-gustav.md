@@ -52,9 +52,9 @@ Vous pouvez accéder à l'application administrative via [https://admin.braver.n
 {% endstep %}
 
 {% step %}
-### Octroyer le rôle Admin aux bonnes personnes
+### Octroyer le rôle "Admin" aux bonnes personnes
 
-Voici <mark style="background-color:red;">comment octroyer le rôle Admin à un utilisateur</mark>.
+Voici comment [octroyer un rôle à un utilisateur existant](../utilisateurs/comment-octroyer-un-role-a-un-utilisateur-existant.md).
 
 {% hint style="info" %}
 Lors de l'activation du compte Braver des utilisateurs, la plateforme Gustav fournit à Braver l'ensemble des rôles et permissions à l'exception du rôle Admin. Ce rôle doit donc être octroyer manuellement dans l'application administrative de Braver.

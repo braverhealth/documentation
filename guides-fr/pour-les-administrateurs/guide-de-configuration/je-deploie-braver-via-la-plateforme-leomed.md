@@ -46,7 +46,7 @@ Vous pouvez accéder à l'application administrative via [https://admin.braver.n
 {% step %}
 ### Octroyer le rôle "Admin" aux bonnes personnes
 
-Voici <mark style="background-color:red;">comment octroyer un rôle à un utilisateur.</mark>
+Voici [comment octroyer un rôle à un utilisateur.](https://app.gitbook.com/o/zMIZEnF83uQLxLHiNR0f/s/0ai7456Hm287lPHBbGj2/~/changes/22/pour-les-administrateurs/utilisateurs/comment-octroyer-un-role-a-un-utilisateur-existant)
 
 {% hint style="info" %}
 Lors de l'activation du compte Braver des utilisateurs, la plateforme Leomed fournit à Braver l'ensemble des rôles et permissions à l'exception du rôle "Admin". Ce rôle doit donc être octroyer manuellement dans l'application administrative de Braver.
@@ -54,7 +54,7 @@ Lors de l'activation du compte Braver des utilisateurs, la plateforme Leomed fou
 Le rôle Admin donne la permission à un utilisateur de se connecter à l'application administrative et d'ainsi créer des lieux de travail, des équipes et d'inviter des utilisateurs. Toutefois, comme vous utilisez Braver via une intégration avec Leomed, toutes ces actions sont facilitées pour vous par l'intégration entre les deux plateformes.
 {% endhint %}
 
-La fonctionnalité qui vous sera la plus utile dans l'application administrative de Braver est **le journal d'audit**. Voici [le tutoriel](../journaux-daudit/comment-faire-une-recherche-dans-le-journal-daudits.md) présentant comment faire une recherche dans le journal d'audit.
+La fonctionnalité qui vous sera la plus utile dans l'application administrative de Braver est **le journal d'audit**. Voici [comment faire une recherche dans le journal d'audit](../journaux-daudit/comment-faire-une-recherche-dans-le-journal-daudits.md).
 {% endstep %}
 {% endstepper %}
 

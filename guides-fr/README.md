@@ -1,5 +1,9 @@
 ---
 icon: hand-wave
+description: >-
+  Bienvenue dans la section des guides et tutoriels! Vous y trouverez tout le
+  matériel pour vous accompagner pas-à-pas dans l'utilisation de la plateforme
+  Braver.
 ---
 
 # Bienvenue
