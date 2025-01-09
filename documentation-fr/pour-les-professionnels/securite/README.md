@@ -27,3 +27,23 @@ Si vous désirez en savoir plus sur notre modèle de sécurité, nous pouvons vo
 {% endhint %}
 
 **N'hésitez-pas à consulter** [**nos guides dédiés**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/securite) **pour voir rapidement comment configurer des éléments de sécurité de votre compte.**
+
+### Authentification à deux facteurs
+
+Toute connexion d'un utilisateur sur la plateforme nécessite une authentification à deux facteurs. Par défaut, le code à usage unique est envoyé à l'adresse courriel principale du compte, mais il est possible de configurer Braver afin que ces codes soient envoyés par SMS.
+
+### Code de récupération
+
+Lors de la création d'un compte, un code de récupération est créé. Ce code est envoyé par courriel et doit être conservé à un endroit sûr au cas où le mot de passe est oublié ou perdu.
+
+Un nouveau code de récupération peut être créé et renvoyé au cas où ce code est également perdu.
+
+### Numéro d'identification personnel (NIP)
+
+Un NIP permet de déverrouiller une session précédemment activée sur un appareil (privé ou partagé). Ce NIP est créé lors de la création du compte et peut être recréé à tout moment.&#x20;
+
+Si le NIP est saisie de manière erronée 5 fois, la session est immédiatement effacée de l'appareil utilisé.
+
+{% hint style="warning" %}
+Si le NIP est oublié, vous pouvez supprimer votre session et vous reconnecter à nouveau avec votre adresse courriel et mot de passe, puis avec le code à usage unique reçu par courriel ou SMS. Une fois la session ouverte, vous pouvez aller modifier votre NIP immédiatement avant que votre sessions se verrouille.
+{% endhint %}
