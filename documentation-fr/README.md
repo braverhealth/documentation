@@ -1,9 +1,7 @@
 ---
 icon: book
 description: >-
-  Que vous soyez sur le point de débuter l'utilisation de Braver, un utilisateur
-  aguerri qui désire aller encore plus loin ou bloqué devant un problème, vous
-  êtes au bon endroit!
+  Que vous soyez sur le point de commencer à utiliser Braver, un utilisateur expérimenté cherchant à aller plus loin, ou confronté à un problème, vous êtes au bon endroit!
 layout:
   title:
     visible: true
