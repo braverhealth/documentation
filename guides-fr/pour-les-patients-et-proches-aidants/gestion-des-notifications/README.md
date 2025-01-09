@@ -12,7 +12,7 @@ icon: bell
 [regler-sa-periode-dindisponibilite.md](regler-sa-periode-dindisponibilite.md)
 {% endcontent-ref %}
 
-{% content-ref url="regler-son-horaire-de-disponibilités.md" %}
-[regler-son-horaire-de-disponibilités.md](regler-son-horaire-de-disponibilités.md)
+{% content-ref url="regler-son-horaire-de-disponibilites.md" %}
+[regler-son-horaire-de-disponibilites.md](regler-son-horaire-de-disponibilites.md)
 {% endcontent-ref %}
 

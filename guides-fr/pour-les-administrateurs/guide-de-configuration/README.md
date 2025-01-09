@@ -50,7 +50,7 @@ Voici des sections de la documentation qui pourrait vous être utiles:
 
 Prêt à commencer votre configuration? Cliquez sur ce qui convient à votre organisation:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Je déploie Braver de</td><td><strong>manière autonome</strong></td><td><a href="../../.gitbook/assets/braver (1).png">braver (1).png</a></td><td><a href="je-deploie-braver-en-version-autonome.md">je-deploie-braver-en-version-autonome.md</a></td></tr><tr><td>Je déploie Braver via</td><td><strong>Leomed</strong></td><td><a href="../../.gitbook/assets/leomed.png">leomed.png</a></td><td><a href="je-deploie-braver-via-la-plateforme-leomed.md">je-deploie-braver-via-la-plateforme-leomed.md</a></td></tr><tr><td>Je déploie Braver via</td><td><strong>Gustav</strong></td><td><a href="../../.gitbook/assets/gustab.png">gustab.png</a></td><td><a href="je-deploie-braver-via-la-plateforme-gustav.md">je-deploie-braver-via-la-plateforme-gustav.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Je déploie Braver de</td><td><strong>manière autonome</strong></td><td><a href="../../.gitbook/assets/braver (1).png">braver (1).png</a></td><td><a href="je-deploie-braver-en-version-autonome.md">je-deploie-braver-en-version-autonome.md</a></td></tr><tr><td>Je déploie Braver via</td><td><strong>Leomed</strong></td><td><a href="../../.gitbook/assets/leomed.png">leomed.png</a></td><td><a href="../../integrations/leomed/je-deploie-braver-via-la-plateforme-leomed.md">je-deploie-braver-via-la-plateforme-leomed.md</a></td></tr><tr><td>Je déploie Braver via</td><td><strong>Gustav</strong></td><td><a href="../../.gitbook/assets/gustab.png">gustab.png</a></td><td><a href="../../integrations/gustav/je-deploie-braver-via-la-plateforme-gustav.md">je-deploie-braver-via-la-plateforme-gustav.md</a></td></tr></tbody></table>
 
 ## Le module patient et proche aidant
 
@@ -63,5 +63,5 @@ Nous avons également développer un outil de formation express pour les patient
 ## Autres détails techniques
 
 * [Informations sur la connectivité](https://braver-1.gitbook.io/braver/details-techniques/connectivite)
-* [Informations sur la comptabilité des appareils](https://braver-1.gitbook.io/braver/details-techniques/compatibilite)
+* [Informations sur la compatibilité des appareils](https://braver-1.gitbook.io/braver/details-techniques/compatibilite)
 

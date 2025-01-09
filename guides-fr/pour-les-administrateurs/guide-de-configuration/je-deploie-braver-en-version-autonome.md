@@ -2,7 +2,7 @@
 description: Configurer votre organisation en seulement 7 étapes!
 ---
 
-# Je déploie Braver en version autonome
+# Déployer Braver de manière autonome
 
 ### Voici les étapes à suivre pour configurer votre organisation dans Braver:
 
@@ -25,7 +25,7 @@ Voici un exemple concret de structure d'une organisation de santé:
 1. Partager le nom de votre organisation à l'équipe Braver à l'aide du formulaire suivant
 2. Attendre qu'un membre de l'équipe Braver entre en contact avec vous pour la suite
 
-<mark style="background-color:red;">Insérer le type form</mark>
+{% embed url="https://braverhealth.typeform.com/to/JrwlUShz" %}
 {% endstep %}
 
 {% step %}

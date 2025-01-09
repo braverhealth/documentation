@@ -69,6 +69,6 @@ description: Pour communiquer efficacement!
 [fermer-et-exporter-en-pdf-un-fil-de-discussion.md](fermer-et-exporter-en-pdf-un-fil-de-discussion.md)
 {% endcontent-ref %}
 
-{% content-ref url="retrouver-un-fil-de-discussion-fermé.md" %}
-[retrouver-un-fil-de-discussion-fermé.md](retrouver-un-fil-de-discussion-fermé.md)
+{% content-ref url="retrouver-un-fil-de-discussion-ferme.md" %}
+[retrouver-un-fil-de-discussion-ferme.md](retrouver-un-fil-de-discussion-ferme.md)
 {% endcontent-ref %}
