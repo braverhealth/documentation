@@ -19,6 +19,10 @@ description: Pour être un bon collaborateur!
 [inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver.md](inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver.md)
 {% endcontent-ref %}
 
+{% content-ref url="utiliser-la-trousse-dinvitation-braver.md" %}
+[utiliser-la-trousse-dinvitation-braver.md](utiliser-la-trousse-dinvitation-braver.md)
+{% endcontent-ref %}
+
 {% content-ref url="restreindre-sa-visibilite-du-reseau-externe.md" %}
 [restreindre-sa-visibilite-du-reseau-externe.md](restreindre-sa-visibilite-du-reseau-externe.md)
 {% endcontent-ref %}

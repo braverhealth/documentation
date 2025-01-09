@@ -19,6 +19,7 @@
   * [Accepter ou ignorer une demande d'amitié](pour-les-professionnels/reseau/accepter-ou-ignorer-une-demande-damitie.md)
   * [Échanger des messages directs](pour-les-professionnels/reseau/envoyer-un-message-direct-avec-amis-seulement.md)
   * [Configurer un numéro de téléphone accessible aux amis](pour-les-professionnels/reseau/configurer-un-numero-de-telephone-accessible-aux-amis.md)
+  * [Utiliser la trousse d'invitation Braver](pour-les-professionnels/reseau/utiliser-la-trousse-dinvitation-braver.md)
 * [Fils de discussions](pour-les-professionnels/fils-de-discussions/README.md)
   * [Créer un nouveau fil de discussion clinique](pour-les-professionnels/fils-de-discussions/creer-un-fil-de-discussion-clinique.md)
   * [Créer un nouveau fil de discussion non clinique](pour-les-professionnels/fils-de-discussions/creer-un-fil-de-discussion-non-clinique.md)

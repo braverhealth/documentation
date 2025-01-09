@@ -8,16 +8,16 @@ Lorsqu'une discussion est terminée, l'équipe de soins peut fermer le fil. Le c
 
 {% stepper %}
 {% step %}
-### Accédez à l'équipe de soins de votre choix.
+#### Accédez à l'équipe de soins de votre choix.
 
 <div align="left"><figure><img src="../../.gitbook/assets/trouver-un-fil-de-discussion-ferme-patient - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### La page de votre équipe de soins est divisée en 2 sections (voir encadrés oranges)
+#### La page de votre équipe de soins est divisée en 2 sections (voir encadrés oranges)
 
-- *Fils de discussion actifs*
-- *Fils de discussions fermés*
+* _Fils de discussion actifs_
+* _Fils de discussions fermés_
 
 Remarquez que chacun des fils de discussions fermés est marqué d'un crochet.
 
@@ -27,11 +27,10 @@ Cliquez sur le fil de discussion fermé qui vous intéresse.
 {% endstep %}
 
 {% step %}
-### Vous avez accès à toute la discussion ainsi qu'aux pièces jointes (trombone en haut, à droite), le cas échéant.
+#### Vous avez accès à toute la discussion ainsi qu'aux pièces jointes (trombone en haut, à droite), le cas échéant.
 
-Remarquez que le fil de discussion fermé porte la mention: *Le fil de discussion a été fermé* et qu'il est impossible d'y ajouter du contenu. (Voir encadré orange dans le bas de l'écran)
+Remarquez que le fil de discussion fermé porte la mention: _Le fil de discussion a été fermé_ et qu'il est impossible d'y ajouter du contenu. (Voir encadré orange dans le bas de l'écran)
 
 <div align="left"><figure><img src="../../.gitbook/assets/trouver-un-fil-de-discussion-ferme-patient - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
-
 {% endstepper %}
