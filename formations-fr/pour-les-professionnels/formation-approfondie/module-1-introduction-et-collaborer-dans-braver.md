@@ -6,4 +6,11 @@ description: >-
 
 # Module 1 - Introduction et collaborer dans Braver
 
+{% hint style="success" %}
+Pour consulter la présentation ci-dessous **en mode plein écran**, la **partager** et la **télécharger en format PDF**, [**utiliser ce lien**](https://pitch.braver.net/v/formation_utilisateurs_module1-wpwhb3)**!**
+{% endhint %}
+
 {% embed url="https://pitch.com/embed-link/wpwhb3" fullWidth="true" %}
+
+
+
