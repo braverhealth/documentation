@@ -4,11 +4,11 @@ icon: message-pen
 
 # Discussion Threads
 
-All information exchanges on the platform are done through discussion threads (and through [direct messages with friends](https://support.braver.net/for-healthcare-workers/reseau#vos-amis), but these are not covered on this page).
+All information exchanges on the platform are done through discussion threads (and through [direct messages with friends](https://support-en.braver.net/for-healthcare-workers/reseau#vos-amis), but these are not covered on this page).
 
 Discussion threads can include messages (text, voice, and video), files (photos, videos, or documents). A thread can be closed when it is considered finished, making it immutable.
 
-**Feel free to consult** [**our dedicated guides**](https://support.braver.net/guides/for-healthcare-workers/discussion-threads) **to quickly understand how to use discussion threads.**
+**Feel free to consult** [**our dedicated guides**](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads) **to quickly understand how to use discussion threads.**
 
 ### Accepting and Declining
 
@@ -44,7 +44,7 @@ If someone writes something you haven't seen yet and the discussion closes immed
 
 ### Discussion Threads Linked to Network Contacts
 
-If you navigate to the profile of a colleague with whom you have had discussions (here's [how](https://support.braver.net/guides/for-healthcare-workers/reseau/consulter-le-profil-des-utilisateurs-sur-le-reseau)), you will find the list of discussion threads where you and this colleague have participated, which will include all the history of clinical and non-clinical threads, open or closed.
+If you navigate to the profile of a colleague with whom you have had discussions (here's [how](https://support-en.braver.net/guides/for-healthcare-workers/reseau/consulter-le-profil-des-utilisateurs-sur-le-reseau)), you will find the list of discussion threads where you and this colleague have participated, which will include all the history of clinical and non-clinical threads, open or closed.
 
 ### Discussion Threads Linked to Patient Files
 

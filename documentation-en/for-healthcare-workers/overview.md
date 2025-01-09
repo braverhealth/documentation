@@ -12,12 +12,12 @@ It can be used from the native mobile applications [iOS](https://brvr.io/ios-app
 
 ### Understanding Braver
 
-{% content-ref url="creation-de-compte/" %}
-[creation-de-compte](creation-de-compte/)
+{% content-ref url="account-creation/" %}
+[account-creation](account-creation/)
 {% endcontent-ref %}
 
-{% content-ref url="reseau.md" %}
-[reseau.md](reseau.md)
+{% content-ref url="network.md" %}
+[network.md](network.md)
 {% endcontent-ref %}
 
 {% content-ref url="patient-files.md" %}
@@ -30,16 +30,16 @@ It can be used from the native mobile applications [iOS](https://brvr.io/ios-app
 [discussion-threads.md](discussion-threads.md)
 {% endcontent-ref %}
 
-{% content-ref url="appels-audios-et-videos/" %}
-[appels-audios-et-videos](appels-audios-et-videos/)
+{% content-ref url="audio-and-video-calls/" %}
+[audio-and-video-calls](audio-and-video-calls/)
 {% endcontent-ref %}
 
 {% content-ref url="care-channels.md" %}
 [care-channels.md](care-channels.md)
 {% endcontent-ref %}
 
-{% content-ref url="equipes.md" %}
-[equipes.md](equipes.md)
+{% content-ref url="teams.md" %}
+[teams.md](teams.md)
 {% endcontent-ref %}
 
 {% content-ref url="patient-and-caregivers.md" %}
@@ -48,14 +48,14 @@ It can be used from the native mobile applications [iOS](https://brvr.io/ios-app
 
 ### Configuring Braver
 
-{% content-ref url="gestion-du-profil/" %}
-[gestion-du-profil](gestion-du-profil/)
+{% content-ref url="profile/" %}
+[profile](profile/)
 {% endcontent-ref %}
 
-{% content-ref url="gestion-des-notifications/" %}
-[gestion-des-notifications](gestion-des-notifications/)
+{% content-ref url="notifications/" %}
+[notifications](notifications/)
 {% endcontent-ref %}
 
-{% content-ref url="securite/" %}
-[securite](securite/)
+{% content-ref url="security/" %}
+[security](security/)
 {% endcontent-ref %}

@@ -2,104 +2,104 @@
 icon: message-question
 ---
 
-# Foire aux questions
+# Frequently Asked Questions
 
-## Compte
+## Account
 
 <details>
 
-<summary>Comment fait-on pour se créer un compte ?</summary>
+<summary>How do I create an account?</summary>
 
-Si vous êtes professionnels de la santé, vous pouvez télécharger l’application directement dans les magasins d’application (App store ou Play store) et procéder à la création de votre profil. Vous devrez par la suite être validé par l’équipe de Braver, soit en fournissant votre numéro de pratique ainsi qu’une preuve d’identité.
+If you are a healthcare professional, you can download the application directly from the app stores (App Store or Play Store) and proceed to create your profile. You will then need to be validated by the Braver team by providing your practice number and proof of identity.
 
-Après avoir été validé, vous pourrez utiliser la version de base gratuite de Braver pour collaborer en toute sécurité! Pour remplir sa mission de permettre aux professionnels de la santé de faire un pas vers le changement, il est primordial pour Braver que le réseau soit inclusif.
+After being validated, you can use the free basic version of Braver to collaborate securely! To fulfill its mission of enabling healthcare professionals to take a step towards change, it is essential for Braver that the network is inclusive.
 
 </details>
 
 <details>
 
-<summary>Pourquoi faut-il être invité? Comment être invité?</summary>
+<summary>Why do I need to be invited? How can I get invited?</summary>
 
-Braver est un réseau de professionnels de la santé vérifiés. Ainsi, pour être admissible au réseau, vous devez être invité par un professionnel déjà validé sur le réseau qui pourra vous valider à votre tour.&#x20;
+Braver is a network of verified healthcare professionals. To be eligible for the network, you must be invited by a professional already validated on the network who can validate you in turn.
 
-Si vous ne connaissez personne sur le réseau qui peut vous inviter, Braver peut procéder à un processus de validation et de vérification manuel.
-
-</details>
-
-## Sécurité
-
-<details>
-
-<summary>En quoi Braver est plus sécuritaire que les courriels ou les textos?</summary>
-
-Braver est une messagerie cryptée de bout en bout, ce qui signifie que chacun des messages que vous envoyez ne peut être déchiffré que par vous et vos interlocuteurs. Les courriels quant à eux ne peuvent pas atteindre le même niveau de sécurité. Même si vous protégez au maximum votre système de gestion de courriels, vous ne pouvez garantir que vos interlocuteurs en ont fait autant. De plus, les courriels peuvent toujours être transférés à des parties non autorisées, et ce, sans laisser de traces.
-
-La cybersécurité de Braver a aussi fait l’objet d’un processus d’audit par le Ministère de la santé et des services sociaux ce qui lui a permis d’obtenir la certification TGV. Pour en apprendre plus sur ce processus de certification, [c'est par ici](http://ti.msss.gouv.qc.ca/Familles-de-services/Bureau-de-certification-et-d-homologation/Certification.aspx)!
+If you do not know anyone on the network who can invite you, Braver can proceed with a manual validation and verification process.
 
 </details>
 
-<details>
-
-<summary>Que dois-je faire en cas de perte de mon mot de passe?</summary>
-
-Utilisez notre [guide pour réinitialiser votre mot de passe](https://support-en.braver.net/guides/for-healthcare-workers/securite/reinitialiser-son-mot-de-passe)!
-
-</details>
-
-## Fonctionnalités
+## Security
 
 <details>
 
-<summary>Est-il possible de laisser une trace des communications faites dans Braver directement dans le logiciel de dossier patient que j’utilise? Puis-je exporter les communications sur un patient?</summary>
+<summary>How is Braver more secure than emails or texts?</summary>
 
-Braver protège les données échangées, mais ne veut pas les garder en otage! Nous collaborons avec différents partenaires de dossiers informatisés pour s’intégrer à eux et vous offrir l’expérience de communication la plus agréable possible.&#x20;
+Braver is an end-to-end encrypted messaging service, meaning that each message you send can only be decrypted by you and your recipients. Emails cannot achieve the same level of security. Even if you maximize the protection of your email management system, you cannot guarantee that your recipients have done the same. Additionally, emails can always be forwarded to unauthorized parties without leaving any trace.
 
-[Écrivez-nous pour en savoir plus!](mailto:bonjour@braver.health)
-
-En attendant, vous pouvez facilement [exporter le contenu des collaborations en PDF](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads/fermer-et-exporter-en-pdf-un-fil-de-discussion) et les joindre directement à votre logiciel de tenue de dossiers pour faciliter votre suivi médico-légal.
+Braver's cybersecurity has also undergone an audit process by the Ministry of Health and Social Services, which allowed it to obtain the TGV certification. To learn more about this certification process, [click here](http://ti.msss.gouv.qc.ca/Familles-de-services/Bureau-de-certification-et-d-homologation/Certification.aspx)!
 
 </details>
 
 <details>
 
-<summary>Pouvons-nous envoyer des photos, vidéos, documents, etc.?</summary>
+<summary>What should I do if I lose my password?</summary>
 
-Dans la version gratuite de Braver, il vous est permis de partager des photos, des documents et des [messages audios retranscrits](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads/ajouter-un-message-vocal-a-une-discussion).&#x20;
+Use our [guide to reset your password](https://support-en.braver.net/guides/for-healthcare-workers/securite/reinitialiser-son-mot-de-passe)!
 
-La fonctionnalité du partage et de l'[édition de vidéo](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads/editer-une-photo-ou-une-video) est une fonctionnalité avancée, tout comme l'[édition de photos](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads/editer-une-photo-ou-une-video).
+</details>
 
-[Contactez-nous si cela fait partie de vos besoins!](https://braverhealth.typeform.com/to/D8CEMzqZ)
+## Features
+
+<details>
+
+<summary>Is it possible to leave a trace of communications made in Braver directly in the patient record software I use? Can I export communications about a patient?</summary>
+
+Braver protects exchanged data but does not want to hold it hostage! We collaborate with various electronic health record partners to integrate with them and offer you the most pleasant communication experience possible.
+
+[Write to us to learn more!](mailto:bonjour@braver.health)
+
+In the meantime, you can easily [export the content of collaborations in PDF](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads/fermer-et-exporter-en-pdf-un-fil-de-discussion) and attach them directly to your record-keeping software to facilitate your medico-legal follow-up.
 
 </details>
 
 <details>
 
-<summary>Puis-je me mettre non disponible afin de ne pas recevoir de notifications hors des heures de travail?</summary>
+<summary>Can we send photos, videos, documents, etc.?</summary>
 
-Oui, Braver désire protéger l’équilibre entre votre vie professionnelle et votre vie personnelle.&#x20;
+In the free version of Braver, you can share photos, documents, and [transcribed audio messages](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads/ajouter-un-message-vocal-a-une-discussion).
 
-Vous pouvez [configurer vos heures de travail](https://support-en.braver.net/guides/for-healthcare-workers/gestion-des-notifications/regler-son-horaire-de-disponibilites) pour ne recevoir les notifications que lorsque vous travaillez.&#x20;
+The feature of sharing and [editing videos](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads/editer-une-photo-ou-une-video) is an advanced feature, as is [editing photos](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads/editer-une-photo-ou-une-video).
 
-Si vous vous absentez, vous pouvez utiliser [la fonctionnalité « Période d'indisponibilité »](https://support-en.braver.net/guides/for-healthcare-workers/gestion-des-notifications/regler-sa-periode-dindisponibilite) qui indique clairement votre absence ainsi que votre date de retour à vos collaborateurs.
-
-</details>
-
-<details>
-
-<summary>Puis-je trouver des professionnels de la santé hors de mon lieu de travail?</summary>
-
-Braver vous permet de créer votre propre réseau de collaborateurs, mais vous pouvez aussi trouver n’importe quel professionnel présent sur le réseau Braver et qui désire être visible.&#x20;
-
-Vous pouvez également rechercher par lieu de travail si cela vous est utile; un lieu de travail regroupe tous les membres d'une organisation de santé, accessibles en un seul clic!
+[Contact us if this is part of your needs!](https://braverhealth.typeform.com/to/D8CEMzqZ)
 
 </details>
 
 <details>
 
-<summary>Quels réseaux peuvent être utilisés pour la communication?</summary>
+<summary>Can I set myself as unavailable to avoid receiving notifications outside of work hours?</summary>
 
-Braver fonctionne bien lorsque vous êtes connecté à un réseau wifi, le réseau Internet cellulaire (3G, LTE, 5G), mais pas les réseaux de téléphonie et Bluetooth.&#x20;
+Yes, Braver aims to protect the balance between your professional and personal life.
 
-Dans ces situations, ce que vous partagez sera stocké temporairement et envoyé lorsque vous serez à nouveau connecté sur l’un des réseaux supportés.
+You can [configure your work hours](https://support-en.braver.net/guides/for-healthcare-workers/gestion-des-notifications/regler-son-horaire-de-disponibilites) to only receive notifications when you are working.
+
+If you are absent, you can use the [“Unavailability Period” feature](https://support-en.braver.net/guides/for-healthcare-workers/gestion-des-notifications/regler-sa-periode-dindisponibilite) which clearly indicates your absence and your return date to your collaborators.
+
+</details>
+
+<details>
+
+<summary>Can I find healthcare professionals outside my workplace?</summary>
+
+Braver allows you to create your own network of collaborators, but you can also find any professional present on the Braver network who wishes to be visible.
+
+You can also search by workplace if that is useful to you; a workplace groups all members of a healthcare organization, accessible with a single click!
+
+</details>
+
+<details>
+
+<summary>Which networks can be used for communication?</summary>
+
+Braver works well when you are connected to a Wi-Fi network, cellular Internet network (3G, LTE, 5G), but not telephone networks and Bluetooth.
+
+In these situations, what you share will be temporarily stored and sent when you are connected again to one of the supported networks.
 
 </details>
