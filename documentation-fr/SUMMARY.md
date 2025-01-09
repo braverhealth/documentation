@@ -20,10 +20,9 @@
 * [Appels audios et vidéos](pour-les-professionnels/appels-audios-et-videos/README.md)
 * [Canaux de soins](pour-les-professionnels/canaux-de-soins.md)
 * [Équipes](pour-les-professionnels/equipes.md)
-* [Communication patients et proche aidants](pour-les-professionnels/communication-patients-et-proche-aidants/README.md)
-  * [Comprendre la communication patient et proche aidant](pour-les-professionnels/communication-patients-et-proche-aidants/comprendre-la-communication-patient-et-proche-aidant.md)
-* [Gestion du profil](pour-les-professionnels/gestion-du-profil/README.md)
-* [Gestion des notifications](pour-les-professionnels/gestion-des-notifications/README.md)
+* [Communication patients et proche aidants](pour-les-professionnels/communication-patients-et-proche-aidants.md)
+* [Votre profil](pour-les-professionnels/gestion-du-profil/README.md)
+* [Contrôle des notifications](pour-les-professionnels/gestion-des-notifications/README.md)
 * [Sécurité](pour-les-professionnels/securite/README.md)
 
 ## Pour les administrateurs

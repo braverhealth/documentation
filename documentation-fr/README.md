@@ -56,7 +56,7 @@ Commencer par [un survol](pour-les-professionnels/pour-debuter.md), ou passez di
 * [Canaux de soins](pour-les-professionnels/canaux-de-soins.md)
 * [Fiches patients](pour-les-professionnels/fiches-patients.md)
 * [Équipes](pour-les-professionnels/equipes.md)
-* [Communication patients et proches aidant](pour-les-professionnels/communication-patients-et-proche-aidants/)
+* [Communication patients et proches aidant](pour-les-professionnels/communication-patients-et-proche-aidants.md)
 * [Gestion du profil](pour-les-professionnels/gestion-du-profil/)
 * [Gestion des notifications](pour-les-professionnels/gestion-des-notifications/)
 * [Sécurité](pour-les-professionnels/securite/)

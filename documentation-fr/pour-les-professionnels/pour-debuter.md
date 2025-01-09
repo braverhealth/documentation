@@ -43,8 +43,8 @@ Elle peut être utilisée à partir des applications mobiles natives [iOS](https
 [equipes.md](equipes.md)
 {% endcontent-ref %}
 
-{% content-ref url="communication-patients-et-proche-aidants/" %}
-[communication-patients-et-proche-aidants](communication-patients-et-proche-aidants/)
+{% content-ref url="communication-patients-et-proche-aidants.md" %}
+[communication-patients-et-proche-aidants.md](communication-patients-et-proche-aidants.md)
 {% endcontent-ref %}
 
 ### Configurer Braver

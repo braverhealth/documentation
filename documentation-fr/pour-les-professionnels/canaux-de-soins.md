@@ -4,7 +4,7 @@ icon: dice-d6
 
 # Canaux de soins
 
-Les canaux de soins sont des espaces sécurisés partagés entre plusieurs parties (professionnels de la santé, [équipes](equipes.md) et possiblement le [patient ou ses proches aidants](communication-patients-et-proche-aidants/)) dans lesquels les participants peuvent créer des fils de discussions et déposer des documents, fichiers multimédias et formulaires.
+Les canaux de soins sont des espaces sécurisés partagés entre plusieurs parties (professionnels de la santé, [équipes](equipes.md) et possiblement le [patient ou ses proches aidants](communication-patients-et-proche-aidants.md)) dans lesquels les participants peuvent créer des fils de discussions et déposer des documents, fichiers multimédias et formulaires.
 
 **N'hésitez-pas à consulter** [**nos guides dédiés**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/canaux-de-soins) **pour comprendre rapidement comment utiliser les canaux de soins.**
 
@@ -29,7 +29,7 @@ Les canaux de soins sont des espaces sécurisés partagés entre plusieurs parti
 * Un membre de l’équipe de soins d’un patient ayant créé ou ayant été invité dans un canal de soins (ex: son médecin de famille, le pharmacien, l’infirmière de soins à domicile) peut aisément initier des fils de discussions avec un ou plusieurs autres membres de l’équipe de soins, sur demande.
 * L'équipe d'un canal de soins peut comprendre:
   * des individus intervenants de santé
-  * le [patient ou des membres de l'entourage du patient](communication-patients-et-proche-aidants/) (ex: famille, proche-aidant)
+  * le [patient ou des membres de l'entourage du patient](communication-patients-et-proche-aidants.md) (ex: famille, proche-aidant)
   * des [équipes](equipes.md)
 * Lorsqu’une équipe de travail est invitée dans un canal de soins, on peut y désigner un de ses membres comme personne responsable du patient à un moment précis.
 * Le membre désigné d’une équipe de travail pour un canal de soins particulier peut changer avec le temps, soit par une intervention manuelle, ou par le biais d’une intégration avec un système source de gestion des horaires (personne de garde) ou de dossier patient (personne responsable du patient).
