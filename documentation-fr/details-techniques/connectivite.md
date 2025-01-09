@@ -44,4 +44,4 @@ Les URLs principales accédées par les utilisateurs seront pour l'[application 
 | Fichiers        | 35.215.48.170 | 80, 443 | HTTP, HTTPS |
 | Appels vidéos 1 | 34.47.16.38   | 3478    | UDP STUN    |
 | Appels vidéos 2 | 34.47.1.96    | 3478    | UDP STUN    |
-| Appels vidéos 3 | 334.47.26.100 | 443     | HTTPS       |
+| Appels vidéos 3 | 34.47.26.100  | 443     | HTTPS       |
