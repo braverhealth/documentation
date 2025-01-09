@@ -1,17 +1,16 @@
 ---
 icon: flag
 description: >-
-  Dans cette section, vous trouverez un survol des concepts de Braver pour vous
-  aider à mieux comprendre la plateforme et en tirer le maximum!
+  In this section, you will find an overview of Braver concepts to help you better understand the platform and get the most out of it!
 ---
 
-# Survol
+# Overview
 
-La plateforme Braver permet une communication facile, agréable et sécurisée entre deux parties ou plus.&#x20;
+The Braver platform allows easy, pleasant, and secure communication between two or more parties.
 
-Elle peut être utilisée à partir des applications mobiles natives [iOS](https://brvr.io/ios-app) et [Android](https://brvr.io/android-app), à partir de l’[application Web](https://app.braver.net/) ou à partir d’une version imbriquée à l’intérieur d’applications tierces.
+It can be used from the native mobile applications [iOS](https://brvr.io/ios-app) and [Android](https://brvr.io/android-app), from the [Web application](https://app.braver.net/), or from an embedded version within third-party applications.
 
-### Comprendre Braver
+### Understanding Braver
 
 {% content-ref url="creation-de-compte/" %}
 [creation-de-compte](creation-de-compte/)
@@ -25,7 +24,7 @@ Elle peut être utilisée à partir des applications mobiles natives [iOS](https
 [patient-files.md](patient-files.md)
 {% endcontent-ref %}
 
-### Communiquer avec Braver
+### Communicating with Braver
 
 {% content-ref url="discussion-threads.md" %}
 [discussion-threads.md](discussion-threads.md)
@@ -47,7 +46,7 @@ Elle peut être utilisée à partir des applications mobiles natives [iOS](https
 [patient-and-caregivers.md](patient-and-caregivers.md)
 {% endcontent-ref %}
 
-### Configurer Braver
+### Configuring Braver
 
 {% content-ref url="gestion-du-profil/" %}
 [gestion-du-profil](gestion-du-profil/)
@@ -60,4 +59,3 @@ Elle peut être utilisée à partir des applications mobiles natives [iOS](https
 {% content-ref url="securite/" %}
 [securite](securite/)
 {% endcontent-ref %}
-

@@ -2,42 +2,42 @@
 icon: dice-d6
 ---
 
-# Canaux de soins
+# Care Channels
 
-Les canaux de soins sont des espaces sécurisés partagés entre plusieurs parties (professionnels de la santé, [équipes](equipes.md) et possiblement le [patient ou ses proches aidants](patient-and-caregivers.md)) dans lesquels les participants peuvent créer des fils de discussions et déposer des documents, fichiers multimédias et formulaires.
+Care channels are secure spaces shared between multiple parties (healthcare professionals, [teams](teams.md), and possibly the [patient or their caregivers](patient-and-caregivers.md)) where participants can create discussion threads and upload documents, multimedia files, and forms.
 
-**N'hésitez-pas à consulter** [**nos guides dédiés**](https://support.braver.net/guides/for-healthcare-workers/care-channels) **pour comprendre rapidement comment utiliser les canaux de soins.**
+**Feel free to consult** [**our dedicated guides**](https://support-en.braver.net/guides/for-healthcare-workers/care-channels) **to quickly understand how to use care channels.**
 
 <details>
 
-<summary>Les <strong>canaux de soins</strong> en quelques lignes</summary>
+<summary>Care channels in a few lines</summary>
 
-* Un canal de soins regroupe en quelque sorte une “équipe de soins” dans laquelle se produisent des discussions. Ainsi, les fils de discussion peuvent être classés dans une fiche patient puis dans un canal de soins spécifique.
-* Les canaux de soins permettent de rejoindre toute l'équipe de soins en un seul clic, sans devoir ajouter tous les participants 1 à 10.
-  * Par exemple, sous la fiche d’un patient, on pourrait retrouver le canal de soins "Prescriptions" qui regroupe le médecin, l’infirmière et le pharmacien du patient. Toutes les discussions au sujet des prescriptions seront regroupées dans ce canal de soins.
-* Les discussions créées dans un canal peuvent inclure tous les intervenants de l’équipe de soins ou un sous-ensemble de celle-ci. Cela permet de notifier les bonnes personnes sans déranger les autres tout en s'assurant qu'elles aient tout de même accès à l'information partagée.
-* La communication avec un patient ou un membre de son entourage se fait via l'invitation de ces derniers dans un canal de soins.
+* A care channel groups a "care team" where discussions occur. Thus, discussion threads can be classified in a patient file and then in a specific care channel.
+* Care channels allow reaching the entire care team with a single click, without having to add all participants one by one.
+  * For example, under a patient's file, you might find the "Prescriptions" care channel that includes the doctor, nurse, and pharmacist of the patient. All discussions about prescriptions will be grouped in this care channel.
+* Discussions created in a channel can include all members of the care team or a subset of it. This allows notifying the right people without disturbing others while ensuring they still have access to the shared information.
+* Communication with a patient or a member of their entourage is done by inviting them into a care channel.
 
 </details>
 
 <details>
 
-<summary>Dites-moi en plus!</summary>
+<summary>Tell me more!</summary>
 
-* Un canal de soins est toujours associé à une fiche-patient.
-* Ces canaux sont titrés afin d’offrir un contexte immédiatement reconnaissable par les membres de l’équipe de soins (par exemple: “Soins de confort”, “Mal de dos chronique”, “Soins multidisciplinaires”, “Hospitalisation” etc.).
-* Un membre de l’équipe de soins d’un patient ayant créé ou ayant été invité dans un canal de soins (ex: son médecin de famille, le pharmacien, l’infirmière de soins à domicile) peut aisément initier des fils de discussions avec un ou plusieurs autres membres de l’équipe de soins, sur demande.
-* L'équipe d'un canal de soins peut comprendre:
-  * des individus intervenants de santé
-  * le [patient ou des membres de l'entourage du patient](patient-and-caregivers.md) (ex: famille, proche-aidant)
-  * des [équipes](equipes.md)
-* Lorsqu’une équipe de travail est invitée dans un canal de soins, on peut y désigner un de ses membres comme personne responsable du patient à un moment précis.
-* Le membre désigné d’une équipe de travail pour un canal de soins particulier peut changer avec le temps, soit par une intervention manuelle, ou par le biais d’une intégration avec un système source de gestion des horaires (personne de garde) ou de dossier patient (personne responsable du patient).
-* Les discussions créées dans un canal peuvent inclure tous les intervenants de l’équipe de soins ou un sous-ensemble de celle-ci.
-* L’équipe de soins rassemblée dans un canal de ce type peut être composée de membres provenant d’une même organisation ou de différentes organisations, puisque toutes et tous se trouvent au sein d’un seul et unique réseau.
-  * Lorsque le consentement du patient est implicite entre les différentes parties (ex: différentes équipes au sein d’un hôpital), le consentement n’est pas demandé puisqu’il n’est pas nécessaire.
-  * Lorsqu’un utilisateur ou une équipe est invitée dans un canal de soins mais qu’il n’y a pas de consentement implicite du patient entre la partie qui invite et celle qui est invitée, Braver demande et collige que la personne qui invite ait obtenu le consentement du patient à inclure l’autre partie dans le canal de soins.
-* Un canal de soins peut être créé automatiquement par le biais d’une intégration avec un système tiers, par exemple suite à un événement qui nécessite un échange d’information entre des professionnels désignés
-* Lors d’une invitation à être inclus dans un canal de soins, l’invité a le choix d’accepter ou de décliner l’invitation, sauf pour les patient ou proches aidants.
+* A care channel is always associated with a patient file.
+* These channels are titled to offer an immediately recognizable context for the care team members (e.g., "Comfort Care", "Chronic Back Pain", "Multidisciplinary Care", "Hospitalization", etc.).
+* A member of the patient's care team who created or was invited to a care channel (e.g., their family doctor, pharmacist, home care nurse) can easily initiate discussion threads with one or more other care team members as needed.
+* The team of a care channel can include:
+  * individual healthcare providers
+  * the [patient or members of the patient's entourage](patient-and-caregivers.md) (e.g., family, caregiver)
+  * [teams](teams.md)
+* When a work team is invited to a care channel, one of its members can be designated as the person responsible for the patient at a specific time.
+* The designated member of a work team for a particular care channel can change over time, either manually or through integration with a source system for schedule management (on-call person) or patient records (person responsible for the patient).
+* Discussions created in a channel can include all members of the care team or a subset of it.
+* The care team gathered in such a channel can be composed of members from the same organization or different organizations, as they are all within a single network.
+  * When the patient's consent is implicit between the different parties (e.g., different teams within a hospital), consent is not requested as it is not necessary.
+  * When a user or team is invited to a care channel but there is no implicit patient consent between the inviting party and the invited party, Braver requests and records that the inviting person has obtained the patient's consent to include the other party in the care channel.
+* A care channel can be created automatically through integration with a third-party system, for example, following an event that requires information exchange between designated professionals.
+* When invited to be included in a care channel, the invitee can choose to accept or decline the invitation, except for patients or caregivers.
 
 </details>

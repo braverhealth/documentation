@@ -2,27 +2,27 @@
 icon: folder-medical
 ---
 
-# Fiches patient
+# Patient Files
 
-Pour visionner, créer ou modifier des fiches patients, vous pouvez utiliser l'onglet "Patients".
+To view, create, or modify patient files, you can use the "Patients" tab.
 
-1. Le filtres **Avec fils actifs** vous montre les patients pour lesquels il y a actuellement des fils en cours qui les concerne. Si vous faites partie d'une équipe et que vous avec les permissions de voir les discussions que les autres membres de votre équipe ont par rapport à des patients de votre organisation, vous verrez également ces patients ici.
-2. Le filtres **Où je participe** est seulement visible si vous faites partie d'une équipe et que vous avec les permissions de voir les discussions que les autres membres de votre équipe ont par rapport à des patients de votre organisation. Il sert à ne montrer que les patients pour lesquels il y a des fils de discussions ou des canaux de soins où vous avez été personnellement impliqué.
-3. Le bouton pour créer une nouvelle fiche patient se trouve en bas à droite.
-4. La barre de recherche vous permet de trouver des fiches patients que vous avez créées où qui ont été créées dans votre unité organisationnelle (si vous faites partie d'une organisation).
+1. The **With active threads** filter shows you the patients for whom there are currently ongoing threads that concern them. If you are part of a team and have the permissions to see the discussions that other team members have regarding patients in your organization, you will also see these patients here.
+2. The **Where I participate** filter is only visible if you are part of a team and have the permissions to see the discussions that other team members have regarding patients in your organization. It serves to show only the patients for whom there are discussion threads or care channels where you have been personally involved.
+3. The button to create a new patient file is located at the bottom right.
+4. The search bar allows you to find patient files that you have created or that have been created in your organizational unit (if you are part of an organization).
 
 <div align="center"><figure><img src="../.gitbook/assets/Creer une nouvelle fiche patient - Step4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**N'hésitez-pas à consulter** [**nos guides dédiés**](https://support.braver.net/guides/for-healthcare-workers/patient-files) **pour comprendre rapidement comment utiliser les fiches patients.**
+**Feel free to consult** [**our dedicated guides**](https://support.braver.net/guides/for-healthcare-workers/patient-files) **to quickly understand how to use patient files.**
 
 <details>
 
-<summary>Les <strong>fiches patients</strong> en quelques lignes</summary>
+<summary>The <strong>patient files</strong> in a few lines</summary>
 
-* Les fiches patients permettent d’identifier les patients au sujet desquels vous collaborez. Tous les fils de discussions cliniques au sujet de ce patient seront enregistrés à cet emplacement.
-* Chaque professionnel indépendant ou organisation peut créer des patient-files, et collaborer avec d’autres intervenants en utilisant ces fiches comme ancrages.
-* Ces fiches colligent toute l’information échangée ainsi que les consentements obtenues de la part des patients pour effectuer ces échanges au sein de canaux sécurisés.
-* Afin de préserver la confidentialité, les patient-files détenues par les professionnels ou organisations ne sont pas, elles-mêmes, partagées lors d’une collaboration avec d’autres intervenants. Les informations nominatives, par contre, sont bel et bien partagées afin de simplifiées Chacun possède sa propre fiche et a ainsi sa propre perspective de l’information du patient, à la hauteur de ce à quoi il peut avoir accès.&#x20;
-* Les patient-files d’une organisation peuvent être arrimées et/ou synchronisées à un index patient centralisé afin d’assurer une continuité de l’information et un référencement adéquat.
+* Patient files allow identifying the patients about whom you collaborate. All clinical discussion threads about this patient will be recorded in this location.
+* Each independent professional or organization can create patient files and collaborate with other stakeholders using these files as anchors.
+* These files collect all exchanged information as well as the consents obtained from patients to carry out these exchanges within secure channels.
+* To preserve confidentiality, the patient files held by professionals or organizations are not themselves shared during collaboration with other stakeholders. However, nominative information is indeed shared to simplify the process. Each person has their own file and thus their own perspective of the patient's information, to the extent of what they can access.
+* The patient files of an organization can be aligned and/or synchronized with a centralized patient index to ensure continuity of information and proper referencing.
 
 </details>

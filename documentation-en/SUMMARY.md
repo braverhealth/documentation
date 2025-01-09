@@ -13,17 +13,17 @@
 ## For Healthcare Professionals
 
 * [Overview](for-healthcare-workers/overview.md)
-* [Account Creation](for-healthcare-workers/creation-de-compte/README.md)
-* [The Network](for-healthcare-workers/reseau.md)
+* [Account Creation](for-healthcare-workers/account-creation/README.md)
+* [The Network](for-healthcare-workers/network.md)
 * [Patient Files](for-healthcare-workers/patient-files.md)
 * [Discussion Threads](for-healthcare-workers/discussion-threads.md)
-* [Audio and Video Calls](for-healthcare-workers/appels-audios-et-videos/README.md)
+* [Audio and Video Calls](for-healthcare-workers/audio-and-video-calls/README.md)
 * [Care Channels](for-healthcare-workers/care-channels.md)
-* [Teams](for-healthcare-workers/equipes.md)
+* [Teams](for-healthcare-workers/teams.md)
 * [Patient and Caregiver Communication](for-healthcare-workers/patient-and-caregivers.md)
-* [Your Profile](for-healthcare-workers/gestion-du-profil/README.md)
-* [Notification Control](for-healthcare-workers/gestion-des-notifications/README.md)
-* [Security](for-healthcare-workers/securite/README.md)
+* [Your Profile](for-healthcare-workers/profile/README.md)
+* [Notification Control](for-healthcare-workers/notifications/README.md)
+* [Security](for-healthcare-workers/security/README.md)
 
 ## For Administrators
 
@@ -36,7 +36,7 @@
 * [Audit Logs](for-admins/audit-logs/README.md)
   * [What can I find in the audit log?](for-admins/audit-logs/what-can-i-find-in-the-audit-log.md)
 * [Directories](for-admins/directories.md)
-* [Remotely Managed Mobile Device](for-admins/appareil-mobile-gere-a-distance.md)
+* [Remotely Managed Mobile Device](for-admins/remotely-managed-mobile-device.md)
 
 ## Technical Details
 

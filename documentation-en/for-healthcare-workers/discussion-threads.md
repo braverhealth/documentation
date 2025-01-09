@@ -2,52 +2,52 @@
 icon: message-pen
 ---
 
-# Fils de discussions
+# Discussion Threads
 
-Tout échange d’information sur la plateforme se fait par le biais de fils de discussion (et par des [messages directs avec des amis](https://support.braver.net/for-healthcare-workers/reseau#vos-amis), mais ceux-ci ne sont pas abordés dans cette page).&#x20;
+All information exchanges on the platform are done through discussion threads (and through [direct messages with friends](https://support.braver.net/for-healthcare-workers/reseau#vos-amis), but these are not covered on this page).
 
-Les fils de discussion peuvent inclure des messages (textuels, vocaux et vidéos), des fichiers (photos, vidéos ou documents). Un fil peut être clos lorsqu’il est considéré comme terminé, ce qui le rend immuable.
+Discussion threads can include messages (text, voice, and video), files (photos, videos, or documents). A thread can be closed when it is considered finished, making it immutable.
 
-**N'hésitez-pas à consulter** [**nos guides dédiés**](https://support.braver.net/guides/for-healthcare-workers/discussion-threads) **pour comprendre rapidement comment utiliser les fils de discussion.**
+**Feel free to consult** [**our dedicated guides**](https://support.braver.net/guides/for-healthcare-workers/discussion-threads) **to quickly understand how to use discussion threads.**
 
-### Accepter et refuser
+### Accepting and Declining
 
-Lorsque vous êtes invités dans un fil de discussion par un collègue à l'extérieur de votre organisation, vous aurez l'option d'**accepter** ou **refuser** la discussion. Si vous refusez, le fil de discussion disparaîtra complètement et ne pourra plus être retrouvée. L'envoyeur verra aussi que vous avez refusé.
+When you are invited to a discussion thread by a colleague outside your organization, you will have the option to **accept** or **decline** the discussion. If you decline, the discussion thread will disappear completely and cannot be retrieved. The sender will also see that you have declined.
 
-Si vous acceptez le fil de discussion, vous pourrez commencer à échanger des messages ou du contenu.&#x20;
+If you accept the discussion thread, you can start exchanging messages or content.
 
-Vous pourrez par la suite quitter le fil de discussion lorsque vous considérez que c'est adéquat, ce qui le fera disparaître de vos [fils actifs](discussion-threads.md#fils-actifs). Il sera par contre toujours accessible aux endroits pertinents (p.ex. profil du collègue, fiche patient, etc).
+You can later leave the discussion thread when you consider it appropriate, which will make it disappear from your [active threads](discussion-threads.md#fils-actifs). However, it will still be accessible in relevant places (e.g., colleague's profile, patient file, etc.).
 
-## Types de fils de discussion
+## Types of Discussion Threads
 
-### Fils de discussion clinique
+### Clinical Discussion Threads
 
-Un fil de discussion clinique est **relié à un patient**. C'est une discussion que vous pouvez avoir avec une personne ou en équipe.
+A clinical discussion thread is **linked to a patient**. It is a discussion you can have with a person or a team.
 
-Vous pouvez démarrer un fil de discussion clinique dans un **canal de soins** ou **hors canal**. [Les canaux de soins](care-channels.md) vous aident à regrouper les fils de discussions sous un même thème en plus d'ajouter automatiquement les personnes requises à la discussion.
+You can start a clinical discussion thread in a **care channel** or **outside a channel**. [Care channels](care-channels.md) help you group discussion threads under the same theme and automatically add the required people to the discussion.
 
-### Fils de discussion non-clinique
+### Non-Clinical Discussion Threads
 
-Un fil de discussion non clinique **n'est pas relié à un patient**. C'est une discussion que vous pouvez avoir avec une personne ou en équipe.
+A non-clinical discussion thread **is not linked to a patient**. It is a discussion you can have with a person or a team.
 
-Si la discussion évolue et que vous voyez qu'il serait préférable de l'associer à un patient, il est possible de le faire.
+If the discussion evolves and you see that it would be better to associate it with a patient, it is possible to do so.
 
-## Comment s'y retrouver?
+## How to Find Them?
 
-### Fils actifs
+### Active Threads
 
-L'onglet **Fils actifs** dans l'onglet d'**Accueil** vous montre tous les fils de discussion où vous êtes actifs et qui ne sont pas clos. Ceci comprend les fils de discussions cliniques et non-cliniques.
+The **Active Threads** tab in the **Home** tab shows you all the discussion threads where you are active and that are not closed. This includes both clinical and non-clinical discussion threads.
 
-Ainsi, si vous quittez un fil de discussion ou si celui-ci se ferme, il disparaîtra de cette liste.
+Thus, if you leave a discussion thread or if it closes, it will disappear from this list.
 
-Si quelqu'un écrit quelque chose que vous n'avez pas encore vu et que la discussion se ferme immédiatement après, vous le verrez encore dans cette liste afin de vous permettre de voir le message que vous n'avez pas encore vu. Par la suite, il disparaîtra de cette liste.
+If someone writes something you haven't seen yet and the discussion closes immediately after, you will still see it in this list to allow you to see the message you haven't seen yet. After that, it will disappear from this list.
 
-### Fils de discussions liés à des contacts du réseau
+### Discussion Threads Linked to Network Contacts
 
-Si vous naviguez vers le profil d'un collègue avec qui vous avez eu des discussions (voici [comment](https://support.braver.net/guides/for-healthcare-workers/reseau/consulter-le-profil-des-utilisateurs-sur-le-reseau)), vous y trouverez la liste des fils de discussions où vous et ce collègue avec participé, ce qui va inclure toutes l'historique des fils cliniques et non-cliniques, ouverts ou fermés.
+If you navigate to the profile of a colleague with whom you have had discussions (here's [how](https://support.braver.net/guides/for-healthcare-workers/reseau/consulter-le-profil-des-utilisateurs-sur-le-reseau)), you will find the list of discussion threads where you and this colleague have participated, which will include all the history of clinical and non-clinical threads, open or closed.
 
-### Fils de discussions liés à des fiches patients
+### Discussion Threads Linked to Patient Files
 
-Si vous naviguez vers une [fiche patient](patient-files.md), vous y trouverez entre autres toute l'historique des fils de discussion qui y sont rattachés, ouverts ou fermés.
+If you navigate to a [patient file](patient-files.md), you will find among other things the entire history of discussion threads attached to it, open or closed.
 
-Les fils de discussions cliniques qui concerne des patients peuvent aussi se trouver dans des canaux de soins. Dans ces cas, vous les trouverez en navigant dans le canal de soins.
+Clinical discussion threads concerning patients can also be found in care channels. In these cases, you will find them by navigating in the care channel.

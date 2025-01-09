@@ -2,38 +2,38 @@
 icon: mobile-notch
 ---
 
-# Compatibilité
+# Compatibility
 
-### Appareil mobile
+### Mobile Device
 
-* Version d'**iOS** / **iPadOS** minimale: **15.1**
-* Version d'**Android** minimale: **7.0**
+* Minimum **iOS** / **iPadOS** version: **15.1**
+* Minimum **Android** version: **7.0**
 
 <details>
 
-<summary>Utilisation en mode "géré à distance"</summary>
+<summary>Using in "remotely managed" mode</summary>
 
-Si vous êtes une organisation de santé et que vous désirez distribuer Braver à des patients ou proches aidants sur des appareils mobiles qui vous appartiennent, vous avez la possibilité d'utiliser Braver en [mode **géré à distance**](../for-admins/appareil-mobile-gere-a-distance.md)**.**&#x20;
+If you are a healthcare organization and want to distribute Braver to patients or caregivers on mobile devices that you own, you have the option to use Braver in [**remotely managed** mode](../for-admins/remotely-managed-mobile-device.md).
 
-Dans ce mode:
+In this mode:
 
-* L'utilisateur ne pourra pas déconnecter son compte par mégarde (ce qui diminuera les besoins en assistance sur vos équipes)
-* L'utilisateur n'aura plus à saisir son NIP pour déverrouiller l'application Braver (seulement possible si un NIP ou une reconnaissance biométrique est activé sur l'appareil mobile)
+* The user will not be able to accidentally log out of their account (which will reduce support needs for your teams)
+* The user will not have to enter their PIN to unlock the Braver app (only possible if a PIN or biometric recognition is enabled on the mobile device)
 
-Pour ce mode, seulement iOS et iPadOS sont supportés et nous recommandons **au minimum** les appareils suivants pour leur sécurité accrue:
+For this mode, only iOS and iPadOS are supported, and we recommend **at minimum** the following devices for their increased security:
 
-* iPhone XS et XS Max
+* iPhone XS and XS Max
 * iPad Air 3
 * iPad mini 5
-* iPad 8e génération
+* 8th generation iPad
 
 </details>
 
-### Navigateur Web
+### Web Browser
 
-* **Google Chrome** ou **Microsoft Edge**: version minimale **120.0**
-* **Apple Safari**: version minimale **16.0**
+* **Google Chrome** or **Microsoft Edge**: minimum version **120.0**
+* **Apple Safari**: minimum version **16.0**
 
 {% hint style="warning" %}
-Nous rencontrons actuellement quelques problèmes avec Firefox actuellement. Nous travaillons à corriger cela aussitôt que possible.
+We are currently experiencing some issues with Firefox. We are working to fix this as soon as possible.
 {% endhint %}

@@ -2,12 +2,12 @@
 icon: message-heart
 ---
 
-# Communication patients et proche aidants
+# Communication with Patients and Caregivers
 
-Un professionnel de la santé ou une organisation peut inviter le patient ou des collaborateurs externes qui ne font pas partie du réseau Braver, mais qui gravitent tout de même autour du patient (ex: parents, proches-aidants), afin de communiquer et d’échanger.
+A healthcare professional or an organization can invite the patient or external collaborators who are not part of the Braver network but are still involved with the patient (e.g., parents, caregivers) to communicate and exchange information.
 
-1. Un patient ou proche-aidant est toujours invité à partir d'une ou plusieurs [fiches patients](patient-files.md)
-2. Pour échanger avec ceux-ci, on créera des [canaux de soins](care-channels.md) en les y invitant spécifiquement
-3. Ces canaux de soins rassemblent ainsi toute l'information échangé avec le patient et ses proches de manière à les distinguer des autres canaux d'échanges interprofessionnels, ce qui permet d'éviter les erreurs
+1. A patient or caregiver is always invited from one or more [patient files](patient-files.md)
+2. To communicate with them, [care channels](care-channels.md) are created, specifically inviting them
+3. These care channels gather all the information exchanged with the patient and their caregivers in a way that distinguishes them from other interprofessional exchange channels, helping to avoid errors
 
-**N'hésitez-pas à consulter** [**nos guides dédiés**](https://support.braver.net/guides/for-healthcare-workers/patient-and-caregivers) **pour comprendre rapidement comment communiquer avec les patients et les proches aidants.**
+**Feel free to consult** [**our dedicated guides**](https://support.braver.net/guides/for-healthcare-workers/patient-and-caregivers) **to quickly understand how to communicate with patients and caregivers.**

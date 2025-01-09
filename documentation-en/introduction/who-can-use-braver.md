@@ -2,33 +2,33 @@
 icon: person-circle-question
 ---
 
-# Qui peut rejoindre Braver?
+# Who can join Braver?
 
-## Professionnels de la santé
+## Healthcare Professionals
 
-### Participation autonome
+### Independent Participation
 
-La plateforme Braver offre un réseau unique pour tous les professionnels de la santé. Ceux-ci peuvent devenir membres du réseau Braver de façon indépendante, c’est-à-dire qu’il n’est pas nécessaire que l'organisation pour laquelle il ou elle travaille soit membre du réseau.
+The Braver platform offers a unique network for all healthcare professionals. They can become members of the Braver network independently, meaning it is not necessary for the organization they work for to be a member of the network.
 
-### Profil détaillé
+### Detailed Profile
 
-Chaque professionnel de la santé peut créer son propre profil détaillé qui lui permettra d’être visible sur le réseau et d’ainsi pouvoir être contacté par d’autres professionnels. Le profil détaillé présente la profession du professionnel, ses diplômes, ses compétences particulières, son lieu de travail et ses coordonnées.
+Each healthcare professional can create their own detailed profile, which will allow them to be visible on the network and thus be able to be contacted by other professionals. The detailed profile presents the professional's occupation, degrees, specific skills, workplace, and contact information.
 
-## Organisations de santé
+## Healthcare Organizations
 
-Les organisations du réseau de Braver peuvent inclure n’importe quelle entité qui
+Organizations in the Braver network can include any entity that:
 
-* nécessite le partage ou la centralisation de l’information d’une banque de patients communs
-* regroupe plus d’un professionnel du réseau de la santé, lesquels peuvent afficher leur affiliation à celle-ci
-* peut être habilitée à confirmer qu’un membre est bel et bien un professionnel de la santé qualifié
-* compte parmi ses membres du personnel qui n’est pas professionnel de la santé
+* Requires the sharing or centralization of information from a common patient database
+* Groups more than one healthcare network professional, who can display their affiliation with it
+* Can be authorized to confirm that a member is indeed a qualified healthcare professional
+* Includes among its members staff who are not healthcare professionals
 
-**Un utilisateur de Braver peut être membre d’une ou de plusieurs organisations distinctes.** Ainsi, un membre administratif d’une organisation invite d’autres membres de Braver à faire partie de l’organisation et ceux-ci reçoivent du même coup un ou plusieurs rôles applicables.
+**A Braver user can be a member of one or more distinct organizations.** Thus, an administrative member of an organization invites other Braver members to join the organization, and they receive one or more applicable roles.
 
 {% hint style="warning" %}
-Un utilisateur de Braver qui est membre de plusieurs organisations ne peut avoir qu’un seul contexte organisationnel actif à la fois.&#x20;
+A Braver user who is a member of multiple organizations can only have one active organizational context at a time.
 
-Ainsi, les canaux ou patient-files auxquels il ou elle a accès à un temps donné sont toujours ceux d’une seule organisation à la fois, et l’identification de cette organisation active est évidente visuellement dans l’application.
+Thus, the channels or patient files they have access to at any given time are always those of a single organization at a time, and the identification of this active organization is visually evident in the application.
 {% endhint %}
 
-Un utilisateur de Braver peut ne pas être un professionnel de la santé si il ou elle est invité explicitement dans un [canal de soins](https://docs.google.com/document/d/1OxaaFzT7lZjQyaFeG_DALoue5b6wGzeR4pDodEXeHpA/edit#heading=h.6dmeksci3s91) ou dans une organisation.
+A Braver user may not be a healthcare professional if they are explicitly invited into a [care channel](https://docs.google.com/document/d/1OxaaFzT7lZjQyaFeG_DALoue5b6wGzeR4pDodEXeHpA/edit#heading=h.6dmeksci3s91) or an organization.

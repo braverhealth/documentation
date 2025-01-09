@@ -2,13 +2,13 @@
 icon: hospital
 ---
 
-# Dans quel contexte peut-on l'utiliser?
+# In what context can it be used?
 
-Braver est un outil de communication clinique adapté au domaine de la santé, mais transversal à tout l'écosystème, c'est-à-dire qu'il peut être utilisé autant en milieu hospitalier, que dans la communauté ou au privé. Voici quelques exemple de cas d'utilisation:
+Braver is a clinical communication tool adapted to the healthcare field, but transversal to the entire ecosystem, meaning it can be used in hospitals, in the community, or in private settings. Here are some examples of use cases:
 
-* Trajectoire d'hospitalisation à domicile ou suivi à distance (ex: post-chirurgie)
-* Communication interprofessionnelle intra-hospitalière
-* Coordination des équipes d'intervenants en soins de longue durée ou intra-hospitalier pour améliorer fluidité hospitalière
-* Réunion virtuelle avec le patient et/ou le soignant
-* Échange d'information avec les patients, familles et/ou proches aidants
-* Communication entre des intervants en GMF et des organismes communautaires
+* Home hospitalization trajectory or remote follow-up (e.g., post-surgery)
+* Intra-hospital interprofessional communication
+* Coordination of care teams in long-term care or intra-hospital to improve hospital flow
+* Virtual meetings with the patient and/or caregiver
+* Information exchange with patients, families, and/or caregivers
+* Communication between GMF (Family Medicine Groups) professionals and community organizations

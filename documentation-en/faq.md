@@ -42,7 +42,7 @@ La cybersécurité de Braver a aussi fait l’objet d’un processus d’audit p
 
 <summary>Que dois-je faire en cas de perte de mon mot de passe?</summary>
 
-Utilisez notre [guide pour réinitialiser votre mot de passe](https://support.braver.net/guides/for-healthcare-workers/securite/reinitialiser-son-mot-de-passe)!
+Utilisez notre [guide pour réinitialiser votre mot de passe](https://support-en.braver.net/guides/for-healthcare-workers/securite/reinitialiser-son-mot-de-passe)!
 
 </details>
 
@@ -56,7 +56,7 @@ Braver protège les données échangées, mais ne veut pas les garder en otage! 
 
 [Écrivez-nous pour en savoir plus!](mailto:bonjour@braver.health)
 
-En attendant, vous pouvez facilement [exporter le contenu des collaborations en PDF](https://support.braver.net/guides/for-healthcare-workers/discussion-threads/fermer-et-exporter-en-pdf-un-fil-de-discussion) et les joindre directement à votre logiciel de tenue de dossiers pour faciliter votre suivi médico-légal.
+En attendant, vous pouvez facilement [exporter le contenu des collaborations en PDF](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads/fermer-et-exporter-en-pdf-un-fil-de-discussion) et les joindre directement à votre logiciel de tenue de dossiers pour faciliter votre suivi médico-légal.
 
 </details>
 
@@ -64,9 +64,9 @@ En attendant, vous pouvez facilement [exporter le contenu des collaborations en 
 
 <summary>Pouvons-nous envoyer des photos, vidéos, documents, etc.?</summary>
 
-Dans la version gratuite de Braver, il vous est permis de partager des photos, des documents et des [messages audios retranscrits](https://support.braver.net/guides/for-healthcare-workers/discussion-threads/ajouter-un-message-vocal-a-une-discussion).&#x20;
+Dans la version gratuite de Braver, il vous est permis de partager des photos, des documents et des [messages audios retranscrits](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads/ajouter-un-message-vocal-a-une-discussion).&#x20;
 
-La fonctionnalité du partage et de l'[édition de vidéo](https://support.braver.net/guides/for-healthcare-workers/discussion-threads/editer-une-photo-ou-une-video) est une fonctionnalité avancée, tout comme l'[édition de photos](https://support.braver.net/guides/for-healthcare-workers/discussion-threads/editer-une-photo-ou-une-video).
+La fonctionnalité du partage et de l'[édition de vidéo](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads/editer-une-photo-ou-une-video) est une fonctionnalité avancée, tout comme l'[édition de photos](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads/editer-une-photo-ou-une-video).
 
 [Contactez-nous si cela fait partie de vos besoins!](https://braverhealth.typeform.com/to/D8CEMzqZ)
 
@@ -78,9 +78,9 @@ La fonctionnalité du partage et de l'[édition de vidéo](https://support.brave
 
 Oui, Braver désire protéger l’équilibre entre votre vie professionnelle et votre vie personnelle.&#x20;
 
-Vous pouvez [configurer vos heures de travail](https://support.braver.net/guides/for-healthcare-workers/gestion-des-notifications/regler-son-horaire-de-disponibilites) pour ne recevoir les notifications que lorsque vous travaillez.&#x20;
+Vous pouvez [configurer vos heures de travail](https://support-en.braver.net/guides/for-healthcare-workers/gestion-des-notifications/regler-son-horaire-de-disponibilites) pour ne recevoir les notifications que lorsque vous travaillez.&#x20;
 
-Si vous vous absentez, vous pouvez utiliser [la fonctionnalité « Période d'indisponibilité »](https://support.braver.net/guides/for-healthcare-workers/gestion-des-notifications/regler-sa-periode-dindisponibilite) qui indique clairement votre absence ainsi que votre date de retour à vos collaborateurs.
+Si vous vous absentez, vous pouvez utiliser [la fonctionnalité « Période d'indisponibilité »](https://support-en.braver.net/guides/for-healthcare-workers/gestion-des-notifications/regler-sa-periode-dindisponibilite) qui indique clairement votre absence ainsi que votre date de retour à vos collaborateurs.
 
 </details>
 
