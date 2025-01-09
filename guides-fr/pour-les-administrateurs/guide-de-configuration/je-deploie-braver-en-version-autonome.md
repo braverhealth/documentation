@@ -80,6 +80,6 @@ Pour l'invitation des patients et proche aidants, celle-ci se fait par les clini
 
 Il ne reste que deux sections à parcourir:
 
-* [Module patient et proche aidant](https://braver-1.gitbook.io/braver/training/pour-les-administrateurs/guide-de-configuration#le-module-patient-et-proche-aidant) (si pertinent pour vous)
-* [Autres détails techniques ](https://braver-1.gitbook.io/braver/training/pour-les-administrateurs/guide-de-configuration#autres-details-techniques)(si pertinent pour vous)
+* [Module patient et proche aidant](https://support.braver.net/guides/pour-les-administrateurs/guide-de-configuration#le-module-patient-et-proche-aidant) (si pertinent pour vous)
+* [Autres détails techniques ](https://support.braver.net/guides/pour-les-administrateurs/guide-de-configuration#autres-details-techniques)(si pertinent pour vous)
 {% endhint %}

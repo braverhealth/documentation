@@ -20,7 +20,7 @@ Lorsque ce mode d’activation est utilisé, la préparation d’une tablette po
 
 1. Remise à zéro de la tablette afin d’effacer tout réglage ou historique provenant du patient précédent
 2. Installation de l’application Braver et du raccourci d’assistance sur la page d’accueil
-3. Activation du compte patient ou proche aidant (p.ex par [scan du code QR dans Leomed](https://braver-1.gitbook.io/braver/training/integrations/leomed/activer-un-compte-patient-ou-proche-aidant)).
+3. Activation du compte patient ou proche aidant (p.ex par [scan du code QR dans Leomed](https://support.braver.net/guides/integrations/leomed/activer-un-compte-patient-ou-proche-aidant)).
 
 #### SIM ou eSIM?
 

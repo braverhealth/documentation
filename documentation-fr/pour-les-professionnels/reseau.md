@@ -6,7 +6,7 @@ icon: globe
 
 Dans l'onglet Réseau de Braver, vous retrouverez **votre** réseau. Ce réseau est **le vôtre**, c'est à dire que vous êtes seul à voir ce que vous y ajoutez, et il vous permet de rendre facile d'accès les gens ou les équipes avec qui vous travaillez le plus fréquemment, afin de pouvoir leur parler rapidement.
 
-**N'hésitez-pas à consulter** [**nos guides dédiés**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/reseau) **pour comprendre rapidement comment utiliser le réseau.**
+**N'hésitez-pas à consulter** [**nos guides dédiés**](https://support.braver.net/guides/pour-les-professionnels/reseau) **pour comprendre rapidement comment utiliser le réseau.**
 
 <details>
 
@@ -24,7 +24,7 @@ Dans l'onglet Réseau de Braver, vous retrouverez **votre** réseau. Ce réseau 
 * Dans l’onglet Réseau de Braver, il est possible de retrouver tous les membres du réseau interne ou externe à votre établissement de travail dans la barre de recherche.
 * Si l’on discute fréquemment avec un professionnel de la santé, il est une bonne pratique de l’ajouter à notre bottin. Son ajout à des fils de discussion sera accéléré car il ou elle sera d'emblée suggéré.
 * Lorsque vous ajoutez un professionnel dans votre bottin, il n’est pas notifié.
-  * Voici [comment ajouter des gens à votre bottin](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/reseau/ajouter-un-contact-a-votre-bottin). L'ajout de lieux de travail fonctionne de la même manière.
+  * Voici [comment ajouter des gens à votre bottin](https://support.braver.net/guides/pour-les-professionnels/reseau/ajouter-un-contact-a-votre-bottin). L'ajout de lieux de travail fonctionne de la même manière.
 * Si vous invitez un collègue à être **ami,** il sera d'emblée également ajouté à votre bottin, et sera notifié de cette demande.
 
 </details>
@@ -40,8 +40,8 @@ Pour trouver des professionnels de la santé hors de votre organisation, vous de
 
 La validation de votre profession peut être faite de deux façons:
 
-* Un autre utilisateur de Braver ayant une profession validée vous invite sur le réseau. Voici [comment accepter une invitation](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/creation-de-compte/accepter-une-invitation) et [comment en envoyer une](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/reseau/inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver).
-* Vous ajoutez une profession à votre profil et fournissez des preuves à l'équipe de vérification de Braver. Voici [comment ajouter une profession à votre profil](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/gestion-du-profil/ajouter-sa-profession).
+* Un autre utilisateur de Braver ayant une profession validée vous invite sur le réseau. Voici [comment accepter une invitation](https://support.braver.net/guides/pour-les-professionnels/creation-de-compte/accepter-une-invitation) et [comment en envoyer une](https://support.braver.net/guides/pour-les-professionnels/reseau/inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver).
+* Vous ajoutez une profession à votre profil et fournissez des preuves à l'équipe de vérification de Braver. Voici [comment ajouter une profession à votre profil](https://support.braver.net/guides/pour-les-professionnels/gestion-du-profil/ajouter-sa-profession).
 {% endhint %}
 
 Une fois que vous avez trouvé les gens ou les lieux de travail que vous désirez garder à portée de main, cliquez sur le bouton **Ajouter à mon bottin!**

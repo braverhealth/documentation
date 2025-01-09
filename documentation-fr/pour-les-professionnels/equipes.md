@@ -6,7 +6,7 @@ icon: users
 
 Lorsque l'on crée un fil de discussion, on peut inclure des individus et des **équipes**. Une configuration adéquate des équipes permet à Braver de notifier les bonnes personnes au bon moment.
 
-**N'hésitez-pas à consulter** [**nos guides dédiés**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/equipes) **pour comprendre rapidement comment utiliser les équipes.**
+**N'hésitez-pas à consulter** [**nos guides dédiés**](https://support.braver.net/guides/pour-les-professionnels/equipes) **pour comprendre rapidement comment utiliser les équipes.**
 
 <details>
 

@@ -6,7 +6,7 @@ icon: dice-d6
 
 Les canaux de soins sont des espaces sécurisés partagés entre plusieurs parties (professionnels de la santé, [équipes](equipes.md) et possiblement le [patient ou ses proches aidants](communication-patients-et-proche-aidants.md)) dans lesquels les participants peuvent créer des fils de discussions et déposer des documents, fichiers multimédias et formulaires.
 
-**N'hésitez-pas à consulter** [**nos guides dédiés**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/canaux-de-soins) **pour comprendre rapidement comment utiliser les canaux de soins.**
+**N'hésitez-pas à consulter** [**nos guides dédiés**](https://support.braver.net/guides/pour-les-professionnels/canaux-de-soins) **pour comprendre rapidement comment utiliser les canaux de soins.**
 
 <details>
 

@@ -54,7 +54,7 @@ Prêt à commencer votre configuration? Cliquez sur ce qui convient à votre org
 
 ## Le module patient et proche aidant
 
-Si vous prévoyez utiliser le module patient et proche aidant via des appareils mobiles (ex: tablette) fournis et gérés par votre organisation, voici [un document pour vous guider dans le choix des appareils et certains éléments à considérer.](https://braver-1.gitbook.io/braver/pour-les-administrateurs/appareil-mobile-gere-a-distance)
+Si vous prévoyez utiliser le module patient et proche aidant via des appareils mobiles (ex: tablette) fournis et gérés par votre organisation, voici [un document pour vous guider dans le choix des appareils et certains éléments à considérer.](https://support.braver.net/pour-les-administrateurs/appareil-mobile-gere-a-distance)
 
 Si vous prévoyez utiliser le module patient et proche aidant en invitant ces derniers sur leurs appareils personnels (mobile ou ordinateur), nous recommandons de soutenir les personnes dans la création de leur compte. Si vous le faites en personne, assurez-vous d'avoir accès à un réseau Wifi ou des données cellulaires.
 
@@ -62,6 +62,6 @@ Nous avons également développer un outil de formation express pour les patient
 
 ## Autres détails techniques
 
-* [Informations sur la connectivité](https://braver-1.gitbook.io/braver/details-techniques/connectivite)
-* [Informations sur la compatibilité des appareils](https://braver-1.gitbook.io/braver/details-techniques/compatibilite)
+* [Informations sur la connectivité](https://support.braver.net/details-techniques/connectivite)
+* [Informations sur la compatibilité des appareils](https://support.braver.net/details-techniques/compatibilite)
 

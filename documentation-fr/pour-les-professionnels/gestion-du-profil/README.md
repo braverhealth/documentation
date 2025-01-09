@@ -13,4 +13,4 @@ Votre profil permet à vos collègues de vous reconnaître facilement lorsqu'ils
 * Votre ou vos professions (visibles seulement une fois qu'elles sont validées)
 * Votre ou vos lieux de travail
 
-**N'hésitez-pas à consulter** [**nos guides dédiés**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/gestion-du-profil) **pour voir rapidement comment configurer votre profil.**
+**N'hésitez-pas à consulter** [**nos guides dédiés**](https://support.braver.net/guides/pour-les-professionnels/gestion-du-profil) **pour voir rapidement comment configurer votre profil.**

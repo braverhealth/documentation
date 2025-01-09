@@ -4,11 +4,11 @@ icon: message-pen
 
 # Fils de discussions
 
-Tout échange d’information sur la plateforme se fait par le biais de fils de discussion (et par des [messages directs avec des amis](https://braver-1.gitbook.io/braver/pour-les-professionnels/reseau#vos-amis), mais ceux-ci ne sont pas abordés dans cette page).&#x20;
+Tout échange d’information sur la plateforme se fait par le biais de fils de discussion (et par des [messages directs avec des amis](https://support.braver.net/pour-les-professionnels/reseau#vos-amis), mais ceux-ci ne sont pas abordés dans cette page).&#x20;
 
 Les fils de discussion peuvent inclure des messages (textuels, vocaux et vidéos), des fichiers (photos, vidéos ou documents). Un fil peut être clos lorsqu’il est considéré comme terminé, ce qui le rend immuable.
 
-**N'hésitez-pas à consulter** [**nos guides dédiés**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/fils-de-discussions) **pour comprendre rapidement comment utiliser les fils de discussion.**
+**N'hésitez-pas à consulter** [**nos guides dédiés**](https://support.braver.net/guides/pour-les-professionnels/fils-de-discussions) **pour comprendre rapidement comment utiliser les fils de discussion.**
 
 ### Accepter et refuser
 
@@ -44,7 +44,7 @@ Si quelqu'un écrit quelque chose que vous n'avez pas encore vu et que la discus
 
 ### Fils de discussions liés à des contacts du réseau
 
-Si vous naviguez vers le profil d'un collègue avec qui vous avez eu des discussions (voici [comment](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/reseau/consulter-le-profil-des-utilisateurs-sur-le-reseau)), vous y trouverez la liste des fils de discussions où vous et ce collègue avec participé, ce qui va inclure toutes l'historique des fils cliniques et non-cliniques, ouverts ou fermés.
+Si vous naviguez vers le profil d'un collègue avec qui vous avez eu des discussions (voici [comment](https://support.braver.net/guides/pour-les-professionnels/reseau/consulter-le-profil-des-utilisateurs-sur-le-reseau)), vous y trouverez la liste des fils de discussions où vous et ce collègue avec participé, ce qui va inclure toutes l'historique des fils cliniques et non-cliniques, ouverts ou fermés.
 
 ### Fils de discussions liés à des fiches patients
 

@@ -20,4 +20,4 @@ L'horaire de disponibilité suit un récurrence définie afin de minimiser la co
 
 Lorsque vous configurez une période d'indisponibilité et qu'un collègue tente de vous rejoindre à l'intérieur de cette période, il voit une pastille rouge vis-à-vis votre nom, indiquant que vous êtes indisponible jusqu'à une certaine date et heure dans le futur.
 
-**N'hésitez-pas à consulter** [**nos guides dédiés**](https://braver-1.gitbook.io/braver/training/pour-les-professionnels/gestion-des-notifications) **pour comprendre rapidement comment configurer les contrôles de notification.**
+**N'hésitez-pas à consulter** [**nos guides dédiés**](https://support.braver.net/guides/pour-les-professionnels/gestion-des-notifications) **pour comprendre rapidement comment configurer les contrôles de notification.**
