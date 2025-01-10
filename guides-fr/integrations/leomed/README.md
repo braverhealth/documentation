@@ -20,9 +20,7 @@ layout:
 
 # Leomed
 
-<figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 22.34.16.gif" alt="" width="563"><figcaption></figcaption></figure>
-
-
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 22.34.16.gif" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### Avantages de l'intégration Leomed et Braver
 
