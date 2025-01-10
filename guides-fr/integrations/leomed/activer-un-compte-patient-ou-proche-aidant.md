@@ -4,7 +4,7 @@
 
 {% stepper %}
 {% step %}
-### Lorsque vous êtes dans une fiche patient de Leomed, vous verrez un icône de Braver en haut de la fiche du patient à gauche.
+#### Lorsque vous êtes dans une fiche patient de Leomed, vous verrez un icône de Braver en haut de la fiche du patient à gauche.
 
 Cliquez sur cet icône.
 
@@ -12,11 +12,14 @@ Cliquez sur cet icône.
 {% endstep %}
 
 {% step %}
-### Un code QR apparaitra au centre de l'écran.
+#### Un code QR apparaitra au centre de l'écran.
 
 Scannez ce code à l'aide d'un appareil disponible iOS ou Android pour initier le processus d'activation d'un compte qui sera associé à cette fiche patient Leomed.
 
+{% hint style="info" %}
+Sur l'appareil mobile ayant scanné ce code, le processus d'activation sera le même que le processus d'acceptation d'[une invitation pour patient ou proche aidant](../../pour-les-patients-et-proches-aidants/accepter-une-invitation.md).
+{% endhint %}
+
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 22.43.46@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
-
 {% endstepper %}
