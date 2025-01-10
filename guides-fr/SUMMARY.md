@@ -10,6 +10,7 @@
   * [Activation d'un compte par la bulle intégrée](pour-les-professionnels/creation-de-compte/activation-dun-compte-par-la-bulle-integree.md)
   * [Accepter une invitation](pour-les-professionnels/creation-de-compte/accepter-une-invitation.md)
   * [Connectez-vous instantanément sur mobile à partir de votre session Web](pour-les-professionnels/creation-de-compte/acceder-a-braver-sur-mobile-via-code-qr-partir-de-lapp-web.md)
+  * [Connectez-vous instantanément sur mobile à partir de la bulle intégrée](pour-les-professionnels/creation-de-compte/acceder-a-braver-sur-mobile-via-code-qr-partir-de-la-bulle-integree.md)
 * [Le réseau](pour-les-professionnels/reseau/README.md)
   * [Consulter le profil des utilisateurs sur le réseau](pour-les-professionnels/reseau/consulter-le-profil-des-utilisateurs-sur-le-reseau.md)
   * [Ajouter un contact à votre bottin](pour-les-professionnels/reseau/ajouter-un-contact-a-votre-bottin.md)
