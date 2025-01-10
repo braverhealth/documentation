@@ -1,6 +1,6 @@
 ---
 icon: plug
-cover: ../../.gitbook/assets/Frame 5 (1).png
+cover: ../../.gitbook/assets/Frame 5.png
 coverY: 0
 ---
 
