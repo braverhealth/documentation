@@ -20,6 +20,10 @@ layout:
 
 # Leomed
 
+<figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 22.34.16.gif" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
 ### Avantages de l'intégration Leomed et Braver
 
 * Aucune nécessité de dédoubler la gestion des accès à Braver pour les usagers de Leomed. **L'octroi d'accès est automatique en fonction de votre configuration de Gustav.**
