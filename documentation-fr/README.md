@@ -84,7 +84,7 @@ Et si vous avez besoin de connaître les détails techniques en vue d'un déploi
 
 </details>
 
-### Pour nous rejoindre
+### Pour nous rejoindre <a href="#pour-nous-rejoindre" id="pour-nous-rejoindre"></a>
 
 {% content-ref url="introduction/nous-rapporter-un-probleme.md" %}
 [nous-rapporter-un-probleme.md](introduction/nous-rapporter-un-probleme.md)
