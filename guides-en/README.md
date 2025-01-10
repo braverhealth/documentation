@@ -1,14 +1,11 @@
 ---
 icon: hand-wave
 description: >-
-  Bienvenue dans la section des guides et tutoriels! Vous y trouverez tout le
-  matériel pour vous accompagner pas-à-pas dans l'utilisation de la plateforme
-  Braver.
+  Welcome to the guides and tutorials section! Here you will find all the material to guide you step-by-step in using the Braver platform.
 ---
 
-# Bienvenue
+# Welcome
 
-## Qui êtes-vous?
+## Who are you?
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Un professionnel</strong></td><td>Si vous utilisez Braver pour communiquer dans le cadre de votre travail.</td><td></td><td><a href="pour-les-professionnels/debuter-ici.md">debuter-ici.md</a></td><td><a href=".gitbook/assets/clinician-woman-1.jpg">clinician-woman-1.jpg</a></td></tr><tr><td><strong>Un patient ou proche aidant</strong></td><td>Si vous utilisez Braver car vous avez été invité par votre équipe de soins ou celle d'un proche.</td><td></td><td><a href="pour-les-patients-et-proches-aidants/pour-debuter.md">pour-debuter.md</a></td><td><a href=".gitbook/assets/iStock-2063461725 copy.jpg">iStock-2063461725 copy.jpg</a></td></tr><tr><td><strong>Un administrateur</strong></td><td>Si vous gérez une déploiement de Braver dans votre organisation de santé.</td><td></td><td><a href="pour-les-administrateurs/pour-debuter.md">pour-debuter.md</a></td><td><a href=".gitbook/assets/professional-woman-1 (1).jpg">professional-woman-1 (1).jpg</a></td></tr></tbody></table>
-
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>A professional</strong></td><td>If you use Braver to communicate in your work.</td><td></td><td><a href="for-professionals/start-here.md">start-here.md</a></td><td><a href=".gitbook/assets/clinician-woman-1.jpg">clinician-woman-1.jpg</a></td></tr><tr><td><strong>A patient or caregiver</strong></td><td>If you use Braver because you have been invited by your care team or that of a loved one.</td><td></td><td><a href="for-patients-and-caregivers/start-here.md">start-here.md</a></td><td><a href=".gitbook/assets/iStock-2063461725 copy.jpg">iStock-2063461725 copy.jpg</a></td></tr><tr><td><strong>An administrator</strong></td><td>If you manage a Braver deployment in your healthcare organization.</td><td></td><td><a href="for-administrators/start-here.md">start-here.md</a></td><td><a href=".gitbook/assets/professional-woman-1 (1).jpg">professional-woman-1 (1).jpg</a></td></tr></tbody></table>
