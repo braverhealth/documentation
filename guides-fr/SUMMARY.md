@@ -7,7 +7,7 @@
 * [Débuter ici](pour-les-professionnels/debuter-ici.md)
 * [Création de compte](pour-les-professionnels/creation-de-compte/README.md)
   * [Création de compte autonome](pour-les-professionnels/creation-de-compte/creation-de-compte-autonome.md)
-  * [Activation d'un compte par la bulle intégrée](pour-les-professionnels/creation-de-compte/activation-dun-compte-par-la-bulle-integree.md)
+  * [Activer son compte par la bulle intégrée](pour-les-professionnels/creation-de-compte/activation-dun-compte-par-la-bulle-integree.md)
   * [Accepter une invitation](pour-les-professionnels/creation-de-compte/accepter-une-invitation.md)
   * [Connectez-vous instantanément sur mobile à partir de votre session Web](pour-les-professionnels/creation-de-compte/acceder-a-braver-sur-mobile-via-code-qr-partir-de-lapp-web.md)
   * [Connectez-vous instantanément sur mobile à partir de la bulle intégrée](pour-les-professionnels/creation-de-compte/acceder-a-braver-sur-mobile-via-code-qr-partir-de-la-bulle-integree.md)
