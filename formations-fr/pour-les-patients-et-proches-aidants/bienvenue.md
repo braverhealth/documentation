@@ -10,7 +10,7 @@ description: >-
 
 ## Prêt à commencer?
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><strong>Cliquez ici pour débuter la formation</strong></td><td></td><td><a href="../.gitbook/assets/CleanShot 2025-01-09 at 22.00.50@2x.png">CleanShot 2025-01-09 at 22.00.50@2x.png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><strong>Cliquez ici pour débuter la formation</strong></td><td></td><td><a href="../.gitbook/assets/CleanShot 2025-01-09 at 22.00.50@2x.png">CleanShot 2025-01-09 at 22.00.50@2x.png</a></td><td><a href="formation-guidee.md">formation-guidee.md</a></td></tr></tbody></table>
 
 ## Vous préférez découvrir par vous-même?
 
