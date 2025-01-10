@@ -30,7 +30,7 @@ Les information soumises par ce formulaire sont conservées confidentielles et s
 {% step %}
 **Regrouper les professions que vous avez dans Gustav par équipe**
 
-screenshot des professions et domaines (aller chercher le id des domaines et des professions)
+Nous vous transmettrons un documents à remplir qui nous permettra d’associer les différentes professions configurés dans Gustav à des équipes dédiés dans Braver.
 {% endstep %}
 
 {% step %}
@@ -40,7 +40,7 @@ screenshot des professions et domaines (aller chercher le id des domaines et des
 Avant de procéder à cette étape, vous devez attendre qu'un membre de l'équipe Gustav ou Braver vous confirme que l'intégration est fonctionnelle.
 {% endhint %}
 
-Voici un Guide d'activation Braver (demander Pauline)
+Vous devez octroyer l’accès au module “Braver” aux différents profils pertinents. **Référez-vous à la documentation de Gustav pour ce faire.**
 {% endstep %}
 
 {% step %}
