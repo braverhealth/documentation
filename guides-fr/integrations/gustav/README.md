@@ -2,11 +2,25 @@
 icon: plug
 cover: ../../.gitbook/assets/Frame 5.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
-# Gustav + Braver
+# Gustav
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.50.42.gif" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.50.42.gif" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### Avantages de l'intégration Gustav et Braver
 
@@ -17,4 +31,20 @@ coverY: 0
 [**Contactez-nous pour en savoir plus!**](https://braverhealth.typeform.com/to/D8CEMzqZ?typeform-source=support.braver.net)
 
 ### Si vous déployez actuellement cette intégration
+
+{% content-ref url="../../pour-les-administrateurs/guide-de-configuration/" %}
+[guide-de-configuration](../../pour-les-administrateurs/guide-de-configuration/)
+{% endcontent-ref %}
+
+{% content-ref url="https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/details-techniques/connectivite" %}
+[Connectivité](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/details-techniques/connectivite)
+{% endcontent-ref %}
+
+{% content-ref url="https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/details-techniques/compatibilite" %}
+[Compatibilité](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/details-techniques/compatibilite)
+{% endcontent-ref %}
+
+{% content-ref url="https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/pour-debuter" %}
+[Survol](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/pour-debuter)
+{% endcontent-ref %}
 
