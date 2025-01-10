@@ -36,15 +36,16 @@ layout:
 [guide-de-configuration](../../pour-les-administrateurs/guide-de-configuration/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/details-techniques/connectivite" %}
-[Connectivité](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/details-techniques/connectivite)
+Quelques liens utiles:
+
+* [Informations sur la connectivité](https://support.braver.net/details-techniques/connectivite)
+* [Informations sur la compatibilité des appareils](https://support.braver.net/details-techniques/compatibilite)
+* [Documentation pour les administrateurs](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/pour-debuter)
+
+### Pour en apprendre plus sur l'utilisation
+
+{% content-ref url="../../pour-les-professionnels/creation-de-compte/activation-dun-compte-par-la-bulle-integree.md" %}
+[activation-dun-compte-par-la-bulle-integree.md](../../pour-les-professionnels/creation-de-compte/activation-dun-compte-par-la-bulle-integree.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/details-techniques/compatibilite" %}
-[Compatibilité](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/details-techniques/compatibilite)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/pour-debuter" %}
-[Survol](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/pour-debuter)
-{% endcontent-ref %}
-
+Nous avons également une [série de formations détaillées](https://app.gitbook.com/s/mZQ8lm0cUSwr36vZBzik/pour-les-professionnels/readme)!
