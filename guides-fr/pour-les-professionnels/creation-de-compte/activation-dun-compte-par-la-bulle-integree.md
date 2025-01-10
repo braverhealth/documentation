@@ -14,7 +14,7 @@ Si vous n'avez jamais utilisé Braver ni de manière autonome, ni dans un logici
 {% step %}
 ### On vous demandera de confirmer que vous désirez réellement continuer sans associer de compte Braver existant, car l'action ne sera pas réversible.
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.23.57@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.23.51@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
