@@ -18,9 +18,17 @@ description: >-
 
 ## Plutôt du type à vouloir explorer par vous-même?
 
+<details>
+
+<summary>Parcourez notre banque de tutoriel au gré de vos besoins!</summary>
+
+[Débuter ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/debuter-ici "mention")
+
+</details>
+
+## Pour en apprendre davantage sur Braver
 
 
-Qu'est-ce Braver
 
 FAQ
 
