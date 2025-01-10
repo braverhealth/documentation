@@ -42,7 +42,7 @@ Braver comprend d'emblée quelques rôles de base pour minimiser les besoins en 
 | `Create`       | `organization`                         |
 | `Edit`         | `organization.settings`                |
 | `Edit`         | `organization.details`                 |
-| `View`         | `organization.audit.log`               |
+| `View`         | `organization.auditLog`                |
 | `Edit`         | `workplace.details`                    |
 | `View`         | `patient.profile`                      |
 | `Edit`         | `patient.profile`                      |
@@ -76,9 +76,9 @@ Braver comprend d'emblée quelques rôles de base pour minimiser les besoins en 
 | `Manage`       | `registry.domain.automation`           |
 | `Manage`       | `registry.domain.directory`            |
 | `Manage`       | `registry.domain.form`                 |
-| `Manage`       | `registry.domain.resource.identifier`  |
+| `Manage`       | `registry.domain.resourceIdentifier`   |
 | `Manage`       | `registry.domain.segment`              |
 | `Manage`       | `registry.domain.trajectory`           |
-| `Manage`       | `registry.domain.value.set`            |
+| `Manage`       | `registry.domain.valueSet`             |
 | `Manage`       | `registry.domain.workload`             |
 
