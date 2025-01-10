@@ -14,25 +14,19 @@ description: >-
 [guide-de-configuration](guide-de-configuration/)
 {% endcontent-ref %}
 
-## Tutoriels
+## Tutoriels essentiels
 
-### Organisation
+### Structure organisationnelle
 
-À venir
-
-### Unité organisationnelle
+Pour vous assurer de bien comprendre les éléments de la structure organisationnelle mise à votre disposition, n'hésitez-pas à consulter [la documentation prévue à cet effet](https://support.braver.net/pour-les-administrateurs/pour-debuter).
 
 {% content-ref url="unites-organisationelles/comment-creer-une-unite-organisationnelle.md" %}
 [comment-creer-une-unite-organisationnelle.md](unites-organisationelles/comment-creer-une-unite-organisationnelle.md)
 {% endcontent-ref %}
 
-### Lieu de travail
-
 {% content-ref url="lieux-de-travail/comment-creer-un-lieu-de-travail.md" %}
 [comment-creer-un-lieu-de-travail.md](lieux-de-travail/comment-creer-un-lieu-de-travail.md)
 {% endcontent-ref %}
-
-### Équipe
 
 {% content-ref url="equipes/comment-creer-une-equipe.md" %}
 [comment-creer-une-equipe.md](equipes/comment-creer-une-equipe.md)
@@ -61,12 +55,3 @@ description: >-
 {% content-ref url="journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md" %}
 [que-puis-je-retrouver-dans-le-journal-daudits.md](journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md)
 {% endcontent-ref %}
-
-### Bottin
-
-À venir
-
-
-
-
-
