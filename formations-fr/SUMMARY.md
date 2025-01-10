@@ -20,7 +20,7 @@
 ## Pour les patients et proches aidants
 
 * [Bienvenue](pour-les-patients-et-proches-aidants/bienvenue.md)
-* [Formation guidée](pour-les-patients-et-proches-aidants/formation-guidee.md)
+* [Formation essentielle](pour-les-patients-et-proches-aidants/formation-guidee.md)
 
 ## Pour les administrateurs
 
