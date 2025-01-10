@@ -20,7 +20,7 @@ layout:
 
 # Gustav
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.50.42.gif" alt="" width="563"><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.50.42 (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### Avantages de l'intégration Gustav et Braver
 
