@@ -131,5 +131,5 @@
 * [Leomed](integrations/leomed/README.md)
   * [Activer un compte patient ou proche aidant](integrations/leomed/activer-un-compte-patient-ou-proche-aidant.md)
   * [Déployer Braver via Leomed](integrations/leomed/je-deploie-braver-via-la-plateforme-leomed.md)
-* [Gustav](integrations/gustav/README.md)
+* [Gustav + Braver](integrations/gustav/README.md)
   * [Déployer Braver via Gustav](integrations/gustav/je-deploie-braver-via-la-plateforme-gustav.md)
