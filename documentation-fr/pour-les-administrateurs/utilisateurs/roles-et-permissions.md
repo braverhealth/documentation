@@ -21,9 +21,64 @@ Braver comprend d'emblée quelques rôles de base pour minimiser les besoins en 
 
 ## Liste exhaustive de permissions
 
-| Action | Cible |
-| ------ | ----- |
-|        |       |
-|        |       |
-|        |       |
+| Action         | Cible                                  |
+| -------------- | -------------------------------------- |
+| `Edit`         | `user.profile`                         |
+| `Unblock`      | `user.credential`                      |
+| `Rescue`       | `user.credential`                      |
+| `Rescued`      | `user.credential`                      |
+| `Edit`         | `user.employment`                      |
+| `Edit`         | `user.profession`                      |
+| `Validate`     | `user.profession`                      |
+| `Add`          | `user.emails`                          |
+| `Manage`       | `user.emails`                          |
+| `View`         | `user.emails`                          |
+| `Add`          | `group.member`                         |
+| `Manage`       | `group.member`                         |
+| `View`         | `group.member`                         |
+| `Manage`       | `group.patient.member`                 |
+| `Edit`         | `group.details`                        |
+| `View`         | `group.details`                        |
+| `Create`       | `organization`                         |
+| `Edit`         | `organization.settings`                |
+| `Edit`         | `organization.details`                 |
+| `View`         | `organization.audit.log`               |
+| `Edit`         | `workplace.details`                    |
+| `View`         | `patient.profile`                      |
+| `Edit`         | `patient.profile`                      |
+| `Search`       | `patient.profile`                      |
+| `View`         | `patient.attachment`                   |
+| `Export`       | `patient.attachment`                   |
+| `Manage`       | `patient.attachment`                   |
+| `Manage`       | `patient.circle.group`                 |
+| `Manage`       | `patient.circle.inbox`                 |
+| `View`         | `inbox.discussion`                     |
+| `Assign`       | `inbox.discussion`                     |
+| `Assignee`     | `inbox.discussion`                     |
+| `Send`         | `inbox.discussion`                     |
+| `Unassign`     | `inbox.discussion`                     |
+| `AssignSelf`   | `inbox.discussion`                     |
+| `UnassignSelf` | `inbox.discussion`                     |
+| `Edit`         | `inbox.settings`                       |
+| `View`         | `inbox`                                |
+| `ViewAll`      | `inbox`                                |
+| `Role`         | `role`                                 |
+| `Create`       | `schedule`                             |
+| `Update`       | `schedule`                             |
+| `View`         | `schedule`                             |
+| `Delete`       | `schedule`                             |
+| `View`         | `automation.installation`              |
+| `Manage`       | `automation.installation`              |
+| `View`         | `automation.task`                      |
+| `Trigger`      | `automation.task`                      |
+| `Use`          | `registry.domain`                      |
+| `Manage`       | `registry.domain`                      |
+| `Manage`       | `registry.domain.automation`           |
+| `Manage`       | `registry.domain.directory`            |
+| `Manage`       | `registry.domain.form`                 |
+| `Manage`       | `registry.domain.resource.identifier`  |
+| `Manage`       | `registry.domain.segment`              |
+| `Manage`       | `registry.domain.trajectory`           |
+| `Manage`       | `registry.domain.value.set`            |
+| `Manage`       | `registry.domain.workload`             |
 
