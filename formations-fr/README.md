@@ -12,7 +12,7 @@ description: >-
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Vous aimez apprendre de manière active et le plus rapidement possible?</strong></td><td></td><td></td><td><a href="pour-les-professionnels/formation-essentielle/">formation-essentielle</a></td><td><a href=".gitbook/assets/Frame 13.png">Frame 13.png</a></td></tr><tr><td><strong>Vous avez besoin de comprendre la plateforme dans tous ces petits détails?</strong></td><td></td><td></td><td></td><td><a href=".gitbook/assets/Fils de discussion.png">Fils de discussion.png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Vous aimez apprendre de manière active et le plus rapidement possible?</strong></td><td></td><td></td><td><a href="pour-les-professionnels/formation-essentielle/">formation-essentielle</a></td><td><a href=".gitbook/assets/Frame 13.png">Frame 13.png</a></td></tr><tr><td><strong>Vous avez besoin de comprendre la plateforme dans tous ces petits détails?</strong></td><td></td><td></td><td><a href="pour-les-professionnels/formation-approfondie/">formation-approfondie</a></td><td><a href=".gitbook/assets/Fils de discussion.png">Fils de discussion.png</a></td></tr></tbody></table>
 
 
 
@@ -28,10 +28,10 @@ description: >-
 
 ## Pour en apprendre davantage sur Braver
 
-<mark style="background-color:red;">Je ne suis pas capable de linked la page Qu'est-ce que Braver?</mark>
+<mark style="background-color:red;">Je ne suis pas capable de linker la page Qu'est-ce que Braver?</mark>
 
 
 
-FAQ
+## Pour obtenir de l'aide
 
-Comment nous contacter
+<mark style="background-color:red;">Je ne suis pas capable de linker la page à la section Pour nous rejoindre</mark>
