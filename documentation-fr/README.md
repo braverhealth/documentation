@@ -1,7 +1,9 @@
 ---
 icon: book
 description: >-
-  Que vous soyez sur le point de commencer à utiliser Braver, un utilisateur expérimenté cherchant à aller plus loin, ou confronté à un problème, vous êtes au bon endroit!
+  Que vous soyez sur le point de commencer à utiliser Braver, un utilisateur
+  expérimenté cherchant à aller plus loin, ou confronté à un problème, vous êtes
+  au bon endroit!
 layout:
   title:
     visible: true
@@ -72,7 +74,7 @@ Commencer par [un survol](pour-les-administrateurs/pour-debuter.md), ou passez d
 * [Équipes](pour-les-administrateurs/equipes/)
 * [Utilisateurs](pour-les-administrateurs/utilisateurs/)
 * [Journaux d'audit](pour-les-administrateurs/journaux-daudit/)
-* [Bottins](pour-les-administrateurs/bottins.md)
+* [Bottins](broken-reference)
 * [Appareil mobile géré à distance](pour-les-administrateurs/appareil-mobile-gere-a-distance.md)
 
 Et si vous avez besoin de connaître les détails techniques en vue d'un déploiement
