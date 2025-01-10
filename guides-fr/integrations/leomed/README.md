@@ -1,6 +1,11 @@
 ---
 icon: plug
+cover: ../../.gitbook/assets/Frame 6.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: false
   description:
