@@ -14,7 +14,7 @@ description: >-
 2. **Tâches d'autoformation** - Laissez-nous vous guider vers les fonctionnalités principales
 3. **Pour aller un peu plus loin -** Survol de l'application web, mobile et du module patient et proche aidant
 4. **Bâtissez votre réseau de collaborateurs** - Trousse de départ
-5. **Besoin d'aide? -** Découvrez les ressources à votre disposition
+5. **Ressources supplémentaires -** Découvrez les ressources à votre disposition
 
 ### <mark style="background-color:purple;">Prêt à vous lancer? C'est par ici 👇</mark>
 
