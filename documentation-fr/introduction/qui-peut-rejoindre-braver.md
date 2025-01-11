@@ -32,3 +32,8 @@ Ainsi, les canaux ou fiches-patients auxquels il ou elle a accès à un temps do
 {% endhint %}
 
 Un utilisateur de Braver peut ne pas être un professionnel de la santé si il ou elle est invité explicitement dans un [canal de soins](https://docs.google.com/document/d/1OxaaFzT7lZjQyaFeG_DALoue5b6wGzeR4pDodEXeHpA/edit#heading=h.6dmeksci3s91) ou dans une organisation.
+
+## Patients et proches aidants
+
+Un professionnel de la santé ou une organisation peut inviter le patient ou des personnes de son entourage (ex: parents, proches-aidants), afin de communiquer et d’échanger sur Braver.
+
