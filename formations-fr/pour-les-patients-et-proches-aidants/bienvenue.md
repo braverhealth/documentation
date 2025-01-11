@@ -22,30 +22,6 @@ Consulter notre [banque de tutoriels](https://support.braver.net/guides/pour-les
 * [Qui peut rejoindre Braver?](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/introduction/qui-peut-rejoindre-braver)
 * [Dans quel contexte puis-je l'utiliser?](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/introduction/dans-quel-contexte-peut-on-lutiliser)
 
-## Vous préférez découvrir par vous-même?
+### Besoin d'aide?
 
-<details>
-
-<summary>Parcourez notre banque de tutoriel au gré de vos besoins!</summary>
-
-[Débuter ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-patients-et-proches-aidants/pour-debuter "mention")
-
-</details>
-
-## Pour en apprendre davantage sur Braver
-
-<details>
-
-<summary>Aperçu de la plateforme</summary>
-
-[Qu'est-ce que Braver?](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/introduction/quest-ce-que-braver)
-
-[Qui peut rejoindre Braver?](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/introduction/qui-peut-rejoindre-braver)
-
-[Dans quel contexte peut-on l'utiliser?](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/introduction/dans-quel-contexte-peut-on-lutiliser)
-
-</details>
-
-## Besoin d'aide?
-
-[Cette page ](https://support.braver.net/besoin-daide)vous propose différents moyens d'obtenir de l'aide en cas de besoin.
+[Cette page](https://support.braver.net/besoin-daide) vous propose différents moyens d'obtenir de l'aide en cas de besoin.
