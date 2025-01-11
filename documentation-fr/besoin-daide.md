@@ -7,5 +7,8 @@ description: >-
 
 # Besoin d'aide?
 
-{% include ".gitbook/includes/besoin-daide.md" %}
+{% hint style="success" %}
+Utilisez la barre de recherche en haut de cette page pour rechercher du contenu ou encore poser une question à l'engin de recherche intelligent!
+{% endhint %}
 
+{% include ".gitbook/includes/besoin-daide.md" %}
