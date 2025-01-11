@@ -34,7 +34,7 @@ description: >-
 
 [Qu'est-ce que Braver](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/introduction/quest-ce-que-braver)
 
-
+[Qui peut rejoindre Braver?](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/introduction/qui-peut-rejoindre-braver)
 
 
 
