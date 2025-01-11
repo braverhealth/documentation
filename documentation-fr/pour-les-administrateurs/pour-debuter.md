@@ -1,9 +1,9 @@
 ---
 icon: flag
 description: >-
-  Dans cette section, vous trouverez un survol des concepts de Braver pour vous
-  aider à mieux comprendre la plateforme et la configurer à la hauteur de vos
-  besoins!
+  Dans cette section, vous découvrirez un aperçu des concepts de Braver pour
+  vous aider à mieux comprendre la plateforme et à la configurer selon vos
+  besoins !
 ---
 
 # Survol

@@ -1,9 +1,9 @@
 ---
 icon: book
 description: >-
-  Que vous soyez sur le point de commencer à utiliser Braver, un utilisateur
-  expérimenté cherchant à aller plus loin, ou confronté à un problème, vous êtes
-  au bon endroit!
+  Que vous soyez sur le point de découvrir Braver, un utilisateur expérimenté
+  cherchant à approfondir vos connaissances, ou que vous rencontriez un
+  problème, vous êtes au bon endroit !
 layout:
   title:
     visible: true
@@ -69,12 +69,12 @@ Commencer par [un survol](pour-les-professionnels/pour-debuter.md), ou passez di
 
 Commencer par [un survol](pour-les-administrateurs/pour-debuter.md), ou passez directement à une section de la documentation qui pourrait vous être utile:
 
-* [Unités organisationnelles](pour-les-administrateurs/unites-organisationelles/)
+* [Unités organisationnelles](broken-reference)
 * [Lieux de travail](pour-les-administrateurs/lieux-de-travail/)
 * [Équipes](pour-les-administrateurs/equipes/)
 * [Utilisateurs](pour-les-administrateurs/utilisateurs/)
 * [Journaux d'audit](pour-les-administrateurs/journaux-daudit/)
-* [Bottins](broken-reference)
+* [Bottins](broken-reference/)
 * [Appareil mobile géré à distance](pour-les-administrateurs/appareil-mobile-gere-a-distance.md)
 
 Et si vous avez besoin de connaître les détails techniques en vue d'un déploiement
@@ -85,7 +85,6 @@ Et si vous avez besoin de connaître les détails techniques en vue d'un déploi
 </details>
 
 ### Besoin d'aide? <a href="#pour-nous-rejoindre" id="pour-nous-rejoindre"></a>
-
 
 {% include ".gitbook/includes/besoin-daide.md" %}
 
