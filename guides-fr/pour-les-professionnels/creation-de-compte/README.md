@@ -1,9 +1,11 @@
 ---
 icon: user-plus
-description: Pour tout savoir sur la création de compte!
+description: Pour savoir comment créer votre compte!
 ---
 
 # Création de compte
+
+**Pour mieux comprendre les concepts, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/creation-de-compte)**.**
 
 {% content-ref url="creation-de-compte-autonome.md" %}
 [creation-de-compte-autonome.md](creation-de-compte-autonome.md)

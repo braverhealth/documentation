@@ -5,6 +5,8 @@ description: Pour être conforme!
 
 # Sécurité
 
+**Pour mieux comprendre les concepts, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/securite)**.**
+
 {% content-ref url="basculer-de-session-sur-un-appareil-partage.md" %}
 [basculer-de-session-sur-un-appareil-partage.md](basculer-de-session-sur-un-appareil-partage.md)
 {% endcontent-ref %}

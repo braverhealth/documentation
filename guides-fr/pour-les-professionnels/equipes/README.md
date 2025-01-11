@@ -5,6 +5,8 @@ description: Pour assurer une continuité de l'information!
 
 # Équipes
 
+**Pour mieux comprendre les concepts, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/equipes)**.**
+
 ## Équipe
 
 {% content-ref url="voir-de-quelle-equipe-on-fait-partie.md" %}

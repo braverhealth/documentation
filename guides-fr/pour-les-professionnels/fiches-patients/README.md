@@ -5,6 +5,8 @@ description: Pour assurer une traçabilité de l'information!
 
 # Fiches patient
 
+**Pour mieux comprendre les concepts, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/fiches-patients)**.**
+
 {% content-ref url="creer-une-nouvelle-fiche-patient.md" %}
 [creer-une-nouvelle-fiche-patient.md](creer-une-nouvelle-fiche-patient.md)
 {% endcontent-ref %}

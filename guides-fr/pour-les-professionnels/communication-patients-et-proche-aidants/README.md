@@ -5,6 +5,8 @@ description: Pour favoriser l'engagement du patient!
 
 # Communication patients et proche aidants
 
+**Pour mieux comprendre les concepts, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/communication-patients-et-proche-aidants)**.**
+
 {% content-ref url="inviter-un-patient-ou-un-proche-aidant-a-rejoindre-braver.md" %}
 [inviter-un-patient-ou-un-proche-aidant-a-rejoindre-braver.md](inviter-un-patient-ou-un-proche-aidant-a-rejoindre-braver.md)
 {% endcontent-ref %}

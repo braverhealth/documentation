@@ -5,6 +5,8 @@ description: Pour communiquer efficacement!
 
 # Fils de discussions
 
+**Pour mieux comprendre les concepts, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/fils-de-discussions)**.**
+
 ## Création
 
 {% content-ref url="creer-un-fil-de-discussion-clinique.md" %}
