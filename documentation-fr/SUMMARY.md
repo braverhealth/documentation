@@ -46,4 +46,5 @@
 
 ***
 
+* [Légale](legale.md)
 * [Trousse MDA-MA - CISSS-ME](trousse-mda-ma-cisss-me.md)
