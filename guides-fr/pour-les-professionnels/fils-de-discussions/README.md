@@ -5,7 +5,7 @@ description: Pour communiquer efficacement!
 
 # Fils de discussions
 
-**Pour mieux comprendre les concepts, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/fils-de-discussions)**.**
+**Pour mieux comprendre les concepts liés aux fils de discussion, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/fils-de-discussions)**.**
 
 ## Création
 

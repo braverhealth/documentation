@@ -5,7 +5,7 @@ description: Pour rassembler une équipe de soins!
 
 # Canaux de soins
 
-**Pour mieux comprendre les concepts, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/canaux-de-soins)**.**
+**Pour mieux comprendre les concepts liés aux canaux de soins, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/canaux-de-soins)**.**
 
 {% content-ref url="creer-un-nouveau-canal-de-soins.md" %}
 [creer-un-nouveau-canal-de-soins.md](creer-un-nouveau-canal-de-soins.md)

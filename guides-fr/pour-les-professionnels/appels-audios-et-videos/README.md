@@ -5,7 +5,7 @@ description: Pour s'appeler en un clic!
 
 # Appels audios et vidéos
 
-**Pour mieux comprendre les concepts, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/appels-audios-et-videos)**.**
+**Pour mieux comprendre les concepts liés aux appels audios et vidéos, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/appels-audios-et-videos)**.**
 
 {% content-ref url="lancer-et-quitter-un-appel.md" %}
 [lancer-et-quitter-un-appel.md](lancer-et-quitter-un-appel.md)

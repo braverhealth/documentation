@@ -56,7 +56,7 @@
   * [M'assigner un fil de discussion actuellement en triage](pour-les-professionnels/equipes/massigner-un-fil-de-discussion-en-triage.md)
   * [Retourner une discussion dans la boîte de triage](pour-les-professionnels/equipes/retourner-une-discussion-dans-la-boite-de-triage.md)
   * [Écrire à une équipe](pour-les-professionnels/equipes/ecrire-a-une-equipe.md)
-* [Communication patients et proche aidants](pour-les-professionnels/communication-patients-et-proche-aidants/README.md)
+* [Communication patients et proche aidant](pour-les-professionnels/communication-patients-et-proche-aidants/README.md)
   * [Inviter un patient ou un proche aidant à rejoindre Braver](pour-les-professionnels/communication-patients-et-proche-aidants/inviter-un-patient-ou-un-proche-aidant-a-rejoindre-braver.md)
   * [Créer un canal de soins avec patient et/ou proche aidant](pour-les-professionnels/communication-patients-et-proche-aidants/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins.md)
   * [Initier un nouveau fil de discussion avec le patient ou les proche aidant](pour-les-professionnels/communication-patients-et-proche-aidants/clavarder-avec-un-patient-ou-un-proche-aidant.md)

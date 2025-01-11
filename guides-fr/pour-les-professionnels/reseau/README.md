@@ -5,7 +5,7 @@ description: Pour être un bon collaborateur!
 
 # Le réseau
 
-**Pour mieux comprendre les concepts, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/reseau)**.**
+**Pour mieux comprendre les concepts liés au réseau, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/reseau)**.**
 
 ## Les contacts
 

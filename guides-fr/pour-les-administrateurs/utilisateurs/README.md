@@ -4,6 +4,8 @@ icon: user-plus
 
 # Utilisateurs
 
+**Pour mieux comprendre les concepts liés aux utilisateurs, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-administrateurs/utilisateurs)**.**
+
 {% content-ref url="comment-annuler-ou-renvoyer-une-invitation.md" %}
 [comment-annuler-ou-renvoyer-une-invitation.md](comment-annuler-ou-renvoyer-une-invitation.md)
 {% endcontent-ref %}
