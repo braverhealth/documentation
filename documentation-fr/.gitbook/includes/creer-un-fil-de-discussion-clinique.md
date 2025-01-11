@@ -4,7 +4,7 @@ title: Créer un nouveau fil de discussion clinique
 
 {% stepper %}
 {% step %}
-## Sélectionnez l'onglet _Accueil_, puis, sélectionnez la bulle dans le bas de la page.
+## Sélectionnez l'onglet _Accueil_, puis sélectionnez la bulle en bas de la page.
 
 <div align="left"><figure><img src="../assets/Créer un nouveau fil de discussion clinique - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -33,7 +33,7 @@ title: Créer un nouveau fil de discussion clinique
 Les encadrés représentent les canaux de soins. Vous sélectionnez le canal _Réhabilitation_ dans cet exemple.
 
 {% hint style="info" %}
-Si vous aviez voulu démarrer un fil de discussion _hors canal_, vous auriez cliqué dans le bas de la page (voir encadré orange).
+Si vous voulez démarrer un fil de discussion _hors canal_, cliquez en bas de la page (voir encadré orange).
 {% endhint %}
 
 <div align="left"><figure><img src="../assets/Créer un nouveau fil de discussion clinique - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
@@ -45,9 +45,9 @@ Si vous aviez voulu démarrer un fil de discussion _hors canal_, vous auriez cli
 Vous pouvez également ajouter du contenu additionnel tel que des images, fichiers ou vidéos si vous le désirez.
 
 {% hint style="info" %}
-À ce stade, si vous avez sélectionné un canal de soins dans l'étape 5, vous ne pourrez pas modifier les participants, puisqu'ils sont prédéterminés par le canal de soins. Vous pourrez le faire une fois votre message envoyé.
+À ce stade, si vous avez sélectionné un canal de soins à l'étape 5, vous ne pourrez pas modifier les participants, puisqu'ils sont prédéterminés par le canal de soins. Vous pourrez le faire une fois votre message envoyé.
 
-Consultez le tutoriel _Gérer les participants d'un fil de discussion._ pour plus de détails à cet effet.
+Consultez le tutoriel _Gérer les participants d'un fil de discussion_ pour plus de détails à cet effet.
 {% endhint %}
 
 Et finalement, cliquez sur _Envoyer_.

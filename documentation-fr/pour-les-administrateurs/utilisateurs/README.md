@@ -4,17 +4,17 @@ icon: user-plus
 
 # Utilisateurs
 
-Un utilisateur peut être invitée dans une organisation en tant qu'utilisateur [**professionnel**](./#utilisateur-professionnel), [**administratif**](./#utilisateur-administratif) ou les deux.
+Un utilisateur peut être invité dans une organisation en tant qu'utilisateur [**professionnel**](./#utilisateur-professionnel), [**administratif**](./#utilisateur-administratif) ou les deux.
 
 {% hint style="info" %}
 On ne parle pas d'un utilisateur patient ou proche aidant comme d'un utilisateur faisant partie d'une organisation.
 
-Ce type d'utilisateur ne reçoit qu'un accès limité à certains canaux de soins. Il n'apparait nul part ailleurs comme utilisateurs pouvant recevoir des accès additionnels de l'organisation.
+Ce type d'utilisateur ne reçoit qu'un accès limité à certains canaux de soins. Il n'apparaît nulle part ailleurs comme utilisateur pouvant recevoir des accès additionnels de l'organisation.
 {% endhint %}
 
-L'ajout d'un utilisateur à une organisation se fait par le biais de son invitation dans une [unité organisationnelle](../unites-organisationelles/).&#x20;
+L'ajout d'un utilisateur à une organisation se fait par le biais de son invitation dans une [unité organisationnelle](../unites-organisationnelles/).
 
-La première fois qu'il est invitée de cette manière dans une organisation donnée, il reçoit un courriel l'invitant à accepter l'invitation (possiblement en complétant la création de son compte). Si, par la suite, il est invité dans une autre unité de la même organisation, il n'aura pas besoin de faire quoique ce soit et ne recevra pas d'invitation par courriel.
+La première fois qu'il est invité de cette manière dans une organisation donnée, il reçoit un courriel l'invitant à accepter l'invitation (possiblement en complétant la création de son compte). Si, par la suite, il est invité dans une autre unité de la même organisation, il n'aura pas besoin de faire quoi que ce soit et ne recevra pas d'invitation par courriel.
 
 ### Utilisateur professionnel
 
@@ -26,4 +26,4 @@ Pour avoir ce type d'accès au nom de l'organisation, l'utilisateur en question 
 
 Un utilisateur est dit **administratif** (ou simplement un **administrateur**) s'il a accès à la console administrative.
 
-Pour avoir ce type d'accès pour une organisation donnée, l'utilisateur en question doit avoir le rôle _Admin_ pour au moins une des [unités organisationnelles](../unites-organisationelles/) de l'organisation.
+Pour avoir ce type d'accès pour une organisation donnée, l'utilisateur en question doit avoir le rôle _Admin_ pour au moins une des [unités organisationnelles](../unites-organisationnelles/) de l'organisation.

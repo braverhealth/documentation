@@ -14,4 +14,4 @@ Lorsqu'un appel est initié, les autres utilisateurs invités dans l'appel verro
 
 Lorsque vous êtes dans un appel à partir de l'application Web, vous pouvez configurer une image de fond et partager votre écran au besoin.
 
-**N'hésitez-pas à consulter** [**nos guides dédiés**](https://support.braver.net/guides/pour-les-professionnels/appels-audios-et-videos) **pour comprendre rapidement comment utiliser les appels audios et vidéos.**
+**N'hésitez pas à consulter** [**nos guides dédiés**](https://support.braver.net/guides/pour-les-professionnels/appels-audios-et-videos) **pour comprendre rapidement comment utiliser les appels audios et vidéos.**

@@ -11,7 +11,7 @@ https://*.braver.net
 ```
 
 {% hint style="info" %}
-L'accessibilité des protocols HTTP n'est activée que pour rediriger tout traffic vers HTTPS.
+L'accessibilité des protocoles HTTP n'est activée que pour rediriger tout trafic vers HTTPS.
 
 Les URLs principales accédées par les utilisateurs seront pour l'[application web](https://app.braver.net) et la [console administrative](https://admin.braver.net).
 {% endhint %}
@@ -32,7 +32,7 @@ https://*.pre-prod.braver.dev
 ```
 
 {% hint style="info" %}
-L'accessibilité des protocols HTTP n'est activée que pour rediriger tout traffic vers HTTPS.
+L'accessibilité des protocoles HTTP n'est activée que pour rediriger tout trafic vers HTTPS.
 
 Les URLs principales accédées par les utilisateurs seront pour l'[application web](https://app.pre-prod.braver.dev) et la [console administrative](https://admin.pre-prod.braver.dev).
 {% endhint %}

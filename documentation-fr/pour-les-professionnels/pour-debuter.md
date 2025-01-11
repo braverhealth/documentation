@@ -2,14 +2,14 @@
 icon: flag
 description: >-
   Dans cette section, vous trouverez un survol des concepts de Braver pour vous
-  aider à mieux comprendre la plateforme et en tirer le maximum!
+  aider à mieux comprendre la plateforme et en tirer le maximum !
 ---
 
 # Survol
 
 La plateforme Braver permet une communication facile, agréable et sécurisée entre deux parties ou plus.&#x20;
 
-Elle peut être utilisée à partir des applications mobiles natives [iOS](https://brvr.io/ios-app) et [Android](https://brvr.io/android-app), à partir de l’[application Web](https://app.braver.net/) ou à partir d’une version imbriquée à l’intérieur d’applications tierces.
+Elle peut être utilisée à partir des applications mobiles natives [iOS](https://brvr.io/ios-app) et [Android](https://brvr.io/android-app), à partir de l'[application Web](https://app.braver.net/) ou à partir d'une version imbriquée à l'intérieur d'applications tierces.
 
 ### Comprendre Braver
 
@@ -60,4 +60,3 @@ Elle peut être utilisée à partir des applications mobiles natives [iOS](https
 {% content-ref url="securite/" %}
 [securite](securite/)
 {% endcontent-ref %}
-

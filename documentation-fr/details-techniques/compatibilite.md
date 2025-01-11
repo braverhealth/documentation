@@ -13,7 +13,7 @@ icon: mobile-notch
 
 <summary>Utilisation en mode "géré à distance"</summary>
 
-Si vous êtes une organisation de santé et que vous désirez distribuer Braver à des patients ou proches aidants sur des appareils mobiles qui vous appartiennent, vous avez la possibilité d'utiliser Braver en [mode **géré à distance**](../pour-les-administrateurs/appareil-mobile-gere-a-distance.md)**.**&#x20;
+Si vous êtes une organisation de santé et que vous désirez distribuer Braver à des patients ou proches aidants sur des appareils mobiles qui vous appartiennent, vous avez la possibilité d'utiliser Braver en [mode **géré à distance**](../pour-les-administrateurs/appareil-mobile-gere-a-distance.md).
 
 Dans ce mode:
 
@@ -35,5 +35,5 @@ Pour ce mode, seulement iOS et iPadOS sont supportés et nous recommandons **au 
 * **Apple Safari**: version minimale **16.0**
 
 {% hint style="warning" %}
-Nous rencontrons actuellement quelques problèmes avec Firefox actuellement. Nous travaillons à corriger cela aussitôt que possible.
+Nous rencontrons actuellement quelques problèmes avec Firefox. Nous travaillons à corriger cela aussitôt que possible.
 {% endhint %}

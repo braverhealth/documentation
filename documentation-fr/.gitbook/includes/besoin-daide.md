@@ -24,7 +24,7 @@ Appelez-nous au [+1-888-342-8032](tel:1-888-342-8032)
 
 Il se peut que votre organisation ait accès à notre numéro de téléphone de support disponible en tout temps. **Si c'est le cas, utilisez celui-ci en cas de problème!**
 
-Si vous n'en avez pas et désirez vous informez sur nos forfaits avancés de support, [écrivez-nous](https://braverhealth.typeform.com/to/D8CEMzqZ)!
+Si vous n'en avez pas et désirez vous informer sur nos forfaits avancés de support, [écrivez-nous](https://braverhealth.typeform.com/to/D8CEMzqZ)!
 
 </details>
 

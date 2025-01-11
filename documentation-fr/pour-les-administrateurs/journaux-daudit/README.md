@@ -4,11 +4,11 @@ icon: rectangle-history
 
 # Journaux d'audit
 
-## Qu'est-ce que les journaux d'audits?
+## Qu'est-ce que les journaux d'audit?
 
-En tant qu'organisations de santé, il est possible que vous soyez dans l'obligation de garder une trace de toutes les activités importantes des membres de votre organisation en ce qui a trait à leur accès aux données de santé de patients pris en charges.
+En tant qu'organisation de santé, il est possible que vous soyez dans l'obligation de garder une trace de toutes les activités importantes des membres de votre organisation en ce qui a trait à leur accès aux données de santé des patients pris en charge.
 
-Braver collige automatiquement les accès en lecture effectués par les membres de l'organisation à toutes les informations dont votre organisation est la gardienne. Braver collige aussi automatiquement les actions de création et modification des renseignements, ainsi que toute action de communication effectuées sur la plateforme.
+Braver collecte automatiquement les accès en lecture effectués par les membres de l'organisation à toutes les informations dont votre organisation est la gardienne. Braver collecte aussi automatiquement les actions de création et modification des renseignements, ainsi que toute action de communication effectuée sur la plateforme.
 
 {% hint style="success" %}
 Pour une liste complète des éléments capturés dans les journaux d'audit, référez-vous à la page [Que puis-je retrouver dans le journal d'audit](que-puis-je-retrouver-dans-le-journal-daudits.md).
@@ -16,7 +16,7 @@ Pour une liste complète des éléments capturés dans les journaux d'audit, ré
 
 ### Que constitue un élément historique du journal d'audit?
 
-Les journaux d'audit ne stockent pas le _contenu_ de l'action effectué (p.ex. les détails nominatif d'un patient consulté). Ils ne stockent que des métadonnées sur l'action, des dates et des référentiels:
+Les journaux d'audit ne stockent pas le _contenu_ de l'action effectuée (p.ex. les détails nominatifs d'un patient consulté). Ils ne stockent que des métadonnées sur l'action, des dates et des référentiels:
 
 * Le type d'action: _Création, modification, suppression, etc._
 * Le type d'entité: _Patient, Fil de discussion, Canal de soins, etc._
@@ -26,4 +26,4 @@ Les journaux d'audit ne stockent pas le _contenu_ de l'action effectué (p.ex. l
 
 ### Combien de temps ces journaux sont conservés?
 
-Actuellement, les journaux sont conservées indéfiniment et ne peuvent jamais être supprimés. Dans le futur, il vous sera possible de spécifier une durée de conservation de ces journaux.
+Actuellement, les journaux sont conservés indéfiniment et ne peuvent jamais être supprimés. Dans le futur, il vous sera possible de spécifier une durée de conservation de ces journaux.

@@ -10,8 +10,8 @@ Braver est structuré de sorte à fournir le maximum de convivialité aux utilis
 
 ### Comprendre la structure organisationnelle
 
-{% content-ref url="unites-organisationelles/" %}
-[unites-organisationelles](unites-organisationelles/)
+{% content-ref url="unites-organisationnelles/" %}
+[unites-organisationnelles](unites-organisationnelles/)
 {% endcontent-ref %}
 
 {% content-ref url="lieux-de-travail/" %}
