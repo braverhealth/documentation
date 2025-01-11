@@ -21,8 +21,3 @@
 
 * [Bienvenue](pour-les-patients-et-proches-aidants/bienvenue.md)
 * [Formation essentielle pour patient et proche aidant](pour-les-patients-et-proches-aidants/formation-guidee.md)
-
-## Pour les administrateurs
-
-* [Bienvenue](pour-les-administrateurs/bienvenue.md)
-* [Guide de pilotage](pour-les-administrateurs/guide-de-pilotage.md)
