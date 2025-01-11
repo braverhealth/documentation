@@ -4,7 +4,7 @@ description: >-
   ou un pas-à-pas.
 ---
 
-# Comment créer un lieu de travail?
+# Comment créer un lieu de travail ?
 
 {% embed url="https://www.loom.com/share/0f760717cc1a4a41ba87a49768fce17e?sid=b49489b1-89ab-4d8e-a377-13e92929b6ee" fullWidth="true" %}
 
@@ -16,7 +16,7 @@ description: >-
 {% endstep %}
 
 {% step %}
-#### Cliquer sur l'item correspondant dans le menu de gauche
+#### Cliquer sur l'élément correspondant dans le menu de gauche
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-02 at 20.55.07@2x (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

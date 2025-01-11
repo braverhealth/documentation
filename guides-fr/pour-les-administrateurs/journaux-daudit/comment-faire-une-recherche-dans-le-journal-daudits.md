@@ -21,9 +21,9 @@ description: >-
 #### Cliquer sur l'icône Filtres et compléter votre recherche en cherchant par
 
 * Acteur (nom de l'utilisateur)
-* Cible ( fiche patient, discussion, etc)
-* Action (création, écriture, etc)
-* Patient (voir prochaine étape pour savoir comment trouver le ID du patient)
+* Cible (fiche patient, discussion, etc.)
+* Action (création, écriture, etc.)
+* Patient (voir prochaine étape pour savoir comment trouver l'ID du patient)
 
 <figure><img src="../../.gitbook/assets/CleanShot 2025-01-04 at 09.54.28@2x.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -41,7 +41,7 @@ description: >-
 {% endstep %}
 
 {% step %}
-#### Collez l'identifiant du patient dans la boite de texte "Patient" des filtres du journal d'audits.
+#### Collez l'identifiant du patient dans la boîte de texte "Patient" des filtres du journal d'audits.
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-04 at 10.27.23@2x.png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}

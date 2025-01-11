@@ -6,8 +6,6 @@ description: >-
 
 # Comment octroyer un rôle à un utilisateur existant?
 
-
-
 {% embed url="https://www.loom.com/share/95556f9c37e94f1faa714f0fcb3c1220?sid=4e32677b-aa80-4990-8711-fd28cfecf7f8" fullWidth="true" %}
 
 ## Pas-à-pas
@@ -26,7 +24,7 @@ description: >-
 {% step %}
 ### Retrouver l'utilisateur en question et cliquer dessus
 
-<div align="left"><figure><img src="../../.gitbook/assets/Sélectionner un utilisateur et cliquer dessus.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Sélectionner un utilisateur et cliquer dessus.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

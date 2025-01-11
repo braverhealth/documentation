@@ -18,7 +18,7 @@ description: >-
 
 ### Structure organisationnelle
 
-Pour vous assurer de bien comprendre les éléments de la structure organisationnelle mise à votre disposition, n'hésitez-pas à consulter [la documentation prévue à cet effet](https://support.braver.net/pour-les-administrateurs/pour-debuter).
+Pour vous assurer de bien comprendre les éléments de la structure organisationnelle mis à votre disposition, n'hésitez pas à consulter [la documentation prévue à cet effet](https://support.braver.net/pour-les-administrateurs/pour-debuter).
 
 {% content-ref url="unites-organisationelles/comment-creer-une-unite-organisationnelle.md" %}
 [comment-creer-une-unite-organisationnelle.md](unites-organisationelles/comment-creer-une-unite-organisationnelle.md)

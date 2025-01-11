@@ -4,7 +4,7 @@ description: >-
   une vidéo ou un pas-à-pas.
 ---
 
-# Comment créer une unité organisationnelle?
+# Comment créer une unité organisationnelle ?
 
 {% embed url="https://www.loom.com/share/a9d0da819ce443988e22f155960f5469?sid=d220fd56-a50e-499d-985d-d5d091a18042" fullWidth="true" %}
 
