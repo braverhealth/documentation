@@ -4,7 +4,7 @@
 
 {% stepper %}
 {% step %}
-#### Sous l'onglet Patients sélectionnez le patient à modifier
+#### Sous l'onglet Patients, sélectionnez le patient à modifier.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Creer une nouvelle fiche patient - Step5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -16,7 +16,7 @@
 {% endstep %}
 
 {% step %}
-#### Pensez à enregistrer vos modifications!
+#### Pensez à enregistrer vos modifications !
 
 <div align="left"><figure><img src="../../.gitbook/assets/Creer une nouvelle fiche patient - Step7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

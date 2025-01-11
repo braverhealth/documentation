@@ -4,7 +4,7 @@
 
 {% stepper %}
 {% step %}
-#### Sous l'onglet Patients cliquez ou appuyez sur le bouton d'ajout en bas à droite.
+#### Sous l'onglet Patients, cliquez ou appuyez sur le bouton d'ajout en bas à droite.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Creer une nouvelle fiche patient - Step1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

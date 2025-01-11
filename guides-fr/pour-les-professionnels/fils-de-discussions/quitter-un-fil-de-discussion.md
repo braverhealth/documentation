@@ -21,7 +21,7 @@
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 17.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Si vous étiez le dernier infirmier dans le fil de discussion et que vous quittiez, le message retournerait dans la boîte de triage de l'équipe des soins infirmiers. Un collègue infirmier pourrait alors prendre le relais de la discussion!
+Si vous étiez le dernier infirmier dans le fil de discussion et que vous quittiez, le message retournerait dans la boîte de triage de l'équipe des soins infirmiers. Un collègue infirmier pourrait alors prendre le relais de la discussion !
 {% endhint %}
 {% endstep %}
 {% endstepper %}

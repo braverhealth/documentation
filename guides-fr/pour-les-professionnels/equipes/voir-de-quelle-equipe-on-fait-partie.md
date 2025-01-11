@@ -1,7 +1,7 @@
 # Voir de quelle(s) équipe(s) on fait partie et basculer d'équipe
 
 {% hint style="warning" %}
-Si vous ne faites pas partie d'une équipe, vous n'aurez pas accès aux éléments présentés ci-bas.
+Si vous ne faites pas partie d'une équipe, vous n'aurez pas accès aux éléments présentés ci-dessous.
 {% endhint %}
 
 ## Pas-à-pas

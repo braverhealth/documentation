@@ -27,7 +27,7 @@
 <div align="left"><figure><img src="../../.gitbook/assets/massigner-un-fil-de-discussion-en-triage - Step 4.jpeg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-Vous pouvez maintenant répondre au fil de discussion!
+Vous pouvez maintenant répondre au fil de discussion !
 {% endhint %}
 {% endstep %}
 

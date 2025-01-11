@@ -4,7 +4,7 @@
 
 {% stepper %}
 {% step %}
-#### Sélectionnez l'onglet _Accueil_, puis, sélectionnez la bulle dans le bas de la page.
+#### Sélectionnez l'onglet _Accueil_, puis sélectionnez la bulle dans le bas de la page.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -16,7 +16,7 @@
 {% endstep %}
 
 {% step %}
-#### Sélectionnez _Choisir un patient ou un canal de soins._
+#### Sélectionnez _Choisir un patient ou un canal de soins_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -47,7 +47,7 @@ Vous pouvez également ajouter du contenu additionnel tel que des images, fichie
 {% hint style="info" %}
 À ce stade, si vous avez sélectionné un canal de soins dans l'étape 5, vous ne pourrez pas modifier les participants, puisqu'ils sont prédéterminés par le canal de soins. Vous pourrez le faire une fois votre message envoyé.
 
-Consultez le tutoriel _Gérer les participants d'un fil de discussion._ pour plus de détails à cet effet.
+Consultez le tutoriel _Gérer les participants d'un fil de discussion_ pour plus de détails à cet effet.
 {% endhint %}
 
 Et finalement, cliquez sur _Envoyer_.
@@ -57,7 +57,7 @@ Et finalement, cliquez sur _Envoyer_.
 {% endstepper %}
 
 {% hint style="success" %}
-**Où les retrouver:**
+**Où les retrouver :**
 
 * Les _fils cliniques_ sont accessibles à partir de l'onglet _Accueil_. Ce sont ceux qui sont reliés à une fiche patient en violet.
 * Vous pouvez également retrouver les _fils cliniques_ sous l'onglet _Patients_, en sélectionnant le patient concerné.
@@ -65,6 +65,6 @@ Et finalement, cliquez sur _Envoyer_.
 
 ## Autres chemins pour créer un fil de discussion clinique
 
-Dans l'onglet _Patients >_ Choisissez un patient > _icône de bulle de discussion_
+Dans l'onglet _Patients_ > Choisissez un patient > _icône de bulle de discussion_
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - info.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>

@@ -1,7 +1,7 @@
 # Fermer et exporter en PDF un fil de discussion
 
 {% hint style="info" %}
-**Qui peut fermer une discussion?**
+**Qui peut fermer une discussion ?**
 
 * La personne qui a initié la discussion
 * Tous les membres de son équipe
@@ -12,13 +12,13 @@
 
 {% stepper %}
 {% step %}
-#### Cliquer sur les 3 petits points du fil de discussion que vous souhaitez fermer.
+#### Cliquez sur les 3 petits points du fil de discussion que vous souhaitez fermer.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Fermer et exporter en PDF un fil de discussion - Step 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sélectionnez "Fermer pour tout le monde"
+#### Sélectionnez "Fermer pour tout le monde".
 
 <div align="left"><figure><img src="../../.gitbook/assets/Fermer et exporter en PDF un fil de discussion - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -28,7 +28,7 @@
 
 <div align="left"><figure><img src="../../.gitbook/assets/Fermer et exporter en PDF un fil de discussion - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-Voilà, votre fil de discussion est fermé! Il devient un artefact immuable, mais toujours accessible.
+Voilà, votre fil de discussion est fermé ! Il devient un artefact immuable, mais toujours accessible.
 {% endstep %}
 
 {% step %}

@@ -26,7 +26,7 @@ Quand vous archivez une fiche patient, elle n'est archivée que pour vous ou vot
 {% endstep %}
 
 {% step %}
-#### Confirmez votre choix. Prenez note que les fils de discussions à propos de ce patient sont toujours actifs.
+#### Confirmez votre choix. Prenez note que les fils de discussion à propos de ce patient sont toujours actifs.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Archiver une fiche patient - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

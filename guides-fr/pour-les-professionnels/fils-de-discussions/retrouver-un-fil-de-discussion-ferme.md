@@ -14,7 +14,7 @@ Lorsqu'un fil de discussion est fermé, il devient un artefact immuable, mais to
 {% endstep %}
 
 {% step %}
-#### Si on clique dessus, on voit le mention _La collaboration a été fermée._
+#### Si on clique dessus, on voit la mention _La collaboration a été fermée_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Retrouver un fil de discussion fermé - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -32,7 +32,7 @@ Lorsqu'un fil de discussion est fermé, il devient un artefact immuable, mais to
 {% endstep %}
 
 {% step %}
-#### Toujours dans la fiche du patient, je peux Sélectionner _Voir les détails_ dans un canal de soins pour y retrouver ses fils de discussion fermés.
+#### Toujours dans la fiche du patient, je peux sélectionner _Voir les détails_ dans un canal de soins pour y retrouver ses fils de discussion fermés.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Retrouver un fil de discussion fermé - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -44,13 +44,13 @@ Lorsqu'un fil de discussion est fermé, il devient un artefact immuable, mais to
 {% endstep %}
 
 {% step %}
-#### Finalement, sous l'onglet _Réseau,_ sélectionnez l'un de vos contacts pour voir les discussions actives ou fermées avec lui.
+#### Finalement, sous l'onglet _Réseau_, sélectionnez l'un de vos contacts pour voir les discussions actives ou fermées avec lui.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Retrouver un fil de discussion fermé - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Elles sont accessibles ici!
+#### Elles sont accessibles ici !
 
 <div align="left"><figure><img src="../../.gitbook/assets/Retrouver un fil de discussion fermé - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

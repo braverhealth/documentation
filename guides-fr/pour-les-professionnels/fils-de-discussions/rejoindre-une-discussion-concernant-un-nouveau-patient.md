@@ -22,7 +22,7 @@
 {% endstep %}
 
 {% step %}
-#### Sélectionnez _Associer à un patient._
+#### Sélectionnez _Associer à un patient_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Rejoindre une discussion concernant un nouveau patient - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -40,7 +40,7 @@ Cliquez sur l'icône en bas, à droite.
 {% endstep %}
 
 {% step %}
-#### Validez les informations et modifiez-les, au besoins.
+#### Validez les informations et modifiez-les, au besoin.
 
 Enregistrez ensuite en cliquant sur le crochet en haut, à droite.
 
@@ -48,7 +48,7 @@ Enregistrez ensuite en cliquant sur le crochet en haut, à droite.
 {% endstep %}
 
 {% step %}
-#### La fiche patient est maintenant créée!
+#### La fiche patient est maintenant créée !
 
 <div align="left"><figure><img src="../../.gitbook/assets/Rejoindre une discussion concernant un nouveau patient - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

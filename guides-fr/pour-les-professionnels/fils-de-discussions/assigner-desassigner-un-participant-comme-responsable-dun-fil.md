@@ -14,7 +14,7 @@ Mettre un texte ici pour expliquer l'assignation ou référer à un article.
 {% endstep %}
 
 {% step %}
-#### Cliquez sur bouton pour accéder aux participants.
+#### Cliquez sur le bouton pour accéder aux participants.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Assigner_Désassigner un participant comme responsable dun fil - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -23,7 +23,7 @@ Mettre un texte ici pour expliquer l'assignation ou référer à un article.
 #### On peut voir ici que dans l'équipe des médecins, c'est Emilio qui est assigné.
 
 {% hint style="info" %}
-Il peut y avoir qu'une seule personne assignée par équipe.
+Il ne peut y avoir qu'une seule personne assignée par équipe.
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/Assigner_Désassigner un participant comme responsable dun fil - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
@@ -38,13 +38,13 @@ Sur mobile, c'est en appuyant de manière prolongée sur Emilio que vous aurez a
 {% endstep %}
 
 {% step %}
-#### Pour vous assigner, accédez un même menu puis cliquez sur "M'assigner comme responsable"
+#### Pour vous assigner, accédez au même menu puis cliquez sur "M'assigner comme responsable".
 
 <div align="left"><figure><img src="../../.gitbook/assets/Assigner_Désassigner un participant comme responsable dun fil - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Pour assigner un autre collègue, accéder au même menu puis cliquez sur "Assigner commer responsable"
+#### Pour assigner un autre collègue, accédez au même menu puis cliquez sur "Assigner comme responsable".
 
 <div align="left"><figure><img src="../../.gitbook/assets/Assigner_Désassigner un participant comme responsable dun fil - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

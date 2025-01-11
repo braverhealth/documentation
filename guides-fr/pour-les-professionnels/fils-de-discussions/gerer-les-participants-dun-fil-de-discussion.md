@@ -16,7 +16,7 @@
 {% endstep %}
 
 {% step %}
-#### Vous pouvez rechercher un participants en retrouvant son lieu de travail. Utilisez la barre de recherche dans le haut, au besoin. Cliquez sur le lieu de travail.
+#### Vous pouvez rechercher un participant en retrouvant son lieu de travail. Utilisez la barre de recherche dans le haut, au besoin. Cliquez sur le lieu de travail.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -56,7 +56,7 @@
 {% endstep %}
 
 {% step %}
-#### Vous pourriez utiliser la barre de recherche pour chercher un contact en particulier.
+#### Vous pouvez utiliser la barre de recherche pour chercher un contact en particulier.
 
 {% hint style="info" %}
 Pensez à activer le filtre _Contacts_, sinon il n'y aura que les lieux de travail qui s'afficheront.

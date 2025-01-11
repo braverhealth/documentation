@@ -8,13 +8,13 @@ Pour l'instant, l'édition de photo et de vidéo est seulement possible sur un a
 
 {% stepper %}
 {% step %}
-#### À partir d'une photo ou une vidéo sur le point d'être transmise dans un fil de discussion, vous pouvez accéder à l'outil de modification en cliquant sur le bouton d'édition.
+#### À partir d'une photo ou d'une vidéo sur le point d'être transmise dans un fil de discussion, vous pouvez accéder à l'outil de modification en cliquant sur le bouton d'édition.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Éditer une photo ou une vidéo - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous pouvez maintenant effectuer plusieurs types de modification, dont:
+#### Vous pouvez maintenant effectuer plusieurs types de modifications, dont :
 
 * Ajuster l'image (couleurs, etc.)
 * Transformer l'image (rogner, etc.)

@@ -11,7 +11,7 @@ Il devient alors facile de rejoindre une discussion appartenant à votre équipe
 {% hint style="warning" %}
 Si vous ne faites pas partie d'une équipe, ou si vous n'avez pas les permissions requises pour afficher cet onglet, vous n'aurez pas l'option d'accéder à cette page.
 
-**Aussi, il est important de noter que Braver journalise les accès à ces&#x20;**_**Fils d'équipe**_**.** Les personnes autorisées de votre organisation peuvent donc produire des audits d'accès au besoin.
+**Aussi, il est important de noter que Braver journalise les accès à ces**_**Fils d'équipe**_**.**  Les personnes autorisées de votre organisation peuvent donc produire des audits d'accès au besoin.
 {% endhint %}
 
 ## Pas-à-pas
