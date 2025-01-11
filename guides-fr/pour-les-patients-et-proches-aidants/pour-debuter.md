@@ -51,6 +51,6 @@ Pour en découvrir davantage, les différentes sections ci-bas vous aiderons à 
 [securite](securite/)
 {% endcontent-ref %}
 
-## Pour suivre une formation complète
+## Pour suivre une formation guidée
 
-Consulter nos outils de formation
+[Consulter nos outils de formation](pour-debuter.md#pour-suivre-une-formation-complete).

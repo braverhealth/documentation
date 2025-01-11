@@ -67,9 +67,9 @@ Pour en découvrir davantage, les différentes sections ci-bas vous aiderons à 
 [securite](securite/)
 {% endcontent-ref %}
 
-## Pour suivre une formation complète
+## Pour suivre une formation guidée
 
-[Consulter nos outils de formation.](https://app.gitbook.com/s/mZQ8lm0cUSwr36vZBzik/pour-les-professionnels/readme)
+[Consulter nos outils de formation](https://app.gitbook.com/s/mZQ8lm0cUSwr36vZBzik/pour-les-professionnels/readme).
 
 
 
