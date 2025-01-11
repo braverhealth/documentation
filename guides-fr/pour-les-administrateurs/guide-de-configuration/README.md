@@ -9,12 +9,12 @@ description: >-
 
 ## À quoi puis-je m'attendre comme charge de pilotage
 
-La configuration et le déploiement dépend de la grosseur de votre organisation.&#x20;
+La configuration et le déploiement dépend de la grosseur de votre organisation.
 
 Par exemple, pour une petite organisation d'une trentaine de cliniciens, son implantation demande seulement quelques heures de travail.
 
 {% hint style="warning" %}
-Si vous utilisez Braver via un partenaire d'intégration (p.ex. Leomed ou Gustav), la configuration et le déploiement sont grandement simplifiés puisque plusieurs éléments de configuration sont automatisé à partir de la configuration du logiciel partenaire.&#x20;
+Si vous utilisez Braver via un partenaire d'intégration (p.ex. Leomed ou Gustav), la configuration et le déploiement sont grandement simplifiés puisque plusieurs éléments de configuration sont automatisé à partir de la configuration du logiciel partenaire.
 {% endhint %}
 
 ## Les concepts de Braver
@@ -23,11 +23,7 @@ Avant de débuter la configuration de la plateforme, nous recommandons de vous f
 
 Le schéma ci-dessous représente la hiérarchie des concepts dans Braver qui permettent de configurer votre structure organisationnelle.
 
-
-
 <img src="../../.gitbook/assets/file.excalidraw.svg" alt="Structure organisationnelle dans Braver" class="gitbook-drawing">
-
-
 
 <details>
 
@@ -35,8 +31,8 @@ Le schéma ci-dessous représente la hiérarchie des concepts dans Braver qui pe
 
 Voici des sections de la documentation qui pourrait vous être utiles:
 
-* Organisation
-* [Unités organisationnelles](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/unites-organisationelles)
+* [Organisation](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/organisation)
+* [Unités organisationnelles](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/unites-organisationnelles)
 * [Lieux de travail](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/lieux-de-travail)
 * [Équipes](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/equipes)
 * Segments (à venir)
@@ -64,4 +60,3 @@ Nous avons également développer un outil de formation express pour les patient
 
 * [Informations sur la connectivité](https://support.braver.net/details-techniques/connectivite)
 * [Informations sur la compatibilité des appareils](https://support.braver.net/details-techniques/compatibilite)
-
