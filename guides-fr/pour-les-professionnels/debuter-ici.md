@@ -66,3 +66,8 @@ Pour en découvrir davantage, les différentes sections ci-bas vous aiderons à 
 {% content-ref url="securite/" %}
 [securite](securite/)
 {% endcontent-ref %}
+
+## Pour suivre une formation complète
+
+
+
