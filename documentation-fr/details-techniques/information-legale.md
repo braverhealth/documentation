@@ -1,4 +1,8 @@
-# Légale
+---
+icon: books
+---
+
+# Information légale
 
 ### Documentation légale disponible
 

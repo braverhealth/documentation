@@ -43,8 +43,8 @@
 
 * [Connectivité](details-techniques/connectivite.md)
 * [Compatibilité](details-techniques/compatibilite.md)
+* [Information légale](details-techniques/information-legale.md)
 
 ***
 
-* [Légale](legale.md)
 * [Trousse MDA-MA - CISSS-ME](trousse-mda-ma-cisss-me.md)
