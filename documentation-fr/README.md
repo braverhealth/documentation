@@ -84,15 +84,11 @@ Et si vous avez besoin de connaître les détails techniques en vue d'un déploi
 
 </details>
 
-### Pour nous rejoindre <a href="#pour-nous-rejoindre" id="pour-nous-rejoindre"></a>
+### Besoin d'aide? <a href="#pour-nous-rejoindre" id="pour-nous-rejoindre"></a>
 
-{% content-ref url="introduction/nous-rapporter-un-probleme.md" %}
-[nous-rapporter-un-probleme.md](introduction/nous-rapporter-un-probleme.md)
-{% endcontent-ref %}
 
-{% content-ref url="foire-aux-questions.md" %}
-[foire-aux-questions.md](foire-aux-questions.md)
-{% endcontent-ref %}
+
+{% include ".gitbook/includes/besoin-daide.md" %}
 
 <details>
 
