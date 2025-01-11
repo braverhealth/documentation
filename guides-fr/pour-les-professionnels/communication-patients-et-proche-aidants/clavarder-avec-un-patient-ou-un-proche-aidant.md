@@ -1,4 +1,4 @@
-# Initier un nouveau fil de discussion avec le patient ou les proche aidant
+# Initier un nouveau fil de discussion avec le patient ou les proches aidants
 
 ## Pas-à-pas
 
@@ -8,9 +8,9 @@ Pour contacter un patient, il faut passer par un canal de soins dans sa fiche pa
 
 {% stepper %}
 {% step %}
-#### Pour initier un nouveau fil de discussion avec le patient ou les proche aidant, vous devez trouver un canal de soins où ceux-ci se trouvent.
+#### Pour initier un nouveau fil de discussion avec le patient ou les proches aidants, vous devez trouver un canal de soins où ceux-ci se trouvent.
 
-Dans l'exemple ci-bas, on voit deux canaux de soins, et l'encadré orange démontre que seulement le deuxième comprend le proche-aidant. Nous pourrions alors cliquer sur l'icône de création de fil de discussion pour rapidement créer un nouveau fil de discussion au bon endroit.
+Dans l'exemple ci-bas, on voit deux canaux de soins, et l'encadré orange démontre que seulement le deuxième comprend le proche aidant. Nous pourrions alors cliquer sur l'icône de création de fil de discussion pour rapidement créer un nouveau fil de discussion au bon endroit.
 
 <div align="left"><figure><img src="../../.gitbook/assets/clavarder-avec-un-patient-ou-un-proche-aidant - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -58,7 +58,7 @@ Vous ne pouvez pas retirer votre propre équipe.&#x20;
 {% endstep %}
 
 {% step %}
-#### Dans la page _Accueil_, sous l'onglet _Fils actifs_, vous pouvez rapidement reconnaître un fil de discussion incluant un proche aidant grâce aux carrés verts près de la date
+#### Dans la page _Accueil_, sous l'onglet _Fils actifs_, vous pouvez rapidement reconnaître un fil de discussion incluant un proche aidant grâce aux carrés verts près de la date.
 
 {% hint style="info" %}
 Si un patient faisait partie du canal de soins, le carré serait rose.

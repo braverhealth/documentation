@@ -4,7 +4,7 @@
 
 {% stepper %}
 {% step %}
-#### Dans l'onglet patient, choisissez le patient qui vous intéresse, puis cliquez sur le trois points et sur "Créer un canal" dans le menu.
+#### Dans l'onglet patient, choisissez le patient qui vous intéresse, puis cliquez sur les trois points et sur "Créer un canal" dans le menu.
 
 <div align="left"><figure><img src="../../.gitbook/assets/creer-un-nouveau-canal-de-soins - Step 3.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -16,7 +16,7 @@
 {% endstep %}
 
 {% step %}
-#### Indiquez quels participants vous souhaitez impliquer dans le canal de soins en cliquant sur _Inviter._
+#### Indiquez quels participants vous souhaitez impliquer dans le canal de soins en cliquant sur _Inviter_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/creer-un-nouveau-canal-de-soins - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -36,13 +36,13 @@ Vous pourriez également utiliser la barre de recherche dans le haut de la page 
 {% endstep %}
 
 {% step %}
-#### Une fois vos participants sélectionnés, inscrivez votre premier message et ajoutez du contenu si vous le désirez. Pour terminer, créer le canal à l'aide du bouton avec un avion en papier.
+#### Une fois vos participants sélectionnés, inscrivez votre premier message et ajoutez du contenu si vous le désirez. Pour terminer, créez le canal à l'aide du bouton avec un avion en papier.
 
 <div align="left"><figure><img src="../../.gitbook/assets/creer-un-nouveau-canal-de-soins - Step 9.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Votre nouveau canal de soins a été créé dans la fiche patient sélectionnée
+#### Votre nouveau canal de soins a été créé dans la fiche patient sélectionnée.
 
 <div align="left"><figure><img src="../../.gitbook/assets/creer-un-nouveau-canal-de-soins - Step 10.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

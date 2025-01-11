@@ -16,7 +16,7 @@
 {% endstep %}
 
 {% step %}
-#### Pour ajouter un intervenant individuel (et non un équipe) cliquez ici.
+#### Pour ajouter un intervenant individuel (et non une équipe), cliquez ici.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-participant-a-un-canal-de-soins-existant - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

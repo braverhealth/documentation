@@ -28,7 +28,7 @@
 
 {% stepper %}
 {% step %}
-**Lors de la réception d'un appel conférence, si vous travaillez sur un ordinateur, vous recevrez une notification indiquant un nouveau message dans la discussion correspondante, puis y trouverai un bouton pour rejoindre l'appel.**
+**Lors de la réception d'un appel conférence, si vous travaillez sur un ordinateur, vous recevrez une notification indiquant un nouveau message dans la discussion correspondante, puis y trouverez un bouton pour rejoindre l'appel.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/rejoindre-et-quitter-un-appel-sur-lordinateur - Rejoindre lappel.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

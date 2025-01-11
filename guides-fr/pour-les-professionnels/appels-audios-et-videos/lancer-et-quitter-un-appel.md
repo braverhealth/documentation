@@ -16,7 +16,7 @@ Si vous êtes seul dans la discussion, ou si les autres participants n'ont pas e
 {% endstep %}
 
 {% step %}
-#### S'il y a plus d'une personne qui pourrait être notifié de cet appel, l'application va vous proposer de sélectionner ceux que vous désirez notifier.
+#### S'il y a plus d'une personne qui pourrait être notifiée de cet appel, l'application va vous proposer de sélectionner ceux que vous désirez notifier.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Sélectionner les participants et démarrer lappel - Étape 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -24,7 +24,7 @@ Si vous êtes seul dans la discussion, ou si les autres participants n'ont pas e
 {% endstep %}
 
 {% step %}
-#### Vous voilà dans l'appel conférence! Cliquez sur le téléphone rouge pour terminer l'appel.
+#### Vous voilà dans l'appel conférence ! Cliquez sur le téléphone rouge pour terminer l'appel.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Cliquer sur licône de porter rouge pour quitter lappel.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

@@ -13,7 +13,7 @@
 #### Donnez un titre au canal.
 
 {% hint style="info" %}
-C'est ce titre qui apparaitra comme équipe de soins du point de vue du patient.
+C'est ce titre qui apparaîtra comme équipe de soins du point de vue du patient.
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
@@ -56,13 +56,13 @@ Pour voir si le patient et la personne responsable sont bien présents dans le c
 {% endstep %}
 
 {% step %}
-#### Pour voir si les patients et proches aidant ont rejoint Braver, cliquez sur _Voir les détails_ près du titre _Patient et ses proches_.
+#### Pour voir si les patients et proches aidants ont rejoint Braver, cliquez sur _Voir les détails_ près du titre _Patient et ses proches_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins - Step 11.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### On voit ici que le patient est Thomas Duclos et que la personne responsable dans son dossier est son épouse, Mme Duclos. Il n'y a pas d'enveloppe près de leur nom, donc ils ont bien activé leur compte Braver et ils peuvent discuter avec vous!
+#### On voit ici que le patient est Thomas Duclos et que la personne responsable dans son dossier est son épouse, Mme Duclos. Il n'y a pas d'enveloppe près de leur nom, donc ils ont bien activé leur compte Braver et ils peuvent discuter avec vous !
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins - Step 12.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

@@ -4,7 +4,7 @@
 
 {% stepper %}
 {% step %}
-#### À l’ouverture de l’application, cliquez sur : _Inscrivez-vous gratuitement!_
+#### À l'ouverture de l'application, cliquez sur : _Inscrivez-vous gratuitement !_
 
 <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-autonome - Step 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -19,12 +19,12 @@
 #### Récupérez le code de sécurité à 6 chiffres dans vos courriels et saisissez-le dans le champ de texte prévu à cet effet.
 
 {% hint style="info" %}
-N'oubliez pas de vérifiez vos indésirables s'il n'apparaît pas dans votre boîte courriel rapidement.
+N'oubliez pas de vérifier vos indésirables s'il n'apparaît pas dans votre boîte courriel rapidement.
 {% endhint %}
 {% endstep %}
 
 {% step %}
-#### Faites défiler jusqu'en bas de la page et acceptez les conditions d’utilisation.
+#### Faites défiler jusqu'en bas de la page et acceptez les conditions d'utilisation.
 
 <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-autonome - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -39,11 +39,11 @@ N'oubliez pas de vérifiez vos indésirables s'il n'apparaît pas dans votre bo�
 #### Cliquez ensuite sur _Créer mon code de récupération_. Il sera dans vos courriels.
 
 {% hint style="info" %}
-N'oubliez pas de vérifiez vos indésirables s'il n'apparaît pas dans votre boîte courriel rapidement.
+N'oubliez pas de vérifier vos indésirables s'il n'apparaît pas dans votre boîte courriel rapidement.
 {% endhint %}
 
 {% hint style="warning" %}
-Garder ce code dans un lieu sécuritaire!
+Gardez ce code dans un lieu sécuritaire !
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-autonome - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
@@ -56,7 +56,7 @@ Garder ce code dans un lieu sécuritaire!
 {% endstep %}
 
 {% step %}
-#### Configurez un NIP qui vous servira à déverrouiller facilement votre application si vous n’avez pas l’option de reconnaissance faciale. Cliquez sur _Configurer_.
+#### Configurez un NIP qui vous servira à déverrouiller facilement votre application si vous n'avez pas l'option de reconnaissance faciale. Cliquez sur _Configurer_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-autonome - Step 10.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

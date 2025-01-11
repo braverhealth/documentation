@@ -10,13 +10,13 @@
 {% endstep %}
 
 {% step %}
-#### Dans la fiche du patient, dans le canal de soins souhaité, cliquez sur l'icône d'ajout d'un fil de discussion
+#### Dans la fiche du patient, dans le canal de soins souhaité, cliquez sur l'icône d'ajout d'un fil de discussion.
 
 <div align="left"><figure><img src="../../.gitbook/assets/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### À ce stade, pouvez modifier les équipes participantes, mais pas les participants individuels.
+#### À ce stade, vous pouvez modifier les équipes participantes, mais pas les participants individuels.
 
 Cliquez sur Modifier.
 
@@ -31,14 +31,14 @@ Ici, on voit que l'équipe des médecins est grisée parce que l'auteur du messa
 {% endhint %}
 
 {% hint style="warning" %}
-Il est important de comprendre que les équipes que vous avez retirés de la discussion ne seront pas notifiées, mais auront accès au contenu du fil dans le canal de soins.
+Il est important de comprendre que les équipes que vous avez retirées de la discussion ne seront pas notifiées, mais auront accès au contenu du fil dans le canal de soins.
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Voici de quoi aura l'air votre page de création de fil si vous avez modifié les participants.
+#### Voici à quoi aura l'air votre page de création de fil si vous avez modifié les participants.
 
 <div align="left"><figure><img src="../../.gitbook/assets/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 

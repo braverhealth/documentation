@@ -10,12 +10,12 @@ description: >-
 
 ## Tutoriels essentiels pour débuter
 
-* Si vous n'avez pas encore créer votre compte, c'est par [ici](creation-de-compte/creation-de-compte-autonome.md).
+* Si vous n'avez pas encore créé votre compte, c'est par [ici](creation-de-compte/creation-de-compte-autonome.md).
 * [Ajouter un contact à votre bottin](reseau/ajouter-un-contact-a-votre-bottin.md) ou [inviter l'un de vos collaborateurs à rejoindre le réseau Braver](reseau/inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver.md).
 * [Créer votre premier fil de discussion clinique](fils-de-discussions/creer-un-fil-de-discussion-clinique.md).
 * [Fermer un fil de discussion et l'exporter en PDF](fils-de-discussions/fermer-et-exporter-en-pdf-un-fil-de-discussion.md) pour le déposer au dossier patient.
 
-Pour en découvrir davantage, les différentes sections ci-bas vous aiderons à explorer Braver selon différentes thématiques.
+Pour en découvrir davantage, les différentes sections ci-bas vous aideront à explorer Braver selon différentes thématiques.
 
 ### Utiliser Braver
 
@@ -70,6 +70,3 @@ Pour en découvrir davantage, les différentes sections ci-bas vous aiderons à 
 ## Pour suivre une formation guidée
 
 [Consulter nos outils de formation](https://app.gitbook.com/s/mZQ8lm0cUSwr36vZBzik/pour-les-professionnels/readme).
-
-
-
