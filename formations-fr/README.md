@@ -28,9 +28,19 @@ description: >-
 
 ## Pour en apprendre davantage sur Braver
 
+<details>
+
+<summary>Apperçu de haut niveau</summary>
+
+[Qu'est-ce que Braver](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/introduction/quest-ce-que-braver)
+
+
+
+
+
+</details>
+
 <mark style="background-color:red;">Je ne suis pas capable de linker la page Qu'est-ce que Braver?</mark>
-
-
 
 ## Pour obtenir de l'aide
 
