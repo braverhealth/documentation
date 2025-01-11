@@ -22,7 +22,7 @@ Pour consulter la présentation ci-dessous **en mode plein écran**, la **partag
 
 #### Guide
 
-Vous retrouverez dans [la section Guide ](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-patients-et-proches-aidants/pour-debuter)des tutoriels pas-à-pas pour chacune des fonctionnalités de la plateforme
+Vous retrouverez dans [la section Guide](https://support.braver.net/guides/pour-les-patients-et-proches-aidants/pour-debuter) des tutoriels pas-à-pas pour chacune des fonctionnalités de la plateforme
 
 {% hint style="info" %}
 Utiliser la barre de recherche et inscrivez ce que vous recherchez pour qu'on vous guide vers le bon tutoriel.

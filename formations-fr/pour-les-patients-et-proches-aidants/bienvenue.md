@@ -36,6 +36,6 @@ description: >-
 
 </details>
 
-## Pour obtenir de l'aide
+## Besoin d'aide?
 
-<mark style="background-color:red;">Je ne suis pas capable de linker la page à la section Pour nous rejoindre</mark>
+[Cette page ](https://support.braver.net/besoin-daide)vous propose différents moyens d'obtenir de l'aide en cas de besoin.

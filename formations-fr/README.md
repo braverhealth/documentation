@@ -29,4 +29,4 @@ Si vous utilisez Braver car vous avez été invité(e) par une équipe de soins 
 
 ### Besoin d'aide?
 
-[Cette page](https://app.gitbook.com/o/zMIZEnF83uQLxLHiNR0f/s/C7asQvRtcnnGS2hUcyO0/besoin-daide) vous propose différents moyens d'obtenir de l'aide en cas de besoin.
+[Cette page](https://support.braver.net/besoin-daide) vous propose différents moyens d'obtenir de l'aide en cas de besoin.
