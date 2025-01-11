@@ -30,17 +30,15 @@ description: >-
 
 <details>
 
-<summary>Apperçu de haut niveau</summary>
+<summary>Aperçu de la plateforme</summary>
 
 [Qu'est-ce que Braver](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/introduction/quest-ce-que-braver)
 
 [Qui peut rejoindre Braver?](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/introduction/qui-peut-rejoindre-braver)
 
-
+[Dans quel contexte puis-je l'utiliser?](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/introduction/dans-quel-contexte-peut-on-lutiliser)
 
 </details>
-
-<mark style="background-color:red;">Je ne suis pas capable de linker la page Qu'est-ce que Braver?</mark>
 
 ## Pour obtenir de l'aide
 
