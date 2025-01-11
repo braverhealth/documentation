@@ -12,7 +12,7 @@ Cliquez sur cet icône.
 {% endstep %}
 
 {% step %}
-#### Un code QR apparaitra au centre de l'écran.
+#### Un code QR apparaîtra au centre de l'écran.
 
 Scannez ce code à l'aide d'un appareil disponible iOS ou Android pour initier le processus d'activation d'un compte qui sera associé à cette fiche patient Leomed.
 

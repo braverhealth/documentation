@@ -1,22 +1,22 @@
 ---
-description: Configurer votre organisation en seulement 3 étapes!
+description: Configurer votre organisation en seulement 3 étapes !
 ---
 
 # Déployer Braver via Leomed
 
 {% hint style="info" %}
-Le processus comprend la plupart du temps la création d'un environnement en pré-production puis la création d'un second en production. Le première étape est requise une seule fois, car nous utiliserons les mêmes informations.
+Le processus comprend la plupart du temps la création d'un environnement en pré-production puis la création d'un second en production. La première étape est requise une seule fois, car nous utiliserons les mêmes informations.
 
 **Les deux autres étapes devront par contre être répétées pour les deux environnements.**
 {% endhint %}
 
-### Voici les étapes à suivre pour configurer votre organisation dans Braver:
+### Voici les étapes à suivre pour configurer votre organisation dans Braver :
 
 {% stepper %}
 {% step %}
 **Partager les informations de votre organisation à l'équipe Braver**
 
-Compléter le formulaire ci-dessous:
+Compléter le formulaire ci-dessous :
 
 {% embed url="https://braverhealth.typeform.com/to/xuw0zj3i" %}
 {% endstep %}
@@ -27,7 +27,7 @@ Compléter le formulaire ci-dessous:
 {% hint style="warning" %}
 Avant de procéder à cette étape, vous devez attendre qu'un membre de l'équipe Gustav ou Braver vous confirme que l'intégration est fonctionnelle.
 
-Par la suite, si vous n'avez pas encore créer votre compte, vous devriez avoir reçu une invitation par courriel. Voici [le tutoriel](../../pour-les-professionnels/creation-de-compte/creation-de-compte-autonome.md) pour vous aider à créer votre compte.
+Par la suite, si vous n'avez pas encore créé votre compte, vous devriez avoir reçu une invitation par courriel. Voici [le tutoriel](../../pour-les-professionnels/creation-de-compte/creation-de-compte-autonome.md) pour vous aider à créer votre compte.
 {% endhint %}
 
 Vous pouvez accéder à l'application administrative via [https://admin.braver.net](https://admin.braver.net/#/login). Utilisez les mêmes informations que vous utilisez pour vous connecter à votre compte Braver (email + mot de passe)
@@ -39,7 +39,7 @@ Vous pouvez accéder à l'application administrative via [https://admin.braver.n
 Voici [comment octroyer un rôle à un utilisateur.](https://app.gitbook.com/o/zMIZEnF83uQLxLHiNR0f/s/0ai7456Hm287lPHBbGj2/~/changes/22/pour-les-administrateurs/utilisateurs/comment-octroyer-un-role-a-un-utilisateur-existant)
 
 {% hint style="info" %}
-Lors de l'activation du compte Braver des utilisateurs, la plateforme Leomed fournit à Braver l'ensemble des rôles et permissions à l'exception du rôle "Admin". Ce rôle doit donc être octroyer manuellement dans l'application administrative de Braver.
+Lors de l'activation du compte Braver des utilisateurs, la plateforme Leomed fournit à Braver l'ensemble des rôles et permissions à l'exception du rôle "Admin". Ce rôle doit donc être octroyé manuellement dans l'application administrative de Braver.
 
 Le rôle Admin donne la permission à un utilisateur de se connecter à l'application administrative et d'ainsi créer des lieux de travail, des équipes et d'inviter des utilisateurs. Toutefois, comme vous utilisez Braver via une intégration avec Leomed, toutes ces actions sont facilitées pour vous par l'intégration entre les deux plateformes.
 {% endhint %}
@@ -49,13 +49,13 @@ La fonctionnalité qui vous sera la plus utile dans l'application administrative
 {% endstepper %}
 
 {% hint style="info" %}
-Pour l'invitation des patients et proche aidants, celle-ci se fait au travers Leomed. Voici [le tutoriel](activer-un-compte-patient-ou-proche-aidant.md) pour vous guider.
+Pour l'invitation des patients et proches aidants, celle-ci se fait au travers Leomed. Voici [le tutoriel](activer-un-compte-patient-ou-proche-aidant.md) pour vous guider.
 {% endhint %}
 
 {% hint style="success" %}
-**Félicitations, vous organisation fait maintenant partie du réseau Braver!** 🎉
+**Félicitations, votre organisation fait maintenant partie du réseau Braver !** 🎉
 
-Il ne reste que deux sections à parcourir:
+Il ne reste que deux sections à parcourir :
 
 * [Module patient et proche aidant](../../pour-les-administrateurs/guide-de-configuration/)
 * [Autres détails techniques](../../pour-les-administrateurs/guide-de-configuration/)

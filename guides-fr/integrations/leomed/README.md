@@ -27,9 +27,9 @@ layout:
 * Aucune nécessité de dédoubler la gestion des accès à Braver pour les usagers de Leomed. **L'octroi d'accès est automatique en fonction de votre configuration de Gustav.**
 * La gestion des équipes, des lieux de travail et de l'index patient est complètement automatisée
 * Le personnel soignant peut rester dans Leomed et être tout de même notifié des messages importants ou d'appels issus de Braver, et appeler le patient ou proche aidant au besoin
-* Les tâches automatisées envoyés aux patients et proches aidants peuvent être transmis de manière sécurisé à travers le portail patient et proches aidants de Braver!
+* Les tâches automatisées envoyées aux patients et proches aidants peuvent être transmises de manière sécurisée à travers le portail patient et proches aidants de Braver !
 
-[**Contactez-nous pour en savoir plus!**](https://braverhealth.typeform.com/to/D8CEMzqZ?typeform-source=support.braver.net)
+[**Contactez-nous pour en savoir plus !**](https://braverhealth.typeform.com/to/D8CEMzqZ?typeform-source=support.braver.net)
 
 ### Si vous déployez actuellement cette intégration
 
@@ -37,7 +37,7 @@ layout:
 [guide-de-configuration](../../pour-les-administrateurs/guide-de-configuration/)
 {% endcontent-ref %}
 
-Quelques liens utiles:
+Quelques liens utiles :
 
 * [Informations sur la connectivité](https://support.braver.net/details-techniques/connectivite)
 * [Informations sur la compatibilité des appareils](https://support.braver.net/details-techniques/compatibilite)
@@ -53,4 +53,4 @@ Quelques liens utiles:
 [activer-un-compte-patient-ou-proche-aidant.md](activer-un-compte-patient-ou-proche-aidant.md)
 {% endcontent-ref %}
 
-Nous avons également une [série de formations détaillées](https://app.gitbook.com/s/mZQ8lm0cUSwr36vZBzik/pour-les-professionnels/readme)!
+Nous avons également une [série de formations détaillées](https://app.gitbook.com/s/mZQ8lm0cUSwr36vZBzik/pour-les-professionnels/readme) !
