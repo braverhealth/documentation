@@ -29,4 +29,10 @@ Cette formation sous forme d'apprentissage actif peut être complétée de mani�
 [batissez-votre-reseau-de-collaborateurs.md](batissez-votre-reseau-de-collaborateurs.md)
 {% endcontent-ref %}
 
+## Ressources supplémentaires
+
+#### Formation plus approfondie
+
+Si vous ressentez que vous avez besoin ou envie d'aller plus loin dans la formation de Braver, vous pouvez poursuivre avec la [Formation approfondie](../formation-approfondie/).
+
 {% include "../../.gitbook/includes/ressources-supplementaires.md" %}

@@ -2,12 +2,6 @@
 title: Ressources supplémentaires
 ---
 
-# Ressources supplémentaires
-
-### Formation plus approfondie
-
-Si vous ressentez que vous avez besoin ou envie d'aller plus loin dans la formation de Braver, vous pouvez poursuivre avec la [Formation approfondie](../../pour-les-professionnels/formation-approfondie/).
-
 ### Guide
 
 Vous retrouverez dans [la section Guide](https://support.braver.net/guides/pour-les-professionnels/debuter-ici) des tutoriels pas-à-pas pour chacune des fonctionnalités de la plateforme
