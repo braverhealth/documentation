@@ -69,7 +69,7 @@ Commencer par [un survol](pour-les-professionnels/pour-debuter.md), ou passez di
 
 Commencer par [un survol](pour-les-administrateurs/pour-debuter.md), ou passez directement à une section de la documentation qui pourrait vous être utile:
 
-* [Unités organisationnelles](broken-reference)
+* [Unités organisationnelles](pour-les-administrateurs/unites-organisationnelles.md)
 * [Lieux de travail](pour-les-administrateurs/lieux-de-travail/)
 * [Équipes](pour-les-administrateurs/equipes/)
 * [Utilisateurs](pour-les-administrateurs/utilisateurs/)
