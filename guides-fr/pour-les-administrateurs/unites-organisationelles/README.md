@@ -23,21 +23,21 @@ L'accès aux ressources suivantes peuvent être ainsi segmentés en utilisant de
 
 * Les informations nominatives des patients
 * Les détails des utilisateurs membres d'une unité organisationnelle
-* Les [bottins](../bottins.md)
+* Les [bottins](broken-reference)
 * Les [journaux d'audits](../journaux-daudit/)
 * Les [lieux de travails](../lieux-de-travail/) (seulement la permission de **gestion des lieux de travail**, car leurs détails sont publiques sur le Réseau Braver)
 * Les [équipes](../equipes/)
 * Les fils de discussions et canaux de soins (voir section en jaune ci-bas pour une précision à cet égard)
 
 {% hint style="warning" %}
-L'accès aux fils de discussion et aux canaux de soins est additionnellement contrôlé à l'aide [des équipes](../equipes/).&#x20;
+L'accès aux fils de discussion et aux canaux de soins est additionnellement contrôlé à l'aide [des équipes](../equipes/).
 
 Deux membres d'une même unité organisationnelle ne verront les mêmes fils de discussions ou canaux de soins associé à un patient donné que s'ils ont **également accès à la même équipe** (avec les bonnes permissions).
 {% endhint %}
 
 ### Unité organisationnelle "mère" et sa descendance
 
-Les unités organisationnelles sont organisées hiérarchiquement de sorte qu'une unité est "sous" une autre unité organisationnelle, son unité "mère".&#x20;
+Les unités organisationnelles sont organisées hiérarchiquement de sorte qu'une unité est "sous" une autre unité organisationnelle, son unité "mère".
 
 Une unité peut avoir plusieurs unités "enfants" (toutes celles dont elle est l'unité "mère"), et plusieurs unités "descendantes" (toutes celles dont elle est l'unité "mère", "grand-mère", etc.).
 
