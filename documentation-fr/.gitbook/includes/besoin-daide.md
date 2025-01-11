@@ -10,6 +10,8 @@ title: Besoin d'aide?
 [foire-aux-questions.md](../../foire-aux-questions.md)
 {% endcontent-ref %}
 
+## Pour parler à notre équipe
+
 <details>
 
 <summary><strong>Par téléphone</strong> (disponible de jour en semaine, excluant les jours fériés)</summary>
