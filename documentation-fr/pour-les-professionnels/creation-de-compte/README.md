@@ -4,8 +4,6 @@ icon: user-plus
 
 # Création de compte
 
-**N'hésitez pas à consulter** [**nos guides dédiés**](https://support.braver.net/guides/pour-les-professionnels/creation-de-compte) **pour comprendre rapidement comment utiliser le réseau.**
-
 **Il y a plusieurs manières de créer son compte Braver**
 
 1. Si vous utilisez Braver de manière intégrée dans un autre logiciel (p. ex. Leomed ou Gustav), la création de votre compte sera effectuée la première fois que vous activez la bulle Braver dans le logiciel en question. Voici [comment ça se passe](https://support.braver.net/guides/pour-les-professionnels/creation-de-compte/activation-dun-compte-par-la-bulle-integree).
@@ -19,3 +17,5 @@ Dans ces situations, vous n'aurez qu'à choisir l'option **Utiliser un compte ex
 {% endhint %}
 
 Si vous désirez par la suite supprimer votre compte, vous pouvez le faire facilement [en quelques étapes simples](https://support.braver.net/guides/pour-les-professionnels/securite/supprimer-un-compte-braver). **Mais attention**! La suppression de compte est irrévocable!
+
+**N'hésitez pas à consulter** [**nos guides dédiés**](https://support.braver.net/guides/pour-les-professionnels/creation-de-compte) **pour comprendre rapidement comment créer votre compte.**
