@@ -22,7 +22,7 @@ description: >-
 
 <summary>Parcourez notre banque de tutoriel au gré de vos besoins!</summary>
 
-[Débuter ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/debuter-ici "mention")
+[Débuter ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/debuter-ici)
 
 </details>
 
