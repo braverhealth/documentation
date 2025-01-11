@@ -16,8 +16,6 @@ Si vous utilisez Braver car vous avez été invité(e) par une équipe de soins 
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Vous aimez apprendre l'essentiel à l'aide de tâches</td><td><strong>Vous voulez être prêt le plus rapidement possible!</strong></td><td></td><td><a href="pour-les-professionnels/formation-essentielle/">formation-essentielle</a></td><td><a href=".gitbook/assets/formation-essentielle.png">formation-essentielle.png</a></td></tr><tr><td>Vous désirez comprendre un outil dans tous ces petits détails</td><td><strong>Vous préférez prendre le temps nécessaire</strong></td><td></td><td><a href="pour-les-professionnels/formation-approfondie/">formation-approfondie</a></td><td><a href=".gitbook/assets/formation-approfondie.png">formation-approfondie.png</a></td></tr></tbody></table>
 
-
-
 ## Plutôt du type à vouloir explorer par vous-même?
 
 <details>
@@ -42,6 +40,6 @@ Si vous utilisez Braver car vous avez été invité(e) par une équipe de soins 
 
 </details>
 
-## Pour obtenir de l'aide
+## Besoin d'aide?
 
-<mark style="background-color:red;">Je ne suis pas capable de linker la page à la section Pour nous rejoindre</mark>
+[Cette page](https://app.gitbook.com/o/zMIZEnF83uQLxLHiNR0f/s/C7asQvRtcnnGS2hUcyO0/besoin-daide) vous propose différents moyens d'obtenir de l'aide en cas de besoin.

@@ -6,7 +6,7 @@ description: >-
   avec Braver.
 ---
 
-# Formation essentielle
+# Formation essentielle pour patient et proche aidant
 
 Vous pouvez utiliser les flèches de votre clavier pour faire avancer la présentation et il est également possible de la télécharger en format PDF.
 
@@ -18,3 +18,16 @@ Pour consulter la présentation ci-dessous **en mode plein écran**, la **partag
 
 
 
+## Ressources supplémentaires
+
+#### Guide
+
+Vous retrouverez dans [la section Guide ](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-patients-et-proches-aidants/pour-debuter)des tutoriels pas-à-pas pour chacune des fonctionnalités de la plateforme
+
+{% hint style="info" %}
+Utiliser la barre de recherche et inscrivez ce que vous recherchez pour qu'on vous guide vers le bon tutoriel.
+{% endhint %}
+
+#### Besoin d'aide?
+
+[Cette page](https://app.gitbook.com/o/zMIZEnF83uQLxLHiNR0f/s/C7asQvRtcnnGS2hUcyO0/besoin-daide) vous propose différents moyens d'obtenir de l'aide en cas de besoin.

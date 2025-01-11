@@ -29,6 +29,4 @@ Cette formation sous forme d'apprentissage actif peut être complétée de mani�
 [batissez-votre-reseau-de-collaborateurs.md](batissez-votre-reseau-de-collaborateurs.md)
 {% endcontent-ref %}
 
-{% content-ref url="besoin-daide.md" %}
-[besoin-daide.md](besoin-daide.md)
-{% endcontent-ref %}
+{% include "../../.gitbook/includes/ressources-supplementaires.md" %}

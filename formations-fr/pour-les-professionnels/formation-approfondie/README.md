@@ -41,3 +41,5 @@ Cette formation plus détaillée peut être complétée de manière autonome ou 
 [annexes-astuces-et-foire-aux-questions.md](annexes-astuces-et-foire-aux-questions.md)
 {% endcontent-ref %}
 
+{% include "../../.gitbook/includes/ressources-supplementaires.md" %}
+
