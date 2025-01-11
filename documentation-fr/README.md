@@ -87,33 +87,6 @@ Et si vous avez besoin de connaître les détails techniques en vue d'un déploi
 ### Besoin d'aide? <a href="#pour-nous-rejoindre" id="pour-nous-rejoindre"></a>
 
 
-
 {% include ".gitbook/includes/besoin-daide.md" %}
-
-<details>
-
-<summary><strong>Par téléphone</strong> (disponible de jour en semaine, excluant les jours fériés)</summary>
-
-Appelez-nous au [+1-888-342-8032](tel:1-888-342-8032)
-
-</details>
-
-<details>
-
-<summary><strong>Par téléphone</strong> (disponible 24h sur 24, 7 jours sur 7)</summary>
-
-Il se peut que votre organisation ait accès à notre numéro de téléphone de support disponible en tout temps. **Si c'est le cas, utilisez celui-ci en cas de problème!**
-
-Si vous n'en avez pas et désirez vous informez sur nos forfaits avancés de support, [écrivez-nous](https://braverhealth.typeform.com/to/D8CEMzqZ)!
-
-</details>
-
-<details>
-
-<summary><strong>Par courriel</strong></summary>
-
-Écrivez-nous au [support@braver.health](mailto:support@braver.health)
-
-</details>
 
 Si vous désirez rester en contact avec nos avancées, vous pouvez vous [inscrire à notre infolettre](https://braverhealth.typeform.com/to/htc30Hk5#email=xxxxx\&language=fr)!
