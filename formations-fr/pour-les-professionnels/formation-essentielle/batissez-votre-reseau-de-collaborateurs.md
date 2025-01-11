@@ -1,11 +1,13 @@
 ---
 icon: face-sunglasses
-description: >-
-  Cette page vous concerne si vous utilisez principalement Braver pour discuter
-  avec des cliniciens à l'extérieur de votre organisation.
+description: Bâtissez votre réseau de collaborateurs - Trousse de départ
 ---
 
 # Bâtissez votre réseau de collaborateurs
+
+{% hint style="info" %}
+Cette page vous concerne si vous utilisez principalement Braver pour discuter avec des cliniciens à l'extérieur de votre organisation.
+{% endhint %}
 
 ## Trousse de départ
 

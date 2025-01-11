@@ -1,20 +1,21 @@
 ---
 icon: square-check
 description: >-
-  Voici 18 tâches à compléter dans la plateforme qui vous permettra de vous
-  familiariser avec les fonctionnalités essentielles de Braver pour vous sentir
-  confiant de débuter votre utilisation de l'app!
+  Tâches d'auto formation - Laissez-nous vous guider vers les fonctionnalités
+  principales
 ---
 
-# Tâches d'autoformation
+# Tâches d'auto formation
 
-## <mark style="background-color:purple;">Prêt?</mark>
+{% hint style="info" %}
+Voici 18 tâches à compléter dans la plateforme qui vous permettra de vous familiariser avec les fonctionnalités essentielles de Braver pour vous sentir confiant de débuter votre utilisation de l'app!
+{% endhint %}
 
 ### Pour débuter
 
 1. Créez votre compte Braver&#x20;
    1. de manière autonome ([Tutoriel ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/creation-de-compte))
-   2. ou via une bulle intégrée (Leomed ou Gustav) ([Tutoriel](https://braver.notion.site/Cr-ation-de-compte-professionnel-via-Leomed-73ea0fd99fb14a6d831af58172368cf7?pvs=4)[ ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/creation-de-compte/activation-dun-compte-par-la-bulle-integree))
+   2. ou via une bulle intégrée (Leomed ou Gustav) ([Tutoriel ici](https://app.gitbook.com/o/zMIZEnF83uQLxLHiNR0f/s/mZQ8lm0cUSwr36vZBzik/))
 2. Pour une plus grande convivialité auprès du patient et vos collègues, ajoutez une photo à votre profil ([Tutoriel ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/gestion-du-profil/modifier-son-profil-photo-et-texte-de-presentation))
 3. _Si vous avez accès au module patient et proche aidant et que vous utilisez Leomed ou Gustav:_&#x20;
    1. Invitez un patient ou un proche aidant ([Tutoriel ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/integrations/leomed) et [ici)](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/integrations/gustav)

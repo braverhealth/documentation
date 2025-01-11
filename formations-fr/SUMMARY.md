@@ -3,12 +3,13 @@
 ## Pour les professionnels
 
 * [Bienvenue](README.md)
-* [Formation essentielle](pour-les-professionnels/formation-essentielle/README.md)
-  * [Tâches d'autoformation](pour-les-professionnels/formation-essentielle/taches-dautoformation.md)
+* [Formation essentielle pour professionnels](pour-les-professionnels/formation-essentielle/README.md)
+  * [Introduction à la plateforme](pour-les-professionnels/formation-essentielle/introduction-a-la-plateforme.md)
+  * [Tâches d'auto formation](pour-les-professionnels/formation-essentielle/taches-dautoformation.md)
   * [Pour aller un peu plus loin](pour-les-professionnels/formation-essentielle/pour-aller-un-peu-plus-loin.md)
   * [Bâtissez votre réseau de collaborateurs](pour-les-professionnels/formation-essentielle/batissez-votre-reseau-de-collaborateurs.md)
   * [Ressources supplémentaires](pour-les-professionnels/formation-essentielle/besoin-daide.md)
-* [Formation approfondie](pour-les-professionnels/formation-approfondie/README.md)
+* [Formation approfondie pour professionnels](pour-les-professionnels/formation-approfondie/README.md)
   * [Module 1 - Introduction et collaborer dans Braver](pour-les-professionnels/formation-approfondie/module-1-introduction-et-collaborer-dans-braver.md)
   * [Module 2 - Collaborer avec le réseau Braver externe](pour-les-professionnels/formation-approfondie/module-2-collaborer-avec-le-reseau-braver-externe.md)
   * [Module 3 - Communiquer avec les patients et proches aidants](pour-les-professionnels/formation-approfondie/module-3-communiquer-avec-les-patients-et-proches-aidants.md)
@@ -20,7 +21,7 @@
 ## Pour les patients et proches aidants
 
 * [Bienvenue](pour-les-patients-et-proches-aidants/bienvenue.md)
-* [Formation essentielle](pour-les-patients-et-proches-aidants/formation-guidee.md)
+* [Formation essentielle pour patient et proche aidant](pour-les-patients-et-proches-aidants/formation-guidee.md)
 
 ## Pour les administrateurs
 

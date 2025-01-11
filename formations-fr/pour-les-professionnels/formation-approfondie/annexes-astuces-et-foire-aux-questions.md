@@ -6,5 +6,9 @@ description: >-
 
 # Annexes - Astuces et foire aux questions
 
+{% hint style="success" %}
+Pour consulter la présentation ci-dessous **en mode plein écran**, la **partager** et la **télécharger en format PDF**, [**utiliser ce lien!**](https://pitch.braver.net/v/formation_utilisateurs_moduleannexes-6h94qy)
+{% endhint %}
+
 {% embed url="https://pitch.com/embed-link/6h94qy" fullWidth="true" %}
 

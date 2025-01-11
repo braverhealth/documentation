@@ -1,5 +1,8 @@
 ---
 icon: graduation-cap
+description: >-
+  Pour aller un peu plus loin - Survol de l'application web, mobile et du module
+  patient et proche aidant
 ---
 
 # Pour aller un peu plus loin
@@ -8,7 +11,7 @@ icon: graduation-cap
 
 La disposition de la barre de navigation diffère légèrement entre un ordinateur (à gauche dans l’exemple) et un appareil mobile (dans le bas dans l’exemple), mais les fonctionnalités restent à peu prêt pareil. Apprenez un peu plus bas ce que le mobile vous offre de plus!
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdT44-JQIHcbh5ajPEDu2Ot1qw1tfEgpIj502j8HZiXgxZxZhhcFVrfK52AS_xxjczv2bk7DI899kDdEIqQx-tC5Uab7g0jP4nbQ2IQMnnIkeMFT6jVSOb2IZXFBJb4Q5EY650ymnE0x-k6a39XLM2Shi_5?key=cZePhoKjSOguTBidTMV33w)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfjwEUPE-hxQ4NWNiKiC61qnQhR99u8mrwikqQZgQfA7QsTZxwEkEfn47onYmjrh38ESX6ZebDgNE3qzxgisakVbkAWUA068HQQ9EcSwyU0EORvBFDNBtv9Wrrya8hG15dWTEe3TQf3OmQztTHRCWEpcA3f?key=cZePhoKjSOguTBidTMV33w)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdT44-JQIHcbh5ajPEDu2Ot1qw1tfEgpIj502j8HZiXgxZxZhhcFVrfK52AS_xxjczv2bk7DI899kDdEIqQx-tC5Uab7g0jP4nbQ2IQMnnIkeMFT6jVSOb2IZXFBJb4Q5EY650ymnE0x-k6a39XLM2Shi_5?key=cZePhoKjSOguTBidTMV33w) ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfjwEUPE-hxQ4NWNiKiC61qnQhR99u8mrwikqQZgQfA7QsTZxwEkEfn47onYmjrh38ESX6ZebDgNE3qzxgisakVbkAWUA068HQQ9EcSwyU0EORvBFDNBtv9Wrrya8hG15dWTEe3TQf3OmQztTHRCWEpcA3f?key=cZePhoKjSOguTBidTMV33w)
 
 ### Survol de l'application mobile cliniciens
 
@@ -29,4 +32,3 @@ Voici les avantages de Braver sur mobile (versus sur ordinateur):
 * Le nom de l’équipe de soins dans la vue patient correspond au titre du canal de soins dans la vue des professionnels.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZsCyY5CK2LZZOrWa7Y1nnpzhp_LrjuEeQqL27SHZb3uGxx2G2QDfu7X5GQyj6Iy7n9073F6htkVutRoL5DSMelfoytBV5MAgmwCgYR8Q0Dv365KVLAcdms6svks7J9-XE_bO3dh_IYF-HCQRv88Q-TzKm?key=cZePhoKjSOguTBidTMV33w)
-

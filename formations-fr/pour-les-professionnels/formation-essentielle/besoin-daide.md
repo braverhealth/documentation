@@ -1,8 +1,9 @@
 ---
 icon: message-question
+description: Ressources supplémentaires - Découvrez les ressources à votre disposition
 ---
 
-# Besoin d'aide?
+# Ressources supplémentaires
 
 ## Les ressources à votre disposition
 
@@ -18,7 +19,7 @@ Utiliser la barre de recherche et inscrivez ce que vous recherchez pour qu'on vo
 
 Si vous ressentez que vous avez besoin ou envie d'aller plus loin dans la formation de Braver, vous pouvez poursuivre avec la Formation approfondie.
 
-#### Problèmes techniques&#x20;
+#### Problèmes techniques
 
 Si vous utiliser Braver seul:
 

@@ -1,19 +1,43 @@
 ---
 icon: person-chalkboard
 description: >-
-  Cette formation plus détaillée peut être complétée de manière autonome ou
-  magistrale en environ deux heures.
+  Formation approfondie - Outil de formation pour les gens qui ont besoin de
+  comprendre la plateforme dans tous ces petits détails.
 ---
 
-# Formation approfondie
+# Formation approfondie pour professionnels
+
+{% hint style="info" %}
+Cette formation plus détaillée peut être complétée de manière autonome ou magistrale en environ deux heures. Elle contient 6 modules ainsi que des annexes. Vous pouvez vous appropriez de matériel pour en faire votre outil de formation auprès de vos collègues.
+{% endhint %}
 
 ## Plan de formation
 
-1. **Module 1** - Introduction et collaborer dans Braver
-2. **Module 2** - Collaborer avec le réseau Braver externe
-3. **Module 3 -** Communiquer avec les patients et proches aidants
-4. **Module 4** - Personnaliser son profil et ses préférences
-5. **Module 5** - Sécurité et soutien technique
-6. **Module 6**: Créer son compte et utiliser l’application Web ou mobile
-7. **Annexes** - Astuces et foire aux questions
+{% content-ref url="module-1-introduction-et-collaborer-dans-braver.md" %}
+[module-1-introduction-et-collaborer-dans-braver.md](module-1-introduction-et-collaborer-dans-braver.md)
+{% endcontent-ref %}
+
+{% content-ref url="module-2-collaborer-avec-le-reseau-braver-externe.md" %}
+[module-2-collaborer-avec-le-reseau-braver-externe.md](module-2-collaborer-avec-le-reseau-braver-externe.md)
+{% endcontent-ref %}
+
+{% content-ref url="module-3-communiquer-avec-les-patients-et-proches-aidants.md" %}
+[module-3-communiquer-avec-les-patients-et-proches-aidants.md](module-3-communiquer-avec-les-patients-et-proches-aidants.md)
+{% endcontent-ref %}
+
+{% content-ref url="module-4-personnaliser-son-profil-et-ses-preferences.md" %}
+[module-4-personnaliser-son-profil-et-ses-preferences.md](module-4-personnaliser-son-profil-et-ses-preferences.md)
+{% endcontent-ref %}
+
+{% content-ref url="module-5-securite-et-soutien-technique.md" %}
+[module-5-securite-et-soutien-technique.md](module-5-securite-et-soutien-technique.md)
+{% endcontent-ref %}
+
+{% content-ref url="module-6-creer-son-compte-et-utiliser-lapplication-web-ou-mobile.md" %}
+[module-6-creer-son-compte-et-utiliser-lapplication-web-ou-mobile.md](module-6-creer-son-compte-et-utiliser-lapplication-web-ou-mobile.md)
+{% endcontent-ref %}
+
+{% content-ref url="annexes-astuces-et-foire-aux-questions.md" %}
+[annexes-astuces-et-foire-aux-questions.md](annexes-astuces-et-foire-aux-questions.md)
+{% endcontent-ref %}
 
