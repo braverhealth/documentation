@@ -12,6 +12,16 @@ description: >-
 
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><strong>Cliquez ici pour débuter la formation</strong></td><td></td><td><a href="../.gitbook/assets/formation-essentielle-pt.png">formation-essentielle-pt.png</a></td><td><a href="formation-guidee.md">formation-guidee.md</a></td></tr></tbody></table>
 
+### Plutôt du type à vouloir explorer par vous-même?
+
+Consulter notre [banque de tutoriels](https://support.braver.net/guides/pour-les-patients-et-proches-aidants/pour-debuter)
+
+### Pour en apprendre davantage sur Braver
+
+* [Qu'est-ce que Braver](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/introduction/quest-ce-que-braver)
+* [Qui peut rejoindre Braver?](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/introduction/qui-peut-rejoindre-braver)
+* [Dans quel contexte puis-je l'utiliser?](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/introduction/dans-quel-contexte-peut-on-lutiliser)
+
 ## Vous préférez découvrir par vous-même?
 
 <details>
