@@ -1,9 +1,9 @@
 # Échanger des messages directs
 
 {% hint style="info" %}
-Un _message direct_ n'est seulement possible qu'entre deux amis. Vous devrez donc envoyer une _demande d'amitié_ à la personne de votre choix et celle-ci devra accepter avant que le canal de messagerie direct ne s'ouvre. Une fois le canal ouvert, vous pourrez discuter librement.
+Un _message direct_ n'est possible qu'entre deux amis. Vous devrez donc envoyer une _demande d'amitié_ à la personne de votre choix et celle-ci devra accepter avant que le canal de messagerie direct ne s'ouvre. Une fois le canal ouvert, vous pourrez discuter librement.
 
-Les _messages direct_ ne s'inscrivent pas sous les fiches des patients et ne sont visibles que par vous et votre « ami ».
+Les _messages directs_ ne s'inscrivent pas sous les fiches des patients et ne sont visibles que par vous et votre « ami ».
 {% endhint %}
 
 {% hint style="warning" %}

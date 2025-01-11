@@ -15,7 +15,7 @@ description: >-
 * [Répondez à un message dans un fil de discussion](fils-de-discussion/repondre-a-un-nouveau-message.md)
 * [Allez consulter les pièces jointes d'un fil de discussion](fils-de-discussion/acceder-aux-pieces-jointes-dans-un-fil-de-discussion.md)
 
-Pour en découvrir davantage, les différentes sections ci-bas vous aiderons à explorer Braver selon différentes thématiques.
+Pour en découvrir davantage, les différentes sections ci-bas vous aideront à explorer Braver selon différentes thématiques.
 
 ### Utiliser Braver
 

@@ -20,7 +20,7 @@ On voit ici qu'il y a une pastille rouge avec la mention _1 nouveau fil de discu
 {% endstep %}
 
 {% step %}
-#### Le nouveau fil de discussion est maintenant ouvert!&#x20;
+#### Le nouveau fil de discussion est maintenant ouvert !
 
 1. Vous pouvez répondre au message grâce à la boîte de texte au bas de la page.
 2. Puis envoyez votre message en cliquant sur la flèche pointant vers le haut qui se trouve dans le cercle violet en bas, à droite.

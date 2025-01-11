@@ -16,7 +16,7 @@
 {% endstep %}
 
 {% step %}
-#### Dans le menu des pièces jointes, vous pouvez afficher toutes les pièces jointes ou les trier par format.&#x20;
+#### Dans le menu des pièces jointes, vous pouvez afficher toutes les pièces jointes ou les trier par format.
 
 Ici, le filtre _Tous_ est activé.
 

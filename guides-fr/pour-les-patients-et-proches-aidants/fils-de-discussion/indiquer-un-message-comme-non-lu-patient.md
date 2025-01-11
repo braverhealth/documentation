@@ -4,9 +4,9 @@
 
 {% stepper %}
 {% step %}
-#### Choisissez le fil de discussion que vous voulez indiquer comme non lu.&#x20;
+#### Choisissez le fil de discussion que vous voulez indiquer comme non lu.
 
-* **Sur ordinateur**: Cliquez sur les trois petit points&#x20;
+* **Sur ordinateur**: Cliquez sur les trois petits points
 * **Sur cellulaire et tablette**: Appuyez longuement sur le fil de discussion
 
 <div align="left"><figure><img src="../../.gitbook/assets/indiquer-un-message-comme-non-lu-patient - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
@@ -19,7 +19,7 @@
 {% endstep %}
 
 {% step %}
-#### Le message s'affiche maintenant comme si vous ne l'aviez pas ouvert!
+#### Le message s'affiche maintenant comme si vous ne l'aviez pas ouvert !
 
 <div align="left"><figure><img src="../../.gitbook/assets/indiquer-un-message-comme-non-lu-patient - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

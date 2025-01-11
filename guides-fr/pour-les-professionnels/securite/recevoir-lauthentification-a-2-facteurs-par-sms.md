@@ -22,7 +22,7 @@
 {% endstep %}
 
 {% step %}
-#### Par défaut, votre authentification à deux facteurs vous est envoyé par courriel. Si vous désirez le recevoir par SMS, sélectionnez cette option.
+#### Par défaut, votre authentification à deux facteurs vous est envoyée par courriel. Si vous désirez la recevoir par SMS, sélectionnez cette option.
 
 <div align="left"><figure><img src="../../.gitbook/assets/recevoir-lauthentification-a-2-facteurs-par-sms - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -40,7 +40,7 @@
 {% endstep %}
 
 {% step %}
-#### Vous recevrez alors un code de confirmation à 6 chiffres. Notez -le dans le champ approprié, puis cliquez sur _Valider_.
+#### Vous recevrez alors un code de confirmation à 6 chiffres. Notez-le dans le champ approprié, puis cliquez sur _Valider_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/recevoir-lauthentification-a-2-facteurs-par-sms - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

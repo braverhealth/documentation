@@ -38,7 +38,7 @@ Sur un téléphone mobile, vous devez appuyer sur l'icône de roue en bas de l'�
 {% endstep %}
 
 {% step %}
-#### Pour un horaire personnalisé, indiquez les heures pour lesquels vous souhaitez recevoir des notifications pour chaque jour de la semaine.
+#### Pour un horaire personnalisé, indiquez les heures pour lesquelles vous souhaitez recevoir des notifications pour chaque jour de la semaine.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Régler son horaire de disponibilités et ses périodes dindisponibilité - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

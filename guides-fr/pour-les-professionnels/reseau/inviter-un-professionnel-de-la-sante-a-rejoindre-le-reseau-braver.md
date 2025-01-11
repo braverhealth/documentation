@@ -10,7 +10,7 @@
 {% endstep %}
 
 {% step %}
-#### Elle ne fait pas partie du réseau? Cliquez sur _Invitez un nouveau membre_.
+#### Elle ne fait pas partie du réseau ? Cliquez sur _Invitez un nouveau membre_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

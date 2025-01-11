@@ -22,13 +22,13 @@
 {% endstep %}
 
 {% step %}
-#### 5. Cliquez sur _Supprimer le compte_.
+#### Cliquez sur _Supprimer le compte_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/supprimer-un-compte-braver- Step 5.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### 6. Écrivez _braver_ dans l'espace approprié et validez en cliquant sur _Supprimer le compte_ une dernière fois.
+#### Écrivez _braver_ dans l'espace approprié et validez en cliquant sur _Supprimer le compte_ une dernière fois.
 
 <div align="left"><figure><img src="../../.gitbook/assets/supprimer-un-compte-braver- Step 6.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

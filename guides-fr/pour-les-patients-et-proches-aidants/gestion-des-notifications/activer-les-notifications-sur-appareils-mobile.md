@@ -1,7 +1,7 @@
 # Activer les notifications sur un appareil mobile
 
 {% hint style="success" %}
-Braver vous supportera davantage dans votre pratique si nous sommes en mesure de vous notifier au bon moment lorsqu’un professionnel de la santé prend contact avec vous. Assurez-vous que vos notifications soient activées en suivant ce tutoriel!
+Braver vous supportera davantage dans votre pratique si nous sommes en mesure de vous notifier au bon moment lorsqu'un professionnel de la santé prend contact avec vous. Assurez-vous que vos notifications soient activées en suivant ce tutoriel !
 {% endhint %}
 
 {% tabs %}
@@ -10,7 +10,7 @@ Braver vous supportera davantage dans votre pratique si nous sommes en mesure de
 
 {% stepper %}
 {% step %}
-**Sur votre appareil mobile, rendez-vous dans vos&#x20;**_**Réglages**_**.**
+**Sur votre appareil mobile, rendez-vous dans vos** _**Réglages**_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobiles iOS - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -28,9 +28,9 @@ Braver vous supportera davantage dans votre pratique si nous sommes en mesure de
 {% endstep %}
 
 {% step %}
-**Activez l'interrupteur afin d'**_**Autoriser les notifications**_**.**
+**Activez l'interrupteur afin d'**_**Autoriser les notifications**_.
 
-Assurez-vous que les 3 choix options d'affichage sont sélectionnés.
+Assurez-vous que les 3 options d'affichage sont sélectionnées.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobiles iOS - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -38,7 +38,7 @@ Assurez-vous que les 3 choix options d'affichage sont sélectionnés.
 {% endtab %}
 
 {% tab title="Android" %}
-#### Pas-à-pas
+#### Pas à pas
 
 {% stepper %}
 {% step %}
@@ -66,7 +66,7 @@ Assurez-vous que les 3 choix options d'affichage sont sélectionnés.
 {% endstep %}
 
 {% step %}
-**Dans paramètres, cliquez sur&#x20;**_**Notifications**_**&#x20;et aller dans la liste de&#x20;**_**Notifications de l'application**_**.**
+**Dans paramètres, cliquez sur** _**Notifications**_ **et allez dans la liste des** _**Notifications de l'application**_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobile Android - Step 5.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

@@ -1,20 +1,20 @@
 # Réinitialiser son mot de passe
 
 {% hint style="info" %}
-Si vous avez oublié ou perdu votre mot de passe, vous pouvez le réinitialiser en utilisant la méthode ci-bas.
+Si vous avez oublié ou perdu votre mot de passe, vous pouvez le réinitialiser en utilisant la méthode ci-dessous.
 {% endhint %}
 
 ## Pas-à-pas
 
 {% stepper %}
 {% step %}
-#### Lors de votre tentative de connexion, cliquer sur _Mot de passe oublié?_
+#### Lors de votre tentative de connexion, cliquez sur _Mot de passe oublié?_
 
 <div align="left"><figure><img src="../../.gitbook/assets/reinitialiser-son-mot-de-passe - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Remplir les champs demandés. Vous devrez inscrire un nouveau mot de passe et le valider en le réécrivant une 2e fois.
+#### Remplissez les champs demandés. Vous devrez inscrire un nouveau mot de passe et le valider en le réécrivant une deuxième fois.
 
 Ensuite, sélectionnez _Réinitialiser le mot de passe_.
 

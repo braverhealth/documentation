@@ -10,7 +10,7 @@
 {% endstep %}
 
 {% step %}
-#### Sélectionnez l’onglet _Paramètres_.
+#### Sélectionnez l'onglet _Paramètres_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/generer-un-nouveau-code-de-recuperation  - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -22,6 +22,6 @@
 {% endstep %}
 
 {% step %}
-#### Suivez les instructions
+#### Suivez les instructions.
 {% endstep %}
 {% endstepper %}

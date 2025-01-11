@@ -25,7 +25,7 @@
 #### Entrez le nouveau mot de passe, puis répétez pour vous assurer de la concordance des deux mots de passe.
 
 {% hint style="warning" %}
-Le mot de passe devrait contenir des lettres, des symboles et des chiffres.
+Le mot de passe doit contenir des lettres, des symboles et des chiffres.
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/Modifier son mot de passe - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>

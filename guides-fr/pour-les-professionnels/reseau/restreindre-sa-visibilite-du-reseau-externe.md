@@ -1,7 +1,7 @@
 # Restreindre sa visibilité du réseau externe
 
 {% hint style="info" %}
-Restreindre votre visibilité du réseau vous permet d'apparaître dans les recherches de certaines professions seulement. Vous êtes donc invisible pour certaines professions, alors que les autres vous retrouverons facilement s'ils souhaitent collaborer avec vous.
+Restreindre votre visibilité du réseau vous permet d'apparaître dans les recherches de certaines professions seulement. Vous êtes donc invisible pour certaines professions, alors que les autres vous retrouveront facilement s'ils souhaitent collaborer avec vous.
 {% endhint %}
 
 {% stepper %}
@@ -18,7 +18,7 @@ Restreindre votre visibilité du réseau vous permet d'apparaître dans les rech
 {% endstep %}
 
 {% step %}
-#### Sélectionnez _Restreindre ma visibilité._
+#### Sélectionnez _Restreindre ma visibilité_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

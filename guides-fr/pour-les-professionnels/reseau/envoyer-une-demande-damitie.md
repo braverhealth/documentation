@@ -22,7 +22,7 @@ C'est une limite qui sera corrigée sous peu.
 {% endstep %}
 
 {% step %}
-#### Sélectionnez _Demander à être amis._
+#### Sélectionnez _Demander à être amis_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/envoyer-une-demande-damitie - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

@@ -14,7 +14,7 @@ Sur un téléphone mobile, vous devez appuyer sur l'icône de roue en bas de l'�
 {% endstep %}
 
 {% step %}
-#### Sélectionnez l’onglet _Paramètres_.
+#### Sélectionnez l'onglet _Paramètres_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Modifier son NIP - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -35,7 +35,7 @@ Sur un téléphone mobile, vous devez appuyer sur l'icône de roue en bas de l'�
 #### Répétez pour vous assurer de la concordance des deux NIP.
 
 {% hint style="success" %}
-C’est automatiquement enregistré!
+C'est automatiquement enregistré !
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/Modifier son NIP - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>

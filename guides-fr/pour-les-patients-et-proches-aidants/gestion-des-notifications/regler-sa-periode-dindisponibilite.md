@@ -40,7 +40,7 @@ Sélectionnez ensuite le crochet en haut à droite pour enregistrer votre choix.
 {% endstep %}
 
 {% step %}
-#### Si quelqu'un souhaite vous inviter dans une discussion, il verra clairement que vous êtes indisponibles.
+#### Si quelqu'un souhaite vous inviter dans une discussion, il verra clairement que vous êtes indisponible.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Régler son horaire de disponibilités et ses périodes dindisponibilité - Step 13.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

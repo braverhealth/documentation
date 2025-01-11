@@ -29,7 +29,7 @@ Cliquez sur le fil de discussion fermé qui vous intéresse.
 {% step %}
 #### Vous avez accès à toute la discussion ainsi qu'aux pièces jointes (trombone en haut, à droite), le cas échéant.
 
-Remarquez que le fil de discussion fermé porte la mention: _Le fil de discussion a été fermé_ et qu'il est impossible d'y ajouter du contenu. (Voir encadré orange dans le bas de l'écran)
+Remarquez que le fil de discussion fermé porte la mention : _Le fil de discussion a été fermé_ et qu'il est impossible d'y ajouter du contenu. (Voir encadré orange dans le bas de l'écran)
 
 <div align="left"><figure><img src="../../.gitbook/assets/trouver-un-fil-de-discussion-ferme-patient - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

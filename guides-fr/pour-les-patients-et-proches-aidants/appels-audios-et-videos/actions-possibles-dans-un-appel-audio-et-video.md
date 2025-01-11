@@ -26,7 +26,7 @@
 
 &#x20;
 
-*   En cliquant sur la photo, vous pouvez activer ou désactiver l'affichage d'un arrière-plan
+*   En cliquant sur la photo, vous pouvez activer ou désactiver l'affichage d'un arrière-plan.
 
     &#x20;
 

@@ -10,13 +10,13 @@
 {% endstep %}
 
 {% step %}
-#### Cliquez sur l'onglet _Paramètres_
+#### Cliquez sur l'onglet _Paramètres_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Régler son horaire de disponibilités et ses périodes dindisponibilité - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sélectionnez _**Horaire de disponibilité**_. Selon cet horaire, vos notifications seront mises sur pause jusqu'à votre retour où vous serez mis au courant de ce qui a été manqué.
+#### Sélectionnez _**Horaire de disponibilité**_. Selon cet horaire, vos notifications seront mises en pause jusqu'à votre retour, où vous serez mis au courant de ce qui a été manqué.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Régler son horaire de disponibilités et ses périodes dindisponibilité - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -34,7 +34,7 @@
 {% endstep %}
 
 {% step %}
-#### Pour un horaire personnalisé, indiquez les heures pour lesquels vous souhaitez recevoir des notifications pour chaque jour de la semaine.
+#### Pour un horaire personnalisé, indiquez les heures pendant lesquelles vous souhaitez recevoir des notifications pour chaque jour de la semaine.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Régler son horaire de disponibilités et ses périodes dindisponibilité - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
