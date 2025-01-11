@@ -51,3 +51,6 @@ Pour en découvrir davantage, les différentes sections ci-bas vous aiderons à 
 [securite](securite/)
 {% endcontent-ref %}
 
+## Pour suivre une formation complète
+
+Consulter nos outils de formation

@@ -69,5 +69,7 @@ Pour en découvrir davantage, les différentes sections ci-bas vous aiderons à 
 
 ## Pour suivre une formation complète
 
+[Consulter nos outils de formation.](https://app.gitbook.com/s/mZQ8lm0cUSwr36vZBzik/pour-les-professionnels/readme)
+
 
 
