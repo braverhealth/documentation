@@ -132,3 +132,14 @@
   * [Déployer Braver via Leomed](integrations/leomed/je-deploie-braver-via-la-plateforme-leomed.md)
 * [Gustav](integrations/gustav/README.md)
   * [Déployer Braver via Gustav](integrations/gustav/je-deploie-braver-via-la-plateforme-gustav.md)
+
+***
+
+- [Therapy Transfer - Mackay & PEL](trousses/therapy-transfer.md)
+- [Trousse informative Braver | Chaudière-Appalaches](trousses/trousse-mda-ma-cisss-ca.md)
+- [Trousse informative Braver | Estrie-CHUS](trousses/trousse-mda-ma-cisss-e.md)
+- [Trousse informative Braver | Montérégie-Centre](trousses/trousse-mda-ma-cisss-mc.md)
+- [Trousse informative Braver | Montérégie-Est](trousses/trousse-mda-ma-cisss-me.md)
+- [Trousse informative Braver | Outaouais](trousses/trousse-mda-ma-cisss-o.md)
+- [Trousse de projet | Capitale-Nationale](trousses/trousse-mda-ma-cn.md)
+- [Besoin d’aide? UVS - CISSS Laurentides](trousses/uvs-cisss-laurentides.md)
