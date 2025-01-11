@@ -30,7 +30,7 @@
 
 * [Survol](pour-les-administrateurs/pour-debuter.md)
 * [Organisation](pour-les-administrateurs/organisation.md)
-* [Unités organisationnelles](pour-les-administrateurs/unites-organisationelles/README.md)
+* [Unités organisationnelles](pour-les-administrateurs/unites-organisationnelles.md)
 * [Lieux de travail](pour-les-administrateurs/lieux-de-travail/README.md)
 * [Équipes](pour-les-administrateurs/equipes/README.md)
 * [Utilisateurs](pour-les-administrateurs/utilisateurs/README.md)

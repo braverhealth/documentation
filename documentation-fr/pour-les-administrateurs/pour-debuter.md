@@ -1,5 +1,9 @@
 ---
 icon: flag
+description: >-
+  Dans cette section, vous trouverez un survol des concepts de Braver pour vous
+  aider à mieux comprendre la plateforme et la configurer à la hauteur de vos
+  besoins!
 ---
 
 # Survol
@@ -45,4 +49,3 @@ Braver est structuré de sorte à fournir le maximum de convivialité aux utilis
 {% content-ref url="../details-techniques/compatibilite.md" %}
 [compatibilite.md](../details-techniques/compatibilite.md)
 {% endcontent-ref %}
-
