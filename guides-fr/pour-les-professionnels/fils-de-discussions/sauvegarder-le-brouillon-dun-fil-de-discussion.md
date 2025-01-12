@@ -6,19 +6,19 @@
 {% step %}
 #### Créez un nouveau fil de discussion.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Sauvegarder le brouillon d'un fil de discussion - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Sauvegarder le brouillon dun fil de discussion - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 #### Si vous n'avez pas le temps de terminer votre message, cliquez sur _Sauvegarder brouillon_.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Sauvegarder le brouillon d'un fil de discussion - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Sauvegarder le brouillon dun fil de discussion - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 #### Le brouillon apparaîtra dans vos fils actifs. Vous le reconnaîtrez à l'image du crayon dans la bulle des participants.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Sauvegarder le brouillon d'un fil de discussion - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Sauvegarder le brouillon dun fil de discussion - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -26,6 +26,6 @@
 
 #### Vous pourriez aussi le sauvegarder à nouveau ou le dupliquer pour l'envoyer à d'autres participants.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Sauvegarder le brouillon d'un fil de discussion - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Sauvegarder le brouillon dun fil de discussion - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

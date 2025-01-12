@@ -1,9 +1,5 @@
 # Assigner/Désassigner un participant comme responsable d'un fil
 
-{% hint style="info" %}
-Mettre un texte ici pour expliquer l'assignation ou référer à un article.
-{% endhint %}
-
 ## Pas-à-pas
 
 {% stepper %}
