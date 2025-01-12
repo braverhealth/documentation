@@ -12,23 +12,23 @@ description: >-
 
 {% stepper %}
 {% step %}
-#### Accéder à la [console administrative](https://admin.braver.net)
+**Accéder à la** [**console administrative**](https://admin.braver.net)
 {% endstep %}
 
 {% step %}
-#### Cliquer sur l'item correspondant dans le menu de gauche
+**Cliquer sur l'item correspondant dans le menu de gauche**
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-04 at 09.13.11@2x (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Retrouver l'utilisateur en question et cliquer dessus
+#### Retrouver l'utilisateur en question et cliquer dessus
 
 <div align="left"><figure><img src="../../.gitbook/assets/Sélectionner un utilisateur et cliquer dessus.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Modifier les permissions
+#### Modifier les permissions
 
 1. Enlever ou ajouter une permission en cochant la case appropriée
 2. Cliquer sur le bouton Sauvegarder

@@ -36,7 +36,7 @@ Vous pouvez accéder à l'application administrative via [https://admin.braver.n
 {% step %}
 **Octroyer le rôle "Admin" aux bonnes personnes**
 
-Voici [comment octroyer un rôle à un utilisateur.](https://app.gitbook.com/o/zMIZEnF83uQLxLHiNR0f/s/0ai7456Hm287lPHBbGj2/~/changes/22/pour-les-administrateurs/utilisateurs/comment-octroyer-un-role-a-un-utilisateur-existant)
+Voici [comment octroyer un rôle à un utilisateur.](../../pour-les-administrateurs/utilisateurs/comment-octroyer-un-role-a-un-utilisateur-existant.md)
 
 {% hint style="info" %}
 Lors de l'activation du compte Braver des utilisateurs, la plateforme Leomed fournit à Braver l'ensemble des rôles et permissions à l'exception du rôle "Admin". Ce rôle doit donc être octroyé manuellement dans l'application administrative de Braver.
