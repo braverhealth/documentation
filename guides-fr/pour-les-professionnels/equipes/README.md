@@ -17,6 +17,10 @@ description: Pour assurer une continuité de l'information!
 [consulter-les-fils-de-mon-equipe.md](consulter-les-fils-de-mon-equipe.md)
 {% endcontent-ref %}
 
+{% content-ref url="ecrire-a-une-equipe.md" %}
+[ecrire-a-une-equipe.md](ecrire-a-une-equipe.md)
+{% endcontent-ref %}
+
 ## Boite de triage
 
 {% content-ref url="massigner-un-fil-de-discussion-en-triage.md" %}
