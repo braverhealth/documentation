@@ -53,7 +53,7 @@
   * [Voir de quelle(s) équipe(s) on fait partie et basculer d'équipe](pour-les-professionnels/equipes/voir-de-quelle-equipe-on-fait-partie.md)
   * [Consulter les fils de mon équipe](pour-les-professionnels/equipes/consulter-les-fils-de-mon-equipe.md)
   * [M'assigner un fil de discussion actuellement en triage](pour-les-professionnels/equipes/massigner-un-fil-de-discussion-en-triage.md)
-  * [Assigner/Désassigner un participant comme responsable d'un fil](pour-les-professionnels/fils-de-discussions/assigner-desassigner-un-participant-comme-responsable-dun-fil.md)
+  * [Assigner/Désassigner un participant comme responsable d'un fil](pour-les-professionnels/equipes/assigner-desassigner-un-participant-comme-responsable-dun-fil.md)
   * [Retourner une discussion dans la boîte de triage](pour-les-professionnels/equipes/retourner-une-discussion-dans-la-boite-de-triage.md)
   * [Écrire à une équipe](pour-les-professionnels/equipes/ecrire-a-une-equipe.md)
 * [Communication patients et proche aidant](pour-les-professionnels/communication-patients-et-proche-aidants/README.md)
