@@ -133,8 +133,6 @@
 * [Gustav](integrations/gustav/README.md)
   * [Déployer Braver via Gustav](integrations/gustav/je-deploie-braver-via-la-plateforme-gustav.md)
 
-## Pages privées
-
 * [Besoin d’aide? UVS - CISSS Laurentides](trousses/uvs-cisss-laurentides.md)
 * [Therapy Transfer - Mackay & PEL](trousses/therapy-transfer.md)
 * [Trousse informative Braver | Chaudière-Appalaches](trousses/trousse-mda-ma-cisss-ca.md)
