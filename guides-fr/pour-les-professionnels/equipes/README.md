@@ -23,6 +23,10 @@ description: Pour assurer une continuité de l'information!
 [massigner-un-fil-de-discussion-en-triage.md](massigner-un-fil-de-discussion-en-triage.md)
 {% endcontent-ref %}
 
+{% content-ref url="assigner-desassigner-un-participant-comme-responsable-dun-fil.md" %}
+[assigner-desassigner-un-participant-comme-responsable-dun-fil.md](assigner-desassigner-un-participant-comme-responsable-dun-fil.md)
+{% endcontent-ref %}
+
 {% content-ref url="retourner-une-discussion-dans-la-boite-de-triage.md" %}
 [retourner-une-discussion-dans-la-boite-de-triage.md](retourner-une-discussion-dans-la-boite-de-triage.md)
 {% endcontent-ref %}

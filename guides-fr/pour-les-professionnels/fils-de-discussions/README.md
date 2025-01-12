@@ -35,10 +35,6 @@ description: Pour communiquer efficacement!
 
 ## Gestion du fil de discussion
 
-{% content-ref url="assigner-desassigner-un-participant-comme-responsable-dun-fil.md" %}
-[assigner-desassigner-un-participant-comme-responsable-dun-fil.md](assigner-desassigner-un-participant-comme-responsable-dun-fil.md)
-{% endcontent-ref %}
-
 {% content-ref url="gerer-les-participants-dun-fil-de-discussion.md" %}
 [gerer-les-participants-dun-fil-de-discussion.md](gerer-les-participants-dun-fil-de-discussion.md)
 {% endcontent-ref %}
