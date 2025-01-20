@@ -1,83 +1,83 @@
 ---
-description: Configurer votre organisation en seulement 7 étapes!
+description: Configure your organization in just 7 steps!
 ---
 
-# Déployer Braver de manière autonome
+# Deploy Braver Independently
 
-### Voici les étapes à suivre pour configurer votre organisation dans Braver:
+### Here are the steps to set up your organization in Braver:
 
 {% stepper %}
 {% step %}
-#### Définir la structure de votre organisation
+#### Define Your Organization Structure
 
-Si vous utilisez Braver de manière autonome, et que vous n'êtes pas certain de la meilleure structure pour votre organisation, laissez-nous vous aider.
+If you are using Braver independently and are not sure about the best structure for your organization, let us help you.
 
-Voici un exemple concret de structure d'une organisation de santé:
+Here is a concrete example of a healthcare organization structure:
 
-<img src="../../.gitbook/assets/file.excalidraw (1).svg" alt="Clinique privée de physiothérapie" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw (1).svg" alt="Private Physiotherapy Clinic" class="gitbook-drawing">
 {% endstep %}
 
 {% step %}
-#### Faire une requête de création d'organisation
+#### Submit an Organization Creation Request
 
-1. Partager le nom de votre organisation à l'équipe Braver à l'aide du formulaire suivant
-2. Attendre qu'un membre de l'équipe Braver entre en contact avec vous pour la suite
+1. Share your organization's name with the Braver team using the following form
+2. Wait for a Braver team member to contact you for the next steps
 
 {% embed url="https://braverhealth.typeform.com/to/JrwlUShz" %}
 {% endstep %}
 
 {% step %}
-#### Accéder à l'application administrative
+#### Access the Administrative Application
 
 {% hint style="warning" %}
-Si vous n'avez pas encore créé votre compte, vous devriez avoir reçu une invitation par courriel. Voici [le tutoriel](../../pour-les-professionnels/creation-de-compte/creation-de-compte-autonome.md) pour vous aider à créer votre compte.
+If you have not yet created your account, you should have received an email invitation. Here is [the tutorial](../../for-professionals/account-creation/independent-account-creation.md) to help you create your account.
 {% endhint %}
 
-Vous pouvez accéder à l'application administrative via [https://admin.braver.net](https://admin.braver.net/#/login). Utilisez les mêmes informations que celles pour vous connecter à votre compte Braver (courriel + mot de passe)
+You can access the administrative application via [https://admin.braver.net](https://admin.braver.net/#/login). Use the same credentials as those for logging into your Braver account (email + password)
 {% endstep %}
 
 {% step %}
-#### Créer vos unités organisationnelles
+#### Create Your Organizational Units
 
-Voici [comment créer une unité organisationnelle](../unites-organisationelles/comment-creer-une-unite-organisationnelle.md).
+Here is [how to create an organizational unit](../organizational-units/how-to-create-organizational-unit.md).
 
-Si vous n'êtes pas familier avec le concept d'unité organisationnelle, voici [la documentation](../unites-organisationelles/).
+If you are not familiar with the concept of organizational unit, here is [the documentation](../organizational-units/).
 {% endstep %}
 
 {% step %}
-#### Créer vos lieux de travail
+#### Create Your Workplaces
 
-Voici [comment créer un lieu de travail](../lieux-de-travail/comment-creer-un-lieu-de-travail.md).
+Here is [how to create a workplace](../workplaces/how-to-create-workplace.md).
 
-Si vous n'êtes pas familier avec le concept de lieu de travail, voici [la documentation](../lieux-de-travail/).
+If you are not familiar with the concept of workplace, here is [the documentation](../lieux-de-travail/).
 {% endstep %}
 
 {% step %}
-#### Créer vos équipes
+#### Create Your Teams
 
-Voici [comment créer une équipe](../equipes/comment-creer-une-equipe.md).
+Here is [how to create a team](../teams/how-to-create-team.md).
 
-Si vous n'êtes pas familier avec le concept d'équipe, voici [la documentation](../equipes/).
+If you are not familiar with the concept of team, here is [the documentation](../equipes/).
 {% endstep %}
 
 {% step %}
-#### Envoyer les invitations aux utilisateurs
+#### Send User Invitations
 
-Avant d'envoyer les invitations aux utilisateurs, il est très important de comprendre quels rôles et permissions vous allez leur octroyer. Voici [la documentation](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/utilisateurs/roles-et-permissions) pour vous aider.
+Before sending user invitations, it is very important to understand what roles and permissions you will grant them. Here is [the documentation](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/utilisateurs/roles-et-permissions) to help you.
 
-Vous êtes maintenant prêt à envoyer les invitations aux utilisateurs. Voici[ comment inviter un utilisateur](../utilisateurs/comment-inviter-des-utilisateurs.md).
+You are now ready to send user invitations. Here is [how to invite a user](../utilisateurs/comment-inviter-des-utilisateurs.md).
 
 {% hint style="info" %}
-Pour l'invitation des patients et proches aidants, celle-ci se fait par les cliniciens eux-mêmes autorisés à travers l'application clinicien. Voici [un tutoriel](../../pour-les-professionnels/communication-patients-et-proche-aidants/inviter-un-patient-ou-un-proche-aidant-a-rejoindre-braver.md) pour vous guider.
+For inviting patients and caregivers, this is done by authorized clinicians through the clinician application. Here is [a tutorial](../../pour-les-professionnels/communication-patients-et-proche-aidants/inviter-un-patient-ou-un-proche-aidant-a-rejoindre-braver.md) to guide you.
 {% endhint %}
 {% endstep %}
 {% endstepper %}
 
 {% hint style="success" %}
-**Félicitations, votre organisation fait maintenant partie du réseau Braver!** 🎉
+**Congratulations, your organization is now part of the Braver network!** 🎉
 
-Il ne reste que deux sections à parcourir:
+There are only two sections left to explore:
 
-* [Module patient et proche aidant](https://support.braver.net/guides/pour-les-administrateurs/guide-de-configuration#le-module-patient-et-proche-aidant) (si pertinent pour vous)
-* [Autres détails techniques ](https://support.braver.net/guides/pour-les-administrateurs/guide-de-configuration#autres-details-techniques)(si pertinent pour vous)
+* [Patient and Caregiver Module](https://support-en.braver.net/guides/for-administrators/configuration-guide#le-module-patient-et-proche-aidant) (if relevant to you)
+* [Other Technical Details](https://support-en.braver.net/guides/for-administrators/configuration-guide#autres-details-techniques) (if relevant to you)
 {% endhint %}

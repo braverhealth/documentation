@@ -1,62 +1,63 @@
 ---
 icon: user-pilot
 description: >-
-  Ce guide est destiné aux pilotes, super-utilisateurs ou administrateurs qui
-  devront configurer la plateforme Braver en vue de son implantation.
+  This guide is intended for pilots, super-users, or administrators who will need to configure the Braver platform for its implementation.
 ---
 
-# Guide de configuration
+# Configuration Guide
 
-## À quoi puis-je m'attendre comme charge de pilotage
+## What can I expect in terms of piloting workload
 
-La configuration et le déploiement dépend de la grosseur de votre organisation.
+Configuration and deployment depend on the size of your organization.
 
-Par exemple, pour une petite organisation d'une trentaine de cliniciens, son implantation demande seulement quelques heures de travail.
+For example, for a small organization of around thirty clinicians, its implementation requires only a few hours of work.
 
 {% hint style="warning" %}
-Si vous utilisez Braver via un partenaire d'intégration (p.ex. Leomed ou Gustav), la configuration et le déploiement sont grandement simplifiés puisque plusieurs éléments de configuration sont automatisé à partir de la configuration du logiciel partenaire.
+If you use Braver through an integration partner (e.g., Leomed or Gustav), configuration and deployment are greatly simplified since many configuration elements are automated from the partner software configuration.
 {% endhint %}
 
-## Les concepts de Braver
+## Braver Concepts
 
-Avant de débuter la configuration de la plateforme, nous recommandons de vous familiariser avec les concepts de Braver qui vous servirons dans la définition de votre structure organisationnelle.
+Before beginning the platform configuration, we recommend familiarizing yourself with Braver concepts that will help you define your organizational structure.
 
-Le schéma ci-dessous représente la hiérarchie des concepts dans Braver qui permettent de configurer votre structure organisationnelle.
+The diagram below represents the hierarchy of concepts in Braver that allow you to configure your organizational structure.
 
-<img src="../../.gitbook/assets/file.excalidraw.svg" alt="Structure organisationnelle dans Braver" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="Organizational Structure in Braver" class="gitbook-drawing">
 
 <details>
 
-<summary>Pour aller plus en profondeur dans les concepts</summary>
+<summary>To go deeper into the concepts</summary>
 
-Voici des sections de la documentation qui pourrait vous être utiles:
+Here are documentation sections that might be useful to you:
 
-* [Organisation](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/organisation)
-* [Unités organisationnelles](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/unites-organisationnelles)
-* [Lieux de travail](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/lieux-de-travail)
-* [Équipes](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/equipes)
-* Segments (à venir)
-* [Utilisateurs](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/utilisateurs)
-* [Journaux d'audit](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/journaux-daudit)
-* Bottin (à venir)
+* [Organization](for-administrators/organisation)
+* [Organizational Units](for-administrators/organisational-units)
+* [Workplaces](for-administrators/workplaces)
+* [Teams](for-administrators/teams)
+* Segments (coming soon)
+* [Users](for-administrators/users)
+* [Audit Logs](for-administrators/audit-logs)
+* Directory (coming soon)
 
 </details>
 
-## Configurer Braver
+## Configure Braver
 
-Prêt à commencer votre configuration? Cliquez sur ce qui convient à votre organisation:
+Ready to start your configuration? Click on what applies to your organization:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Je déploie Braver de</td><td><strong>manière autonome</strong></td><td><a href="../../.gitbook/assets/braver (1).png">braver (1).png</a></td><td><a href="je-deploie-braver-en-version-autonome.md">je-deploie-braver-en-version-autonome.md</a></td></tr><tr><td>Je déploie Braver via</td><td><strong>Leomed</strong></td><td><a href="../../.gitbook/assets/leomed.png">leomed.png</a></td><td><a href="../../integrations/leomed/je-deploie-braver-via-la-plateforme-leomed.md">je-deploie-braver-via-la-plateforme-leomed.md</a></td></tr><tr><td>Je déploie Braver via</td><td><strong>Gustav</strong></td><td><a href="../../.gitbook/assets/gustab.png">gustab.png</a></td><td><a href="../../integrations/gustav/je-deploie-braver-via-la-plateforme-gustav.md">je-deploie-braver-via-la-plateforme-gustav.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>I deploy Braver</td><td><strong>independently</strong></td><td><a href="../../.gitbook/assets/braver (1).png">braver (1).png</a></td><td><a href="deploy-braver-independently.md">deploy-braver-independently.md</a></td></tr><tr><td>I deploy Braver via</td><td><strong>Leomed</strong></td><td><a href="../../.gitbook/assets/leomed.png">leomed.png</a></td><td><a href="../../integrations/leomed/deploy-braver-via-leomed-platform.md">deploy-braver-via-leomed-platform.md</a></td></tr><tr><td>I deploy Braver via</td><td><strong>Gustav</strong></td><td><a href="../../.gitbook/assets/gustab.png">gustab.png</a></td><td><a href="../../integrations/gustav/deply-braver-via-gustav-platform.md">deply-braver-via-gustav-platform.md</a></td></tr></tbody></table>
 
-## Le module patient et proche aidant
+## Patient and Caregiver Module
 
-Si vous prévoyez utiliser le module patient et proche aidant via des appareils mobiles (ex: tablette) fournis et gérés par votre organisation, voici [un document pour vous guider dans le choix des appareils et certains éléments à considérer.](https://support.braver.net/pour-les-administrateurs/appareil-mobile-gere-a-distance)
+If you plan to use the patient and caregiver module via mobile devices (e.g., tablets) provided and managed by your organization, here is [a document to guide you in choosing devices and certain elements to consider.](https://support-en.braver.net/for-administrators/remotely-managed-mobile-device)
 
-Si vous prévoyez utiliser le module patient et proche aidant en invitant ces derniers sur leurs appareils personnels (mobile ou ordinateur), nous recommandons de soutenir les personnes dans la création de leur compte. Si vous le faites en personne, assurez-vous d'avoir accès à un réseau Wifi ou des données cellulaires.
+If you plan to use the patient and caregiver module by inviting them to their personal devices (mobile or computer), we recommend supporting people in creating their accounts. If you do this in person, ensure you have access to a WiFi network or cellular data.
 
-Nous avons également développer un outil de formation express pour les patients que vous pouvez utiliser en version électronique ou papier.
+We have also developed an express training tool for patients that you can use in electronic or paper version.
 
-## Autres détails techniques
+## Other Technical Details
 
-* [Informations sur la connectivité](https://support.braver.net/details-techniques/connectivite)
-* [Informations sur la compatibilité des appareils](https://support.braver.net/details-techniques/compatibilite)
+* [Connectivity Information](https://support-en.braver.net/technical-details/connectivity)
+* [Device Compatibility Information](https://support-en.braver.net/technical-details/compatibility)
+
+

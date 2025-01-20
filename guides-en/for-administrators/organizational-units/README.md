@@ -13,10 +13,10 @@ layout:
     visible: true
 ---
 
-# Unités organisationnelles
+# Organizational Units
 
-**Pour mieux comprendre les concepts liés aux unités organisationnelles, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-administrateurs/unites-organisationnelles)**.**
+**To better understand the concepts related to organizational units, feel free to consult** [**the documentation**](https://support.braver.net/pour-les-administrateurs/unites-organisationnelles)**.**
 
-{% content-ref url="comment-creer-une-unite-organisationnelle.md" %}
-[comment-creer-une-unite-organisationnelle.md](comment-creer-une-unite-organisationnelle.md)
+{% content-ref url="how-to-create-organizational-unit.md" %}
+[how-to-create-organizational-unit.md](how-to-create-organizational-unit.md)
 {% endcontent-ref %}

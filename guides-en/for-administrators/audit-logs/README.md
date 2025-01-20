@@ -2,10 +2,10 @@
 icon: rectangle-history
 ---
 
-# Journaux d'audit
+# Audit Logs
 
-**Pour mieux comprendre les concepts liés aux utilisateurs, n’hésitez pas à consulter**[ **la documentation**](https://support.braver.net/pour-les-administrateurs/journaux-daudit)**.**
+**To better understand user-related concepts, feel free to consult** [**the documentation**](https://support.braver.net/pour-les-administrateurs/journaux-daudit)**.**
 
-{% content-ref url="comment-faire-une-recherche-dans-le-journal-daudits.md" %}
-[comment-faire-une-recherche-dans-le-journal-daudits.md](comment-faire-une-recherche-dans-le-journal-daudits.md)
+{% content-ref url="how-to-search-audit-logs.md" %}
+[how-to-search-audit-logs.md](how-to-search-audit-logs.md)
 {% endcontent-ref %}

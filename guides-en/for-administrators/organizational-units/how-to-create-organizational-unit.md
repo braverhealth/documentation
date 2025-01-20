@@ -1,38 +1,38 @@
 ---
 description: >-
-  Cette page vous montre comment créer une unité organisationnelle, soit avec
-  une vidéo ou un pas-à-pas.
+  This page shows you how to create an organizational unit, either with
+  a video or a step-by-step guide.
 ---
 
-# Comment créer une unité organisationnelle ?
+# How to Create an Organizational Unit?
 
 {% embed url="https://www.loom.com/share/a9d0da819ce443988e22f155960f5469?sid=d220fd56-a50e-499d-985d-d5d091a18042" fullWidth="true" %}
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Accéder à la [console administrative](https://admin.braver.net)
+#### Access the [administrative console](https://admin.braver.net)
 {% endstep %}
 
 {% step %}
-#### Cliquer sur l'item correspondant dans le menu de gauche
+#### Click on the corresponding item in the left menu
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-02 at 20.33.06@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquer sur le bouton d'ajout en bas à droite
+#### Click on the add button at the bottom right
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-02 at 20.33.41@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Entrer les informations
+#### Enter the information
 
-* Entrer un nom facilement reconnaissable
-* Sélectionner l'unité mère
-* Cliquer sur Sauvegarder
+* Enter an easily recognizable name
+* Select the parent unit
+* Click Save
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-02 at 20.34.05@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
