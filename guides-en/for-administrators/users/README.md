@@ -2,18 +2,18 @@
 icon: user-plus
 ---
 
-# Utilisateurs
+# Users
 
-**Pour mieux comprendre les concepts liés aux utilisateurs, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-administrateurs/utilisateurs)**.**
+**To better understand the concepts related to users, feel free to consult** [**the documentation**](https://support.braver.net/for-administrators/users)**.**
 
-{% content-ref url="comment-annuler-ou-renvoyer-une-invitation.md" %}
-[comment-annuler-ou-renvoyer-une-invitation.md](comment-annuler-ou-renvoyer-une-invitation.md)
+{% content-ref url="how-to-cancel-or-resend-invitation.md" %}
+[how-to-cancel-or-resend-invitation.md](how-to-cancel-or-resend-invitation.md)
 {% endcontent-ref %}
 
-{% content-ref url="comment-inviter-des-utilisateurs.md" %}
-[comment-inviter-des-utilisateurs.md](comment-inviter-des-utilisateurs.md)
+{% content-ref url="how-to-invite-users.md" %}
+[how-to-invite-users.md](how-to-invite-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="comment-octroyer-un-role-a-un-utilisateur-existant.md" %}
-[comment-octroyer-un-role-a-un-utilisateur-existant.md](comment-octroyer-un-role-a-un-utilisateur-existant.md)
+{% content-ref url="how-to-grant-role-to-existing-user.md" %}
+[how-to-grant-role-to-existing-user.md](how-to-grant-role-to-existing-user.md)
 {% endcontent-ref %}

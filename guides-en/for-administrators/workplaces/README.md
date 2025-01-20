@@ -2,10 +2,10 @@
 icon: house-medical-flag
 ---
 
-# Lieux de travail
+# Workplaces
 
-**Pour mieux comprendre les concepts liés aux lieux de travail, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-administrateurs/lieux-de-travail)**.**
+**To better understand the concepts related to workplaces, do not hesitate to consult** [**the documentation**](https://support-en.braver.net/for-administrators/workplaces)**.**
 
-{% content-ref url="comment-creer-un-lieu-de-travail.md" %}
-[comment-creer-un-lieu-de-travail.md](comment-creer-un-lieu-de-travail.md)
+{% content-ref url="how-to-create-workplace.md" %}
+[how-to-create-workplace.md](how-to-create-workplace.md)
 {% endcontent-ref %}

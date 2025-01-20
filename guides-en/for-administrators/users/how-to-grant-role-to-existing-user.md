@@ -1,37 +1,36 @@
 ---
 description: >-
-  Cette page vous montre comment inviter des utilisateurs, soit avec une vidéo
-  ou un pas-à-pas.
+  This page shows you how to invite users, either with a video or a step-by-step guide.
 ---
 
-# Comment octroyer un rôle à un utilisateur existant?
+# How to Grant a Role to an Existing User?
 
 {% embed url="https://www.loom.com/share/95556f9c37e94f1faa714f0fcb3c1220?sid=4e32677b-aa80-4990-8711-fd28cfecf7f8" fullWidth="true" %}
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-**Accéder à la** [**console administrative**](https://admin.braver.net)
+**Access the** [**admin console**](https://admin.braver.net)
 {% endstep %}
 
 {% step %}
-**Cliquer sur l'item correspondant dans le menu de gauche**
+**Click on the corresponding item in the left menu**
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-04 at 09.13.11@2x (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Retrouver l'utilisateur en question et cliquer dessus
+#### Find the user in question and click on them
 
 <div align="left"><figure><img src="../../.gitbook/assets/Sélectionner un utilisateur et cliquer dessus.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Modifier les permissions
+#### Modify Permissions
 
-1. Enlever ou ajouter une permission en cochant la case appropriée
-2. Cliquer sur le bouton Sauvegarder
+1. Remove or add a permission by checking the appropriate box
+2. Click the Save button
 
 <div align="left"><figure><img src="../../.gitbook/assets/Mofifier les permissions.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

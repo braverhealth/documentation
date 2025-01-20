@@ -2,10 +2,10 @@
 icon: users
 ---
 
-# Équipes
+# Teams
 
-**Pour mieux comprendre les concepts liés aux équipes, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-administrateurs/equipes)**.**
+**To better understand the concepts related to teams, do not hesitate to consult** [**the documentation**](https://support.braver.net/pour-les-administrateurs/equipes)**.**
 
-{% content-ref url="comment-creer-une-equipe.md" %}
-[comment-creer-une-equipe.md](comment-creer-une-equipe.md)
+{% content-ref url="how-to-create-team.md" %}
+[how-to-create-team.md](how-to-create-team.md)
 {% endcontent-ref %}
