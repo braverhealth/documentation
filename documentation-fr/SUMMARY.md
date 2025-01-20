@@ -43,4 +43,6 @@
 
 * [Connectivité](details-techniques/connectivite.md)
 * [Compatibilité](details-techniques/compatibilite.md)
+* [Mises à jour](details-techniques/mises-a-jour/README.md)
+  * [Inscription aux mises à jour](details-techniques/mises-a-jour/inscription-aux-mises-a-jour.md)
 * [Information légale](details-techniques/information-legale.md)
