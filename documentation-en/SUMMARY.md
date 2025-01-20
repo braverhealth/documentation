@@ -2,6 +2,7 @@
 
 * [Braver Help Center](README.md)
 * [Frequently Asked Questions](faq.md)
+* [Need help?](need-help.md)
 * [Report an Issue](introduction/report-an-issue.md)
 
 ## Introduction
