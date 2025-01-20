@@ -14,7 +14,7 @@ Vous pouvez décider de vous inscrire à notre liste d'envoi de mise à jour ou 
 [inscription-aux-mises-a-jour.md](inscription-aux-mises-a-jour.md)
 {% endcontent-ref %}
 
-Les mises à jour qui représente autant des nouvelles fonctionnalités importantes que des améliorations mineures seront toujours publiés dans la page de [suivi de version](https://app.gitbook.com/o/zMIZEnF83uQLxLHiNR0f/s/57ZaWz2PEvUFxecHed5o/).
+Les mises à jour qui représentent autant des nouvelles fonctionnalités importantes que des améliorations mineures seront toujours publiées dans la page de [suivi de version](https://app.gitbook.com/o/zMIZEnF83uQLxLHiNR0f/s/57ZaWz2PEvUFxecHed5o/).
 
 ### Fréquence des mises à jour
 
