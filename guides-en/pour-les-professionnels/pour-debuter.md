@@ -1,6 +1,0 @@
----
-icon: flag
----
-
-# Pour débuter
-

@@ -1,6 +1,0 @@
----
-icon: book-medical
----
-
-# Bottins
-
