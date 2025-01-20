@@ -45,4 +45,4 @@
 * [Compatibility](technical-details/compatibility.md)
 * [Updates](technical-details/updates/README.md)
   * [Inscription aux mises à jour](technical-details/updates/subscribing-to-updates.md)
-* [Information légale](technical-details/legal-information.md)
+* [Legal Information](technical-details/legal-information.md)
