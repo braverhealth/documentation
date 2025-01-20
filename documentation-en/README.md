@@ -82,40 +82,8 @@ And if you need to know the technical details for a deployment
 
 </details>
 
-### To contact us
+### Need help?
 
-{% content-ref url="introduction/report-an-issue.md" %}
-[report-an-issue.md](introduction/report-an-issue.md)
-{% endcontent-ref %}
-
-{% content-ref url="faq.md" %}
-[faq.md](faq.md)
-{% endcontent-ref %}
-
-<details>
-
-<summary><strong>By phone</strong> (available during weekdays, excluding holidays)</summary>
-
-Call us at [+1-888-342-8032](tel:1-888-342-8032)
-
-</details>
-
-<details>
-
-<summary><strong>By phone</strong> (available 24/7)</summary>
-
-Your organization may have access to our 24/7 support phone number. **If so, use it in case of a problem!**
-
-If you don't have it and want to inquire about our advanced support packages, [write to us](https://braverhealth.typeform.com/to/D8CEMzqZ)!
-
-</details>
-
-<details>
-
-<summary><strong>By email</strong></summary>
-
-Write to us at [support@braver.health](mailto:support@braver.health)
-
-</details>
+{% include ".gitbook/includes/need-help.md" %}
 
 If you want to stay in touch with our updates, you can [subscribe to our newsletter](https://braverhealth.typeform.com/to/htc30Hk5#email=xxxxx\&language=en)!
