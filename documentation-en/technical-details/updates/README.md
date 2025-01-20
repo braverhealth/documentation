@@ -10,8 +10,8 @@ In order to be notified in advance of updates, for example to prepare if it is r
 
 You can decide to subscribe to our update mailing list or [unsubscribe at any time](#user-content-fn-1)[^1], all on your own.
 
-{% content-ref url="inscription-aux-mises-a-jour.md" %}
-[inscription-aux-mises-a-jour.md](inscription-aux-mises-a-jour.md)
+{% content-ref url="subscribing-to-updates.md" %}
+[subscribing-to-updates.md](subscribing-to-updates.md)
 {% endcontent-ref %}
 
 Updates that represent both important new features and minor improvements will always be published on the [version tracking page](https://app.gitbook.com/o/zMIZEnF83uQLxLHiNR0f/s/57ZaWz2PEvUFxecHed5o/).
