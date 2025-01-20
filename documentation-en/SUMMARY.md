@@ -44,5 +44,5 @@
 * [Connectivity](technical-details/connectivity.md)
 * [Compatibility](technical-details/compatibility.md)
 * [Updates](technical-details/updates/README.md)
-  * [Inscription aux mises à jour](technical-details/updates/subscribing-to-updates.md)
+  * [Subscription for Updates](technical-details/updates/subscribing-to-updates.md)
 * [Legal Information](technical-details/legal-information.md)

@@ -4,7 +4,7 @@ description: >-
 icon: envelope-dot
 ---
 
-# Registration for Updates
+# Subscription for Updates
 
 {% hint style="info" %}
 To unsubscribe, fill out the form as if you were registering and then at the end, select that you do not accept receiving updates.
