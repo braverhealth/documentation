@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 
-## For Professionals
+## For Healthcare Professionals
 
 * [Get Started Here](for-professionals/get-started-here.md)
 * [Account Creation](for-professionals/account-creation/README.md)
