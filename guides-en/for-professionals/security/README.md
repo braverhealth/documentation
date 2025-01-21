@@ -5,7 +5,7 @@ description: To be compliant!
 
 # Security
 
-**To better understand security-related concepts, do not hesitate to consult** [**documentation**](https://support.braver.net/for-professionals/security)**.**
+**To better understand security-related concepts, do not hesitate to consult** [**documentation**](https://support-en.braver.net/for-healthcare-professionals/security)**.**
 
 {% content-ref url="switch-session-on-shared-device.md" %}
 [switch-session-on-shared-device.md](switch-session-on-shared-device.md)

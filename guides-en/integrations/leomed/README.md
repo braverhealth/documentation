@@ -29,7 +29,7 @@ layout:
 * Healthcare staff can remain in Leomed and still be notified of important messages or calls from Braver, and call the patient or caregiver as needed
 * Automated tasks sent to patients and caregivers can be securely transmitted through Braver's patient and caregiver portal!
 
-[**Contact us to learn more!**](https://braverhealth.typeform.com/to/D8CEMzqZ?typeform-source=support.braver.net)
+[**Contact us to learn more!**](https://braverhealth.typeform.com/to/D8CEMzqZ?typeform-source=support-en.braver.net)
 
 ### If you are currently deploying this integration
 
@@ -39,8 +39,8 @@ layout:
 
 Some useful links:
 
-* [Connectivity Information](https://support.braver.net/technical-details/connectivity)
-* [Device Compatibility Information](https://support.braver.net/technical-details/compatibility)
+* [Connectivity Information](https://support-en.braver.net/technical-details/connectivity)
+* [Device Compatibility Information](https://support-en.braver.net/technical-details/compatibility)
 * [Administrator Documentation](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/for-administrators/get-started)
 
 ### To learn more about usage

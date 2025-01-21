@@ -5,7 +5,7 @@ description: To ensure information continuity!
 
 # Teams
 
-**To better understand concepts related to teams, do not hesitate to consult** [**documentation**](https://support.braver.net/for-professionals/teams)**.**
+**To better understand concepts related to teams, do not hesitate to consult** [**documentation**](https://support-en.braver.net/for-professionals/teams)**.**
 
 ## Team
 

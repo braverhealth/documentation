@@ -28,6 +28,6 @@ layout:
 * Team, workplace, and patient index management is fully automated
 * Healthcare staff can stay in Gustav and still be notified of important messages or calls from Braver
 
-[**Contact us to learn more!**](https://braverhealth.typeform.com/to/D8CEMzqZ?typeform-source=support.braver.net)
+[**Contact us to learn more!**](https://braverhealth.typeform.com/to/D8CEMzqZ?typeform-source=support-en.braver.net)
 
 {% include "../../.gitbook/includes/if-you-are-currently-deploying.md" %}
