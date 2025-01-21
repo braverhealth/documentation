@@ -13,4 +13,4 @@ Your profile allows your colleagues to easily recognize you when they want to co
 * Your profession(s) (visible only once they are validated)
 * Your workplace(s)
 
-**Feel free to consult** [**our dedicated guides**](https://support-en.braver.net/guides/for-healthcare-workers/gestion-du-profil) **to quickly see how to configure your profile.**
+**Feel free to consult** [**our dedicated guides**](https://support-en.braver.net/guides/for-professionals/gestion-du-profil) **to quickly see how to configure your profile.**

@@ -1,38 +1,38 @@
-# M'assigner un fil de discussion actuellement en triage
+# Assign Myself to a Discussion Thread Currently in Triage
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Cliquez sur l'onglet _Équipe_ pour accéder à la boîte de triage de votre équipe.
+#### Click on Team tab to access your team's triage box.
 
 <div align="left"><figure><img src="../../.gitbook/assets/massigner-un-fil-de-discussion-en-triage - Step 1.jpeg" alt="" width="60"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sélectionnez _Triage_ pour consulter le nouveau message reçu par votre équipe.
+#### Select Triage to view the new message received by your team.
 
 <div align="left"><figure><img src="../../.gitbook/assets/massigner-un-fil-de-discussion-en-triage - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur le nouveau message pour l'ouvrir. Les nouveaux messages sont marqués d'un cercle rouge et sont en surbrillance.
+#### Click on the new message to open it. New messages are marked with a red circle and are highlighted.
 
 <div align="left"><figure><img src="../../.gitbook/assets/massigner-un-fil-de-discussion-en-triage - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous devrez choisir _Accepter et m'assigner_ pour répondre vous-même.
+#### You will need to choose Accept and Assign to respond yourself.
 
 <div align="left"><figure><img src="../../.gitbook/assets/massigner-un-fil-de-discussion-en-triage - Step 4.jpeg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-Vous pouvez maintenant répondre au fil de discussion !
+You can now reply to the discussion thread!
 {% endhint %}
 {% endstep %}
 
 {% step %}
-#### Celui-ci ne figurera plus dans la boîte de triage, mais bien dans vos _Fils actifs_ sous l'onglet _Accueil_.
+#### It will no longer appear in the triage box, but will be in your Active Threads under the Home tab.
 
 <div align="left"><figure><img src="../../.gitbook/assets/massigner-un-fil-de-discussion-en-triage - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

@@ -13,31 +13,31 @@
 
 ## For Healthcare Professionals
 
-* [Overview](for-healthcare-workers/overview.md)
-* [Account Creation](for-healthcare-workers/account-creation/README.md)
-* [The Network](for-healthcare-workers/network.md)
-* [Patient Files](for-healthcare-workers/patient-files.md)
-* [Discussion Threads](for-healthcare-workers/discussion-threads.md)
-* [Audio and Video Calls](for-healthcare-workers/audio-and-video-calls/README.md)
-* [Care Channels](for-healthcare-workers/care-channels.md)
-* [Teams](for-healthcare-workers/teams.md)
-* [Patient and Caregiver Communication](for-healthcare-workers/patient-and-caregivers.md)
-* [Your Profile](for-healthcare-workers/profile/README.md)
-* [Notification Control](for-healthcare-workers/notifications/README.md)
-* [Security](for-healthcare-workers/security/README.md)
+* [Overview](for-professionals/overview.md)
+* [Account Creation](for-professionals/account-creation/README.md)
+* [The Network](for-professionals/network.md)
+* [Patient Files](for-professionals/patient-files.md)
+* [Discussion Threads](for-professionals/discussion-threads.md)
+* [Audio and Video Calls](for-professionals/audio-and-video-calls/README.md)
+* [Care Channels](for-professionals/care-channels.md)
+* [Teams](for-professionals/teams.md)
+* [Patient and Caregiver Communication](for-professionals/patient-and-caregivers.md)
+* [Your Profile](for-professionals/profile/README.md)
+* [Notification Control](for-professionals/notifications/README.md)
+* [Security](for-professionals/security/README.md)
 
 ## For Administrators
 
-* [Overview](for-admins/overview.md)
-* [Organizational Units](for-admins/organizational-units/README.md)
-* [Workplaces](for-admins/workplaces/README.md)
-* [Teams](for-admins/teams/README.md)
-* [Users](for-admins/users/README.md)
-  * [Roles and Permissions](for-admins/users/roles-and-permissions.md)
-* [Audit Logs](for-admins/audit-logs/README.md)
-  * [What can I find in the audit log?](for-admins/audit-logs/what-can-i-find-in-the-audit-log.md)
-* [Directories](for-admins/directories.md)
-* [Remotely Managed Mobile Device](for-admins/remotely-managed-mobile-device.md)
+* [Overview](for-administrators/overview.md)
+* [Organizational Units](for-administrators/organizational-units/README.md)
+* [Workplaces](for-administrators/workplaces/README.md)
+* [Teams](for-administrators/teams/README.md)
+* [Users](for-administrators/users/README.md)
+  * [Roles and Permissions](for-administrators/users/roles-and-permissions.md)
+* [Audit Logs](for-administrators/audit-logs/README.md)
+  * [What can I find in the audit log?](for-administrators/audit-logs/what-can-i-find-in-the-audit-log.md)
+* [Directories](for-administrators/directories.md)
+* [Remotely Managed Mobile Device](for-administrators/remotely-managed-mobile-device.md)
 
 ## Technical Details
 

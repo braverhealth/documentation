@@ -6,6 +6,6 @@ icon: rectangle-history
 
 **To better understand user-related concepts, feel free to consult** [**the documentation**](https://support.braver.net/pour-les-administrateurs/journaux-daudit)**.**
 
-{% content-ref url="how-to-search-audit-logs.md" %}
+{% content-ref url="how-to-search-in-audit-logs.md" %}
 [how-to-search-audit-logs.md](how-to-search-audit-logs.md)
 {% endcontent-ref %}

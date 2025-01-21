@@ -2,17 +2,16 @@
 icon: bell
 ---
 
-# Gestion des notifications
+# Notification Management
 
-{% content-ref url="activer-les-notifications-sur-appareils-mobile.md" %}
-[activer-les-notifications-sur-appareils-mobile.md](activer-les-notifications-sur-appareils-mobile.md)
+{% content-ref url="activate-notifications-on-mobile-devices.md" %}
+[activate-notifications-on-mobile-devices.md](activate-notifications-on-mobile-devices.md)
 {% endcontent-ref %}
 
-{% content-ref url="regler-sa-periode-dindisponibilite.md" %}
-[regler-sa-periode-dindisponibilite.md](regler-sa-periode-dindisponibilite.md)
+{% content-ref url="set-unavailability-period.md" %}
+[set-unavailability-period.md](set-unavailability-period.md)
 {% endcontent-ref %}
 
-{% content-ref url="regler-son-horaire-de-disponibilites.md" %}
-[regler-son-horaire-de-disponibilites.md](regler-son-horaire-de-disponibilites.md)
+{% content-ref url="set-availability-schedule.md" %}
+[set-availability-schedule.md](set-availability-schedule.md)
 {% endcontent-ref %}
-

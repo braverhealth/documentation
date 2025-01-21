@@ -1,111 +1,111 @@
-# Gérer les participants d'un fil de discussion
+# Manage Discussion Thread Participants
 
-## Pas-à-pas de l'ajout d'un participant à partir de son lieu de travail
+## Step-by-Step Guide to Adding a Participant from Workplace
 
 {% stepper %}
 {% step %}
-#### Cliquez dans le cercle présentant les participants, en haut, à droite de votre fil.
+#### Click on the participant circle at the top right of your thread.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Si vous souhaitez ajouter un intervenant, cliquez sur _Ajouter +_, à droite de la mention _Intervenants individuels_.
+#### If you want to add an individual participant, click _Add +_ to the right of _Individual Participants_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous pouvez rechercher un participant en retrouvant son lieu de travail. Utilisez la barre de recherche dans le haut, au besoin. Cliquez sur le lieu de travail.
+#### You can search for a participant by finding their workplace. Use the search bar at the top if needed. Click on the workplace.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Une fois dans le bon lieu de travail, cliquez sur l'équipe dans laquelle le participant prend part.
+#### Once in the correct workplace, click on the team in which the participant is involved.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur la bonne personne.
+#### Click on the right person.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur _Ajouter à la discussion_.
+#### Click _Add to Discussion_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Le nouveau participant est maintenant ajouté et est classé sous la bonne équipe. S'il y a une enveloppe près de son nom, c'est qu'il n'a pas encore rejoint la discussion.
+#### The new participant is now added and is classified under the correct team. If there is an envelope next to their name, it means they have not yet joined the discussion.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
-## Pas-à-pas de l'ajout d'un participant en recherchant son nom
+## Step-by-Step Guide to Adding a Participant by Searching Their Name
 
 {% stepper %}
 {% step %}
-#### Cliquez dans le cercle présentant les participants, en haut, à droite de votre fil.
+#### Click on the participant circle at the top right of your thread.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous pouvez utiliser la barre de recherche pour chercher un contact en particulier.
+#### You can use the search bar to look for a specific contact.
 
 {% hint style="info" %}
-Pensez à activer le filtre _Contacts_, sinon il n'y aura que les lieux de travail qui s'afficheront.
+Remember to activate the _Contacts_ filter, otherwise only workplaces will be displayed.
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sélectionnez le participant que vous désirez ajouter au fil de discussion.
+#### Select the participant you want to add to the discussion thread.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 9.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur _Ajouter à la discussion_.
+#### Click _Add to Discussion_.
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 10.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% endstep %}
 {% endstepper %}
 
-## Pas-à-pas de l'ajout d'une équipe
+## Step-by-Step Guide to Adding a Team
 
 {% stepper %}
 {% step %}
-#### Cliquez dans le cercle présentant les participants, en haut, à droite de votre fil.
+#### Click on the participant circle at the top right of your thread.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Pour ajouter une équipe entière et que le message atterrisse dans leur boîte de triage, cliquez sur _Ajouter +_ près de la mention _Équipes_.
+#### To add an entire team so that the message lands in their triage box, click _Add +_ near _Teams_.
 
 {% endstep %}
 
 {% step %}
-#### Sélectionnez le lieu de travail où l'équipe se trouve.
+#### Select the workplace where the team is located.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 12.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sous le lieu de travail, cliquez sur _Ajouter à la discussion_.
+#### Under the workplace, click _Add to Discussion_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 13.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### À ce moment, on vous propose les équipes qu'il vous est possible d'ajouter à la discussion. Sélectionnez l'équipe de votre choix pour l'ajouter.
+#### At this point, you are offered the teams you can add to the discussion. Select the team of your choice to add it.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 14.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

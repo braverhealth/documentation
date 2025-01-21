@@ -1,37 +1,37 @@
-# Consulter les fils de mon équipe
+# View Team Threads
 
 {% hint style="info" %}
-L'onglet _Fils d'équipe_ regroupe tous les fils de discussion de votre équipe, actifs ou non.&#x20;
+The _Team Threads_ tab groups all discussion threads of your team, active or not.
 
-Grâce aux _Fils d'équipe_, il est possible d'accéder à tous les messages partagés entre tous les membres de votre équipe, que vous ayez participé au fil de discussion ou non.
+With _Team Threads_, it is possible to access all messages shared between all members of your team, whether you participated in the discussion thread or not.
 
-Il devient alors facile de rejoindre une discussion appartenant à votre équipe, au besoin.
+It then becomes easy to join a discussion belonging to your team, if needed.
 {% endhint %}
 
 {% hint style="warning" %}
-Si vous ne faites pas partie d'une équipe, ou si vous n'avez pas les permissions requises pour afficher cet onglet, vous n'aurez pas l'option d'accéder à cette page.
+If you are not part of a team, or if you do not have the required permissions to view this tab, you will not have the option to access this page.
 
-**Aussi, il est important de noter que Braver journalise les accès à ces**_**Fils d'équipe**_**.**  Les personnes autorisées de votre organisation peuvent donc produire des audits d'accès au besoin.
+**Also, it is important to note that Braver logs access to these** _**Team Threads**_**.**  Authorized persons in your organization can therefore produce access audits as needed.
 {% endhint %}
 
-## Pas-à-pas
+## Step by Step
 
 {% stepper %}
 {% step %}
-#### Sélectionnez l'onglet _Équipe_.
+#### Select the _Team_ tab.
 
 <div align="left"><figure><img src="../../.gitbook/assets/consulter-les-fils-de-mon-equipe - Step 1.jpeg" alt="" width="61"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sélectionnez les fils d'équipe, puis la discussion qui vous intéresse.
+#### Select team threads, then the discussion that interests you.
 
 <div align="left"><figure><img src="../../.gitbook/assets/consulter-les-fils-de-mon-equipe - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous avez maintenant accès au contenu du fil de discussion question.
+#### You now have access to the content of the discussion thread.
 
-Au besoin, vous pouvez rejoindre la discussion.
+If needed, you can join the discussion.
 {% endstep %}
 {% endstepper %}

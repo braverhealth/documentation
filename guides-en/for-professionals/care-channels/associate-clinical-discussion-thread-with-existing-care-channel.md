@@ -1,47 +1,47 @@
-# Créer un fil de discussion clinique dans un canal de soins existant
+# Create a Clinical Discussion Thread in an Existing Care Channel
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### À partir de l'onglet _Patients_, trouvez et sélectionnez le patient concerné.
+#### From Patients tab, find and select the relevant patient.
 
 <div align="left"><figure><img src="../../.gitbook/assets/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Dans la fiche du patient, dans le canal de soins souhaité, cliquez sur l'icône d'ajout d'un fil de discussion.
+#### In patient file, in desired care channel, click discussion thread addition icon.
 
 <div align="left"><figure><img src="../../.gitbook/assets/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### À ce stade, vous pouvez modifier les équipes participantes, mais pas les participants individuels.
+#### At this stage, you can modify participating teams, but not individual participants.
 
-Cliquez sur Modifier.
+Click Modify.
 
 <div align="left"><figure><img src="../../.gitbook/assets/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sélectionnez l'équipe à retirer.
+#### Select team to remove.
 
 {% hint style="info" %}
-Ici, on voit que l'équipe des médecins est grisée parce que l'auteur du message en fait partie et ne peut donc pas se retirer en tant que participant du message.
+Here, the doctor team is grayed out because the message author is part of it and therefore cannot remove themselves as a participant.
 {% endhint %}
 
 {% hint style="warning" %}
-Il est important de comprendre que les équipes que vous avez retirées de la discussion ne seront pas notifiées, mais auront accès au contenu du fil dans le canal de soins.
+It is important to understand that teams you remove from the discussion will not be notified but will still have access to the thread content in care channel.
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Voici à quoi aura l'air votre page de création de fil si vous avez modifié les participants.
+#### This is what your creation page will look like if you have modified participants.
 
 <div align="left"><figure><img src="../../.gitbook/assets/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-Vous pouvez ajouter le message de votre choix, un titre ainsi que du contenu avant de l'envoyer en cliquant sur le bouton d'envoi en forme de flèche.
+You can add message of your choice, a title, and content before sending by clicking arrow-shaped send button.
 {% endstep %}
 {% endstepper %}

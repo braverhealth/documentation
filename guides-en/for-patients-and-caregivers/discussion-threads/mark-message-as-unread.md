@@ -1,25 +1,25 @@
-# Indiquer une discussion comme non lue
+# Mark a Discussion as Unread
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Choisissez le fil de discussion que vous voulez indiquer comme non lu.
+#### Choose the discussion thread you want to mark as unread.
 
-* **Sur ordinateur**: Cliquez sur les trois petits points
-* **Sur cellulaire et tablette**: Appuyez longuement sur le fil de discussion
+* **On computer**: Click on three small dots
+* **On mobile and tablet**: Long press on discussion thread
 
 <div align="left"><figure><img src="../../.gitbook/assets/indiquer-un-message-comme-non-lu-patient - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez ensuite sur _Marquer comme non lu_
+#### Then click on _Mark as Unread_
 
 <div align="left"><figure><img src="../../.gitbook/assets/indiquer-un-message-comme-non-lu-patient - Step 2.jpeg" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Le message s'affiche maintenant comme si vous ne l'aviez pas ouvert !
+#### The message now appears as if you have not opened it!
 
 <div align="left"><figure><img src="../../.gitbook/assets/indiquer-un-message-comme-non-lu-patient - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

@@ -1,32 +1,32 @@
-# Trouver une pièce jointe épinglée dans l'espace de mon équipe de soins
+# Finding a Pinned Attachment in My Care Team Space
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Accédez à l'équipe de soins pour laquelle vous voulez voir les pièces jointes épinglées.
+#### Access the care team for which you want to view pinned attachments.
 
 <div align="left"><figure><img src="../../.gitbook/assets/trouver-une-piece-jointe-epinglee-dans-lespace-de-mon-equipe-de-soins-patient - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur le bouton avec la punaise dans le haut de la page.
+#### Click on the pin button at the top of the page.
 
 <div align="left"><figure><img src="../../.gitbook/assets/trouver-une-piece-jointe-epinglee-dans-lespace-de-mon-equipe-de-soins-patient - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Dans le menu des pièces jointes, vous pouvez afficher toutes les pièces jointes ou les trier par format.
+#### In the attachments menu, you can view all attachments or sort them by format.
 
-Ici, le filtre _Tous_ est activé. (voir encadré orange)
+Here, the _All_ filter is activated. (see orange box)
 
-Si je cherchais une photo, je pourrais cliquer sur le filtre _Photos_.
+If I were looking for a photo, I could click on the _Photos_ filter.
 
 <div align="left"><figure><img src="../../.gitbook/assets/trouver-une-piece-jointe-epinglee-dans-lespace-de-mon-equipe-de-soins-patient - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Pour quitter le menu des _Pièces jointes_, cliquez sur le X en haut, à gauche.
+#### To exit the _Attachments_ menu, click on the X at the top left.
 
 <div align="left"><figure><img src="../../.gitbook/assets/trouver-une-piece-jointe-epinglee-dans-lespace-de-mon-equipe-de-soins-patient - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

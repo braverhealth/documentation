@@ -1,20 +1,20 @@
-# Connectez-vous instantanément sur mobile à partir de votre session Web
+# Instantly Connect to Mobile from Your Web Session
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### À partir de l'[application Web](https://app.braver.net/) cliquez sur le bouton de transfert de session en bas à gauche.
+#### From [web application](https://app.braver.net/), click the session transfer button at bottom left.
 
 <div align="left"><figure><img src="../../.gitbook/assets/acceder-a-braver-sur-mobile-via-code-qr-partir-de-lapp-web - Step 1.jpeg" alt="" width="86"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### À l'aide de votre appareil mobile, scannez ce code QR.
+#### Using your mobile device, scan this QR code.
 
-On vous demandera d'installer l'application, puis vous aurez accès à votre session sans vous connecter. Le code QR vous donnera accès directement à votre session.
+You will be asked to install the application, and then you will have access to your session without logging in. The QR code will give you direct access to your session.
 
-Au besoin, vous pouvez installer rapidement l'application en vous rendant à notre [page de téléchargement](https://www.braver.net/fr/download/) avant de scanner le code QR.
+If needed, you can quickly install the application by going to our [download page](https://www.braver.net/en/download/) before scanning the QR code.
 
 <div align="left"><figure><img src="../../.gitbook/assets/acceder-a-braver-sur-mobile-via-code-qr-partir-de-lapp-web - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

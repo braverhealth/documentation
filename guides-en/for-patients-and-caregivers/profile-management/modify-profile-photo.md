@@ -1,20 +1,20 @@
-# Modifier sa photo
+# Modify Profile Photo
 
-## Pas-à-pas
+## Step-by-Step Guide
 
 {% stepper %}
 {% step %}
-**Débutez en naviguant à votre profil en bas de l'écran.**
+**Start by navigating to your profile at the bottom of the screen.**
 
 {% hint style="info" %}
-Sur un téléphone mobile, vous devez appuyer sur l'icône de roue en bas de l'écran.
+On a mobile phone, you must tap the gear icon at the bottom of the screen.
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/acceder-les-parametres-patients.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### D'ici, vous pouvez modifier votre photo de profil visible aux autres utilisateurs
+#### From here, you can modify your profile photo visible to other users
 
 <div align="left"><figure><img src="../../.gitbook/assets/editer-ma-photo.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

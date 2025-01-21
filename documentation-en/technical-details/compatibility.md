@@ -13,7 +13,7 @@ icon: mobile-notch
 
 <summary>Using in "remotely managed" mode</summary>
 
-If you are a healthcare organization and want to distribute Braver to patients or caregivers on mobile devices that you own, you have the option to use Braver in [**remotely managed** mode](../for-admins/remotely-managed-mobile-device.md).
+If you are a healthcare organization and want to distribute Braver to patients or caregivers on mobile devices that you own, you have the option to use Braver in [**remotely managed** mode](../for-administrators/remotely-managed-mobile-device.md).
 
 In this mode:
 

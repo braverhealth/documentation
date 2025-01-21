@@ -1,24 +1,24 @@
 ---
 icon: dice-d6
-description: Pour rassembler une équipe de soins!
+description: To gather a care team!
 ---
 
-# Canaux de soins
+# Care Channels
 
-**Pour mieux comprendre les concepts liés aux canaux de soins, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/canaux-de-soins)**.**
+**To better understand the concepts related to care channels, do not hesitate to consult** [**documentation**](https://support-en.braver.net/for-professionals/care-channels)**.**
 
-{% content-ref url="creer-un-nouveau-canal-de-soins.md" %}
-[creer-un-nouveau-canal-de-soins.md](creer-un-nouveau-canal-de-soins.md)
+{% content-ref url="create-new-care-channel.md" %}
+[create-new-care-channel.md](create-new-care-channel.md)
 {% endcontent-ref %}
 
-{% content-ref url="associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant.md" %}
-[associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant.md](associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant.md)
+{% content-ref url="associate-clinical-discussion-thread-with-existing-care-channel.md" %}
+[associate-clinical-discussion-thread-with-existing-care-channel.md](associate-clinical-discussion-thread-with-existing-care-channel.md)
 {% endcontent-ref %}
 
-{% content-ref url="ajouter-un-participant-a-un-canal-de-soins-existant.md" %}
-[ajouter-un-participant-a-un-canal-de-soins-existant.md](ajouter-un-participant-a-un-canal-de-soins-existant.md)
+{% content-ref url="add-participant-to-existing-care-channel.md" %}
+[add-participant-to-existing-care-channel.md](add-participant-to-existing-care-channel.md)
 {% endcontent-ref %}
 
-{% content-ref url="epingler-un-document-et-consulter-lhistorique-des-versions.md" %}
-[epingler-un-document-et-consulter-lhistorique-des-versions.md](epingler-un-document-et-consulter-lhistorique-des-versions.md)
+{% content-ref url="pin-document-and-view-version-history.md" %}
+[pin-document-and-view-version-history.md](pin-document-and-view-version-history.md)
 {% endcontent-ref %}

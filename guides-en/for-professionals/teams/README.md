@@ -1,36 +1,36 @@
 ---
 icon: users
-description: Pour assurer une continuité de l'information!
+description: To ensure information continuity!
 ---
 
-# Équipes
+# Teams
 
-**Pour mieux comprendre les concepts liés aux équipes, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/equipes)**.**
+**To better understand concepts related to teams, do not hesitate to consult** [**documentation**](https://support.braver.net/for-professionals/teams)**.**
 
-## Équipe
+## Team
 
-{% content-ref url="voir-de-quelle-equipe-on-fait-partie.md" %}
-[voir-de-quelle-equipe-on-fait-partie.md](voir-de-quelle-equipe-on-fait-partie.md)
+{% content-ref url="view-which-team-youre-in.md" %}
+[view-which-team-youre-in.md](view-which-team-youre-in.md)
 {% endcontent-ref %}
 
-{% content-ref url="consulter-les-fils-de-mon-equipe.md" %}
-[consulter-les-fils-de-mon-equipe.md](consulter-les-fils-de-mon-equipe.md)
+{% content-ref url="view-team-discussion-threads.md" %}
+[view-team-discussion-threads.md](view-team-discussion-threads.md)
 {% endcontent-ref %}
 
-{% content-ref url="ecrire-a-une-equipe.md" %}
-[ecrire-a-une-equipe.md](ecrire-a-une-equipe.md)
+{% content-ref url="write-to-a-team.md" %}
+[write-to-a-team.md](write-to-a-team.md)
 {% endcontent-ref %}
 
-## Boite de triage
+## Triage Box
 
-{% content-ref url="massigner-un-fil-de-discussion-en-triage.md" %}
-[massigner-un-fil-de-discussion-en-triage.md](massigner-un-fil-de-discussion-en-triage.md)
+{% content-ref url="assign-myself-to-discussion-thread-in-triage.md" %}
+[assign-myself-to-discussion-thread-in-triage.md](assign-myself-to-discussion-thread-in-triage.md)
 {% endcontent-ref %}
 
-{% content-ref url="assigner-desassigner-un-participant-comme-responsable-dun-fil.md" %}
-[assigner-desassigner-un-participant-comme-responsable-dun-fil.md](assigner-desassigner-un-participant-comme-responsable-dun-fil.md)
+{% content-ref url="assign-unassign-participant-as-thread-responsible.md" %}
+[assign-unassign-participant-as-thread-responsible.md](assign-unassign-participant-as-thread-responsible.md)
 {% endcontent-ref %}
 
-{% content-ref url="retourner-une-discussion-dans-la-boite-de-triage.md" %}
-[retourner-une-discussion-dans-la-boite-de-triage.md](retourner-une-discussion-dans-la-boite-de-triage.md)
+{% content-ref url="return-discussion-to-triage-box.md" %}
+[return-discussion-to-triage-box.md](return-discussion-to-triage-box.md)
 {% endcontent-ref %}

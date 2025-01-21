@@ -1,37 +1,37 @@
-# Modifier son NIP
+# Modify PIN
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Sélectionnez la pastille avec votre photo ou vos initiales pour accéder à votre profil, puis cliquez sur votre nom.
+#### Select the badge with your photo or initials to access your profile, then click on your name.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Modifier son NIP - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sélectionnez l’onglet _Paramètres_.
+#### Select the _Settings_ tab.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Modifier son NIP - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sous la section Sécurité, sélectionnez _Changer mon NIP_.
+#### Under the Security section, select _Change My PIN_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Modifier son NIP - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Entrez le nouveau NIP.
+#### Enter the new PIN.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Modifier son NIP - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Répétez pour vous assurer de la concordance des deux NIP.
+#### Repeat to ensure the two PINs match.
 
 {% hint style="success" %}
-C’est automatiquement enregistré!
+It is automatically saved!
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/Modifier son NIP - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>

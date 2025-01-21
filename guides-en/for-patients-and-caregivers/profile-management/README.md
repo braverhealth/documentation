@@ -2,9 +2,8 @@
 icon: square-user
 ---
 
-# Gestion du profil
+# Profile Management
 
-{% content-ref url="modifier-son-profil-photo.md" %}
-[modifier-son-profil-photo.md](modifier-son-profil-photo.md)
+{% content-ref url="modify-profile-photo.md" %}
+[modify-profile-photo.md](modify-profile-photo.md)
 {% endcontent-ref %}
-

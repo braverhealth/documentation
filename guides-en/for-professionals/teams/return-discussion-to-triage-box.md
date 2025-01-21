@@ -1,36 +1,36 @@
-# Retourner une discussion dans la boîte de triage
+# Return a Discussion to Triage Box
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Sélectionnez le fil de discussion que vous désirez retourner dans la boîte de triage de votre équipe.
+#### Select the discussion thread you want to return to your team's triage box.
 
 <div align="left"><figure><img src="../../.gitbook/assets/retourner-une-discussion-dans-la-boite-de-triage - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Accédez aux participants du fil, en haut, à droite.
+#### Access the thread participants at the top right.
 
 <div align="left"><figure><img src="../../.gitbook/assets/retourner-une-discussion-dans-la-boite-de-triage - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur les 3 petits points près de votre nom.
+#### Click on the 3 small dots next to your name.
 
 <div align="left"><figure><img src="../../.gitbook/assets/retourner-une-discussion-dans-la-boite-de-triage - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur _Quitter la discussion_.
+#### Click on _Leave Discussion_.
 
-À ce moment, il n'y a personne de l'équipe des médecins qui prend part à la discussion. Voilà pourquoi le message retourne dans la boîte de triage des médecins.
+At this point, no one from the doctor's team is participating in the discussion. This is why the message returns to the doctors' triage box.
 
 <div align="left"><figure><img src="../../.gitbook/assets/retourner-une-discussion-dans-la-boite-de-triage - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Un autre collègue de votre équipe pourra faire le suivi de ce fil de discussion.
+#### Another colleague from your team can follow up on this discussion thread.
 
 <div align="left"><figure><img src="../../.gitbook/assets/retourner-une-discussion-dans-la-boite-de-triage - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

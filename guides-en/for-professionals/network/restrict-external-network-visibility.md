@@ -1,56 +1,56 @@
-# Restreindre sa visibilité du réseau externe
+# Restrict External Network Visibility
 
-## Pas-à-pas
+## Step by Step
 
 {% hint style="info" %}
-Restreindre votre visibilité du réseau vous permet d'apparaître dans les recherches de certaines professions seulement. Vous êtes donc invisible pour certaines professions, alors que les autres vous retrouveront facilement s'ils souhaitent collaborer avec vous.
+Restricting your network visibility allows you to appear in searches for specific professions only. This means you will be invisible to certain professions, while others can easily find you if they want to collaborate.
 {% endhint %}
 
 {% stepper %}
 {% step %}
-**Débutez en naviguant à votre profil en bas de l'écran.**
+**Start by navigating to your profile at the bottom of the screen.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Sélectionnez l'onglet&#x20;**_**Paramètres**_**.**
+**Select the** _**Settings**_ **tab.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Sélectionnez&#x20;**_**Restreindre ma visibilité**_**.**
+**Select** _**Restrict My Visibility**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Cliquez dans la barre pour afficher le menu déroulant.**
+**Click in the bar to display the dropdown menu.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Sélectionnez une profession pour laquelle vous désirez restreindre votre visibilité. Cette profession ne pourra pas vous retrouver lors d'une recherche dans le réseau.**
+**Select a profession for which you want to restrict your visibility. This profession will not be able to find you during a network search.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Une fois la profession sélectionnée, cliquez sur&#x20;**_**Ajouter à la liste**_**.**
+**Once the profession is selected, click** _**Add to List**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Recommencez ces étapes pour toutes les professions concernées.**
+**Repeat these steps for all relevant professions.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Pour enregistrer vos choix, cliquez sur&#x20;**_**Enregistrer**_**&#x20;en haut, à droite.**
+**To save your choices, click** _**Save**_ **at the top right.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 9.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

@@ -1,32 +1,32 @@
-# Accéder aux pièces jointes dans un fil de discussion
+# Accessing Attachments in a Discussion Thread
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Ouvrez le fil de discussion dans lequel vous voulez retrouver une pièce jointe.
+#### Open the discussion thread where you want to find an attachment.
 
 <div align="left"><figure><img src="../../.gitbook/assets/acceder-aux-pieces-jointes-dans-un-fil-de-discussion - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Dans le fil de discussion, cliquez sur le trombone en haut, à droite. On voit ici qu'il n'y a qu'une pièce jointe dans le fil.
+#### In the discussion thread, click on the paperclip at the top right. Here you can see there is only one attachment in the thread.
 
 <div align="left"><figure><img src="../../.gitbook/assets/acceder-aux-pieces-jointes-dans-un-fil-de-discussion - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Dans le menu des pièces jointes, vous pouvez afficher toutes les pièces jointes ou les trier par format.
+#### In the attachments menu, you can display all attachments or sort them by format.
 
-Ici, le filtre _Tous_ est activé.
+Here, the _All_ filter is activated.
 
-Pour ne voir que les photos, on peut cliquer sur le filtre _Photos_.
+To see only photos, you can click on the _Photos_ filter.
 
 <div align="left"><figure><img src="../../.gitbook/assets/acceder-aux-pieces-jointes-dans-un-fil-de-discussion - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Pour quitter le menu des _Pièces jointes_, cliquez sur la flèche de retour en haut, à gauche.
+#### To exit the _Attachments_ menu, click on the back arrow at the top left.
 
 <div align="left"><figure><img src="../../.gitbook/assets/acceder-aux-pieces-jointes-dans-un-fil-de-discussion - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

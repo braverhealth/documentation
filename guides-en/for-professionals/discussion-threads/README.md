@@ -1,72 +1,72 @@
 ---
 icon: message-pen
-description: Pour communiquer efficacement!
+description: To communicate effectively!
 ---
 
-# Fils de discussions
+# Discussion Threads
 
-**Pour mieux comprendre les concepts liés aux fils de discussion, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/fils-de-discussions)**.**
+**To better understand concepts related to discussion threads, do not hesitate to consult** [**documentation**](https://support-en.braver.net/for-professionals/discussion-threads)**.**
 
-## Création
+## Creation
 
-{% content-ref url="creer-un-fil-de-discussion-clinique.md" %}
-[creer-un-fil-de-discussion-clinique.md](creer-un-fil-de-discussion-clinique.md)
+{% content-ref url="create-clinical-discussion-thread.md" %}
+[create-clinical-discussion-thread.md](create-clinical-discussion-thread.md)
 {% endcontent-ref %}
 
-{% content-ref url="creer-un-fil-de-discussion-non-clinique.md" %}
-[creer-un-fil-de-discussion-non-clinique.md](creer-un-fil-de-discussion-non-clinique.md)
+{% content-ref url="create-non-clinical-discussion-thread.md" %}
+[create-non-clinical-discussion-thread.md](create-non-clinical-discussion-thread.md)
 {% endcontent-ref %}
 
-{% content-ref url="indiquer-quun-fil-de-discussion-est-dune-priorite-elevee.md" %}
-[indiquer-quun-fil-de-discussion-est-dune-priorite-elevee.md](indiquer-quun-fil-de-discussion-est-dune-priorite-elevee.md)
+{% content-ref url="indicate-discussion-thread-is-high-priority.md" %}
+[indicate-discussion-thread-is-high-priority.md](indicate-discussion-thread-is-high-priority.md)
 {% endcontent-ref %}
 
-{% content-ref url="rejoindre-une-discussion-concernant-un-nouveau-patient.md" %}
-[rejoindre-une-discussion-concernant-un-nouveau-patient.md](rejoindre-une-discussion-concernant-un-nouveau-patient.md)
+{% content-ref url="join-discussion-about-new-patient.md" %}
+[join-discussion-about-new-patient.md](join-discussion-about-new-patient.md)
 {% endcontent-ref %}
 
-{% content-ref url="sauvegarder-le-brouillon-dun-fil-de-discussion.md" %}
-[sauvegarder-le-brouillon-dun-fil-de-discussion.md](sauvegarder-le-brouillon-dun-fil-de-discussion.md)
+{% content-ref url="save-discussion-thread-draft.md" %}
+[save-discussion-thread-draft.md](save-discussion-thread-draft.md)
 {% endcontent-ref %}
 
-{% content-ref url="dupliquer-un-fil-de-discussion.md" %}
-[dupliquer-un-fil-de-discussion.md](dupliquer-un-fil-de-discussion.md)
+{% content-ref url="duplicate-discussion-thread.md" %}
+[duplicate-discussion-thread.md](duplicate-discussion-thread.md)
 {% endcontent-ref %}
 
-## Gestion du fil de discussion
+## Discussion Thread Management
 
-{% content-ref url="gerer-les-participants-dun-fil-de-discussion.md" %}
-[gerer-les-participants-dun-fil-de-discussion.md](gerer-les-participants-dun-fil-de-discussion.md)
+{% content-ref url="manage-discussion-thread-participants.md" %}
+[manage-discussion-thread-participants.md](manage-discussion-thread-participants.md)
 {% endcontent-ref %}
 
-{% content-ref url="quitter-un-fil-de-discussion.md" %}
-[quitter-un-fil-de-discussion.md](quitter-un-fil-de-discussion.md)
+{% content-ref url="leave-discussion-thread.md" %}
+[leave-discussion-thread.md](leave-discussion-thread.md)
 {% endcontent-ref %}
 
-## Contenu échangé
+## Exchanged Content
 
-{% content-ref url="ajouter-un-message-vocal-a-une-discussion.md" %}
-[ajouter-un-message-vocal-a-une-discussion.md](ajouter-un-message-vocal-a-une-discussion.md)
+{% content-ref url="add-voice-message-to-discussion.md" %}
+[add-voice-message-to-discussion.md](add-voice-message-to-discussion.md)
 {% endcontent-ref %}
 
-{% content-ref url="ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion.md" %}
-[ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion.md](ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion.md)
+{% content-ref url="add-file-photo-or-video-to-discussion-thread.md" %}
+[add-file-photo-or-video-to-discussion-thread.md](add-file-photo-or-video-to-discussion-thread.md)
 {% endcontent-ref %}
 
-{% content-ref url="consulter-les-pieces-jointes-dun-fil-de-discussion.md" %}
-[consulter-les-pieces-jointes-dun-fil-de-discussion.md](consulter-les-pieces-jointes-dun-fil-de-discussion.md)
+{% content-ref url="view-discussion-thread-attachments.md" %}
+[view-discussion-thread-attachments.md](view-discussion-thread-attachments.md)
 {% endcontent-ref %}
 
-{% content-ref url="editer-une-photo-ou-une-video.md" %}
-[editer-une-photo-ou-une-video.md](editer-une-photo-ou-une-video.md)
+{% content-ref url="edit-photo-or-video.md" %}
+[edit-photo-or-video.md](edit-photo-or-video.md)
 {% endcontent-ref %}
 
-## Archivage
+## Archiving
 
-{% content-ref url="fermer-et-exporter-en-pdf-un-fil-de-discussion.md" %}
-[fermer-et-exporter-en-pdf-un-fil-de-discussion.md](fermer-et-exporter-en-pdf-un-fil-de-discussion.md)
+{% content-ref url="close-and-export-discussion-thread-as-pdf.md" %}
+[close-and-export-discussion-thread-as-pdf.md](close-and-export-discussion-thread-as-pdf.md)
 {% endcontent-ref %}
 
-{% content-ref url="retrouver-un-fil-de-discussion-ferme.md" %}
-[retrouver-un-fil-de-discussion-ferme.md](retrouver-un-fil-de-discussion-ferme.md)
+{% content-ref url="find-closed-discussion-thread.md" %}
+[find-closed-discussion-thread.md](find-closed-discussion-thread.md)
 {% endcontent-ref %}

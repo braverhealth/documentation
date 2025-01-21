@@ -1,8 +1,8 @@
-# Actions possibles dans un appel audio et vidéo
+# Possible Actions in an Audio and Video Call
 
-### Une fois dans l'appel conférence, plusieurs actions s'offrent à vous.
+### Once in the conference call, several actions are available to you.
 
-*   En cliquant sur le micro, vous pouvez ouvrir ou fermer votre micro. Et en cliquant sur la petite flèche à droite du micro, vous ouvrez le menu de votre microphone et de vos haut-parleurs; cela vous permet de choisir le microphone et les haut-parleurs désirés.
+*   By clicking on the microphone, you can open or close your microphone. And by clicking on the small arrow to the right of the microphone, you open the microphone and speaker menu; this allows you to choose the desired microphone and speakers.
 
     &#x20;
 
@@ -10,7 +10,7 @@
 
 &#x20;
 
-*   En cliquant sur la caméra, vous pouvez ouvrir ou fermer cette dernière. Et en cliquant sur la petite flèche à droite de la caméra, vous ouvrez le menu de celle-ci; cela vous permet de choisir un arrière-plan ou d'inverser votre vidéo.
+*   By clicking on the camera, you can open or close it. And by clicking on the small arrow to the right of the camera, you open its menu; this allows you to choose a background or flip your video.
 
     &#x20;
 
@@ -18,7 +18,7 @@
 
 &#x20;
 
-*   Partagez votre écran en cliquant sur l'écran avec la flèche. Vous devrez alors choisir si vous voulez partager un onglet, une fenêtre ou tout l'écran.
+*   Share your screen by clicking on the screen with the arrow. You will then need to choose whether you want to share a tab, a window, or the entire screen.
 
     &#x20;
 
@@ -26,7 +26,7 @@
 
 &#x20;
 
-*   En cliquant sur la photo, vous pouvez activer ou désactiver l'affichage d'un arrière-plan.
+*   By clicking on the photo, you can activate or deactivate the display of a background.
 
     &#x20;
 

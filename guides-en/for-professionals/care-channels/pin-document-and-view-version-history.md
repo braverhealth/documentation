@@ -1,64 +1,64 @@
-# Épingler un document et consulter l'historique des versions
+# Pin a Document and View Version History
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Pour épingler un fichier (photos, vidéos, documents) dans un canal de soins, accédez à un fil de discussion du canal de soins concerné dans lequel se trouve le fichier à épingler.
+#### To pin a file (photos, videos, documents) in a care channel, access a discussion thread in the care channel containing the file you want to pin.
 
 <div align="left"><figure><img src="../../.gitbook/assets/epingler-un-document-et-consulter-lhistorique-des-versions - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur les 3 petits points (web) ou appuyez longuement sur le fichier (mobile).
+#### Click on the 3 small dots (web) or long press on the file (mobile).
 
 <div align="left"><figure><img src="../../.gitbook/assets/epingler-un-document-et-consulter-lhistorique-des-versions - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur _Épingler le document_.
+#### Click on _Pin Document_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/epingler-un-document-et-consulter-lhistorique-des-versions - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-Une petite punaise rouge apparaîtra près du fichier.
+A small red pin will appear next to the file.
 {% endstep %}
 
 {% step %}
-#### Si nous retournons voir les détails du canal de soins, nous pouvons voir notre fichier épinglé.
+#### If we return to view the care channel details, we can see our pinned file.
 
-On peut remplacer cette version du document avec une nouvelle version plus récente. Pour cela, cliquez sur les 3 petits points (web) ou appuyez longuement sur le fichier (mobile).
+We can replace this version of the document with a newer version. To do this, click on the 3 small dots (web) or long press on the file (mobile).
 
 <div align="left"><figure><img src="../../.gitbook/assets/epingler-un-document-et-consulter-lhistorique-des-versions - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur l'option permettant de mettre à jour.
+#### Click on the option to update.
 
 <div align="left"><figure><img src="../../.gitbook/assets/epingler-un-document-et-consulter-lhistorique-des-versions - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cela créera un nouveau fil pour notifier les participants qu'une nouvelle version est déposée. Écrivez un message expliquant les changements puis complétez l'envoi.
+#### This will create a new thread to notify participants that a new version is uploaded. Write a message explaining the changes and complete the send.
 
 <div align="left"><figure><img src="../../.gitbook/assets/epingler-un-document-et-consulter-lhistorique-des-versions - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Dans le canal de soins, nous voyons maintenant la dernière version du fichier.
+#### In the care channel, we now see the latest version of the file.
 
-Pour voir les versions antérieures des documents, cliquez sur les 3 petits points (web) ou appuyez longuement sur le fichier (mobile).
+To view previous versions of the documents, click on the 3 small dots (web) or long press on the file (mobile).
 
 <div align="left"><figure><img src="../../.gitbook/assets/epingler-un-document-et-consulter-lhistorique-des-versions - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur _Ouvrir l'historique de fichier_.
+#### Click on _Open File History_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/epingler-un-document-et-consulter-lhistorique-des-versions - Step 9.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous verrez ainsi toutes les versions du fichier en question.
+#### You will then see all versions of the file in question.
 
 <div align="left"><figure><img src="../../.gitbook/assets/epingler-un-document-et-consulter-lhistorique-des-versions - Step 10.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

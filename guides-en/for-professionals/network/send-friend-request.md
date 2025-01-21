@@ -1,46 +1,46 @@
-# Envoyer une demande d'amitié
+# Send a Friend Request
 
-## Pas-à-pas
+## Step by Step
 
 {% hint style="warning" %}
-Actuellement, une fois la demande d'amitié acceptée, il est impossible de refermer le canal de messagerie directe.
+Currently, once the friend request is accepted, it is impossible to close the direct messaging channel.
 
-C'est une limite qui sera corrigée sous peu.
+This is a limitation that will be corrected soon.
 {% endhint %}
 
 {% stepper %}
 {% step %}
-#### Cliquez sur l'onglet _Réseau_ et recherchez la personne que vous souhaitez ajouter comme « ami ».
+#### Click on Network tab and search for the person you want to add as a "friend".
 
 <div align="left"><figure><img src="../../.gitbook/assets/envoyer-une-demande-damitie - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Accédez à son profil en sélectionnant son nom.
+#### Access their profile by selecting their name.
 
 <div align="left"><figure><img src="../../.gitbook/assets/envoyer-une-demande-damitie - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sélectionnez _Demander à être amis_.
+#### Select Request to be Friends.
 
 <div align="left"><figure><img src="../../.gitbook/assets/envoyer-une-demande-damitie - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### À ce moment, votre demande sera en attente de réponse. Vous pouvez annuler votre demande si vous le désirez.
+#### At this point, your request will be pending response. You can cancel your request if you wish.
 
 <div align="left"><figure><img src="../../.gitbook/assets/envoyer-une-demande-damitie - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Votre nouvel « ami » peut accepter ou ignorer votre invitation.
+#### Your new "friend" can accept or ignore your invitation.
 
 <div align="left"><figure><img src="../../.gitbook/assets/envoyer-une-demande-damitie - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Si la personne accepte votre invitation, son nom apparaîtra dans l'onglet _Accueil > Messages directs_ et vous pourrez échanger librement avec elle.
+#### If the person accepts your invitation, their name will appear in Home > Direct Messages tab and you will be able to exchange freely with them.
 
 <div align="left"><figure><img src="../../.gitbook/assets/envoyer-une-demande-damitie - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

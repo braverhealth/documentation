@@ -1,35 +1,35 @@
-# Trouver un fil de discussion fermé
+# Finding a Closed Discussion Thread
 
-## Pas-à-pas
+## Step-by-Step
 
 {% hint style="info" %}
-Lorsqu'une discussion est terminée, l'équipe de soins peut fermer le fil. Le contenu restera accessible, mais vous ne pourrez plus y échanger de nouveaux messages.
+When a discussion is completed, the care team can close the thread. The content will remain accessible, but you will no longer be able to exchange new messages.
 {% endhint %}
 
 {% stepper %}
 {% step %}
-#### Accédez à l'équipe de soins de votre choix.
+#### Access the care team of your choice.
 
 <div align="left"><figure><img src="../../.gitbook/assets/trouver-un-fil-de-discussion-ferme-patient - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### La page de votre équipe de soins est divisée en 2 sections (voir encadrés oranges)
+#### The page of your care team is divided into 2 sections (see orange boxes)
 
-* _Fils de discussion actifs_
-* _Fils de discussions fermés_
+* _Active Discussion Threads_
+* _Closed Discussion Threads_
 
-Remarquez que chacun des fils de discussions fermés est marqué d'un crochet.
+Note that each closed discussion thread is marked with a checkmark.
 
-Cliquez sur le fil de discussion fermé qui vous intéresse.
+Click on the closed discussion thread that interests you.
 
 <div align="left"><figure><img src="../../.gitbook/assets/trouver-un-fil-de-discussion-ferme-patient - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous avez accès à toute la discussion ainsi qu'aux pièces jointes (trombone en haut, à droite), le cas échéant.
+#### You have access to the entire discussion and attachments (paperclip at top right), if applicable.
 
-Remarquez que le fil de discussion fermé porte la mention : _Le fil de discussion a été fermé_ et qu'il est impossible d'y ajouter du contenu. (Voir encadré orange dans le bas de l'écran)
+Note that the closed discussion thread displays the mention: _The discussion thread has been closed_ and it is impossible to add content to it. (See orange box at bottom of screen)
 
 <div align="left"><figure><img src="../../.gitbook/assets/trouver-un-fil-de-discussion-ferme-patient - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

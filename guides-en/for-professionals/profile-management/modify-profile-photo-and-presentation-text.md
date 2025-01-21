@@ -1,26 +1,26 @@
-# Modifier sa photo et son texte de présentation
+# Modify Profile Photo and Presentation Text
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Accédez à votre profil via votre avatar en bas de l'écran.
+#### Access your profile via your avatar at the bottom of the screen.
 
 <div align="left"><figure><img src="../../.gitbook/assets/modifier-son profil-photo-et-texte-de-presentation - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### D'ici, vous avez quelques options pour modifier votre profil :
+#### From here, you have a few options to modify your profile:
 
-1. Modifier votre nom
-2. Modifier votre photo de profil visible aux autres utilisateurs
-3. Modifier votre texte de présentation
+1. Modify your name
+2. Modify your profile photo visible to other users
+3. Modify your presentation text
 
 <div align="left"><figure><img src="../../.gitbook/assets/modifier-son profil-photo-et-texte-de-presentation - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Si vous cliquez sur le texte de présentation, vous pourrez rédiger votre texte à l'endroit indiqué et cliquez sur _Enregistrer_ lorsque terminé.
+#### If you click on the presentation text, you can write your text in the indicated place and click _Save_ when finished.
 
 <div align="left"><figure><img src="../../.gitbook/assets/modifier-son profil-photo-et-texte-de-presentation - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

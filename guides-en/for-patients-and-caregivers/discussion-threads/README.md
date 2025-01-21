@@ -2,29 +2,28 @@
 icon: message-pen
 ---
 
-# Fils de discussions
+# Discussion Threads
 
-{% content-ref url="repondre-a-un-nouveau-message.md" %}
-[repondre-a-un-nouveau-message.md](repondre-a-un-nouveau-message.md)
+{% content-ref url="reply-to-new-message.md" %}
+[reply-to-new-message.md](reply-to-new-message.md)
 {% endcontent-ref %}
 
-{% content-ref url="voir-tous-les-participants-dun-fil-de-discussion.md" %}
-[voir-tous-les-participants-dun-fil-de-discussion.md](voir-tous-les-participants-dun-fil-de-discussion.md)
+{% content-ref url="view-all-participants-in-discussion-thread.md" %}
+[view-all-participants-in-discussion-thread.md](view-all-participants-in-discussion-thread.md)
 {% endcontent-ref %}
 
-{% content-ref url="acceder-aux-pieces-jointes-dans-un-fil-de-discussion.md" %}
-[acceder-aux-pieces-jointes-dans-un-fil-de-discussion.md](acceder-aux-pieces-jointes-dans-un-fil-de-discussion.md)
+{% content-ref url="access-attachments-in-discussion-thread.md" %}
+[access-attachments-in-discussion-thread.md](access-attachments-in-discussion-thread.md)
 {% endcontent-ref %}
 
-{% content-ref url="ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion-patient.md" %}
-[ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion-patient.md](ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion-patient.md)
+{% content-ref url="add-file-photo-or-video-to-discussion-thread.md" %}
+[add-file-photo-or-video-to-discussion-thread.md](add-file-photo-or-video-to-discussion-thread.md)
 {% endcontent-ref %}
 
-{% content-ref url="indiquer-un-message-comme-non-lu-patient.md" %}
-[indiquer-un-message-comme-non-lu-patient.md](indiquer-un-message-comme-non-lu-patient.md)
+{% content-ref url="mark-message-as-unread.md" %}
+[mark-message-as-unread.md](mark-message-as-unread.md)
 {% endcontent-ref %}
 
-{% content-ref url="trouver-un-fil-de-discussion-ferme-patient.md" %}
-[trouver-un-fil-de-discussion-ferme-patient.md](trouver-un-fil-de-discussion-ferme-patient.md)
+{% content-ref url="find-closed-discussion-thread.md" %}
+[find-closed-discussion-thread.md](find-closed-discussion-thread.md)
 {% endcontent-ref %}
-

@@ -42,7 +42,7 @@ Braver's cybersecurity has also undergone an audit process by the Ministry of He
 
 <summary>What should I do if I lose my password?</summary>
 
-Use our [guide to reset your password](https://support-en.braver.net/guides/for-healthcare-workers/securite/reinitialiser-son-mot-de-passe)!
+Use our [guide to reset your password](https://support-en.braver.net/guides/for-professionals/securite/reinitialiser-son-mot-de-passe)!
 
 </details>
 
@@ -56,7 +56,7 @@ Braver protects exchanged data but does not want to hold it hostage! We collabor
 
 [Write to us to learn more!](mailto:bonjour@braver.health)
 
-In the meantime, you can easily [export the content of collaborations in PDF](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads/fermer-et-exporter-en-pdf-un-fil-de-discussion) and attach them directly to your record-keeping software to facilitate your medico-legal follow-up.
+In the meantime, you can easily [export the content of collaborations in PDF](https://support-en.braver.net/guides/for-professionals/discussion-threads/fermer-et-exporter-en-pdf-un-fil-de-discussion) and attach them directly to your record-keeping software to facilitate your medico-legal follow-up.
 
 </details>
 
@@ -64,9 +64,9 @@ In the meantime, you can easily [export the content of collaborations in PDF](ht
 
 <summary>Can we send photos, videos, documents, etc.?</summary>
 
-In the free version of Braver, you can share photos, documents, and [transcribed audio messages](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads/ajouter-un-message-vocal-a-une-discussion).
+In the free version of Braver, you can share photos, documents, and [transcribed audio messages](https://support-en.braver.net/guides/for-professionals/discussion-threads/ajouter-un-message-vocal-a-une-discussion).
 
-The feature of sharing and [editing videos](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads/editer-une-photo-ou-une-video) is an advanced feature, as is [editing photos](https://support-en.braver.net/guides/for-healthcare-workers/discussion-threads/editer-une-photo-ou-une-video).
+The feature of sharing and [editing videos](https://support-en.braver.net/guides/for-professionals/discussion-threads/editer-une-photo-ou-une-video) is an advanced feature, as is [editing photos](https://support-en.braver.net/guides/for-professionals/discussion-threads/editer-une-photo-ou-une-video).
 
 [Contact us if this is part of your needs!](https://braverhealth.typeform.com/to/D8CEMzqZ)
 
@@ -78,9 +78,9 @@ The feature of sharing and [editing videos](https://support-en.braver.net/guides
 
 Yes, Braver aims to protect the balance between your professional and personal life.
 
-You can [configure your work hours](https://support-en.braver.net/guides/for-healthcare-workers/gestion-des-notifications/regler-son-horaire-de-disponibilites) to only receive notifications when you are working.
+You can [configure your work hours](https://support-en.braver.net/guides/for-professionals/gestion-des-notifications/regler-son-horaire-de-disponibilites) to only receive notifications when you are working.
 
-If you are absent, you can use the [“Unavailability Period” feature](https://support-en.braver.net/guides/for-healthcare-workers/gestion-des-notifications/regler-sa-periode-dindisponibilite) which clearly indicates your absence and your return date to your collaborators.
+If you are absent, you can use the [“Unavailability Period” feature](https://support-en.braver.net/guides/for-professionals/gestion-des-notifications/regler-sa-periode-dindisponibilite) which clearly indicates your absence and your return date to your collaborators.
 
 </details>
 

@@ -1,22 +1,22 @@
-# Lancer et quitter un appel conférence
+# Start and Leave Conference Call
 
 {% embed url="https://www.loom.com/share/353cb0f603bc4b5d9c9b49e544b2aba4?sid=0c47a77c-27a2-47a9-8cb6-1e25cf00be18" fullWidth="true" %}
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Dans un fil de discussion avec la ou les personnes à rejoindre, cliquez sur le téléphone.
+#### In a discussion thread with the person or people to join, click on the phone icon.
 
 {% hint style="warning" %}
-Si vous êtes seul dans la discussion, ou si les autres participants n'ont pas encore accepté la discussion, le bouton d'appel ne sera pas affiché.
+If you are alone in the discussion, or if other participants have not yet accepted the discussion, the call button will not be displayed.
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/Cliquer sur licône du téléphone- Étape 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### S'il y a plus d'une personne qui pourrait être notifiée de cet appel, l'application va vous proposer de sélectionner ceux que vous désirez notifier.
+#### If there is more than one person who could be notified of this call, the application will offer you to select those you want to notify.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Sélectionner les participants et démarrer lappel - Étape 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -24,7 +24,7 @@ Si vous êtes seul dans la discussion, ou si les autres participants n'ont pas e
 {% endstep %}
 
 {% step %}
-#### Vous voilà dans l'appel conférence ! Cliquez sur le téléphone rouge pour terminer l'appel.
+#### You are now in the conference call! Click on the red phone icon to end the call.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Cliquer sur licône de porter rouge pour quitter lappel.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

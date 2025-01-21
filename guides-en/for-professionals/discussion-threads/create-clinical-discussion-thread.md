@@ -1,70 +1,70 @@
-# Créer un nouveau fil de discussion clinique
+# Create a New Clinical Discussion Thread
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Sélectionnez l'onglet _Accueil_, puis sélectionnez la bulle dans le bas de la page.
+#### Select Home tab, then select the bubble at the bottom of the page.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Choisissez le _Fil clinique_.
+#### Choose Clinical Thread.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sélectionnez _Choisir un patient ou un canal de soins_.
+#### Select Choose Patient or Care Channel.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Choisissez le patient concerné.
+#### Choose the patient concerned.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Choisissez le canal de soins ou _Hors canal_.
+#### Choose care channel or Outside Channel.
 
-Les encadrés représentent les canaux de soins. Vous sélectionnez le canal _Réhabilitation_ dans cet exemple.
+The boxes represent care channels. You select Rehabilitation channel in this example.
 
 {% hint style="info" %}
-Si vous aviez voulu démarrer un fil de discussion _hors canal_, vous auriez cliqué dans le bas de la page (voir encadré orange).
+If you wanted to start a discussion thread outside a channel, you would click at the bottom of the page (see orange box).
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Inscrivez votre premier message.
+#### Write your first message.
 
-Vous pouvez également ajouter du contenu additionnel tel que des images, fichiers ou vidéos si vous le désirez.
+You can also add additional content such as images, files, or videos if desired.
 
 {% hint style="info" %}
-À ce stade, si vous avez sélectionné un canal de soins dans l'étape 5, vous ne pourrez pas modifier les participants, puisqu'ils sont prédéterminés par le canal de soins. Vous pourrez le faire une fois votre message envoyé.
+At this stage, if you selected a care channel in step 5, you will not be able to modify participants, as they are predetermined by the care channel. You will be able to do this once your message is sent.
 
-Consultez le tutoriel _Gérer les participants d'un fil de discussion_ pour plus de détails à cet effet.
+Consult the tutorial Manage Discussion Thread Participants for more details.
 {% endhint %}
 
-Et finalement, cliquez sur _Envoyer_.
+And finally, click Send.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
 {% hint style="success" %}
-**Où les retrouver :**
+**Where to find them:**
 
-* Les _fils cliniques_ sont accessibles à partir de l'onglet _Accueil_. Ce sont ceux qui sont reliés à une fiche patient en violet.
-* Vous pouvez également retrouver les _fils cliniques_ sous l'onglet _Patients_, en sélectionnant le patient concerné.
+* Clinical threads are accessible from Home tab. These are the ones linked to a patient file in purple.
+* You can also find clinical threads under Patients tab by selecting the concerned patient.
 {% endhint %}
 
-## Autres chemins pour créer un fil de discussion clinique
+## Other Paths to Create a Clinical Discussion Thread
 
-Dans l'onglet _Patients_ > Choisissez un patient > _icône de bulle de discussion_
+In Patients tab > Choose a patient > Discussion bubble icon
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - info.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>

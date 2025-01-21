@@ -1,56 +1,50 @@
 ---
 icon: flag
 description: >-
-  Dans cette section, vous trouverez une banque de tutoriels sous forme de
-  vidéos et de pas-à-pas qui vous aideront à vous familiariser avec chacune des
-  fonctionnalités de Braver.
+  In this section, you will find a tutorial bank in the form of videos and step-by-step guides that will help you familiarize yourself with each of Braver's features.
 ---
 
-# Débuter ici
+# Start Here
 
-## Tutoriels essentiels pour débuter
+## Essential Tutorials to Get Started
 
-* Si vous n'avez pas encore accepté l'invitation à rejoindre votre équipe de soins sur Braver, [c'est par ici](accepter-une-invitation.md).
-* [Allez consulter les participants de votre équipe de soins](equipes-de-soins/voir-tous-les-participants-dune-equipe-de-soins-patient.md)
-* [Répondez à un message dans un fil de discussion](fils-de-discussion/repondre-a-un-nouveau-message.md)
-* [Allez consulter les pièces jointes d'un fil de discussion](fils-de-discussion/acceder-aux-pieces-jointes-dans-un-fil-de-discussion.md)
+* If you have not yet accepted the invitation to join your care team on Braver, [click here](accept-invitation.md).
+* [View the participants of your care team](care-teams/view-all-participants-in-care-team.md)
+* [Respond to a message in a discussion thread](discussion-threads/reply-to-new-message.md)
+* [Access attachments in a discussion thread](discussion-threads/access-attachments-in-discussion-thread.md)
 
-Pour en découvrir davantage, les différentes sections ci-bas vous aideront à explorer Braver selon différentes thématiques.
+To discover more, the different sections below will help you explore Braver according to different themes.
 
-### Utiliser Braver
+### Using Braver
 
-{% content-ref url="accepter-une-invitation.md" %}
-[accepter-une-invitation.md](accepter-une-invitation.md)
+{% content-ref url="accept-an-invitation.md" %}
+[accept-invitation.md](accept-invitation.md)
 {% endcontent-ref %}
 
-{% content-ref url="equipes-de-soins/" %}
-[equipes-de-soins](equipes-de-soins/)
+{% content-ref url="care-teams/" %}
+[care-teams](care-teams/)
 {% endcontent-ref %}
 
-### Communiquer à l'aide de Braver
+### Communicating with Braver
 
-{% content-ref url="fils-de-discussion/" %}
-[fils-de-discussion](fils-de-discussion/)
+{% content-ref url="discussion-threads/" %}
+[discussion-threads](discussion-threads/)
 {% endcontent-ref %}
 
-{% content-ref url="appels-audios-et-videos/" %}
-[appels-audios-et-videos](appels-audios-et-videos/)
+{% content-ref url="audio-video-calls/" %}
+[audio-video-calls](audio-video-calls/)
 {% endcontent-ref %}
 
-### Configurer Braver pour vous
+### Configure Braver for You
 
-{% content-ref url="gestion-du-profil/" %}
-[gestion-du-profil](gestion-du-profil/)
+{% content-ref url="profile-management/" %}
+[profile-management](profile-management/)
 {% endcontent-ref %}
 
-{% content-ref url="gestion-des-notifications/" %}
-[gestion-des-notifications](gestion-des-notifications/)
+{% content-ref url="notification-management/" %}
+[notification-management](notification-management/)
 {% endcontent-ref %}
 
-{% content-ref url="securite/" %}
-[securite](securite/)
+{% content-ref url="security/" %}
+[security](security/)
 {% endcontent-ref %}
-
-## Pour suivre une formation guidée
-
-[Consulter nos outils de formation](pour-debuter.md#pour-suivre-une-formation-complete).

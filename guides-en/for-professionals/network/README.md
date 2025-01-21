@@ -1,48 +1,48 @@
 ---
 icon: globe
-description: Pour être un bon collaborateur!
+description: To be a good collaborator!
 ---
 
-# Le réseau
+# Network
 
-**Pour mieux comprendre les concepts liés au réseau, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/reseau)**.**
+**To better understand network-related concepts, do not hesitate to consult** [**documentation**](https://support-en.braver.net/for-professionals/network)**.**
 
-## Les contacts
+## Contacts
 
-{% content-ref url="consulter-le-profil-des-utilisateurs-sur-le-reseau.md" %}
-[consulter-le-profil-des-utilisateurs-sur-le-reseau.md](consulter-le-profil-des-utilisateurs-sur-le-reseau.md)
+{% content-ref url="view-user-profiles-on-network.md" %}
+[view-user-profiles-on-network.md](view-user-profiles-on-network.md)
 {% endcontent-ref %}
 
-{% content-ref url="ajouter-un-contact-a-votre-bottin.md" %}
-[ajouter-un-contact-a-votre-bottin.md](ajouter-un-contact-a-votre-bottin.md)
+{% content-ref url="add-contact-to-directory.md" %}
+[add-contact-to-directory.md](add-contact-to-directory.md)
 {% endcontent-ref %}
 
-{% content-ref url="inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver.md" %}
-[inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver.md](inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver.md)
+{% content-ref url="invite-healthcare-professional-to-join-braver-network.md" %}
+[invite-healthcare-professional-to-join-braver-network.md](invite-healthcare-professional-to-join-braver-network.md)
 {% endcontent-ref %}
 
-{% content-ref url="utiliser-la-trousse-dinvitation-braver.md" %}
-[utiliser-la-trousse-dinvitation-braver.md](utiliser-la-trousse-dinvitation-braver.md)
+{% content-ref url="use-braver-invitation-kit.md" %}
+[use-braver-invitation-kit.md](use-braver-invitation-kit.md)
 {% endcontent-ref %}
 
-{% content-ref url="restreindre-sa-visibilite-du-reseau-externe.md" %}
-[restreindre-sa-visibilite-du-reseau-externe.md](restreindre-sa-visibilite-du-reseau-externe.md)
+{% content-ref url="restrict-external-network-visibility.md" %}
+[restrict-external-network-visibility.md](restrict-external-network-visibility.md)
 {% endcontent-ref %}
 
-## Les amis
+## Friends
 
-{% content-ref url="envoyer-une-demande-damitie.md" %}
-[envoyer-une-demande-damitie.md](envoyer-une-demande-damitie.md)
+{% content-ref url="send-friend-request.md" %}
+[send-friend-request.md](send-friend-request.md)
 {% endcontent-ref %}
 
-{% content-ref url="accepter-ou-ignorer-une-demande-damitie.md" %}
-[accepter-ou-ignorer-une-demande-damitie.md](accepter-ou-ignorer-une-demande-damitie.md)
+{% content-ref url="accept-or-ignore-friend-request.md" %}
+[accept-or-ignore-friend-request.md](accept-or-ignore-friend-request.md)
 {% endcontent-ref %}
 
-{% content-ref url="envoyer-un-message-direct-avec-amis-seulement.md" %}
-[envoyer-un-message-direct-avec-amis-seulement.md](envoyer-un-message-direct-avec-amis-seulement.md)
+{% content-ref url="send-direct-message-with-friends-only.md" %}
+[send-direct-message-with-friends-only.md](send-direct-message-with-friends-only.md)
 {% endcontent-ref %}
 
-{% content-ref url="configurer-un-numero-de-telephone-accessible-aux-amis.md" %}
-[configurer-un-numero-de-telephone-accessible-aux-amis.md](configurer-un-numero-de-telephone-accessible-aux-amis.md)
+{% content-ref url="configure-phone-number-accessible-to-friends.md" %}
+[configure-phone-number-accessible-to-friends.md](configure-phone-number-accessible-to-friends.md)
 {% endcontent-ref %}

@@ -1,38 +1,38 @@
-# Archiver une fiche patient
+# Archive Patient File
 
-## Pas-à-pas
+## Step-by-Step
 
 {% hint style="info" %}
-Quand vous archivez une fiche patient, elle n'est archivée que pour vous ou votre établissement. Si vous collaborez avec une personne d'un autre établissement, la fiche ne sera pas archivée de son côté.
+When you archive a patient file, it is archived only for you or your establishment. If you collaborate with someone from another establishment, the file will not be archived on their side.
 {% endhint %}
 
 {% stepper %}
 {% step %}
-#### Sélectionnez l'onglet _Patients_.
+#### Select Patients tab.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Archiver une fiche patient - Step 1.jpeg" alt="" width="61"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Choisissez la fiche patient à archiver.
+#### Choose patient file to archive.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Archiver une fiche patient - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Une fois dans la fiche du patient, sélectionnez la boîte dans le haut, à droite.
+#### Once in patient file, select box in top right.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Archiver une fiche patient - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Confirmez votre choix. Prenez note que les fils de discussion à propos de ce patient sont toujours actifs.
+#### Confirm your choice. Note that discussion threads about this patient remain active.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Archiver une fiche patient - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sa fiche est maintenant archivée.
+#### Patient file is now archived.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Archiver une fiche patient - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

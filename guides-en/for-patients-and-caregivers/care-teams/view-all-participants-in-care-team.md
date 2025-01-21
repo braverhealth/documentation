@@ -1,22 +1,22 @@
-# Voir tous les participants d'une équipe de soins
+# View All Participants of a Care Team
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Cliquez sur l'équipe de soins dont vous voulez voir les participants. Vous avez peut-être seulement une équipe de soins, c'est normal !
+#### Click on the care team whose participants you want to see. You may only have one care team, which is normal!
 
 <div align="left"><figure><img src="../../.gitbook/assets/voir-tous-les-participants-dune-equipe-de-soins-patient - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez ensuite sur les avatars des participants en haut, à droite.
+#### Then click on the participant avatars at the top right.
 
 <div align="left"><figure><img src="../../.gitbook/assets/voir-tous-les-participants-dune-equipe-de-soins-patient - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Voici votre équipe de soins ! On voit ici que Jemma fait partie de l'équipe des IPS et que Lucy fait partie de l'équipe des pharmaciens.
+#### Here is your care team! Here we see that Jemma is part of the NP team and Lucy is part of the pharmacist team.
 
 <div align="left"><figure><img src="../../.gitbook/assets/voir-tous-les-participants-dune-equipe-de-soins-patient - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

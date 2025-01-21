@@ -1,30 +1,30 @@
-# Échanger des messages directs
+# Send Direct Messages
 
 {% hint style="info" %}
-Un _message direct_ n'est possible qu'entre deux amis. Vous devrez donc envoyer une _demande d'amitié_ à la personne de votre choix et celle-ci devra accepter avant que le canal de messagerie direct ne s'ouvre. Une fois le canal ouvert, vous pourrez discuter librement.
+A _direct message_ is only possible between two friends. You will need to send a _friend request_ to the person of your choice, and they must accept before the direct messaging channel opens. Once the channel is open, you can chat freely.
 
-Les _messages directs_ ne s'inscrivent pas sous les fiches des patients et ne sont visibles que par vous et votre « ami ».
+_Direct messages_ are not recorded in patient files and are only visible to you and your "friend".
 {% endhint %}
 
 {% hint style="warning" %}
-Actuellement, une fois la demande d'amitié acceptée, il est impossible de refermer le canal de messagerie directe.
+Currently, once the friend request is accepted, it is impossible to close the direct messaging channel.
 
-C'est une limite qui sera corrigée sous peu.
+This is a limitation that will be corrected soon.
 {% endhint %}
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Pour initier un message direct, rendez-vous dans l'onglet _Réseau_ ou sélectionnez _messages directs_ sous l'onglet _Accueil_ (voir encadré orange).
+#### To initiate a direct message, go to Network tab or select _direct messages_ under Home tab (see orange box).
 
 <div align="left"><figure><img src="../../.gitbook/assets/Envoyer un message direct avec amis seulement - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vos contacts accompagnés d'un avion en papier sont vos « amis », c'est-à-dire que vous pouvez leur écrire des messages directs.
+#### Contacts with a paper airplane are your "friends", meaning you can send them direct messages.
 
-Sélectionnez l' « ami » à qui vous désirez écrire, puis cliquez sur l'icône de l'avion en papier sous sa photo.
+Select the "friend" you want to write to, then click the paper airplane icon under their photo.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Envoyer un message direct avec amis seulement - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -32,7 +32,7 @@ Sélectionnez l' « ami » à qui vous désirez écrire, puis cliquez sur l'icô
 {% endstep %}
 
 {% step %}
-#### Rédigez le message de votre choix et ajoutez le contenu nécessaire au besoin. Envoyez votre message en sélectionnant la flèche violette.
+#### Write the message of your choice and add necessary content if needed. Send your message by selecting the purple arrow.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Envoyer un message direct avec amis seulement - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

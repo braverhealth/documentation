@@ -1,70 +1,70 @@
-# Créer un nouveau fil de discussion non clinique
+# Create a New Non-Clinical Discussion Thread
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Sélectionnez l'onglet "Accueil", puis cliquez ou appuyez sur le bouton de création de discussion dans le bas de la page.
+#### Select Home tab, then click or tap the discussion creation button at the bottom of the page.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion non clinique  - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Choisissez le "Fil non clinique".
+#### Choose "Non-Clinical Thread".
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion non clinique  - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Indiquez quels participants vous souhaitez impliquer dans le fil de discussion en cliquant sur "Inviter".
+#### Indicate which participants you want to involve in the discussion thread by clicking "Invite".
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion non clinique  - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### À ce moment, vous pouvez choisir un participant à partir d'un lieu de travail (comme le démontre l'exemple).
+#### At this point, you can choose a participant from a workplace (as demonstrated in the example).
 
-Vous pouvez également utiliser la barre de recherche dans le haut de la page pour trouver le participant désiré.
+You can also use the search bar at the top of the page to find the desired participant.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion non clinique  - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Dans un lieu de travail, vous pouvez sélectionner une équipe ou un utilisateur en particulier.
+#### In a workplace, you can select a specific team or user.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion non clinique  - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Après avoir sélectionné le participant, cliquez sur "Ajouter à la discussion".
+#### After selecting the participant, click "Add to Discussion".
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion non clinique  - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Si vous désirez impliquer une équipe au fil non clinique, cliquez directement sur "Ajouter à la discussion" dans le haut du lieu de travail. Sélectionnez ensuite la ou les équipes nécessaires.
+#### If you want to involve a team in the non-clinical thread, click directly on "Add to Discussion" at the top of the workplace. Then select the necessary team(s).
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion non clinique  - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Une fois vos invitations lancées, inscrivez votre premier message et ajoutez du contenu si vous le désirez. Pour terminer, cliquez sur "Envoyer".
+#### Once your invitations are sent, write your first message and add content if desired. To finish, click "Send".
 
 <div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion non clinique  - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Si vous cliquez sur _Associer à un patient_, vous créerez ce que l'on appelle un _fil clinique_.
+If you click _Associate with Patient_, you will create what is called a _clinical thread_.
 {% endhint %}
 {% endstep %}
 {% endstepper %}
 
 {% hint style="success" %}
-**Où les retrouver :**
+**Where to Find Them:**
 
-* Les _fils non cliniques_ sont accessibles à partir de l'onglet _Accueil_. Ce sont ceux qui ne sont pas reliés à une fiche patient en violet (voir image).
-* Vous pouvez également retrouver les _fils non cliniques_ sous l'onglet _Réseau_, en sélectionnant l'un de vos collaborateurs à ce fil.
+* _Non-clinical threads_ are accessible from the _Home_ tab. These are the ones not linked to a purple patient file (see image).
+* You can also find _non-clinical threads_ under the _Network_ tab by selecting one of your collaborators for this thread.
 {% endhint %}
 
-## Autre chemin pour créer un fil de discussion non clinique
+## Alternative Path to Create a Non-Clinical Discussion Thread
 
-Dans l'onglet _Réseau_ > Choisissez votre interlocuteur > _Nouvelle collaboration_
+In _Network_ tab > Choose your contact > _New Collaboration_

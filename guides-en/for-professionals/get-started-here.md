@@ -1,72 +1,66 @@
 ---
 icon: flag
 description: >-
-  Dans cette section, vous trouverez une banque de tutoriels sous forme de
-  vidéos et de pas-à-pas qui vous aideront à vous familiariser avec chacune des
-  fonctionnalités de Braver.
+  In this section, you will find a bank of tutorials in the form of videos and step-by-step guides that will help you become familiar with each of Braver's features.
 ---
 
-# Débuter ici
+# Get Started Here
 
-## Tutoriels essentiels pour débuter
+## Essential Tutorials to Begin
 
-* Si vous n'avez pas encore créé votre compte, c'est par [ici](creation-de-compte/creation-de-compte-autonome.md).
-* [Ajouter un contact à votre bottin](reseau/ajouter-un-contact-a-votre-bottin.md) ou [inviter l'un de vos collaborateurs à rejoindre le réseau Braver](reseau/inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver.md).
-* [Créer votre premier fil de discussion clinique](fils-de-discussions/creer-un-fil-de-discussion-clinique.md).
-* [Fermer un fil de discussion et l'exporter en PDF](fils-de-discussions/fermer-et-exporter-en-pdf-un-fil-de-discussion.md) pour le déposer au dossier patient.
+* If you have not yet created your account, do it [here](account-creation/independent-account-creation.md).
+* [Add a contact to your directory](network/add-contact-to-directory.md) or [invite one of your colleagues to join the Braver network](network/invite-healthcare-professional-to-join-braver-network.md).
+* [Create your first clinical discussion thread](discussion-threads/create-clinical-discussion-thread.md).
+* [Close a discussion thread and export it as PDF](discussion-threads/close-and-export-discussion-thread-as-pdf.md) to add to the patient file.
 
-Pour en découvrir davantage, les différentes sections ci-bas vous aideront à explorer Braver selon différentes thématiques.
+To discover more, the different sections below will help you explore Braver according to various themes.
 
-### Utiliser Braver
+### Using Braver
 
-{% content-ref url="creation-de-compte/" %}
-[creation-de-compte](creation-de-compte/)
+{% content-ref url="account-creation/" %}
+[account-creation](account-creation/)
 {% endcontent-ref %}
 
-{% content-ref url="reseau/" %}
-[reseau](reseau/)
+{% content-ref url="network/" %}
+[network](network/)
 {% endcontent-ref %}
 
-{% content-ref url="fiches-patients/" %}
-[fiches-patients](fiches-patients/)
+{% content-ref url="patient-files/" %}
+[patient-files](patient-files/)
 {% endcontent-ref %}
 
-### Communiquer à l'aide de Braver
+### Communicating with Braver
 
-{% content-ref url="fils-de-discussions/" %}
-[fils-de-discussions](fils-de-discussions/)
+{% content-ref url="discussion-threads/" %}
+[discussion-threads](discussion-threads/)
 {% endcontent-ref %}
 
-{% content-ref url="appels-audios-et-videos/" %}
-[appels-audios-et-videos](appels-audios-et-videos/)
+{% content-ref url="audio-video-calls/" %}
+[audio-video-calls](audio-video-calls/)
 {% endcontent-ref %}
 
-{% content-ref url="canaux-de-soins/" %}
-[canaux-de-soins](canaux-de-soins/)
+{% content-ref url="care-channels/" %}
+[care-channels](care-channels/)
 {% endcontent-ref %}
 
-{% content-ref url="equipes/" %}
-[equipes](equipes/)
+{% content-ref url="teams/" %}
+[teams](teams/)
 {% endcontent-ref %}
 
-{% content-ref url="communication-patients-et-proche-aidants/" %}
-[communication-patients-et-proche-aidants](communication-patients-et-proche-aidants/)
+{% content-ref url="patient-caregiver-communication/" %}
+[patient-caregiver-communication](patient-caregiver-communication/)
 {% endcontent-ref %}
 
-### Configurer Braver pour vous
+### Configure Braver for You
 
-{% content-ref url="gestion-du-profil/" %}
-[gestion-du-profil](gestion-du-profil/)
+{% content-ref url="profile-management/" %}
+[profile-management](profile-management/)
 {% endcontent-ref %}
 
-{% content-ref url="gestion-des-notifications/" %}
-[gestion-des-notifications](gestion-des-notifications/)
+{% content-ref url="notification-management/" %}
+[notification-management](notification-management/)
 {% endcontent-ref %}
 
-{% content-ref url="securite/" %}
-[securite](securite/)
+{% content-ref url="security/" %}
+[security](security/)
 {% endcontent-ref %}
-
-## Pour suivre une formation guidée
-
-[Consulter nos outils de formation](https://app.gitbook.com/s/mZQ8lm0cUSwr36vZBzik/pour-les-professionnels/readme).

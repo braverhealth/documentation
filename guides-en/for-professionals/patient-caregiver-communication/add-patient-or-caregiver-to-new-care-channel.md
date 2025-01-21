@@ -1,68 +1,68 @@
-# Créer un canal de soins avec patient et proches aidants
+# Create Care Channel with Patient and Caregivers
 
-## Pas-à-pas
+## Step by Step
 
 {% stepper %}
 {% step %}
-#### Pour créer un canal de soins, cliquez sur _Créer un canal_.
+#### To create a care channel, click _Create Channel_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins - Step 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Donnez un titre au canal.
+#### Give the channel a title.
 
 {% hint style="info" %}
-C'est ce titre qui apparaîtra comme équipe de soins du point de vue du patient.
+This title will appear as the care team from the patient's perspective.
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Une fois que vous avez donné un titre à votre canal de soins, vous pouvez ajouter des participants au canal.
+#### Once you have given your care channel a title, you can add participants to the channel.
 
-Ceux-ci auront accès à toutes les discussions du canal de soins.
+These participants will have access to all discussions in the care channel.
 
-Dans l'exemple ci-dessous, on ajoute le patient au canal. On ajoutera également les personnes responsables.
+In the example below, the patient is added to the channel. Responsible persons will also be added.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous pouvez maintenant inviter d'autres professionnels de la santé en cliquant sur _Inviter_.
+#### You can now invite other healthcare professionals by clicking _Invite_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Après avoir rédigé votre premier message, cliquez sur l'avion en papier pour l'envoyer.
+#### After writing your first message, click the paper airplane to send it.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Dans le canal de soins nouvellement créé, on voit qu'un patient (carré rose) et qu'une personne responsable (carré vert) participent à ce canal de soins ainsi que deux cliniciens.
+#### In the newly created care channel, you can see that a patient (pink square) and a responsible person (green square) participate in this care channel along with two clinicians.
 
-Pour voir si le patient et la personne responsable sont bien présents dans le canal de soins, on peut vérifier s'ils ont rejoint Braver. Pour ce faire, cliquez sur _Voir les détails_.
+To verify if the patient and responsible person have joined Braver, click _View Details_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez ensuite sur les avatars des participants, en haut, à droite.
+#### Then click on the participant avatars at the top right.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins - Step 10.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Pour voir si les patients et proches aidants ont rejoint Braver, cliquez sur _Voir les détails_ près du titre _Patient et ses proches_.
+#### To see if patients and caregivers have joined Braver, click _View Details_ near the title _Patient and Caregivers_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins - Step 11.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### On voit ici que le patient est Thomas Duclos et que la personne responsable dans son dossier est son épouse, Mme Duclos. Il n'y a pas d'enveloppe près de leur nom, donc ils ont bien activé leur compte Braver et ils peuvent discuter avec vous !
+#### Here you can see that the patient is Thomas Duclos and the responsible person in his file is his wife, Mrs. Duclos. There is no envelope next to their names, which means they have activated their Braver account and can chat with you!
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins - Step 12.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

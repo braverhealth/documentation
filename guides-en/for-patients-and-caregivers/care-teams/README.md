@@ -2,13 +2,14 @@
 icon: user-doctor
 ---
 
-# Équipes de soins
+# Care Teams
 
-{% content-ref url="voir-tous-les-participants-dune-equipe-de-soins-patient.md" %}
-[voir-tous-les-participants-dune-equipe-de-soins-patient.md](voir-tous-les-participants-dune-equipe-de-soins-patient.md)
+{% content-ref url="view-all-participants-in-care-team.md" %}
+[view-all-participants-in-care-team.md](view-all-participants-in-care-team.md)
 {% endcontent-ref %}
 
-{% content-ref url="trouver-une-piece-jointe-epinglee-dans-lespace-de-mon-equipe-de-soins-patient.md" %}
-[trouver-une-piece-jointe-epinglee-dans-lespace-de-mon-equipe-de-soins-patient.md](trouver-une-piece-jointe-epinglee-dans-lespace-de-mon-equipe-de-soins-patient.md)
+{% content-ref url="find-pinned-attachment-in-care-team-space.md" %}
+[find-pinned-attachment-in-care-team-space.md](find-pinned-attachment-in-care-team-space.md)
 {% endcontent-ref %}
+
 

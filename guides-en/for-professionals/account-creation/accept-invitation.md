@@ -1,58 +1,58 @@
-# Accepter une invitation
+# Accept Invitation
 
-## Pas-à-pas
+## Step by Step
 
 {% stepper %}
 {% step %}
-#### Dans le courriel que vous avez reçu, cliquez sur le bouton vous invitant à accepter l'invitation.
+#### In the email you received, click on the button inviting you to accept the invitation.
 {% endstep %}
 
 {% step %}
-#### Un des écrans suivants pourraient être affichés
+#### One of the following screens might be displayed
 
-*   Si c'est la première fois que vous ouvrez Braver, et que Braver n'a jamais non plus été ouvert sur votre appareil, vous verrez un écran comme le suivant :
+*   If this is the first time you are opening Braver, and Braver has never been opened on your device, you will see a screen like the following:
 
     <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-via-une-invitation - Option 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
     \
-    Vous pouvez alors choisir l'option "Créer un nouveau compte" pour continuer à l'[étape 3](accepter-une-invitation.md#suivez-les-etapes-de-creation-de-votre-compte), à moins que vous ayez déjà créé un compte Braver dans le passé (auquel cas vous devriez choisir l'autre option, et vous passerez à l'[étape 4](accepter-une-invitation.md#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete) directement).
-*   Si c'est la première fois que vous ouvrez Braver, mais que Braver a déjà été utilisé par quelqu'un d'autre sur votre appareil, vous verrez un écran comme le suivant :
+    You can then choose the "Create a new account" option to continue to [step 3](accept-invitation.md#follow-account-creation-steps), unless you have already created a Braver account in the past (in which case you should choose the other option, and you will directly go to [step 4](accept-invitation.md#enter-invitation-secret-code-or-answer-secret-question)).
+*   If this is the first time you are opening Braver, but Braver has already been used by someone else on your device, you will see a screen like the following:
 
     <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-via-une-invitation - Option 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
     \
-    Vous pouvez alors choisir l'option "Créer un nouveau compte" pour continuer à l'[étape 3](accepter-une-invitation.md#suivez-les-etapes-de-creation-de-votre-compte), à moins que vous ayez déjà créé un compte Braver dans le passé (auquel cas vous devriez choisir l'une des autres options, et vous passerez à l'[étape 4](accepter-une-invitation.md#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete) directement).
-*   Si vous avez déjà créé votre compte dans le passé avec la même adresse courriel que celle de l'invitation, mais que votre session n'est pas déjà active sur votre appareil, vous verrez un écran comme le suivant :
+    You can then choose the "Create a new account" option to continue to [step 3](accept-invitation.md#follow-account-creation-steps), unless you have already created a Braver account in the past (in which case you should choose one of the other options, and you will directly go to [step 4](accept-invitation.md#enter-invitation-secret-code-or-answer-secret-question)).
+*   If you have already created your account in the past with the same email address as the invitation, but your session is not already active on your device, you will see a screen like the following:
 
     <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-via-une-invitation - Option 3.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
     \
-    Dans ce cas, vous devriez entrer votre mot de passe et dans l'étape suivante, le code de sécurité que vous recevrez par courriel ou SMS, afin de passer à l'[étape 4](accepter-une-invitation.md#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete).
-*   Si vous avez déjà créé votre compte dans le passé avec la même adresse courriel que celle de l'invitation, et que votre session est déjà active sur votre appareil, vous verrez un écran comme le suivant :
+    In this case, you should enter your password and in the next step, the security code you will receive by email or SMS, in order to proceed to [step 4](accept-invitation.md#enter-invitation-secret-code-or-answer-secret-question).
+*   If you have already created your account in the past with the same email address as the invitation, and your session is already active on your device, you will see a screen like the following:
 
     <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-via-une-invitation - Option 4.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
     \
-    Dans ce cas, vous devriez simplement entrer votre NIP afin de passer à l'[étape 4](accepter-une-invitation.md#entrez-le-code-secret-de-linvitation-ou-repondez-a-la-question-secrete).
+    In this case, you should simply enter your PIN to proceed to [step 4](accept-invitation.md#enter-invitation-secret-code-or-answer-secret-question).
 {% endstep %}
 
 {% step %}
-#### Suivez les étapes de création de votre compte
+#### Follow the account creation steps
 
 {% hint style="info" %}
-Cette étape est seulement nécessaire si c'est la première fois que vous utilisez Braver.
+This step is only necessary if this is the first time you are using Braver.
 {% endhint %}
 
-Vous pouvez [suivre le tutoriel](creation-de-compte-autonome.md#inscrivez-votre-adresse-courriel-et-le-mot-de-passe-de-votre-choix.-selectionnez-ensuite-creer-mon-c) à cet effet.
+You can [follow the tutorial](independent-account-creation.md#enter-your-email-address-and-password-of-your-choice-then-select-create-my-account) for this purpose.
 {% endstep %}
 
 {% step %}
-#### Entrez le code secret de l'invitation ou répondez à la question secrète
+#### Enter the invitation secret code or answer the secret question
 
 {% hint style="info" %}
-Dépendant de la manière que l'invitation a été sécurisée, vous devrez soit **répondre à une question de sécurité** ou **entrer un code secret à 12 chiffres** (p. ex. 1234-1234-1234).
+Depending on how the invitation was secured, you will either need to **answer a security question** or **enter a 12-digit secret code** (e.g., 1234-1234-1234).
 
-S'il vous demande un code secret, vous le trouverez **sous le bouton d'invitation** dans le courriel d'invitation sur lequel vous avez cliqué dans l'[étape 1](accepter-une-invitation.md#dans-le-courriel-que-vous-avez-recu-cliquez-sur-le-bouton-vous-invitant-a-accepter-linvitation).
+If it asks for a secret code, you will find it **under the invitation button** in the invitation email you clicked on in [step 1](accept-invitation.md#in-the-email-you-received-click-on-the-button-inviting-you-to-accept-the-invitation).
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-via-une-invitation - Step 2.png" alt="" width="375"><figcaption></figcaption></figure></div>

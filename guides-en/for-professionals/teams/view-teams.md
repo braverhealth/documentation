@@ -1,23 +1,23 @@
-# Voir de quelle(s) équipe(s) on fait partie et basculer d'équipe
+# View Which Team(s) You Belong to and Switch Teams
 
 {% hint style="warning" %}
-Si vous ne faites pas partie d'une équipe, vous n'aurez pas accès aux éléments présentés ci-dessous.
+If you are not part of a team, you will not have access to the elements presented below.
 {% endhint %}
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Cliquez dans le carré, en haut, à gauche.
+#### Click in the square at the top left.
 
 <div align="left"><figure><img src="../../.gitbook/assets/voir-de-quelle-equipe-on-fait-partie - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Votre équipe s'affiche ici.
+#### Your team is displayed here.
 
 {% hint style="success" %}
-Si vous avez plus d'une équipe, vous pouvez basculer de l'une à l'autre à cet endroit.
+If you have more than one team, you can switch from one to another at this location.
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/voir-de-quelle-equipe-on-fait-partie - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>

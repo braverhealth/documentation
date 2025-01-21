@@ -1,27 +1,27 @@
-# Quitter un fil de discussion
+# Leave Discussion Thread
 
-## Pas-à-pas
+## Step by Step
 
 {% stepper %}
 {% step %}
-#### Cliquez dans le cercle présentant les participants, en haut, à droite de votre fil.
+#### Click on the circle showing participants, at the top right of your thread.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Si vous désirez quitter une discussion, cliquez sur les 3 petits points près de votre nom, puis cliquez sur _Quitter la discussion_.
+#### If you want to leave the discussion, click on the 3 small dots near your name, then click on _Leave Discussion_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 16.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### À ce moment, on gardera une trace de votre présence dans la discussion. Vous apparaîtrez comme un participant qui a archivé la discussion de son côté.
+#### At this point, a record of your presence will be kept. You will appear as a participant who has archived the discussion on their side.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 17.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Si vous étiez le dernier infirmier dans le fil de discussion et que vous quittiez, le message retournerait dans la boîte de triage de l'équipe des soins infirmiers. Un collègue infirmier pourrait alors prendre le relais de la discussion !
+If you were the last nurse in the discussion thread and you leave, the message would return to the nursing team's triage box. A nurse colleague could then take over the discussion!
 {% endhint %}
 {% endstep %}
 {% endstepper %}

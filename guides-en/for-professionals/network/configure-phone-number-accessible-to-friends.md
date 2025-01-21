@@ -1,28 +1,28 @@
-# Configurer un numéro de téléphone accessible aux amis
+# Configure Phone Number Accessible to Friends
 
-## Pas-à-pas
+## Step by Step
 
 {% stepper %}
 {% step %}
-#### Débutez en naviguant à votre profil en bas de l'écran.
+#### Start by navigating to your profile at the bottom of the screen.
 
 <div align="left"><figure><img src="../../.gitbook/assets/configurer-un-numero-de-telephone-accessible-aux-amis - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sous la mention _Numéro de téléphone personnel_, cliquez sur _Aucun numéro configuré_.
+#### Under the _Personal Phone Number_ section, click on _No Number Configured_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/configurer-un-numero-de-telephone-accessible-aux-amis - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Inscrivez votre numéro ici.
+#### Enter your phone number here.
 
 <div align="left"><figure><img src="../../.gitbook/assets/configurer-un-numero-de-telephone-accessible-aux-amis - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur le crochet orange pour l'enregistrer.
+#### Click the orange checkmark to save.
 
 <div align="left"><figure><img src="../../.gitbook/assets/configurer-un-numero-de-telephone-accessible-aux-amis - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

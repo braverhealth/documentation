@@ -1,48 +1,48 @@
-# Créer un nouveau canal de soins
+# Create a New Care Channel
 
-## Pas-à-pas
+## Step by Step
 
 {% stepper %}
 {% step %}
-#### Dans l'onglet patient, choisissez le patient qui vous intéresse, puis cliquez sur les trois points et sur "Créer un canal" dans le menu.
+#### In the patient tab, choose the patient you are interested in, then click on the three dots and "Create Channel" in the menu.
 
 <div align="left"><figure><img src="../../.gitbook/assets/creer-un-nouveau-canal-de-soins - Step 3.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Donnez un titre au nouveau canal.
+#### Give a title to the new channel.
 
 <div align="left"><figure><img src="../../.gitbook/assets/creer-un-nouveau-canal-de-soins - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Indiquez quels participants vous souhaitez impliquer dans le canal de soins en cliquant sur _Inviter_.
+#### Indicate which participants you want to involve in the care channel by clicking _Invite_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/creer-un-nouveau-canal-de-soins - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### À ce moment, vous pourriez choisir un participant à partir d'un _lieu de travail_ (comme dans l'exemple).
+#### At this point, you could choose a participant from a _workplace_ (as in the example).
 
-Vous pourriez également utiliser la barre de recherche dans le haut de la page pour trouver le participant souhaité.
+You could also use the search bar at the top of the page to find the desired participant.
 
 <div align="left"><figure><img src="../../.gitbook/assets/creer-un-nouveau-canal-de-soins - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Si vous désirez impliquer une équipe au _canal de soins_, cliquez directement sur _Ajouter à la discussion_ dans le haut du _lieu de travail_, puis sélectionnez ensuite la ou les équipes nécessaires en répétant les dernières étapes.
+#### If you want to involve a team in the _care channel_, click directly on _Add to Discussion_ at the top of the _workplace_, then select the team or teams needed by repeating the last steps.
 
 <div align="left"><figure><img src="../../.gitbook/assets/creer-un-nouveau-canal-de-soins - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Une fois vos participants sélectionnés, inscrivez votre premier message et ajoutez du contenu si vous le désirez. Pour terminer, créez le canal à l'aide du bouton avec un avion en papier.
+#### Once your participants are selected, write your first message and add content if you wish. To finish, create the channel using the paper airplane button.
 
 <div align="left"><figure><img src="../../.gitbook/assets/creer-un-nouveau-canal-de-soins - Step 9.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Votre nouveau canal de soins a été créé dans la fiche patient sélectionnée.
+#### Your new care channel has been created in the selected patient file.
 
 <div align="left"><figure><img src="../../.gitbook/assets/creer-un-nouveau-canal-de-soins - Step 10.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

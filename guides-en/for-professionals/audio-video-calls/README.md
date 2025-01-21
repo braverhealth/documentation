@@ -1,20 +1,20 @@
 ---
 icon: phone-volume
-description: Pour s'appeler en un clic!
+description: One-click calling!
 ---
 
-# Appels audios et vidéos
+# Audio and Video Calls
 
-**Pour mieux comprendre les concepts liés aux appels audios et vidéos, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/appels-audios-et-videos)**.**
+**To better understand the concepts related to audio and video calls, do not hesitate to consult** [**documentation**](https://support-en.braver.net/for-professionals/audio-and-video-calls)**.**
 
-{% content-ref url="lancer-et-quitter-un-appel.md" %}
-[lancer-et-quitter-un-appel.md](lancer-et-quitter-un-appel.md)
+{% content-ref url="start-and-leave-call.md" %}
+[start-and-leave-call.md](start-and-leave-call.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../pour-les-patients-et-proches-aidants/appels-audios-et-videos/rejoindre-et-quitter-un-appel.md" %}
-[rejoindre-et-quitter-un-appel.md](../../pour-les-patients-et-proches-aidants/appels-audios-et-videos/rejoindre-et-quitter-un-appel.md)
+{% content-ref url="../../for-patients-and-caregivers/audio-video-calls/join-and-leave-call.md" %}
+[join-and-leave-call.md](../../for-patients-and-caregivers/audio-video-calls/join-and-leave-call.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../pour-les-patients-et-proches-aidants/appels-audios-et-videos/actions-possibles-dans-un-appel-audio-et-video.md" %}
-[actions-possibles-dans-un-appel-audio-et-video.md](../../pour-les-patients-et-proches-aidants/appels-audios-et-videos/actions-possibles-dans-un-appel-audio-et-video.md)
+{% content-ref url="../../for-patients-and-caregivers/audio-video-calls/actions-in-audio-video-call.md" %}
+[actions-in-audio-video-call.md](../../for-patients-and-caregivers/audio-video-calls/actions-in-audio-video-call.md)
 {% endcontent-ref %}

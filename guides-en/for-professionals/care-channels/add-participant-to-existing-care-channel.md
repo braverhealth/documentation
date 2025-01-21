@@ -1,34 +1,34 @@
-# Ajouter un participant à un canal de soins existant
+# Add Participant to Existing Care Channel
 
-## Pas-à-pas
+## Step by Step
 
 {% stepper %}
 {% step %}
-#### Dans la fiche du patient concerné, retrouvez le canal de soins pour lequel vous souhaitez ajouter un participant. Cliquez sur _Voir les détails_.
+#### In the patient file concerned, locate the care channel for which you want to add a participant. Click _View Details_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-participant-a-un-canal-de-soins-existant - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur les avatars des participants, en haut, à droite.
+#### Click on the participant avatars at the top right.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-participant-a-un-canal-de-soins-existant - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Pour ajouter un intervenant individuel (et non une équipe), cliquez ici.
+#### To add an individual participant (not a team), click here.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-participant-a-un-canal-de-soins-existant - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sélectionnez le participant désiré. S'il n'apparaît pas automatiquement, recherchez-le grâce à la barre de recherche.
+#### Select the desired participant. If they do not appear automatically, search for them using the search bar.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-participant-a-un-canal-de-soins-existant - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur _Ajouter à la discussion_, puis confirmez votre choix.
+#### Click _Add to Discussion_, then confirm your choice.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-participant-a-un-canal-de-soins-existant - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

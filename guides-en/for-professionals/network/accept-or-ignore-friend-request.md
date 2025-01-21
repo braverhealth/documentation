@@ -1,28 +1,28 @@
-# Accepter ou ignorer une demande d'amitié
+# Accept or Ignore Friend Request
 
-## Pas-à-pas
+## Step by Step
 
 {% hint style="warning" %}
-Actuellement, une fois la demande d'amitié acceptée, il est impossible de refermer le canal de messagerie directe.
+Currently, once the friend request is accepted, it is impossible to close the direct messaging channel.
 
-C'est une limite qui sera corrigée sous peu.
+This is a limitation that will be corrected soon.
 {% endhint %}
 
 {% stepper %}
 {% step %}
-#### Pour accepter une demande d'amitié, rendez-vous dans l'onglet _Réseau_ et sélectionnez cette icône d'amitié en haut à droite.
+#### To accept a friend request, go to Network tab and select this friendship icon in top right.
 
 <div align="left"><figure><img src="../../.gitbook/assets/accepter-ou-ignorer-une-demande-damitie - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sélectionnez l'invitation reçue.
+#### Select the received invitation.
 
 <div align="left"><figure><img src="../../.gitbook/assets/accepter-ou-ignorer-une-demande-damitie - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### À ce moment, vous pouvez _Accepter_ ou _Ignorer_ la demande d'amitié. Si vous préférez ignorer la demande, la personne qui vous a invité ne recevra pas de message à cet effet.
+#### At this point, you can _Accept_ or _Ignore_ the friend request. If you prefer to ignore the request, the person who invited you will not receive a message about it.
 
 <div align="left"><figure><img src="../../.gitbook/assets/accepter-ou-ignorer-une-demande-damitie - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

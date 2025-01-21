@@ -1,27 +1,27 @@
-# Réinitialiser son mot de passe
+# Reset Password
 
 {% hint style="info" %}
-Si vous avez oublié ou perdu votre mot de passe, vous pouvez le réinitialiser en utilisant la méthode ci-dessous.
+If you have forgotten or lost your password, you can reset it using the method below.
 {% endhint %}
 
-## Pas-à-pas
+## Step by Step
 
 {% stepper %}
 {% step %}
-#### Lors de votre tentative de connexion, cliquez sur _Mot de passe oublié?_
+#### During your login attempt, click on _Forgot Password?_
 
 <div align="left"><figure><img src="../../.gitbook/assets/reinitialiser-son-mot-de-passe - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Remplissez les champs demandés. Vous devrez inscrire un nouveau mot de passe et le valider en le réécrivant une 2e fois.
+#### Fill in the requested fields. You will need to enter a new password and validate it by entering it a second time.
 
-Ensuite, sélectionnez _Réinitialiser le mot de passe_.
+Then, select _Reset Password_.
 
 {% hint style="info" %}
-Le code de récupération vous a été transmis par courriel à la création de votre compte (et est remplacé à chaque fois que vous réinitialisez votre mot de passe).
+The recovery code was sent to you by email when your account was created (and is replaced each time you reset your password).
 
-**Donc, si vous ne l'avez pas supprimé et déposé ailleurs, il devrait toujours se trouver dans vos courriels.**
+**So, if you have not deleted it and placed it elsewhere, it should still be in your emails.**
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/reinitialiser-son-mot-de-passe - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>

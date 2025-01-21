@@ -1,67 +1,67 @@
-# Initier un nouveau fil de discussion avec le patient ou les proches aidants
+# Initiate a New Discussion Thread with Patient or Caregiver
 
-## Pas-à-pas
+## Step-by-Step
 
 {% hint style="info" %}
-Pour contacter un patient, il faut passer par un canal de soins dans sa fiche patient.
+To contact a patient, you must go through a care channel in their patient file.
 {% endhint %}
 
 {% stepper %}
 {% step %}
-#### Pour initier un nouveau fil de discussion avec le patient ou les proches aidants, vous devez trouver un canal de soins où ceux-ci se trouvent.
+#### To initiate a new discussion thread with patient or caregiver, you must find a care channel where they are located.
 
-Dans l'exemple ci-bas, on voit deux canaux de soins, et l'encadré orange démontre que seulement le deuxième comprend le proche aidant. Nous pourrions alors cliquer sur l'icône de création de fil de discussion pour rapidement créer un nouveau fil de discussion au bon endroit.
+In the example below, we see two care channels, and the orange box shows that only the second one includes the caregiver. We could then click on the discussion thread creation icon to quickly create a new discussion thread in the right place.
 
 <div align="left"><figure><img src="../../.gitbook/assets/clavarder-avec-un-patient-ou-un-proche-aidant - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous pouvez modifier les participants par défaut à la discussion de ce fil en cliquant sur _Modifier_.
+#### You can modify the default participants of the discussion thread by clicking on _Modify_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/clavarder-avec-un-patient-ou-un-proche-aidant - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### On voit ici que l'équipe des pharmaciens n'était pas incluse dans le fil que vous alliez créer.
+#### Here we see that the pharmacist team was not included in the thread you were about to create.
 
 {% hint style="info" %}
-Dans l'état actuel, les pharmaciens ne seront pas notifiés, mais pourront consulter le fil, au besoin.
+In the current state, pharmacists will not be notified but can consult the thread if needed.
 {% endhint %}
 
-Cochez la case correspondante si vous désirez les ajouter.
+Check the corresponding box if you want to add them.
 
 {% hint style="info" %}
-Vous ne pouvez pas retirer votre propre équipe.&#x20;
+You cannot remove your own team.
 
-**Il est également impossible de retirer le patient et ses proches de la discussion.**
+**It is also impossible to remove the patient and their caregivers from the discussion.**
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/clavarder-avec-un-patient-ou-un-proche-aidant - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur la flèche de retour en haut, à gauche, pour revenir à la création du fil de discussion.
+#### Click on the back arrow at the top left to return to discussion thread creation.
 
 <div align="left"><figure><img src="../../.gitbook/assets/clavarder-avec-un-patient-ou-un-proche-aidant - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Inscrivez un message, un titre au besoin puis envoyez la discussion avec le bouton en haut à droite.
+#### Enter a message, a title if needed, then send the discussion with the button at the top right.
 
 <div align="left"><figure><img src="../../.gitbook/assets/clavarder-avec-un-patient-ou-un-proche-aidant - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Votre nouveau fil de discussion s'affiche maintenant dans le canal de soins _Travailleur social_ dans la fiche de M. Lachance.
+#### Your new discussion thread now appears in the _Social Worker_ care channel in Mr. Lachance's file.
 
 <div align="left"><figure><img src="../../.gitbook/assets/clavarder-avec-un-patient-ou-un-proche-aidant - Step 11.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Dans la page _Accueil_, sous l'onglet _Fils actifs_, vous pouvez rapidement reconnaître un fil de discussion incluant un proche aidant grâce aux carrés verts près de la date.
+#### On the _Home_ page, under the _Active Threads_ tab, you can quickly recognize a discussion thread including a caregiver thanks to the green squares next to the date.
 
 {% hint style="info" %}
-Si un patient faisait partie du canal de soins, le carré serait rose.
+If a patient were part of the care channel, the square would be pink.
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/clavarder-avec-un-patient-ou-un-proche-aidant - Step 12.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>

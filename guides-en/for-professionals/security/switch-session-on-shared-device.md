@@ -1,30 +1,30 @@
-# Verrouiller ou fermer votre session
+# Lock or Close Your Session
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Sélectionnez la pastille avec votre photo ou vos initiales, puis _Changer de session_.
+#### Select the badge with your photo or initials, then _Switch Session_.
 
 {% hint style="info" %}
-Le bouton pourrait se nommer "Verrouiller la session" s'il n'y a aucune autre session d'active sur votre appareil.
+The button might be named "Lock Session" if no other session is active on your device.
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/basculer-de-session-sur-un-appareil-partage - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Il sera alors possible de choisir une session active ou d'en ajouter une nouvelle.
+#### You will then be able to choose an active session or add a new one.
 
-Vous pouvez accéder rapidement à votre session verrouillée grâce à votre NIP.
+You can quickly access your locked session using your PIN.
 
 <div align="left"><figure><img src="../../.gitbook/assets/basculer-de-session-sur-un-appareil-partage - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Si vous choisissez l'option _Me déconnecter_, votre session sera complètement désactivée de votre appareil.
+#### If you choose the _Log Me Out_ option, your session will be completely disabled on your device.
 
-Suite à une telle désactivation, la prochaine fois que vous désirez vous connecter sur cet appareil, vous devrez fournir votre courriel, votre mot de passe et confirmer votre identité avec un code de sécurité reçu par courriel ou SMS.
+After such a deactivation, the next time you want to log in on this device, you will need to provide your email, password, and confirm your identity with a security code received by email or SMS.
 
 <div align="left"><figure><img src="../../.gitbook/assets/basculer-de-session-sur-un-appareil-partage - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

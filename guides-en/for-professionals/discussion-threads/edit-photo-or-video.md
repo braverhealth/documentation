@@ -1,32 +1,32 @@
-# Éditer une photo ou une vidéo
+# Edit a Photo or Video
 
 {% hint style="warning" %}
-Pour l'instant, l'édition de photo et de vidéo est seulement possible sur un appareil mobile (iOS ou Android).
+Currently, photo and video editing is only possible on a mobile device (iOS or Android).
 {% endhint %}
 
-## Pas-à-pas
+## Step by Step
 
 {% stepper %}
 {% step %}
-#### À partir d'une photo ou d'une vidéo sur le point d'être transmise dans un fil de discussion, vous pouvez accéder à l'outil de modification en cliquant sur le bouton d'édition.
+#### From a photo or video about to be sent in a discussion thread, you can access the editing tool by clicking the edit button.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Éditer une photo ou une vidéo - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous pouvez maintenant effectuer plusieurs types de modifications, dont :
+#### You can now perform several types of modifications, including:
 
-* Ajuster l'image (couleurs, etc.)
-* Transformer l'image (rogner, etc.)
-* Modifier le focus
-* Ajouter du texte
-* Ajouter des traits à la brosse
+* Adjust the image (colors, etc.)
+* Transform the image (crop, etc.)
+* Modify focus
+* Add text
+* Add brush strokes
 
 <div align="left"><figure><img src="../../.gitbook/assets/Éditer une photo ou une vidéo - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Une fois vos modifications terminées, cliquez sur la flèche de sauvegarde.
+#### Once your modifications are complete, click the save arrow.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Éditer une photo ou une vidéo - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

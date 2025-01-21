@@ -6,7 +6,7 @@ icon: dice-d6
 
 Care channels are secure spaces shared between multiple parties (healthcare professionals, [teams](teams.md), and possibly the [patient or their caregivers](patient-and-caregivers.md)) where participants can create discussion threads and upload documents, multimedia files, and forms.
 
-**Feel free to consult** [**our dedicated guides**](https://support-en.braver.net/guides/for-healthcare-workers/care-channels) **to quickly understand how to use care channels.**
+**Feel free to consult** [**our dedicated guides**](https://support-en.braver.net/guides/for-professionals/care-channels) **to quickly understand how to use care channels.**
 
 <details>
 

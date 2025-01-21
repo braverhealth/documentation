@@ -1,28 +1,28 @@
 ---
 icon: user-plus
-description: Pour savoir comment créer votre compte!
+description: How to create your account!
 ---
 
-# Création de compte
+# Account Creation
 
-**Pour mieux comprendre les concepts liés à la création de compte, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/creation-de-compte)**.**
+**To better understand the concepts related to account creation, do not hesitate to consult** [**the documentation**](https://support-en.braver.net/for-professionals/account-creation)**.**
 
-{% content-ref url="creation-de-compte-autonome.md" %}
-[creation-de-compte-autonome.md](creation-de-compte-autonome.md)
+{% content-ref url="independent-account-creation.md" %}
+[independent-account-creation.md](independent-account-creation.md)
 {% endcontent-ref %}
 
-{% content-ref url="activation-dun-compte-par-la-bulle-integree.md" %}
-[activation-dun-compte-par-la-bulle-integree.md](activation-dun-compte-par-la-bulle-integree.md)
+{% content-ref url="activate-account-via-integrated-bubble.md" %}
+[activate-account-via-integrated-bubble.md](activate-account-via-integrated-bubble.md)
 {% endcontent-ref %}
 
-{% content-ref url="accepter-une-invitation.md" %}
-[accepter-une-invitation.md](accepter-une-invitation.md)
+{% content-ref url="accept-invitation.md" %}
+[accept-invitation.md](accept-invitation.md)
 {% endcontent-ref %}
 
-{% content-ref url="acceder-a-braver-sur-mobile-via-code-qr-partir-de-lapp-web.md" %}
-[acceder-a-braver-sur-mobile-via-code-qr-partir-de-lapp-web.md](acceder-a-braver-sur-mobile-via-code-qr-partir-de-lapp-web.md)
+{% content-ref url="access-braver-on-mobile-via-qr-code-from-web-app.md" %}
+[access-braver-on-mobile-via-qr-code-from-web-app.md](access-braver-on-mobile-via-qr-code-from-web-app.md)
 {% endcontent-ref %}
 
-{% content-ref url="acceder-a-braver-sur-mobile-via-code-qr-partir-de-la-bulle-integree.md" %}
-[acceder-a-braver-sur-mobile-via-code-qr-partir-de-la-bulle-integree.md](acceder-a-braver-sur-mobile-via-code-qr-partir-de-la-bulle-integree.md)
+{% content-ref url="access-braver-on-mobile-via-qr-code-from-integrated-bubble.md" %}
+[access-braver-on-mobile-via-qr-code-from-integrated-bubble.md](access-braver-on-mobile-via-qr-code-from-integrated-bubble.md)
 {% endcontent-ref %}

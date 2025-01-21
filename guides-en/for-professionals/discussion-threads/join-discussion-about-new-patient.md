@@ -1,54 +1,54 @@
-# Rejoindre une discussion concernant un nouveau patient
+# Join Discussion About New Patient
 
-## Pas-à-pas
+## Step by Step
 
 {% stepper %}
 {% step %}
-#### Si vous recevez un fil de discussion pour un patient qui n'est pas encore associé à votre banque de fiches patients, l'icône sera en gris.
+#### If you receive a discussion thread for a patient not yet associated with your patient file bank, the icon will be gray.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Rejoindre une discussion concernant un nouveau patient - Step 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous pouvez alors _Accepter_ ou _Refuser_ de répondre au fil de discussion. Remarquez la mention orangée au sujet de la fiche patient.
+#### You can then _Accept_ or _Refuse_ to respond to the discussion thread. Notice the orange mention about the patient file.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Rejoindre une discussion concernant un nouveau patient - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Pour lier le fil de discussion au bon patient, vous devrez cliquer sur la fiche patient dans le haut du fil.
+#### To link the discussion thread to the correct patient, you will need to click on the patient file at the top of the thread.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Rejoindre une discussion concernant un nouveau patient - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sélectionnez _Associer à un patient_.
+#### Select _Associate with a patient_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Rejoindre une discussion concernant un nouveau patient - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Dans ce cas, la patiente ne figure pas dans votre banque de fiches patients.
+#### In this case, the patient is not in your patient file bank.
 
-Si cela avait été le cas, vous auriez pu la sélectionner parmi vos fiches patients.
+If this had been the case, you could have selected her from your patient files.
 
-Vous devez donc créer une nouvelle fiche patient.
+You must therefore create a new patient file.
 
-Cliquez sur l'icône en bas, à droite.
+Click on the icon at the bottom right.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Rejoindre une discussion concernant un nouveau patient - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Validez les informations et modifiez-les, au besoin.
+#### Validate the information and modify it if necessary.
 
-Enregistrez ensuite en cliquant sur le crochet en haut, à droite.
+Then save by clicking on the checkmark at the top right.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Rejoindre une discussion concernant un nouveau patient - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### La fiche patient est maintenant créée !
+#### The patient file is now created!
 
 <div align="left"><figure><img src="../../.gitbook/assets/Rejoindre une discussion concernant un nouveau patient - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

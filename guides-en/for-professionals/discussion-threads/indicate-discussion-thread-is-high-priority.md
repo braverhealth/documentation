@@ -1,26 +1,26 @@
-# Indiquer qu'un fil de discussion est d'une priorité élevée
+# Indicate a Discussion Thread is High Priority
 
 {% hint style="info" %}
-Si vous indiquez qu'un fil de discussion est d'une priorité élevée, votre destinataire recevra un courriel rapidement après votre envoi s'il ne répond pas au fil de discussion.
+If you indicate that a discussion thread is high priority, your recipient will quickly receive an email if they do not respond to the thread.
 {% endhint %}
 
-## Pas-à-pas
+## Step by Step
 
 {% stepper %}
 {% step %}
-#### Lors de la création d'un nouveau fil de discussion, sélectionnez la mention _Priorité normale_.
+#### When creating a new discussion thread, select the _Normal Priority_ option.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Indiquer quun fil de discussion est dune priorité élevée - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous pouvez alors la modifier pour une _Priorité élevée_.
+#### You can then modify it to _High Priority_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Indiquer quun fil de discussion est dune priorité élevée - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Remplissez tous les champs nécessaires afin de débuter le fil de discussion, puis cliquez sur _Envoyer_.
+#### Fill in all necessary fields to start the discussion thread, then click _Send_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Indiquer quun fil de discussion est dune priorité élevée - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

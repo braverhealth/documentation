@@ -1,20 +1,20 @@
 ---
 icon: folder-medical
-description: Pour assurer une traçabilité de l'information!
+description: To ensure information traceability!
 ---
 
-# Fiches patient
+# Patient Files
 
-**Pour mieux comprendre les concepts liés aux fiches patient, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/fiches-patients)**.**
+**To better understand the concepts related to patient files, do not hesitate to consult** [**the documentation**](https://support-en.braver.net/for-professionals/patient-files)**.**
 
-{% content-ref url="creer-une-nouvelle-fiche-patient.md" %}
-[creer-une-nouvelle-fiche-patient.md](creer-une-nouvelle-fiche-patient.md)
+{% content-ref url="create-new-patient-file.md" %}
+[create-new-patient-file.md](create-new-patient-file.md)
 {% endcontent-ref %}
 
-{% content-ref url="archiver-une-fiche-patient.md" %}
-[archiver-une-fiche-patient.md](archiver-une-fiche-patient.md)
+{% content-ref url="archive-patient-file.md" %}
+[archive-patient-file.md](archive-patient-file.md)
 {% endcontent-ref %}
 
-{% content-ref url="modifier-une-fiche-patient.md" %}
-[modifier-une-fiche-patient.md](modifier-une-fiche-patient.md)
+{% content-ref url="modify-patient-file.md" %}
+[modify-patient-file.md](modify-patient-file.md)
 {% endcontent-ref %}

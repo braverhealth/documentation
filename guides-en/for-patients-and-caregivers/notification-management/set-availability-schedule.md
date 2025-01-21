@@ -1,50 +1,50 @@
-# Régler son horaire de disponibilités
+# Set Your Availability Schedule
 
-## Pas-à-pas
+## Step-by-Step Guide
 
 {% stepper %}
 {% step %}
-#### Débutez en naviguant à votre profil en bas de l'écran.
+#### Start by navigating to your profile at the bottom of the screen.
 
 {% hint style="info" %}
-Sur un téléphone mobile, vous devez appuyer sur l'icône de roue en bas de l'écran.
+On a mobile phone, you must tap the gear icon at the bottom of the screen.
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/acceder-les-parametres-patients.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur l'onglet _Paramètres_
+#### Click on the _Settings_ tab
 
 <div align="left"><figure><img src="../../.gitbook/assets/Régler son horaire de disponibilités et ses périodes dindisponibilité - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sélectionnez _**Horaire de disponibilité**_. Selon cet horaire, vos notifications seront mises en pause jusqu'à votre retour où vous serez mis au courant de ce qui a été manqué.
+#### Select _**Availability Schedule**_. According to this schedule, your notifications will be paused until your return, when you will be informed of what you missed.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Régler son horaire de disponibilités et ses périodes dindisponibilité - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Pour modifier votre horaire de disponibilité, cliquez sur le menu déroulant pour voir les choix.
+#### To modify your availability schedule, click on the dropdown menu to see the choices.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Régler son horaire de disponibilités et ses périodes dindisponibilité - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Dans cet exemple, l'utilisateur veut un horaire de travail personnalisé.
+#### In this example, the user wants a custom work schedule.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Régler son horaire de disponibilités et ses périodes dindisponibilité - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Pour un horaire personnalisé, indiquez les heures pendant lesquelles vous souhaitez recevoir des notifications pour chaque jour de la semaine.
+#### For a custom schedule, indicate the hours during which you want to receive notifications for each day of the week.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Régler son horaire de disponibilités et ses périodes dindisponibilité - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Enregistrez votre horaire en haut à droite.
+#### Save your schedule at the top right.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Régler son horaire de disponibilités et ses périodes dindisponibilité - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

@@ -1,36 +1,36 @@
-# Activer les notifications sur un appareil mobile
+# Activate Notifications on Mobile Device
 
 {% hint style="success" %}
-Braver vous supportera davantage dans votre pratique si nous sommes en mesure de vous notifier au bon moment lorsqu'un professionnel de la santé prend contact avec vous. Assurez-vous que vos notifications soient activées en suivant ce tutoriel !
+Braver will support you more in your practice if we can notify you at the right time when a healthcare professional contacts you. Make sure your notifications are enabled by following this tutorial!
 {% endhint %}
 
 {% tabs %}
-{% tab title="iPhone ou iPad" %}
-#### Pas-à-pas
+{% tab title="iPhone or iPad" %}
+#### Step by Step
 
 {% stepper %}
 {% step %}
-**Sur votre appareil mobile, rendez-vous dans vos** _**Réglages**_.
+**On your mobile device, go to your** _**Settings**_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobiles iOS - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Allez dans la section "Notifications"**
+**Go to the "Notifications" section**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobiles iOS - Step 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Retrouvez l'application Braver.**
+**Find the Braver application.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobiles iOS - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Activez l'interrupteur afin d'**_**Autoriser les notifications**_.
+**Turn on the switch to** _**Allow Notifications**_.
 
-Assurez-vous que les 3 options d'affichage sont sélectionnées.
+Make sure the 3 display options are selected.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobiles iOS - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -38,41 +38,41 @@ Assurez-vous que les 3 options d'affichage sont sélectionnées.
 {% endtab %}
 
 {% tab title="Android" %}
-#### Pas à pas
+#### Step by Step
 
 {% stepper %}
 {% step %}
-**Sur votre appareil mobile, appuyez longuement sur l'icône de l'application Braver et appuyez sur l'icône d'information (i).**
+**On your mobile device, press and hold the Braver application icon and tap the information icon (i).**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobile Android - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Vous vous retrouverez dans la page des paramètres de l'application Braver. Allez dans la section "Notifications".**
+**You will be in the Braver application settings page. Go to the "Notifications" section.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobile Android - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Dans l'onglet notifications, assurez-vous que les notifications soient autorisées avec ces paramètres.**
+**In the notifications tab, make sure notifications are allowed with these settings.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobile Android - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Une autre méthode pour vous assurer que les notifications soient bien actives est d'aller dans les paramètres de l'appareil.**
+**Another method to ensure notifications are active is to go to device settings.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobile Android - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Dans paramètres, cliquez sur** _**Notifications**_ **et allez dans la liste des** _**Notifications de l'application**_.
+**In settings, click on** _**Notifications**_ **and go to the list of** _**Application Notifications**_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobile Android - Step 5.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**À cet endroit, assurez-vous que l'interrupteur de l'application Braver soit activé.**
+**At this point, make sure the Braver application switch is enabled.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobile Android - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

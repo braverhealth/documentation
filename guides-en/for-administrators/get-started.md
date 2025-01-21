@@ -1,57 +1,57 @@
 ---
 icon: flag
 description: >-
-  Dans cette section, vous trouverez un guide qui vous aidera à configurer
-  Braver pour votre organisation ainsi que des tutoriels pour vous aider à
-  chacune des étapes.
+  In this section, you will find a guide to help you set up
+  Braver for your organization as well as tutorials to help you
+  through each step.
 ---
 
-# Débuter ici
+# Start Here
 
 ## Guide
 
-{% content-ref url="guide-de-configuration/" %}
-[guide-de-configuration](guide-de-configuration/)
+{% content-ref url="configuration-guide/" %}
+[configuration-guide](configuration-guide/)
 {% endcontent-ref %}
 
-## Tutoriels essentiels
+## Essential Tutorials
 
-### Structure organisationnelle
+### Organizational Structure
 
-Pour vous assurer de bien comprendre les éléments de la structure organisationnelle mis à votre disposition, n'hésitez pas à consulter [la documentation prévue à cet effet](https://support.braver.net/pour-les-administrateurs/pour-debuter).
+To ensure you fully understand the organizational structure elements available to you, do not hesitate to consult [the documentation provided for this purpose](https://support-en.braver.net/for-administrators/overview).
 
-{% content-ref url="unites-organisationelles/comment-creer-une-unite-organisationnelle.md" %}
-[comment-creer-une-unite-organisationnelle.md](unites-organisationelles/comment-creer-une-unite-organisationnelle.md)
+{% content-ref url="organizational-units/how-to-create-an-organizational-unit.md" %}
+[how-to-create-an-organizational-unit.md](organizational-units/how-to-create-organizational-unit.md)
 {% endcontent-ref %}
 
-{% content-ref url="lieux-de-travail/comment-creer-un-lieu-de-travail.md" %}
-[comment-creer-un-lieu-de-travail.md](lieux-de-travail/comment-creer-un-lieu-de-travail.md)
+{% content-ref url="workplaces/how-to-create-a-workplace.md" %}
+[how-to-create-a-workplace.md](workplaces/how-to-create-workplace.md)
 {% endcontent-ref %}
 
-{% content-ref url="equipes/comment-creer-une-equipe.md" %}
-[comment-creer-une-equipe.md](equipes/comment-creer-une-equipe.md)
+{% content-ref url="teams/how-to-create-a-team.md" %}
+[how-to-create-a-team.md](teams/how-to-create-team.md)
 {% endcontent-ref %}
 
-### Utilisateurs
+### Users
 
-{% content-ref url="utilisateurs/comment-inviter-des-utilisateurs.md" %}
-[comment-inviter-des-utilisateurs.md](utilisateurs/comment-inviter-des-utilisateurs.md)
+{% content-ref url="users/how-to-invite-users.md" %}
+[how-to-invite-users.md](users/how-to-invite-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="utilisateurs/comment-annuler-ou-renvoyer-une-invitation.md" %}
-[comment-annuler-ou-renvoyer-une-invitation.md](utilisateurs/comment-annuler-ou-renvoyer-une-invitation.md)
+{% content-ref url="users/how-to-cancel-or-resend-an-invitation.md" %}
+[how-to-cancel-or-resend-an-invitation.md](users/how-to-cancel-or-resend-an-invitation.md)
 {% endcontent-ref %}
 
-{% content-ref url="utilisateurs/comment-octroyer-un-role-a-un-utilisateur-existant.md" %}
-[comment-octroyer-un-role-a-un-utilisateur-existant.md](utilisateurs/comment-octroyer-un-role-a-un-utilisateur-existant.md)
+{% content-ref url="users/how-to-assign-a-role-to-an-existing-user.md" %}
+[how-to-assign-a-role-to-an-existing-user.md](users/how-to-assign-a-role-to-an-existing-user.md)
 {% endcontent-ref %}
 
-### Journaux d'audits
+### Audit Logs
 
-{% content-ref url="journaux-daudit/comment-faire-une-recherche-dans-le-journal-daudits.md" %}
-[comment-faire-une-recherche-dans-le-journal-daudits.md](journaux-daudit/comment-faire-une-recherche-dans-le-journal-daudits.md)
+{% content-ref url="audit-logs/how-to-search-in-the-audit-log.md" %}
+[how-to-search-in-the-audit-log.md](audit-logs/how-to-search-in-the-audit-log.md)
 {% endcontent-ref %}
 
-{% content-ref url="journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md" %}
-[que-puis-je-retrouver-dans-le-journal-daudits.md](journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md)
+{% content-ref url="audit-logs/what-can-i-find-in-the-audit-logs.md" %}
+[what-can-i-find-in-the-audit-logs.md](audit-logs/what-can-i-find-in-the-audit-logs.md)
 {% endcontent-ref %}

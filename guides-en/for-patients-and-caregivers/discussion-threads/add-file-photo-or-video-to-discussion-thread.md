@@ -1,32 +1,32 @@
-# Ajouter un fichier, une photo ou une vidéo à un fil de discussion
+# Adding a File, Photo, or Video to a Discussion Thread
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Dans un fil de discussion, vous pouvez cliquer sur le symbole « + » ou sur l'icône du trombone pour ajouter une pièce jointe.
+#### In a discussion thread, you can click on the "+" symbol or paperclip icon to add an attachment.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion-patient - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Si vous êtes sur un **ordinateur**, cliquez sur « Joindre un fichier » pour ajouter une image ou toute autre documentation sous format PDF, DOC ou MP3.
+#### If you are on a **computer**, click "Attach File" to add an image or any other documentation in PDF, DOC, or MP3 format.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion-patient - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Si vous êtes sur un **appareil mobile (cellulaire ou tablette)**, après avoir cliqué sur le symbole « + » vous aurez également les options de _Prendre une photo_ ou de _Capturer une vidéo_.
+#### If you are on a **mobile device (phone or tablet)**, after clicking the "+" symbol, you will also have options to _Take a Photo_ or _Capture a Video_.
 
 {% hint style="info" %}
-Une photo ou vidéo prise via Braver n'apparaîtra pas sur la pellicule de votre appareil.
+A photo or video taken via Braver will not appear in your device's gallery.
 {% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion-patient - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Pour terminer, appuyez sur la flèche violette pour que votre photo, vidéo ou pièce jointe soit bien envoyée.
+#### To finish, press the purple arrow to ensure your photo, video, or attachment is sent.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion-patient - Step 6.jpeg" alt="" width="237"><figcaption></figcaption></figure></div>
 {% endstep %}

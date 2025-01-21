@@ -1,32 +1,32 @@
-# Voir tous les participants d'un fil de discussion
+# View All Participants in a Discussion Thread
 
-## Pas-à-pas
+## Step by Step
 
 {% stepper %}
 {% step %}
-#### Il faut tout d'abord accéder à un fil de discussion. Cliquez sur l'équipe de soins qui vous intéresse. Vous avez peut-être seulement une équipe de soins, c'est normal !
+#### First, you need to access a discussion thread. Click on the care team that interests you. You may only have one care team, which is normal!
 
 <div align="left"><figure><img src="../../.gitbook/assets/voir-tous-les-participants-dun-fil-de-discussion - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Accédez au fil de discussion dont vous voulez voir les participants en cliquant dessus.
+#### Access the discussion thread whose participants you want to see by clicking on it.
 
 <div align="left"><figure><img src="../../.gitbook/assets/voir-tous-les-participants-dun-fil-de-discussion - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Une fois le fil de discussion ouvert, cliquez sur les avatars des participants en haut, à droite.
+#### Once the discussion thread is open, click on the participant avatars at the top right.
 
 <div align="left"><figure><img src="../../.gitbook/assets/voir-tous-les-participants-dun-fil-de-discussion - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous avez bien accédé à la liste des participants à la discussion !
+#### You have now accessed the list of discussion participants!
 
-Dans cet exemple, Guylaine et Emilio font partie de l'équipe des médecins, alors que Lucy fait partie de l'équipe des pharmaciens.
+In this example, Guylaine and Emilio are part of the doctors team, while Lucy is part of the pharmacists team.
 
-Il y a une enveloppe près du nom d'Emilio parce qu'il n'a pas encore rejoint la discussion. Il est donc normal de ne pas avoir de réponse de sa part !
+There is an envelope near Emilio's name because he has not yet joined the discussion. It is therefore normal not to have a response from him!
 
 <div align="left"><figure><img src="../../.gitbook/assets/voir-tous-les-participants-dun-fil-de-discussion - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

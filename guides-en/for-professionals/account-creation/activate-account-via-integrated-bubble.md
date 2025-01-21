@@ -1,48 +1,48 @@
-# Activation d'un compte par la bulle intégrée
+# Activate Account via Integrated Bubble
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### À l'ouverture de la bulle intégrée dans un logiciel comme Gustav ou Leomed, vous verrez les différentes options suivantes :
+#### When opening the integrated bubble in software like Gustav or Leomed, you will see the following options:
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.23.34@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-Si vous n'avez jamais utilisé Braver ni de manière autonome, ni dans un logiciel tiers, choisissez l'option "Je n'ai pas encore de compte Braver".
+If you have never used Braver independently or in a third-party software, choose the option "I do not have a Braver account yet".
 {% endstep %}
 
 {% step %}
-#### On vous demandera de confirmer que vous désirez réellement continuer sans associer de compte Braver existant, car l'action ne sera pas réversible.
+#### You will be asked to confirm that you really want to continue without associating an existing Braver account, as the action will not be reversible.
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.23.51@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous devrez ensuite configurer un NIP.
+#### You will then need to set up a PIN.
 
 {% hint style="info" %}
-Ce NIP vous sera utile entre autres si vous désirez utiliser Braver sur un appareil mobile.
+This PIN will be useful, among other things, if you want to use Braver on a mobile device.
 {% endhint %}
 
-Cliquez sur le bouton correspondant.
+Click on the corresponding button.
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.23.57@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-Puis saisissez et répétez votre NIP.
+Then enter and repeat your PIN.
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.24.10@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous devrez finalement accepter les conditions d'utilisation de Braver.
+#### Finally, you will need to accept Braver's terms of use.
 
-Faites défiler jusqu'en bas, puis cliquez sur le bouton d'acceptation si vous désirez continuer.
+Scroll to the bottom, then click on the acceptance button if you want to continue.
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.24.19@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous y êtes ! Votre compte Braver est maintenant activé !
+#### You're done! Your Braver account is now activated!
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.24.31@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

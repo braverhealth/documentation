@@ -1,16 +1,16 @@
 ---
 icon: square-user
-description: Pour être facile à identifier sur le réseau!
+description: To be easily identifiable on the network!
 ---
 
-# Gestion du profil
+# Profile Management
 
-**Pour mieux comprendre les concepts liés au profil, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/gestion-du-profil)**.**
+**To better understand the concepts related to profile, do not hesitate to consult** [**the documentation**](https://support-en.braver.net/for-professionals/profile-management)**.**
 
-{% content-ref url="modifier-son-profil-photo-et-texte-de-presentation.md" %}
-[modifier-son-profil-photo-et-texte-de-presentation.md](modifier-son-profil-photo-et-texte-de-presentation.md)
+{% content-ref url="modify-profile-photo-and-presentation-text.md" %}
+[modify-profile-photo-and-presentation-text.md](modify-profile-photo-and-presentation-text.md)
 {% endcontent-ref %}
 
-{% content-ref url="ajouter-sa-profession.md" %}
-[ajouter-sa-profession.md](ajouter-sa-profession.md)
+{% content-ref url="add-profession.md" %}
+[add-profession.md](add-profession.md)
 {% endcontent-ref %}

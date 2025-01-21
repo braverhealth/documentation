@@ -1,34 +1,34 @@
-# Inviter un professionnel de la santé à rejoindre le réseau Braver
+# Invite a Healthcare Professional to Join Braver Network
 
-## Pas-à-pas
+## Step by Step
 
 {% stepper %}
 {% step %}
-#### À partir de l'onglet réseau, cherchez le nom de la personne que vous désirez rejoindre.
+#### From network tab, search for the name of the person you want to join.
 
 <div align="left"><figure><img src="../../.gitbook/assets/inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Elle ne fait pas partie du réseau ? Cliquez sur _Invitez un nouveau membre_.
+#### They are not part of the network? Click on _Invite a New Member_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Remplissez tous les champs de l'invitation. Assurez-vous de bien choisir la profession de votre invité. Lorsque vous invitez un membre sur le réseau, vous endossez son identité.
+#### Fill in all invitation fields. Make sure to choose the correct profession for your invitee. When you invite a member to the network, you vouch for their identity.
 
 <div align="left"><figure><img src="../../.gitbook/assets/inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Ajoutez une question de sécurité dont seul le destinataire connaît la réponse. Comme lors d'un virement bancaire, nous désirons nous assurer que la bonne personne accepte l'invitation.
+#### Add a security question that only the recipient knows the answer to. Like with a bank transfer, we want to ensure the right person accepts the invitation.
 
 <div align="left"><figure><img src="../../.gitbook/assets/inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sélectionnez l'option de votre choix entre _Inviter par courriel_ ou _Partager un lien d'invitation_ à envoyer par SMS par exemple.
+#### Select your preferred option between _Invite by Email_ or _Share Invitation Link_ to send via SMS for example.
 
 <div align="left"><figure><img src="../../.gitbook/assets/inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

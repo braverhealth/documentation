@@ -1,23 +1,23 @@
-# Ajouter un fichier, une photo ou une vidéo à un fil de discussion
+# Add File, Photo, or Video to Discussion Thread
 
-## Pas-à-pas
+## Step-by-Step
 
 {% stepper %}
 {% step %}
-#### Dans un fil de discussion, vous pouvez cliquer sur le symbole « + » ou sur l'icône du trombone pour ajouter une pièce jointe.
+#### In a discussion thread, you can click the "+" symbol or paperclip icon to add an attachment.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Ajouter un fichier, une photo ou une vidéo à un fil de discussion - Step 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-* Sur un ordinateur, vous pourrez cliquer sur « Joindre un fichier »
-* Sur un appareil mobile, vous aurez la possibilité de prendre une photo, enregistrer une vidéo ou sélectionner un fichier.
+* On a computer, you can click "Attach a File"
+* On a mobile device, you will have the option to take a photo, record a video, or select a file.
 
 {% hint style="success" %}
-Les photos prises ou vidéos enregistrées n'apparaîtront pas sur la pellicule de votre appareil.
+Photos taken or videos recorded will not appear in your device's photo roll.
 {% endhint %}
 {% endstep %}
 
 {% step %}
-#### Pour terminer, appuyez sur la flèche violette pour que votre fichier soit bien envoyé.
+#### To finish, press the purple arrow to send your file.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Ajouter un fichier, une photo ou une vidéo à un fil de discussion - Step 5.jpeg" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}

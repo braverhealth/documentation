@@ -1,20 +1,20 @@
 ---
 icon: message-heart
-description: Pour favoriser l'engagement du patient!
+description: To promote patient engagement!
 ---
 
-# Communication patients et proche aidant
+# Patient and Caregiver Communication
 
-**Pour mieux comprendre les concepts liés à la communication patient ou proche aidant, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/communication-patients-et-proche-aidants)**.**
+**To better understand the concepts related to patient or caregiver communication, do not hesitate to consult** [**the documentation**](https://support-en.braver.net/for-professionals/patient-and-caregivers)**.**
 
-{% content-ref url="inviter-un-patient-ou-un-proche-aidant-a-rejoindre-braver.md" %}
-[inviter-un-patient-ou-un-proche-aidant-a-rejoindre-braver.md](inviter-un-patient-ou-un-proche-aidant-a-rejoindre-braver.md)
+{% content-ref url="invite-patient-or-caregiver-to-join-braver.md" %}
+[invite-patient-or-caregiver-to-join-braver.md](invite-patient-or-caregiver-to-join-braver.md)
 {% endcontent-ref %}
 
-{% content-ref url="ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins.md" %}
-[ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins.md](ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins.md)
+{% content-ref url="add-patient-or-caregiver-to-new-care-channel.md" %}
+[add-patient-or-caregiver-to-new-care-channel.md](add-patient-or-caregiver-to-new-care-channel.md)
 {% endcontent-ref %}
 
-{% content-ref url="clavarder-avec-un-patient-ou-un-proche-aidant.md" %}
-[clavarder-avec-un-patient-ou-un-proche-aidant.md](clavarder-avec-un-patient-ou-un-proche-aidant.md)
+{% content-ref url="chat-with-patient-or-caregiver.md" %}
+[chat-with-patient-or-caregiver.md](chat-with-patient-or-caregiver.md)
 {% endcontent-ref %}

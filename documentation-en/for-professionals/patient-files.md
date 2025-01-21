@@ -13,7 +13,7 @@ To view, create, or modify patient files, you can use the "Patients" tab.
 
 <div align="center"><figure><img src="../.gitbook/assets/Creer une nouvelle fiche patient - Step4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**Feel free to consult** [**our dedicated guides**](https://support-en.braver.net/guides/for-healthcare-workers/patient-files) **to quickly understand how to use patient files.**
+**Feel free to consult** [**our dedicated guides**](https://support-en.braver.net/guides/for-professionals/patient-files) **to quickly understand how to use patient files.**
 
 <details>
 

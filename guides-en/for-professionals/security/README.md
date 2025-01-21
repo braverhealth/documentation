@@ -1,36 +1,36 @@
 ---
 icon: shield-check
-description: Pour être conforme!
+description: To be compliant!
 ---
 
-# Sécurité
+# Security
 
-**Pour mieux comprendre les concepts liés à la sécurité, n’hésitez pas à consulter** [**la documentation**](https://support.braver.net/pour-les-professionnels/securite)**.**
+**To better understand security-related concepts, do not hesitate to consult** [**documentation**](https://support.braver.net/for-professionals/security)**.**
 
-{% content-ref url="basculer-de-session-sur-un-appareil-partage.md" %}
-[basculer-de-session-sur-un-appareil-partage.md](basculer-de-session-sur-un-appareil-partage.md)
+{% content-ref url="switch-session-on-shared-device.md" %}
+[switch-session-on-shared-device.md](switch-session-on-shared-device.md)
 {% endcontent-ref %}
 
-{% content-ref url="generer-un-nouveau-code-de-recuperation.md" %}
-[generer-un-nouveau-code-de-recuperation.md](generer-un-nouveau-code-de-recuperation.md)
+{% content-ref url="generate-new-recovery-code.md" %}
+[generate-new-recovery-code.md](generate-new-recovery-code.md)
 {% endcontent-ref %}
 
-{% content-ref url="modifier-son-mot-de-passe.md" %}
-[modifier-son-mot-de-passe.md](modifier-son-mot-de-passe.md)
+{% content-ref url="modify-password.md" %}
+[modify-password.md](modify-password.md)
 {% endcontent-ref %}
 
-{% content-ref url="modifier-son-nip.md" %}
-[modifier-son-nip.md](modifier-son-nip.md)
+{% content-ref url="modify-pin.md" %}
+[modify-pin.md](modify-pin.md)
 {% endcontent-ref %}
 
-{% content-ref url="recevoir-lauthentification-a-2-facteurs-par-sms.md" %}
-[recevoir-lauthentification-a-2-facteurs-par-sms.md](recevoir-lauthentification-a-2-facteurs-par-sms.md)
+{% content-ref url="receive-two-factor-authentication-by-sms.md" %}
+[receive-two-factor-authentication-by-sms.md](receive-two-factor-authentication-by-sms.md)
 {% endcontent-ref %}
 
-{% content-ref url="reinitialiser-son-mot-de-passe.md" %}
-[reinitialiser-son-mot-de-passe.md](reinitialiser-son-mot-de-passe.md)
+{% content-ref url="reset-password.md" %}
+[reset-password.md](reset-password.md)
 {% endcontent-ref %}
 
-{% content-ref url="supprimer-un-compte-braver.md" %}
-[supprimer-un-compte-braver.md](supprimer-un-compte-braver.md)
+{% content-ref url="delete-braver-account.md" %}
+[delete-braver-account.md](delete-braver-account.md)
 {% endcontent-ref %}

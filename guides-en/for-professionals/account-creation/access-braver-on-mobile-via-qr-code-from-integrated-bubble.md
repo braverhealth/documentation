@@ -1,22 +1,22 @@
-# Connectez-vous instantanément sur mobile à partir de la bulle intégrée
+# Instantly Connect on Mobile from Integrated Bubble
 
-## Pas-à-pas
+## Step by Step
 
 {% stepper %}
 {% step %}
-**À partir de la bulle intégrée dans un logiciel comme Gustav ou Leomed, vous verrez un petit icône de code QR en haut au centre.**
+**From the integrated bubble in a software like Gustav or Leomed, you will see a small QR code icon at the top center.**
 
-Cliquez dessus pour afficher le code QR de transfert de session.
+Click on it to display the session transfer QR code.
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.24.31@2x-2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**À l'aide de votre appareil mobile, scannez ce code QR.**
+**Using your mobile device, scan this QR code.**
 
-On vous demandera d'installer l'application, puis vous aurez accès à votre session sans vous connecter. Le code QR vous donnera accès directement à votre session.
+You will be asked to install the application, and then you will have access to your session without logging in. The QR code will give you direct access to your session.
 
-Au besoin, vous pouvez installer rapidement l'application en vous rendant à notre [page de téléchargement](https://www.braver.net/fr/download/) avant de scanner le code QR.
+If needed, you can quickly install the application by going to our [download page](https://www.braver.net/en/download/) before scanning the QR code.
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.40.11@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
