@@ -20,4 +20,4 @@ The availability schedule follows a defined recurrence to minimize the configura
 
 When you set an unavailability period and a colleague tries to reach you during this period, they see a red dot next to your name, indicating that you are unavailable until a certain date and time in the future.
 
-**Feel free to consult** [**our dedicated guides**](https://support-en.braver.net/guides/for-professionals/gestion-des-notifications) **to quickly understand how to configure notification controls.**
+**Feel free to consult** [**our dedicated guides**](https://support-en.braver.net/guides/for-professionals/notification-management) **to quickly understand how to configure notification controls.**

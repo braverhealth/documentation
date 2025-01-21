@@ -44,7 +44,7 @@ If someone writes something you haven't seen yet and the discussion closes immed
 
 ### Discussion Threads Linked to Network Contacts
 
-If you navigate to the profile of a colleague with whom you have had discussions (here's [how](https://support-en.braver.net/guides/for-professionals/reseau/consulter-le-profil-des-utilisateurs-sur-le-reseau)), you will find the list of discussion threads where you and this colleague have participated, which will include all the history of clinical and non-clinical threads, open or closed.
+If you navigate to the profile of a colleague with whom you have had discussions (here's [how](https://support-en.braver.net/guides/for-professionals/network/view-user-profiles-on-network)), you will find the list of discussion threads where you and this colleague have participated, which will include all the history of clinical and non-clinical threads, open or closed.
 
 ### Discussion Threads Linked to Patient Files
 

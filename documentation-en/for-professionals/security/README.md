@@ -26,7 +26,7 @@ If you want to know more about our security model, we can provide you with very 
 [Contact us if needed!](mailto:security@braver.health)
 {% endhint %}
 
-**Feel free to consult** [**our dedicated guides**](https://support-en.braver.net/guides/for-professionals/securite) **to quickly see how to configure security elements of your account.**
+**Feel free to consult** [**our dedicated guides**](https://support-en.braver.net/guides/for-professionals/security) **to quickly see how to configure security elements of your account.**
 
 ### Two-Factor Authentication
 

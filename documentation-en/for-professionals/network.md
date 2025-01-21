@@ -6,7 +6,7 @@ icon: globe
 
 In the Network tab of Braver, you will find **your** network. This network is **yours**, meaning you are the only one who can see what you add to it, and it allows you to easily access the people or teams you work with most frequently, so you can quickly communicate with them.
 
-**Feel free to consult** [**our dedicated guides**](https://support-en.braver.net/guides/for-professionals/reseau) **to quickly understand how to use the network.**
+**Feel free to consult** [**our dedicated guides**](https://support-en.braver.net/guides/for-professionals/network) **to quickly understand how to use the network.**
 
 <details>
 
@@ -24,7 +24,7 @@ In the Network tab of Braver, you will find **your** network. This network is **
 * In the Network tab of Braver, you can find all members of the internal or external network of your workplace in the search bar.
 * If you frequently communicate with a healthcare professional, it is a good practice to add them to your directory. Adding them to discussion threads will be faster as they will be suggested immediately.
 * When you add a professional to your directory, they are not notified.
-  * Here is [how to add people to your directory](https://support-en.braver.net/guides/for-professionals/reseau/ajouter-un-contact-a-votre-bottin). Adding workplaces works the same way.
+  * Here is [how to add people to your directory](https://support-en.braver.net/guides/for-professionals/network/add-contact-to-directory). Adding workplaces works the same way.
 * If you invite a colleague to be a **friend**, they will also be added to your directory immediately and will be notified of this request.
 
 </details>
@@ -40,8 +40,8 @@ To find healthcare professionals outside your organization, you must have a vali
 
 Your profession can be validated in two ways:
 
-* Another Braver user with a validated profession invites you to the network. Here is [how to accept an invitation](https://support-en.braver.net/guides/for-professionals/creation-de-compte/accepter-une-invitation) and [how to send one](https://support-en.braver.net/guides/for-professionals/reseau/inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver).
-* You add a profession to your profile and provide proof to the Braver verification team. Here is [how to add a profession to your profile](https://support-en.braver.net/guides/for-professionals/gestion-du-profil/ajouter-sa-profession).
+* Another Braver user with a validated profession invites you to the network. Here is [how to accept an invitation](https://support-en.braver.net/guides/for-professionals/account-creation/accept-invitation) and [how to send one](https://support-en.braver.net/guides/for-professionals/network/invite-healthcare-professional-to-join-braver-network).
+* You add a profession to your profile and provide proof to the Braver verification team. Here is [how to add a profession to your profile](https://support-en.braver.net/guides/for-professionals/profile-management/add-profession).
 {% endhint %}
 
 Once you have found the people or workplaces you want to keep handy, click the **Add to my directory!** button.

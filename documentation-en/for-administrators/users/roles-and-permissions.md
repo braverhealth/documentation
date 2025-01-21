@@ -5,7 +5,7 @@
 * A permission is a unit combining an <mark style="color:purple;">**action**</mark> and a <mark style="color:green;">**target**</mark>
   * For example, "<mark style="color:purple;">**Create**</mark> a <mark style="color:green;">**workplace**</mark>"
 * A role groups a series of permissions
-* A user can be granted a role for a given [organizational unit](../unites-organisationnelles/)
+* A user can be granted a role for a given [organizational unit](../organizational-units/)
 
 Braver inherently includes some basic roles to minimize management needs, but it is possible to configure permission combinations into roles to meet specific organizational requirements.
 

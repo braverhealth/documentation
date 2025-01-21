@@ -31,4 +31,4 @@ A Braver user who is a member of multiple organizations can only have one active
 Thus, the channels or patient files they have access to at any given time are always those of a single organization at a time, and the identification of this active organization is visually evident in the application.
 {% endhint %}
 
-A Braver user may not be a healthcare professional if they are explicitly invited into a [care channel](https://docs.google.com/document/d/1OxaaFzT7lZjQyaFeG_DALoue5b6wGzeR4pDodEXeHpA/edit#heading=h.6dmeksci3s91) or an organization.
+A Braver user may not be a healthcare professional if they are explicitly invited into a [care channel](../for-professionals/care-channels.md) or an organization.

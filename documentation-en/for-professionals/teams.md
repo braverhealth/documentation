@@ -6,7 +6,7 @@ icon: users
 
 When creating a discussion thread, you can include individuals and **teams**. Proper configuration of teams allows Braver to notify the right people at the right time.
 
-**Feel free to consult** [**our dedicated guides**](https://support-en.braver.net/guides/for-professionals/equipes) **to quickly understand how to use teams.**
+**Feel free to consult** [**our dedicated guides**](https://support-en.braver.net/guides/for-professionals/teams) **to quickly understand how to use teams.**
 
 <details>
 
