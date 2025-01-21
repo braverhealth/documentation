@@ -23,7 +23,7 @@ Here is a concrete example of a healthcare organization structure:
 1. Share your organization's name with the Braver team using the following form
 2. Wait for a Braver team member to contact you for the next steps
 
-{% embed url="https://braverhealth.typeform.com/to/JrwlUShz" %}
+{% embed url="https://braverhealth.typeform.com/to/smKccheM" %}
 {% endstep %}
 
 {% step %}

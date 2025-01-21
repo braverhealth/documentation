@@ -4,7 +4,7 @@ icon: message-pen
 
 # Discussion Threads
 
-All information exchanges on the platform are done through discussion threads (and through [direct messages with friends](https://support-en.braver.net/for-professionals/reseau#vos-amis), but these are not covered on this page).
+All information exchanges on the platform are done through discussion threads (and through [direct messages with friends](https://support-en.braver.net/for-professionals/network#your-friends), but these are not covered on this page).
 
 Discussion threads can include messages (text, voice, and video), files (photos, videos, or documents). A thread can be closed when it is considered finished, making it immutable.
 
@@ -16,7 +16,7 @@ When you are invited to a discussion thread by a colleague outside your organiza
 
 If you accept the discussion thread, you can start exchanging messages or content.
 
-You can later leave the discussion thread when you consider it appropriate, which will make it disappear from your [active threads](discussion-threads.md#fils-actifs). However, it will still be accessible in relevant places (e.g., colleague's profile, patient file, etc.).
+You can later leave the discussion thread when you consider it appropriate, which will make it disappear from your [active threads](discussion-threads.md#active-threads). However, it will still be accessible in relevant places (e.g., colleague's profile, patient file, etc.).
 
 ## Types of Discussion Threads
 
