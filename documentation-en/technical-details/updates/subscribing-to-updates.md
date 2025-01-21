@@ -10,4 +10,4 @@ icon: envelope-dot
 To unsubscribe, fill out the form as if you were registering and then at the end, select that you do not accept receiving updates.
 {% endhint %}
 
-{% embed url="https://braverhealth.typeform.com/to/gD7OTUI7" fullWidth="true" %}
+{% embed url="https://braverhealth.typeform.com/to/WPTys0mb" fullWidth="true" %}
