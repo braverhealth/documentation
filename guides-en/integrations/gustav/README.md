@@ -22,12 +22,12 @@ layout:
 
 <figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.50.42 (1).gif" alt=""><figcaption></figcaption></figure>
 
-### Avantages de l'intégration Gustav et Braver
+### Advantages of Gustav and Braver Integration
 
-* Aucune nécessité de dédoubler la gestion des accès à Braver pour les usagers de Gustav. **L'octroi d'accès est automatique en fonction de votre configuration de Gustav.**
-* La gestion des équipes, des lieux de travail et de l'index patient est complètement automatisée
-* Le personnel soignant peut rester dans Gustav et être tout de même notifié des messages importants ou d'appels issus de Braver
+* No need to duplicate Braver access management for Gustav users. **Access is automatically granted based on your Gustav configuration.**
+* Team, workplace, and patient index management is fully automated
+* Healthcare staff can stay in Gustav and still be notified of important messages or calls from Braver
 
-[**Contactez-nous pour en savoir plus !**](https://braverhealth.typeform.com/to/D8CEMzqZ?typeform-source=support.braver.net)
+[**Contact us to learn more!**](https://braverhealth.typeform.com/to/D8CEMzqZ?typeform-source=support.braver.net)
 
-{% include "../../.gitbook/includes/si-vous-deployez-actuelleme....md" %}
+{% include "../../.gitbook/includes/if-you-are-currently-deploying.md" %}

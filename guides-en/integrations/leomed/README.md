@@ -22,35 +22,35 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 22.34.16.gif" alt=""><figcaption></figcaption></figure></div>
 
-### Avantages de l'intégration Leomed et Braver
+### Advantages of Leomed and Braver Integration
 
-* Aucune nécessité de dédoubler la gestion des accès à Braver pour les usagers de Leomed. **L'octroi d'accès est automatique en fonction de votre configuration de Gustav.**
-* La gestion des équipes, des lieux de travail et de l'index patient est complètement automatisée
-* Le personnel soignant peut rester dans Leomed et être tout de même notifié des messages importants ou d'appels issus de Braver, et appeler le patient ou proche aidant au besoin
-* Les tâches automatisées envoyées aux patients et proches aidants peuvent être transmises de manière sécurisée à travers le portail patient et proches aidants de Braver !
+* No need to duplicate access management to Braver for Leomed users. **Access is automatically granted based on your Gustav configuration.**
+* Team, workplace, and patient index management is completely automated
+* Healthcare staff can remain in Leomed and still be notified of important messages or calls from Braver, and call the patient or caregiver as needed
+* Automated tasks sent to patients and caregivers can be securely transmitted through Braver's patient and caregiver portal!
 
-[**Contactez-nous pour en savoir plus !**](https://braverhealth.typeform.com/to/D8CEMzqZ?typeform-source=support.braver.net)
+[**Contact us to learn more!**](https://braverhealth.typeform.com/to/D8CEMzqZ?typeform-source=support.braver.net)
 
-### Si vous déployez actuellement cette intégration
+### If you are currently deploying this integration
 
-{% content-ref url="../../pour-les-administrateurs/guide-de-configuration/" %}
-[guide-de-configuration](../../pour-les-administrateurs/guide-de-configuration/)
+{% content-ref url="../../for-administrators/configuration-guide/" %}
+[configuration-guide](../../for-administrators/configuration-guide/)
 {% endcontent-ref %}
 
-Quelques liens utiles :
+Some useful links:
 
-* [Informations sur la connectivité](https://support.braver.net/details-techniques/connectivite)
-* [Informations sur la compatibilité des appareils](https://support.braver.net/details-techniques/compatibilite)
-* [Documentation pour les administrateurs](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/pour-debuter)
+* [Connectivity Information](https://support.braver.net/technical-details/connectivity)
+* [Device Compatibility Information](https://support.braver.net/technical-details/compatibility)
+* [Administrator Documentation](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/for-administrators/get-started)
 
-### Pour en apprendre plus sur l'utilisation
+### To learn more about usage
 
-{% content-ref url="../../pour-les-professionnels/creation-de-compte/activation-dun-compte-par-la-bulle-integree.md" %}
-[activation-dun-compte-par-la-bulle-integree.md](../../pour-les-professionnels/creation-de-compte/activation-dun-compte-par-la-bulle-integree.md)
+{% content-ref url="../../for-professionals/account-creation/activate-account-via-integrated-bubble.md" %}
+[activate-account-via-integrated-bubble.md](../../for-professionals/account-creation/activate-account-via-integrated-bubble.md)
 {% endcontent-ref %}
 
-{% content-ref url="activer-un-compte-patient-ou-proche-aidant.md" %}
-[activer-un-compte-patient-ou-proche-aidant.md](activer-un-compte-patient-ou-proche-aidant.md)
+{% content-ref url="activate-patient-or-caregiver-account.md" %}
+[activate-patient-or-caregiver-account.md](activate-patient-or-caregiver-account.md)
 {% endcontent-ref %}
 
-Nous avons également une [série de formations détaillées](https://app.gitbook.com/s/mZQ8lm0cUSwr36vZBzik/pour-les-professionnels/readme) !
+We also have a [series of detailed training sessions](https://app.gitbook.com/s/mZQ8lm0cUSwr36vZBzik/for-professionals/readme)!

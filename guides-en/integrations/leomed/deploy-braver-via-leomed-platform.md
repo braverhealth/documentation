@@ -1,62 +1,62 @@
 ---
-description: Configurer votre organisation en seulement 3 étapes !
+description: Configure your organization in just 3 steps!
 ---
 
-# Déployer Braver via Leomed
+# Deploy Braver via Leomed
 
 {% hint style="info" %}
-Le processus comprend la plupart du temps la création d'un environnement en pré-production puis la création d'un second en production. La première étape est requise une seule fois, car nous utiliserons les mêmes informations.
+The process typically involves creating a pre-production environment and then a production environment. The first step is required only once, as we will use the same information.
 
-**Les deux autres étapes devront par contre être répétées pour les deux environnements.**
+**The other two steps will need to be repeated for both environments.**
 {% endhint %}
 
-### Voici les étapes à suivre pour configurer votre organisation dans Braver :
+### Here are the steps to configure your organization in Braver:
 
 {% stepper %}
 {% step %}
-**Partager les informations de votre organisation à l'équipe Braver**
+**Share your organization's information with Braver team**
 
-Compléter le formulaire ci-dessous :
+Complete the form below:
 
 {% embed url="https://braverhealth.typeform.com/to/xuw0zj3i" %}
 {% endstep %}
 
 {% step %}
-**Accéder à l'application administrative**
+**Access administrative application**
 
 {% hint style="warning" %}
-Avant de procéder à cette étape, vous devez attendre qu'un membre de l'équipe Gustav ou Braver vous confirme que l'intégration est fonctionnelle.
+Before proceeding with this step, you must wait for a member of Gustav or Braver team to confirm that the integration is functional.
 
-Par la suite, si vous n'avez pas encore créé votre compte, vous devriez avoir reçu une invitation par courriel. Voici [le tutoriel](../../pour-les-professionnels/creation-de-compte/creation-de-compte-autonome.md) pour vous aider à créer votre compte.
+Subsequently, if you have not yet created your account, you should have received an email invitation. Here is [the tutorial](../../for-professionals/account-creation/independent-account-creation.md) to help you create your account.
 {% endhint %}
 
-Vous pouvez accéder à l'application administrative via [https://admin.braver.net](https://admin.braver.net/#/login). Utilisez les mêmes informations que vous utilisez pour vous connecter à votre compte Braver (email + mot de passe)
+You can access the administrative application via [https://admin.braver.net](https://admin.braver.net/#/login). Use the same information you use to log into your Braver account (email + password)
 {% endstep %}
 
 {% step %}
-**Octroyer le rôle "Admin" aux bonnes personnes**
+**Grant "Admin" role to the right people**
 
-Voici [comment octroyer un rôle à un utilisateur.](../../pour-les-administrateurs/utilisateurs/comment-octroyer-un-role-a-un-utilisateur-existant.md)
+Here is [how to grant a role to an existing user.](../../for-administrators/users/how-to-grant-role-to-existing-user.md)
 
 {% hint style="info" %}
-Lors de l'activation du compte Braver des utilisateurs, la plateforme Leomed fournit à Braver l'ensemble des rôles et permissions à l'exception du rôle "Admin". Ce rôle doit donc être octroyé manuellement dans l'application administrative de Braver.
+When activating Braver user accounts, the Leomed platform provides Braver with all roles and permissions except the "Admin" role. This role must therefore be manually granted in Braver's administrative application.
 
-Le rôle Admin donne la permission à un utilisateur de se connecter à l'application administrative et d'ainsi créer des lieux de travail, des équipes et d'inviter des utilisateurs. Toutefois, comme vous utilisez Braver via une intégration avec Leomed, toutes ces actions sont facilitées pour vous par l'intégration entre les deux plateformes.
+The Admin role gives a user permission to log into the administrative application and thus create workplaces, teams, and invite users. However, since you are using Braver via an integration with Leomed, all these actions are facilitated for you by the integration between the two platforms.
 {% endhint %}
 
-La fonctionnalité qui vous sera la plus utile dans l'application administrative de Braver est **le journal d'audit**. Voici [comment faire une recherche dans le journal d'audit](../../pour-les-administrateurs/journaux-daudit/comment-faire-une-recherche-dans-le-journal-daudits.md).
+The most useful functionality in Braver's administrative application will be **the audit log**. Here is [how to search in the audit log](../../for-administrators/audit-logs/how-to-search-in-audit-logs.md).
 {% endstep %}
 {% endstepper %}
 
 {% hint style="info" %}
-Pour l'invitation des patients et proches aidants, celle-ci se fait au travers Leomed. Voici [le tutoriel](activer-un-compte-patient-ou-proche-aidant.md) pour vous guider.
+For inviting patients and caregivers, this is done through Leomed. Here is [the tutorial](activate-patient-or-caregiver-account.md) to guide you.
 {% endhint %}
 
 {% hint style="success" %}
-**Félicitations, votre organisation fait maintenant partie du réseau Braver !** 🎉
+**Congratulations, your organization is now part of the Braver network!** 🎉
 
-Il ne reste que deux sections à parcourir :
+Only two sections remain to be reviewed:
 
-* [Module patient et proche aidant](../../pour-les-administrateurs/guide-de-configuration/)
-* [Autres détails techniques](../../pour-les-administrateurs/guide-de-configuration/)
+* [Patient and Caregiver Module](../../for-administrators/configuration-guide/)
+* [Other Technical Details](../../for-administrators/configuration-guide/)
 {% endhint %}
