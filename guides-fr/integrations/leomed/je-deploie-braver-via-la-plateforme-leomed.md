@@ -25,7 +25,7 @@ Compléter le formulaire ci-dessous :
 **Accéder à l'application administrative**
 
 {% hint style="warning" %}
-Avant de procéder à cette étape, vous devez attendre qu'un membre de l'équipe Gustav ou Braver vous confirme que l'intégration est fonctionnelle.
+Avant de procéder à cette étape, vous devez attendre qu'un membre de l'équipe Leomed ou Braver vous confirme que l'intégration est fonctionnelle.
 
 Par la suite, si vous n'avez pas encore créé votre compte, vous devriez avoir reçu une invitation par courriel. Voici [le tutoriel](../../pour-les-professionnels/creation-de-compte/creation-de-compte-autonome.md) pour vous aider à créer votre compte.
 {% endhint %}
