@@ -6,7 +6,7 @@ icon: android
 
 Plusieurs paramètres système peuvent empêcher la réception immédiate des notifications sur les appareils Android.&#x20;
 
-Si la réception en temps réel est critique pour votre organisation, voici les principales causes à vérifier :
+Si la réception en temps réel est critique pour vous ou votre organisation, voici les principales causes à vérifier :
 
 {% content-ref url="mode-global-deconomie-denergie-et-de-donnees.md" %}
 [mode-global-deconomie-denergie-et-de-donnees.md](mode-global-deconomie-denergie-et-de-donnees.md)
