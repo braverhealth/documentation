@@ -1,3 +1,7 @@
+---
+icon: android
+---
+
 # Réglages particuliers pour Android
 
 Plusieurs paramètres système peuvent empêcher la réception immédiate des notifications sur les appareils Android.&#x20;
