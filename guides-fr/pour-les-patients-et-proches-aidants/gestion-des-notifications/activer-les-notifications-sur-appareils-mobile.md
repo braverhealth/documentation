@@ -6,7 +6,7 @@ Braver vous supportera davantage dans votre pratique si nous sommes en mesure de
 
 {% tabs %}
 {% tab title="iPhone ou iPad" %}
-#### Pas-à-pas
+**Pas-à-pas**
 
 {% stepper %}
 {% step %}
@@ -38,7 +38,7 @@ Assurez-vous que les 3 options d'affichage sont sélectionnées.
 {% endtab %}
 
 {% tab title="Android" %}
-#### Pas à pas
+**Pas à pas**
 
 {% stepper %}
 {% step %}
@@ -77,5 +77,7 @@ Assurez-vous que les 3 options d'affichage sont sélectionnées.
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobile Android - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
+
+{% include "../../.gitbook/includes/pour-garantir-la-reception-....md" %}
 {% endtab %}
 {% endtabs %}

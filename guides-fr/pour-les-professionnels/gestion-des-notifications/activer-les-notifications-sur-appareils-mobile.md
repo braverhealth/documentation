@@ -6,11 +6,11 @@ Braver vous soutiendra davantage dans votre pratique si nous sommes en mesure de
 
 {% tabs %}
 {% tab title="iPhone ou iPad" %}
-#### Pas-à-pas
+**Pas-à-pas**
 
 {% stepper %}
 {% step %}
-**Sur votre appareil mobile, rendez-vous dans vos _Réglages_.**
+**Sur votre appareil mobile, rendez-vous dans vos&#x20;**_**Réglages**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobiles iOS - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -28,7 +28,7 @@ Braver vous soutiendra davantage dans votre pratique si nous sommes en mesure de
 {% endstep %}
 
 {% step %}
-**Activez l'interrupteur afin d'_Autoriser les notifications_.**
+**Activez l'interrupteur afin d'**_**Autoriser les notifications**_**.**
 
 Assurez-vous que les 3 options d'affichage sont sélectionnées.
 
@@ -38,7 +38,7 @@ Assurez-vous que les 3 options d'affichage sont sélectionnées.
 {% endtab %}
 
 {% tab title="Android" %}
-#### Pas-à-pas
+**Pas-à-pas**
 
 {% stepper %}
 {% step %}
@@ -66,7 +66,7 @@ Assurez-vous que les 3 options d'affichage sont sélectionnées.
 {% endstep %}
 
 {% step %}
-**Dans paramètres, cliquez sur _Notifications_ et allez dans la liste des _Notifications de l'application_.**
+**Dans paramètres, cliquez sur&#x20;**_**Notifications**_**&#x20;et allez dans la liste des&#x20;**_**Notifications de l'application**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobile Android - Step 5.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -77,5 +77,7 @@ Assurez-vous que les 3 options d'affichage sont sélectionnées.
 <div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobile Android - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
+
+{% include "../../.gitbook/includes/pour-garantir-la-reception-....md" %}
 {% endtab %}
 {% endtabs %}
