@@ -1,8 +1,8 @@
 # Réglages particuliers pour Android
 
-Les appareils mobiles Android peuvent être réglés de sorte à prévenir la réception immédiate des notifications. Ceci peut être problématique dans votre cas s'il vous est primordial d'être notifié en temps réels lorsque des messages vous sont envoyé.
+Plusieurs paramètres système peuvent empêcher la réception immédiate des notifications sur les appareils Android.&#x20;
 
-Voici les principales causes de notifications retardées pouvant affecter les appareils Android:
+Si la réception en temps réel est critique pour votre organisation, voici les principales causes à vérifier :
 
 {% content-ref url="mode-global-deconomie-denergie-et-de-donnees.md" %}
 [mode-global-deconomie-denergie-et-de-donnees.md](mode-global-deconomie-denergie-et-de-donnees.md)
