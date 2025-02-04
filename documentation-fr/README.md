@@ -79,7 +79,7 @@ Commencer par [un survol](pour-les-administrateurs/pour-debuter.md), ou passez d
 
 Et si vous avez besoin de connaître les détails techniques en vue d'un déploiement
 
-* [Informations sur la compatibilité](details-techniques/compatibilite.md)
+* [Informations sur la compatibilité](details-techniques/compatibilite/)
 * [Informations sur la connectivité](details-techniques/connectivite.md)
 
 </details>

@@ -9,11 +9,17 @@ icon: mobile-notch
 * Version d'**iOS** / **iPadOS** minimale: **15.1**
 * Version d'**Android** minimale: **7.0**
 
+{% hint style="danger" %}
+Pour garantir la réception en temps réel des notifications sur les appareils Android de votre parc, consultez notre guide de dépannage qui identifie les paramètres système à vérifier.
+
+[**Réglages particuliers pour Android**](reglages-particuliers-pour-android/)
+{% endhint %}
+
 <details>
 
 <summary>Utilisation en mode "géré à distance"</summary>
 
-Si vous êtes une organisation de santé et que vous désirez distribuer Braver à des patients ou proches aidants sur des appareils mobiles qui vous appartiennent, vous avez la possibilité d'utiliser Braver en [mode **géré à distance**](../pour-les-administrateurs/appareil-mobile-gere-a-distance.md).
+Si vous êtes une organisation de santé et que vous désirez distribuer Braver à des patients ou proches aidants sur des appareils mobiles qui vous appartiennent, vous avez la possibilité d'utiliser Braver en [mode **géré à distance**](../../pour-les-administrateurs/appareil-mobile-gere-a-distance.md).
 
 Dans ce mode:
 

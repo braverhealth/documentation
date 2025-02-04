@@ -46,6 +46,6 @@ Braver est structuré de sorte à fournir le maximum de convivialité aux utilis
 [connectivite.md](../details-techniques/connectivite.md)
 {% endcontent-ref %}
 
-{% content-ref url="../details-techniques/compatibilite.md" %}
-[compatibilite.md](../details-techniques/compatibilite.md)
+{% content-ref url="../details-techniques/compatibilite/" %}
+[compatibilite](../details-techniques/compatibilite/)
 {% endcontent-ref %}

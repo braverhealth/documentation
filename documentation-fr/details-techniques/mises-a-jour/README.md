@@ -18,8 +18,8 @@ Les mises à jour qui représentent autant des nouvelles fonctionnalités import
 
 ### Fréquence des mises à jour
 
-* **En cas de nouvelles fonctionnalités importantes**, nous enverrons une notification par courriel et un article de [suivi de version](https://app.gitbook.com/s/57ZaWz2PEvUFxecHed5o/) au moins quatre (4) semaines à l'avance, en référant à un ou plusieurs guides accessibles publiquement. Ceci vous permettra de communiquer les changements pertinents à votre équipe au besoin.
-* **En cas d'améliorations mineures de l'application**, nous enverrons une notification par courriel et un article de [suivi de version](https://app.gitbook.com/s/57ZaWz2PEvUFxecHed5o/) au moins une (1) semaine à l'avance, en référant _si pertinent_ à un ou plusieurs guides accessibles publiquement. Ceci vous permettra de communiquer les changements pertinents à votre équipe au besoin.
+* **En cas de nouvelles fonctionnalités importantes**, nous enverrons une notification par courriel et un article de [suivi de version](https://app.gitbook.com/o/zMIZEnF83uQLxLHiNR0f/s/57ZaWz2PEvUFxecHed5o/) au moins quatre (4) semaines à l'avance, en référant à un ou plusieurs guides accessibles publiquement. Ceci vous permettra de communiquer les changements pertinents à votre équipe au besoin.
+* **En cas d'améliorations mineures de l'application**, nous enverrons une notification par courriel et un article de [suivi de version](https://app.gitbook.com/o/zMIZEnF83uQLxLHiNR0f/s/57ZaWz2PEvUFxecHed5o/) au moins une (1) semaine à l'avance, en référant _si pertinent_ à un ou plusieurs guides accessibles publiquement. Ceci vous permettra de communiquer les changements pertinents à votre équipe au besoin.
 * **En cas de correction de bogues**, nous enverrons une notification par courriel aussitôt que la mise à jour sera publiée et disponible aux utilisateurs.
 
 [^1]: La désinscription se fait par le même formulaire que l'inscription.

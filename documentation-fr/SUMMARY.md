@@ -42,7 +42,14 @@
 ## Détails techniques
 
 * [Connectivité](details-techniques/connectivite.md)
-* [Compatibilité](details-techniques/compatibilite.md)
+* [Compatibilité](details-techniques/compatibilite/README.md)
+  * [Réglages particuliers pour Android](details-techniques/compatibilite/reglages-particuliers-pour-android/README.md)
+    * [Mode global d'économie d'énergie et de données](details-techniques/compatibilite/reglages-particuliers-pour-android/mode-global-deconomie-denergie-et-de-donnees.md)
+    * [Restrictions individuelle de batterie et de données](details-techniques/compatibilite/reglages-particuliers-pour-android/restrictions-individuelle-de-batterie-et-de-donnees.md)
+    * [Utilisation adaptive de la batterie](details-techniques/compatibilite/reglages-particuliers-pour-android/utilisation-adaptive-de-la-batterie.md)
+    * [Réduction intelligente de l'utilisation Wifi](details-techniques/compatibilite/reglages-particuliers-pour-android/reduction-intelligente-de-lutilisation-wifi.md)
+    * [Notifications adaptives](details-techniques/compatibilite/reglages-particuliers-pour-android/notifications-adaptives.md)
+    * [Mise en veille d'applications en arrière-plan](details-techniques/compatibilite/reglages-particuliers-pour-android/mise-en-veille-dapplications-en-arriere-plan.md)
 * [Mises à jour](details-techniques/mises-a-jour/README.md)
   * [Inscription aux mises à jour](details-techniques/mises-a-jour/inscription-aux-mises-a-jour.md)
 * [Information légale](details-techniques/information-legale.md)

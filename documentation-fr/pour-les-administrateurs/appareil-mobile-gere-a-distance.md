@@ -12,8 +12,8 @@ Lorsque déployée de cette manière sur un appareil iOS correctement configuré
 
 Les tablettes recommandées pour ce mode simplifié d’activation sont toutes tablettes de type iPad ou iPhone fabriquées depuis l’automne 2020 (à partir du iPad de 8ème génération).
 
-{% content-ref url="../details-techniques/compatibilite.md" %}
-[compatibilite.md](../details-techniques/compatibilite.md)
+{% content-ref url="../details-techniques/compatibilite/" %}
+[compatibilite](../details-techniques/compatibilite/)
 {% endcontent-ref %}
 
 Lorsque ce mode d’activation est utilisé, la préparation d’une tablette pour un patient admis se résume aux trois étapes suivantes:
