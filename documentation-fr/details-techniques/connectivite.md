@@ -29,6 +29,7 @@ Les URLs principales accédées par les utilisateurs seront pour l'[application 
 
 ```url
 https://*.pre-prod.braver.dev
+https://embedder.braver.dev
 ```
 
 {% hint style="info" %}
