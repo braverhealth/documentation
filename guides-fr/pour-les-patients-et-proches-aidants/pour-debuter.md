@@ -15,8 +15,6 @@ icon: flag
 * [Répondez à un message dans un fil de discussion](fils-de-discussion/repondre-a-un-nouveau-message.md)
 * [Allez consulter les pièces jointes d'un fil de discussion](fils-de-discussion/acceder-aux-pieces-jointes-dans-un-fil-de-discussion.md)
 
-
-
 ## Tutoriels pour aller plus loin
 
 ### Utiliser Braver
@@ -52,7 +50,3 @@ icon: flag
 {% content-ref url="securite/" %}
 [securite](securite/)
 {% endcontent-ref %}
-
-## Pour suivre une formation guidée
-
-[Consulter nos outils de formation](pour-debuter.md#pour-suivre-une-formation-complete).

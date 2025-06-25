@@ -12,7 +12,7 @@ icon: envelope-open-text
 {% step %}
 **Dans le courriel que vous avez reçu, cliquez sur le bouton vous invitant à accepter l'invitation.**
 
-<figure><img src="../.gitbook/assets/CleanShot 2025-06-12 at 15.28.43@2x.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 08.31.21@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -20,7 +20,7 @@ icon: envelope-open-text
 
 Choisissez l'option "Créer un nouveau compte".
 
-<div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Option 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 08.35.24@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Ce n'est pas ce qui s'affiche à votre écran? [Cliquez ici.](accepter-une-invitation.md#autres-cas)
@@ -28,17 +28,15 @@ Ce n'est pas ce qui s'affiche à votre écran? [Cliquez ici.](accepter-une-invit
 {% endstep %}
 
 {% step %}
-**Inscrivez votre adresse courriel et le mot de passe de votre choix. Sélectionnez ensuite**_\*\* Créer mon compte \*\*_**.**
+**Inscrivez votre adresse courriel et le mot de passe de votre choix. Sélectionnez ensuite&#x20;**_**Créer mon compte**_**.**
 
-<div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-
+<figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 08.37.12@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **Récupérez le code de sécurité à 6 chiffres dans vos courriels et saisissez-le dans le champ de texte prévu à cet effet.**
 
-
+<figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 08.40.18@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -46,37 +44,33 @@ Ce n'est pas ce qui s'affiche à votre écran? [Cliquez ici.](accepter-une-invit
 
 Faites défiler jusqu'en bas de la page pour accepter
 
-<div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 08.43.48@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Créez votre code de récupération en cliquant sur**_\*\* Débuter \*\*_**.**
+**Créez votre code de récupération en cliquant sur** _**Débuter**_**.**
 
-<div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
-
-
+<figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 09.43.40@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Cliquez ensuite sur**_\*\* Créer mon code de récupération \*\*_**. Il sera dans vos courriels.**
+**Cliquez ensuite sur&#x20;**_**Créer mon code de récupération**_**. Il sera dans vos courriels.**
 
 {% hint style="info" %}
-Vérifiez vos indésirables s'il n'apparaît pas dans votre boîte courriel rapidement!
+Vérifiez vos indésirables s'il n'apparaît pas dans votre boîte courriel!
 {% endhint %}
 
-<div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 09.46.44@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Gardez ce code dans un lieu sécuritaire!
+Gardez ce code dans un lieu sécuritaire! Il vous servira si vous perdez votre mot de passe.
 {% endhint %}
-
-
 {% endstep %}
 
 {% step %}
-**Configurez un NIP qui vous servira à déverrouiller facilement votre application si vous n'avez pas l'option de reconnaissance faciale. Cliquez sur**_\*\* Configurer \*\*_**.**
+**Configurez un NIP qui vous servira à déverrouiller facilement votre application si vous n'avez pas l'option de reconnaissance faciale. Cliquez sur .**
 
-<div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 10.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 09.48.30@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 {% endstep %}
@@ -84,7 +78,7 @@ Gardez ce code dans un lieu sécuritaire!
 {% step %}
 **Entrez votre NIP et répétez-le une seconde fois.**
 
-<div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 11.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 11.jpeg" alt="" width="262"><figcaption></figcaption></figure></div>
 
 
 {% endstep %}
@@ -98,7 +92,7 @@ Vous devrez soit **répondre à une question de sécurité** ou **entrer un code
 S'il vous demande un code secret, vous le trouverez **sous le bouton d'invitation** dans le courriel d'invitation sur lequel vous avez cliqué dans l'[étape 1](accepter-une-invitation.md#dans-le-courriel-que-vous-avez-recu-cliquez-sur-le-bouton-vous-invitant-a-accepter-linvitation).
 {% endhint %}
 
-<div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Step 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Step 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 {% endstep %}
