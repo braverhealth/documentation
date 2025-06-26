@@ -2,15 +2,19 @@
 
 ## Pas-à-pas
 
+{% hint style="warning" %}
+Vous souhaitez être notifié d'un nouveau message ou d'un appel en temps réel? Vous avez besoin de notre application native! Avant de passer aux étapes suivantes, téléchargez Braver sur votre appareil mobile. Pour un téléchargement rapide, [c'est par ici](https://www.braver.net/fr/download/).
+{% endhint %}
+
 {% stepper %}
 {% step %}
-#### À partir de l'[application Web](https://app.braver.net/) cliquez sur le bouton de transfert de session en bas à gauche.
+**À partir de l'**[**application Web**](https://app.braver.net/) **cliquez sur le bouton de transfert de session en bas à gauche.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/acceder-a-braver-sur-mobile-via-code-qr-partir-de-lapp-web - Step 1.jpeg" alt="" width="86"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### À l'aide de votre appareil mobile, scannez ce code QR.
+**À l'aide de votre appareil mobile, scannez ce code QR.**
 
 On vous demandera d'installer l'application, puis vous aurez accès à votre session sans vous connecter. Le code QR vous donnera accès directement à votre session.
 

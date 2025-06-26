@@ -2,6 +2,10 @@
 
 ## Pas-à-pas
 
+{% hint style="warning" %}
+Vous souhaitez être notifié d'un nouveau message ou d'un appel en temps réel? Vous avez besoin de notre application native! Avant de passer aux étapes suivantes, téléchargez Braver sur votre appareil mobile. Pour un téléchargement rapide, [c'est par ici](https://www.braver.net/fr/download/).
+{% endhint %}
+
 {% stepper %}
 {% step %}
 **À partir de la bulle intégrée dans un logiciel comme Gustav ou Leomed, vous verrez un petit icône de code QR en haut au centre.**
