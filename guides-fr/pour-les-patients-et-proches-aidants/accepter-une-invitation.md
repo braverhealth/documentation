@@ -6,6 +6,12 @@ icon: envelope-open-text
 
 ## Pas-à-pas
 
+{% hint style="warning" %}
+**Vous utiliserez Braver sur un cellulaire ou une tablette?** [Installez l'application Braver](https://www.braver.net/fr/download/) sur votre appareil mobile, avant de passer à l'étape 1. Vous serez notifié lors d'un nouveau message et votre appareil sonnera si on vous appelle.
+
+Si vous préférez utilisez Braver sur votre ordinateur, vous serez informé lors d'un nouveau message par courriel. Suivez les prochaines étapes sur votre ordinateur.
+{% endhint %}
+
 ### Cas fréquent
 
 {% stepper %}
@@ -48,7 +54,7 @@ Faites défiler jusqu'en bas de la page pour accepter
 {% endstep %}
 
 {% step %}
-**Créez votre code de récupération en cliquant sur** _**Débuter**_**.**
+**Créez votre code de récupération en cliquant sur&#x20;**_**Débuter**_**.**
 
 <figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 09.43.40@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
