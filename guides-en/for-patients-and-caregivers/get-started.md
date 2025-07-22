@@ -1,23 +1,25 @@
 ---
-icon: flag
 description: >-
-  In this section, you will find a tutorial bank in the form of videos and step-by-step guides that will help you familiarize yourself with each of Braver's features.
+  In this section, you will find a tutorial bank in the form of videos and
+  step-by-step guides that will help you familiarize yourself with each of
+  Braver's features.
+icon: flag
 ---
 
-# Start Here
+# Get Started Here
 
 ## Essential Tutorials to Get Started
 
-* If you have not yet accepted the invitation to join your care team on Braver, [click here](accept-invitation.md).
+* To accept the invitation to join your care team on Braver, [click here](accept-invitation.md).
 * [View the participants of your care team](care-teams/view-all-participants-in-care-team.md)
 * [Respond to a message in a discussion thread](discussion-threads/reply-to-new-message.md)
 * [Access attachments in a discussion thread](discussion-threads/access-attachments-in-discussion-thread.md)
 
-To discover more, the different sections below will help you explore Braver according to different themes.
+## Tutorials to go further
 
 ### Using Braver
 
-{% content-ref url="accept-an-invitation.md" %}
+{% content-ref url="accept-invitation.md" %}
 [accept-invitation.md](accept-invitation.md)
 {% endcontent-ref %}
 
