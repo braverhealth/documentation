@@ -1,9 +1,9 @@
 ---
-icon: file-certificate
 description: >-
   Cette formation peut être complétée de manière autonome en moins de 30
   minutes. Elle vous permettra de connaitre les bases essentielles pour débuter
   avec Braver.
+icon: file-certificate
 ---
 
 # Formation essentielle pour patient et proche aidant
@@ -30,4 +30,4 @@ Utiliser la barre de recherche et inscrivez ce que vous recherchez pour qu'on vo
 
 #### Besoin d'aide?
 
-[Cette page](https://app.gitbook.com/o/zMIZEnF83uQLxLHiNR0f/s/C7asQvRtcnnGS2hUcyO0/besoin-daide) vous propose différents moyens d'obtenir de l'aide en cas de besoin.
+[Cette page](https://support.braver.net/besoin-daide) vous propose différents moyens d'obtenir de l'aide en cas de besoin.
