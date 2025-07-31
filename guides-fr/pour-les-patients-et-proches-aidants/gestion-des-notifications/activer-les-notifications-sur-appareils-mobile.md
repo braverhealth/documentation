@@ -12,7 +12,7 @@ Braver vous supportera davantage dans votre pratique si nous sommes en mesure de
 {% step %}
 **Sur votre appareil mobile, rendez-vous dans vos** _**Réglages**_.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobiles iOS - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobiles iOS - Step 1.jpeg" alt="" width="72"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -24,7 +24,7 @@ Braver vous supportera davantage dans votre pratique si nous sommes en mesure de
 {% step %}
 **Retrouvez l'application Braver.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobiles iOS - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobiles iOS - Step 3.jpeg" alt="" width="337"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -32,7 +32,7 @@ Braver vous supportera davantage dans votre pratique si nous sommes en mesure de
 
 Assurez-vous que les 3 options d'affichage sont sélectionnées.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobiles iOS - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobiles iOS - Step 3.jpeg" alt="" width="337"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 {% endtab %}
