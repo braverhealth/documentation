@@ -20,4 +20,4 @@
 ## Pour les patients et proches aidants
 
 * [Bienvenue](pour-les-patients-et-proches-aidants/bienvenue.md)
-* [Formation essentielle pour patient et proche aidant](pour-les-patients-et-proches-aidants/formation-guidee.md)
+* [Formation essentielle pour patients et proches aidants](pour-les-patients-et-proches-aidants/formation-guidee.md)

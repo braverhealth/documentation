@@ -4,10 +4,10 @@ title: Ressources supplémentaires
 
 ### Guide
 
-Vous retrouverez dans [la section Guide](https://support.braver.net/guides/pour-les-professionnels/debuter-ici) des tutoriels pas-à-pas pour chacune des fonctionnalités de la plateforme
+Vous retrouverez dans [la section Guide](https://support.braver.net/guides/pour-les-professionnels/debuter-ici) des tutoriels pas-à-pas pour chacune des fonctionnalités de la plateforme.
 
 {% hint style="info" %}
-Utiliser la barre de recherche et inscrivez ce que vous recherchez pour qu'on vous guide vers le bon tutoriel.
+Utilisez la barre de recherche et inscrivez ce que vous recherchez pour qu'on vous guide vers le bon tutoriel.
 {% endhint %}
 
 ### Documentation

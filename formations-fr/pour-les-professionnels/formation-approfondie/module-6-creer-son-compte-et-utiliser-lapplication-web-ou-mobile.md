@@ -7,7 +7,7 @@ description: >-
 # Module 6 - Créer son compte et utiliser l’application Web ou mobile
 
 {% hint style="success" %}
-Pour consulter la présentation ci-dessous **en mode plein écran**, la **partager** et la **télécharger en format PDF**, [**utiliser ce lien**](https://pitch.braver.net/v/formation_utilisateurs_module6-2zz35c)**!**
+Pour consulter la présentation ci-dessous **en mode plein écran**, la **partager** et la **télécharger en format PDF**, [**utilisez ce lien**](https://pitch.braver.net/v/formation_utilisateurs_module6-2zz35c)**!**
 {% endhint %}
 
 {% embed url="https://pitch.com/embed-link/2zz35c" fullWidth="true" %}

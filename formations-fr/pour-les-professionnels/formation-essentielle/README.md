@@ -1,14 +1,14 @@
 ---
-icon: display-chart-up
 description: >-
-  Formation essentielle - Outil de formation pour les gens qui aiment apprendre
-  de manière active et le plus rapidement possible
+  Outil de formation pour les gens qui aiment apprendre de manière active et le
+  plus rapidement possible!
+icon: display-chart-up
 ---
 
 # Formation essentielle pour professionnels
 
 {% hint style="info" %}
-Cette formation sous forme d'apprentissage actif peut être complétée de manière autonome en moins d'une heure. Elle vous permettra de connaitre les bases essentielles pour débuter avec Braver.
+Cette formation - sous forme d'apprentissage actif - peut être complétée de manière autonome en moins d'une heure. Elle vous permettra de connaitre les bases essentielles pour débuter avec Braver.
 {% endhint %}
 
 ## Plan de formation

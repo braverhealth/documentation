@@ -1,14 +1,14 @@
 ---
-icon: person-chalkboard
 description: >-
-  Formation approfondie - Outil de formation pour les gens qui ont besoin de
-  comprendre la plateforme dans tous ces petits détails.
+  Outil de formation pour les gens qui ont besoin de comprendre la plateforme
+  dans tous ses petits détails.
+icon: person-chalkboard
 ---
 
 # Formation approfondie pour professionnels
 
 {% hint style="info" %}
-Cette formation plus détaillée peut être complétée de manière autonome ou magistrale en environ deux heures. Elle contient 6 modules ainsi que des annexes. Vous pouvez vous appropriez de matériel pour en faire votre outil de formation auprès de vos collègues.
+Cette formation plus détaillée peut être complétée de manière autonome ou magistrale en environ deux heures. Elle contient 6 modules ainsi que des annexes. Vous pouvez vous approprier ce matériel pour en faire votre outil de formation auprès de vos collègues.
 {% endhint %}
 
 ## Plan de formation

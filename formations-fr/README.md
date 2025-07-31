@@ -1,9 +1,9 @@
 ---
-icon: hand-wave
 description: >-
   Nous sommes ravis de vous accueillir dans la section Formation! Cette section
   comprend deux outils de formation qui peuvent s'adapter aux besoins des futurs
   utilisateurs de la plateforme.
+icon: hand-wave
 ---
 
 # Bienvenue
@@ -11,10 +11,10 @@ description: >-
 Quel type d'apprenant êtes-vous?
 
 {% hint style="warning" %}
-Si vous utilisez Braver car vous avez été invité(e) par une équipe de soins en tant que **patient** ou **proche aidant**, rendez-vous plutôt dans [la section prévue à cet effet](pour-les-patients-et-proches-aidants/bienvenue.md)!
+Si vous utilisez Braver car vous avez été invité par une équipe de soins en tant que **patient** ou **proche aidant**, rendez-vous plutôt dans [la section prévue à cet effet](pour-les-patients-et-proches-aidants/bienvenue.md)!
 {% endhint %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Vous aimez apprendre l'essentiel à l'aide de tâches</td><td><strong>Vous voulez être prêt le plus rapidement possible!</strong></td><td></td><td><a href="pour-les-professionnels/formation-essentielle/">formation-essentielle</a></td><td><a href=".gitbook/assets/formation-essentielle.png">formation-essentielle.png</a></td></tr><tr><td>Vous désirez comprendre un outil dans tous ces petits détails</td><td><strong>Vous préférez prendre le temps nécessaire</strong></td><td></td><td><a href="pour-les-professionnels/formation-approfondie/">formation-approfondie</a></td><td><a href=".gitbook/assets/formation-approfondie.png">formation-approfondie.png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Vous aimez apprendre l'essentiel à l'aide de tâches.</td><td><strong>Vous voulez être prêt le plus rapidement possible!</strong></td><td></td><td><a href="pour-les-professionnels/formation-essentielle/">formation-essentielle</a></td><td><a href=".gitbook/assets/formation-essentielle.png">formation-essentielle.png</a></td></tr><tr><td>Vous désirez comprendre un outil dans tous ces petits détails.</td><td><strong>Vous préférez prendre le temps nécessaire!</strong></td><td></td><td><a href="pour-les-professionnels/formation-approfondie/">formation-approfondie</a></td><td><a href=".gitbook/assets/formation-approfondie.png">formation-approfondie.png</a></td></tr></tbody></table>
 
 ### Plutôt du type à vouloir explorer par vous-même?
 

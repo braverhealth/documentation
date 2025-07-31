@@ -1,14 +1,12 @@
 ---
-description: >-
-  Tâches d'auto formation - Laissez-nous vous guider vers les fonctionnalités
-  principales
+description: Laissez-nous vous guider vers les fonctionnalités principales.
 icon: square-check
 ---
 
 # Tâches d'auto formation
 
 {% hint style="info" %}
-Voici 18 tâches à compléter dans la plateforme qui vous permettra de vous familiariser avec les fonctionnalités essentielles de Braver pour vous sentir confiant de débuter votre utilisation de l'app!
+Voici 18 tâches à compléter dans la plateforme qui vous permettra de vous familiariser avec les fonctionnalités essentielles de Braver pour vous sentir confiant à utiliser l'application!
 {% endhint %}
 
 ### Pour débuter
@@ -47,12 +45,12 @@ Voici 18 tâches à compléter dans la plateforme qui vous permettra de vous fam
 1. Cherchez le nom d'un professionnel et débutez un fil de discussion non clinique (qui ne doit pas être colligé dans la fiche patient) avec lui ([Tutoriel ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/fils-de-discussions/creer-un-fil-de-discussion-non-clinique))
 2. Ajoutez vos grands collaborateurs à votre bottin ([Tutoriel ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/reseau/ajouter-un-contact-a-votre-bottin))
 
-### Accéder à votre compte Braver:
+### Accédez à votre compte Braver
 
 1. Sur le web via [https://app.braver.net/](https://app.braver.net/)
 
 {% hint style="info" %}
-Mettez cet URL dans vos favoris ou retrouvez-là facilement sur le site internet de Braver
+Ajoutez cet URL dans vos favoris ou retrouvez-là facilement sur le site Internet de Braver.
 {% endhint %}
 
 2. Sur mobile à partir du code QR ([Tutoriel ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/creation-de-compte/acceder-a-braver-sur-mobile-via-code-qr-partir-de-lapp-web))

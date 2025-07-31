@@ -1,6 +1,6 @@
 ---
+description: Trousse de départ
 icon: face-sunglasses
-description: Bâtissez votre réseau de collaborateurs - Trousse de départ
 ---
 
 # Bâtissez votre réseau de collaborateurs

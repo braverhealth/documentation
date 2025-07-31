@@ -1,8 +1,6 @@
 ---
+description: Survol de l'application web, mobile et du module patient et proche aidant
 icon: graduation-cap
-description: >-
-  Pour aller un peu plus loin - Survol de l'application web, mobile et du module
-  patient et proche aidant
 ---
 
 # Pour aller un peu plus loin
@@ -19,11 +17,11 @@ L'utilisation d'une application de communication sur un appareil mobile (cellula
 
 Voici les avantages de Braver sur mobile (versus sur ordinateur):
 
-1. Soyez notifié en temps réel ([Tutoriel ici](https://braver.notion.site/Comprendre-les-notifications-72ca3fb5b4884a7e86931f589f5f055d?pvs=4))
-2. Gérez vos disponibilités pour préserver votre vie privée ([Tutoriel ici](https://braver.notion.site/R-gler-son-horaire-de-disponibilit-s-et-ses-p-riodes-d-indisponibilit-df45ec369cc14ce0905b1af0edc17a89?pvs=4))
-3. Enregistrez des messages audio retranscrits ([Tutoriel ici](https://braver.notion.site/Ajouter-un-message-vocal-une-discussion-25b94be29f5e452ba85ef994c331cad8?pvs=4))
-4. Prenez des photos et des vidéos qui ne s’afficheront pas dans votre pellicule ([Tutoriel ici](https://braver.notion.site/Ajouter-un-fichier-une-photo-ou-une-vid-o-un-fil-de-discussion-35b4b3a27dfc4b2e9f2ef8b749231bcf?pvs=4))
-5. Éditez des photos et des vidéos ([Tutoriel ici](https://braver.notion.site/diter-une-photo-ou-une-vid-o-2168d889382148b492817ff26fc1d452?pvs=4))
+1. Soyez notifié en temps réel
+2. Gérez vos disponibilités pour préserver votre vie privée ([Tutoriel ici](https://support.braver.net/guides/pour-les-professionnels/gestion-des-notifications/regler-son-horaire-de-disponibilites))
+3. Enregistrez des messages audio retranscrits ([Tutoriel ici](https://support.braver.net/guides/pour-les-professionnels/fils-de-discussions/ajouter-un-message-vocal-a-une-discussion))
+4. Prenez des photos et des vidéos qui ne s’afficheront pas dans votre pellicule ([Tutoriel ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/))
+5. Éditez des photos et des vidéos ([Tutoriel ici](https://support.braver.net/guides/pour-les-professionnels/fils-de-discussions/editer-une-photo-ou-une-video))
 
 ### Survol de l’application des patients et des proches aidants
 

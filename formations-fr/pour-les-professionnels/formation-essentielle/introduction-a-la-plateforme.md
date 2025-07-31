@@ -1,5 +1,5 @@
 ---
-description: Introduction à la plateforme - Qu'est-ce que Braver?
+description: Qu'est-ce que Braver?
 icon: location-dot
 ---
 
