@@ -4,8 +4,8 @@ title: Si vous déployez actuelleme...
 
 ## Si vous déployez actuellement cette intégration
 
-{% content-ref url="../../pour-les-administrateurs/guide-de-configuration/" %}
-[guide-de-configuration](../../pour-les-administrateurs/guide-de-configuration/)
+{% content-ref url="../../../guides-en/pour-les-administrateurs/guide-de-configuration/" %}
+[guide-de-configuration](../../../guides-en/pour-les-administrateurs/guide-de-configuration/)
 {% endcontent-ref %}
 
 Quelques liens utiles:
@@ -16,8 +16,8 @@ Quelques liens utiles:
 
 ## Pour en apprendre plus sur l'utilisation
 
-{% content-ref url="../../pour-les-professionnels/creation-de-compte/activation-dun-compte-par-la-bulle-integree.md" %}
-[activation-dun-compte-par-la-bulle-integree.md](../../pour-les-professionnels/creation-de-compte/activation-dun-compte-par-la-bulle-integree.md)
+{% content-ref url="../../../guides-en/pour-les-professionnels/creation-de-compte/activation-dun-compte-par-la-bulle-integree.md" %}
+[activation-dun-compte-par-la-bulle-integree.md](../../../guides-en/pour-les-professionnels/creation-de-compte/activation-dun-compte-par-la-bulle-integree.md)
 {% endcontent-ref %}
 
 Nous avons également une [série de formations détaillées](https://app.gitbook.com/s/mZQ8lm0cUSwr36vZBzik/pour-les-professionnels/readme)!
