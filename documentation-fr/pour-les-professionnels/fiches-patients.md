@@ -2,12 +2,12 @@
 icon: folder-medical
 ---
 
-# Fiches patients
+# Fiches patient
 
-Pour visionner, créer ou modifier des fiches patients, vous pouvez utiliser l'onglet "Patients".
+Pour visionner, créer ou modifier des fiches patients, vous pouvez utiliser l'onglet _**Patients**_.
 
-1. Le filtre **Avec fils actifs** vous montre les patients pour lesquels il y a actuellement des fils en cours qui les concernent. Si vous faites partie d'une équipe et que vous avez les permissions de voir les discussions que les autres membres de votre équipe ont par rapport à des patients de votre organisation, vous verrez également ces patients ici.
-2. Le filtre **Où je participe** est seulement visible si vous faites partie d'une équipe et que vous avez les permissions de voir les discussions que les autres membres de votre équipe ont par rapport à des patients de votre organisation. Il sert à ne montrer que les patients pour lesquels il y a des fils de discussions ou des canaux de soins où vous avez été personnellement impliqué.
+1. Le filtre _**Avec fils actifs**_ vous montre les patients pour lesquels il y a actuellement des fils en cours qui les concernent. Si vous faites partie d'une équipe et que vous avez les permissions de voir les discussions que les autres membres de votre équipe ont par rapport à des patients de votre organisation, vous verrez également ces patients ici.
+2. Le filtre _**Où je participe**_ est seulement visible si vous faites partie d'une équipe et que vous avez les permissions de voir les discussions que les autres membres de votre équipe ont par rapport à des patients de votre organisation. Il sert à ne montrer que les patients pour lesquels il y a des fils de discussions ou des canaux de soins où vous avez été personnellement impliqué.
 3. Le bouton pour créer une nouvelle fiche patient se trouve en bas à droite.
 4. La barre de recherche vous permet de trouver des fiches patients que vous avez créées ou qui ont été créées dans votre unité organisationnelle (si vous faites partie d'une organisation).
 

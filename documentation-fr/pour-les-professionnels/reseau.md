@@ -4,7 +4,7 @@ icon: globe
 
 # Le réseau
 
-Dans l'onglet Réseau de Braver, vous retrouverez **votre** réseau. Ce réseau est **le vôtre**, c'est-à-dire que vous êtes seul à voir ce que vous y ajoutez, et il vous permet de rendre facile d'accès les gens ou les équipes avec qui vous travaillez le plus fréquemment, afin de pouvoir leur parler rapidement.
+Dans l'onglet _**Réseau**_ de Braver, vous retrouverez **votre** réseau. Ce réseau est **le vôtre**, c'est-à-dire que vous êtes seul à voir ce que vous y ajoutez, et il vous permet de rendre facile d'accès les gens ou les équipes avec qui vous travaillez le plus fréquemment, afin de pouvoir leur parler rapidement.
 
 **N'hésitez pas à consulter** [**nos guides dédiés**](https://support.braver.net/guides/pour-les-professionnels/reseau) **pour comprendre rapidement comment utiliser le réseau.**
 
@@ -21,7 +21,7 @@ Dans l'onglet Réseau de Braver, vous retrouverez **votre** réseau. Ce réseau 
 
 <summary>Le <strong>bottin</strong> en quelques lignes</summary>
 
-* Dans l'onglet Réseau de Braver, il est possible de retrouver tous les membres du réseau interne ou externe à votre établissement de travail dans la barre de recherche.
+* Dans l'onglet _**Réseau**_ de Braver, il est possible de retrouver tous les membres du réseau interne ou externe à votre établissement de travail dans la barre de recherche.
 * Si l'on discute fréquemment avec un professionnel de la santé, il est une bonne pratique de l'ajouter à notre bottin. Son ajout à des fils de discussion sera accéléré car il ou elle sera d'emblée suggéré.
 * Lorsque vous ajoutez un professionnel dans votre bottin, il n'est pas notifié.
   * Voici [comment ajouter des gens à votre bottin](https://support.braver.net/guides/pour-les-professionnels/reseau/ajouter-un-contact-a-votre-bottin). L'ajout de lieux de travail fonctionne de la même manière.
@@ -29,11 +29,11 @@ Dans l'onglet Réseau de Braver, vous retrouverez **votre** réseau. Ce réseau 
 
 </details>
 
-### Recherche dans le Réseau
+### Recherche dans le réseau
 
 Pour ajouter des lieux de pratiques et des gens dans votre réseau, vous devez d'abord les trouver.
 
-L'outil de recherche dans le haut de la page vous permet justement de trouver d'autres employés de votre organisation, ainsi que d'autres professionnels de la santé et lieux de travail du Réseau Braver.
+L'outil de recherche dans le haut de la page vous permet justement de trouver d'autres employés de votre organisation, ainsi que d'autres professionnels de la santé et lieux de travail du réseau Braver.
 
 {% hint style="warning" %}
 Pour trouver des professionnels de la santé hors de votre organisation, vous devrez avoir une profession validée.
@@ -58,15 +58,15 @@ Une fois que vous avez trouvé les gens ou les lieux de travail que vous désire
 
 ### Vos lieux de travail
 
-Si vous faites partie d'une organisation sur Braver, vous verrez d'emblée vos lieux de travail dans votre réseau. En navigant dans ceux-ci, vous verrez vos équipes de collègues, et pourrez ajouter certains de ces collègues à votre bottin afin de rendre encore plus facile d'accès, si pertinent.
+Si vous faites partie d'une organisation sur Braver, vous verrez d'emblée vos lieux de travail dans votre réseau. En navigant dans ceux-ci, vous verrez vos équipes de collègues, et pourrez ajouter certains de ces collègues à votre bottin afin de les rendre encore plus facile d'accès, si pertinent.
 
-Si vous ne faites pas partie d'une organisation sur Braver, on vous invite tout de même à identifier votre lieu de travail en le trouvant sur le Réseau ou en le créant. Ceci va permettre à vos collègues du réseau de vous retrouver en cas de besoin.
+Si vous ne faites pas partie d'une organisation sur Braver, on vous invite tout de même à identifier votre lieu de travail en le trouvant sur le réseau ou en le créant. Ceci va permettre à vos collègues du réseau de vous retrouver en cas de besoin.
 
 <details>
 
 <summary>Les <strong>lieux de travail</strong> en quelques lignes</summary>
 
-* Un lieu de travail regroupe les professionnels de la santé qui œuvrent ensemble dans un lieu de pratique (ex. une clinique privée, une pharmacie, un centre hospitalier, etc.).&#x20;
+* Un lieu de travail regroupe les professionnels de la santé qui œuvrent ensemble dans un lieu de pratique (ex. une clinique privée, une pharmacie, un centre hospitalier, etc.).
 * Une organisation de santé peut rassembler plusieurs lieux de travail.
 
 </details>

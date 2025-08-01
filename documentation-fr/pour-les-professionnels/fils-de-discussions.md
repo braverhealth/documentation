@@ -2,9 +2,9 @@
 icon: message-pen
 ---
 
-# Fils de discussion
+# Fils de discussions
 
-Tout échange d'information sur la plateforme se fait par le biais de fils de discussion (et par des [messages directs avec des amis](https://support.braver.net/pour-les-professionnels/reseau#vos-amis), mais ceux-ci ne sont pas abordés dans cette page).&#x20;
+Tout échange d'information sur la plateforme se fait par le biais de fils de discussion (et par des messages directs avec des amis qui sont abordés [dans ce tutoriel](https://support.braver.net/guides/pour-les-professionnels/reseau/envoyer-un-message-direct-avec-amis-seulement)).
 
 Les fils de discussion peuvent inclure des messages (textuels, vocaux et vidéos), des fichiers (photos, vidéos ou documents). Un fil peut être clos lorsqu'il est considéré comme terminé, ce qui le rend immuable.
 
@@ -12,9 +12,9 @@ Les fils de discussion peuvent inclure des messages (textuels, vocaux et vidéos
 
 ### Accepter et refuser
 
-Lorsque vous êtes invité dans un fil de discussion par un collègue à l'extérieur de votre organisation, vous aurez l'option d'**accepter** ou **refuser** la discussion. Si vous refusez, le fil de discussion disparaîtra complètement et ne pourra plus être retrouvé. L'envoyeur verra aussi que vous avez refusé.
+Lorsque vous êtes invité dans un fil de discussion par un collègue à l'extérieur de votre organisation, vous aurez l'option d'**accepter** ou de **refuser** la discussion. Si vous refusez, le fil de discussion disparaîtra complètement et ne pourra plus être retrouvé. L'envoyeur verra aussi que vous avez refusé.
 
-Si vous acceptez le fil de discussion, vous pourrez commencer à échanger des messages ou du contenu.&#x20;
+Si vous acceptez le fil de discussion, vous pourrez commencer à échanger des messages ou du contenu.
 
 Vous pourrez par la suite quitter le fil de discussion lorsque vous considérez que c'est adéquat, ce qui le fera disparaître de vos [fils actifs](fils-de-discussions.md#fils-actifs). Il sera par contre toujours accessible aux endroits pertinents (p. ex. profil du collègue, fiche patient, etc.).
 
@@ -40,7 +40,7 @@ L'onglet **Fils actifs** dans l'onglet d'**Accueil** vous montre tous les fils d
 
 Ainsi, si vous quittez un fil de discussion ou si celui-ci se ferme, il disparaîtra de cette liste.
 
-Si quelqu'un écrit quelque chose que vous n'avez pas encore vu et que la discussion se ferme immédiatement après, vous le verrez encore dans cette liste afin de vous permettre de voir le message que vous n'avez pas encore vu. Par la suite, il disparaîtra de cette liste.
+Si quelqu'un vous envoie un fil de discussion et que vous n’avez pas eu le temps de le lire avant sa fermeture, ce fil restera visible dans votre liste. Cela vous permet de le consulter, avant de disparaître automatiquement de la liste.
 
 ### Fils de discussion liés à des contacts du réseau
 
@@ -50,4 +50,4 @@ Si vous naviguez vers le profil d'un collègue avec qui vous avez eu des discuss
 
 Si vous naviguez vers une [fiche patient](fiches-patients.md), vous y trouverez entre autres tout l'historique des fils de discussion qui y sont rattachés, ouverts ou fermés.
 
-Les fils de discussion cliniques qui concernent des patients peuvent aussi se trouver dans des canaux de soins. Dans ces cas, vous les trouverez en navigant dans le canal de soins.
+Les fils de discussion cliniques peuvent aussi se trouver dans des canaux de soins. Dans ce cas, vous les trouverez en navigant dans le canal de soins associé au patient.
