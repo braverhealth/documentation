@@ -6,7 +6,7 @@ icon: square-check
 # Tâches d'auto formation
 
 {% hint style="info" %}
-Voici 18 tâches à compléter dans la plateforme qui vous permettra de vous familiariser avec les fonctionnalités essentielles de Braver pour vous sentir confiant à utiliser l'application!
+Voici 16 tâches à compléter dans la plateforme qui vous permettra de vous familiariser avec les fonctionnalités essentielles de Braver pour vous sentir confiant à utiliser l'application!
 {% endhint %}
 
 ### Pour débuter
@@ -36,7 +36,7 @@ Voici 18 tâches à compléter dans la plateforme qui vous permettra de vous fam
 
 ### Page Patient
 
-1. Explorez les canaux de soins ([Tutoriel ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/canaux-de-soins/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant))
+1. Explorez et créez un canal de soins ([Tutoriel ici](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-professionnels/canaux-de-soins) et[ ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/canaux-de-soins/creer-un-nouveau-canal-de-soins))
 2. Écrivez à un patient ou un proche aidant ([Tutoriel ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/communication-patients-et-proche-aidants/clavarder-avec-un-patient-ou-un-proche-aidant))
 3. Repérez l’indice visuel qu’un patient fait partie d’un fil de discussion ou d’un canal de soins ([Tutoriel ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/communication-patients-et-proche-aidants/clavarder-avec-un-patient-ou-un-proche-aidant))
 
@@ -47,11 +47,11 @@ Voici 18 tâches à compléter dans la plateforme qui vous permettra de vous fam
 
 ### Accédez à votre compte Braver
 
-1. Sur le web via [https://app.braver.net/](https://app.braver.net/)
+* Sur le web via [https://app.braver.net/](https://app.braver.net/)
 
 {% hint style="info" %}
-Ajoutez cet URL dans vos favoris ou retrouvez-là facilement sur le site Internet de Braver.
+Ajoutez l'URL ci-dessus dans vos favoris ou retrouvez-là facilement sur le [site Internet de Braver](https://www.braver.net/fr/).
 {% endhint %}
 
-2. Sur mobile à partir du code QR ([Tutoriel ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/creation-de-compte/acceder-a-braver-sur-mobile-via-code-qr-partir-de-lapp-web))
-3. Autorisez les notifications sur votre mobile ([Tutoriel ici)](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/gestion-des-notifications/activer-les-notifications-sur-appareils-mobile)
+* Connectez-vous instantanément sur mobile à partir du code QR de votre session Web ([Tutoriel ici](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/creation-de-compte/acceder-a-braver-sur-mobile-via-code-qr-partir-de-lapp-web))
+* Autorisez les notifications sur votre mobile ([Tutoriel ici)](https://app.gitbook.com/s/0ai7456Hm287lPHBbGj2/pour-les-professionnels/gestion-des-notifications/activer-les-notifications-sur-appareils-mobile)
