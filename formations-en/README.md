@@ -8,12 +8,12 @@ icon: hand-wave
 # Welcome
 
 {% hint style="warning" %}
-If you are using Braver as a patient or caregiver invited by a care team, please visit [the dedicated section!](https://support-en.braver.net/guides/for-patients-and-caregivers/get-started)
+If you are using Braver as a patient or caregiver invited by a care team, please visit [the dedicated section](https://support-en.braver.net/guides/for-patients-and-caregivers/get-started).
 {% endhint %}
 
 ## What Type of Learner Are You?
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p>You prefer learning key tasks efficiently.<br></p><p><strong>You want to get started right away!</strong></p></td><td><a href=".gitbook/assets/essential.png">essential.png</a></td></tr><tr><td><p>You enjoy understanding every aspect of a tool.<br></p><p><strong>You like to learn at your own pace.</strong></p></td><td><a href=".gitbook/assets/in depth 2.png">in depth 2.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p>You prefer learning key tasks efficiently.<br></p><p><strong>You want to get started right away!</strong></p></td><td><a href="for-the-professionals/essential-training-for-professionals/">essential-training-for-professionals</a></td><td><a href=".gitbook/assets/essential.png">essential.png</a></td></tr><tr><td><p>You enjoy understanding every aspect of a tool.<br></p><p><strong>You like to learn at your own pace.</strong></p></td><td><a href="for-the-professionals/in-depth-training-for-professionals/">in-depth-training-for-professionals</a></td><td><a href=".gitbook/assets/in depth 2.png">in depth 2.png</a></td></tr></tbody></table>
 
 ## Prefer to explore on your own?
 
