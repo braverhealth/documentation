@@ -9,7 +9,7 @@ icon: envelope-open-text
 {% hint style="warning" %}
 **Vous utiliserez Braver sur un cellulaire ou une tablette?** [Installez l'application Braver](https://www.braver.net/fr/download/) sur votre appareil mobile, avant de passer à l'étape 1. Vous serez notifié lors d'un nouveau message et votre appareil sonnera si on vous appelle.
 
-Si vous préférez utilisez Braver sur votre ordinateur, vous serez informé lors d'un nouveau message par courriel. Suivez les prochaines étapes sur votre ordinateur.
+Si vous préférez utiliser Braver sur votre ordinateur, vous serez informé lors d'un nouveau message par courriel. Suivez les prochaines étapes sur votre ordinateur.
 {% endhint %}
 
 ### Cas fréquent
@@ -22,9 +22,23 @@ Si vous préférez utilisez Braver sur votre ordinateur, vous serez informé lor
 {% endstep %}
 
 {% step %}
+**Entrez le code secret de l'invitation ou répondez à la question secrète**
+
+{% hint style="info" %}
+Vous devrez soit **répondre à une question de sécurité** ou **entrer un code secret à 12 chiffres** (p. ex. 1234-1234-1234).
+
+S'il vous demande un code secret, vous le trouverez **sous le bouton d'invitation** dans le courriel d'invitation sur lequel vous avez cliqué dans l'[étape 1](accepter-une-invitation.md#dans-le-courriel-que-vous-avez-recu-cliquez-sur-le-bouton-vous-invitant-a-accepter-linvitation).
+{% endhint %}
+
+<div align="center"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Step 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+
+{% endstep %}
+
+{% step %}
 **C'est la première fois que vous ouvrez Braver?**
 
-Choisissez l'option "Créer un nouveau compte".
+Choisissez l'option _Créer un nouveau compte_.
 
 <figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 08.35.24@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -88,20 +102,6 @@ Gardez ce code dans un lieu sécuritaire! Il vous servira si vous perdez votre m
 
 
 {% endstep %}
-
-{% step %}
-**Entrez le code secret de l'invitation ou répondez à la question secrète**
-
-{% hint style="info" %}
-Vous devrez soit **répondre à une question de sécurité** ou **entrer un code secret à 12 chiffres** (p. ex. 1234-1234-1234).
-
-S'il vous demande un code secret, vous le trouverez **sous le bouton d'invitation** dans le courriel d'invitation sur lequel vous avez cliqué dans l'[étape 1](accepter-une-invitation.md#dans-le-courriel-que-vous-avez-recu-cliquez-sur-le-bouton-vous-invitant-a-accepter-linvitation).
-{% endhint %}
-
-<div align="center"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Step 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-
-{% endstep %}
 {% endstepper %}
 
 ***
@@ -114,7 +114,7 @@ Si c'est la première fois que vous ouvrez Braver, mais que Braver a déjà ét�
 
 <figure><img src="../.gitbook/assets/image1.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Vous pouvez alors choisir l'option _Créer un nouveau compte_ et continuer à [l'étape 3](accepter-une-invitation.md#cas-frequent). Si vous avez déjà créé un compte Braver dans le passé, vous devriez cliquer sur votre nom ou sur _Utiliser un compte Braver existant_, puis passer à [l'étape 10](accepter-une-invitation.md#cas-frequent) directement.
+Vous pouvez alors choisir l'option _Créer un nouveau compte_ et continuer à [l'étape 4](accepter-une-invitation.md#pas-a-pas). Si vous avez déjà créé un compte Braver dans le passé, vous devriez cliquer sur votre nom ou sur _Utiliser un compte Braver existant_, puis entrer vos informations de connection.
 
 #### Cas 2:
 
@@ -122,7 +122,7 @@ Si vous avez déjà créé votre compte dans le passé avec la même adresse cou
 
 <figure><img src="../.gitbook/assets/image2.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Dans ce cas, vous devriez entrer votre mot de passe et passer à [l'étape 10](accepter-une-invitation.md#cas-frequent).
+Dans ce cas, vous devriez entrer votre mot de passe afin de vous connecter.
 
 #### Cas 3:
 
@@ -130,4 +130,4 @@ Si vous avez déjà créé votre compte dans le passé avec la même adresse cou
 
 <figure><img src="../.gitbook/assets/image3.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Dans ce cas, vous devriez simplement entrer votre NIP afin de passer à [l'étape 10](accepter-une-invitation.md#cas-frequent).
+Dans ce cas, vous devriez simplement entrer votre NIP afin de vous connecter.
