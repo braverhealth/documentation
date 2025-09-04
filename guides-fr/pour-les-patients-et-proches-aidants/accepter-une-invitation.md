@@ -16,7 +16,7 @@ Si vous préférez utiliser Braver sur votre ordinateur, vous serez informé lor
 
 {% stepper %}
 {% step %}
-**Dans le courriel que vous avez reçu, cliquez sur le bouton vous invitant à accepter l'invitation.**
+**Dans le courriel que vous avez reçu, cliquez sur le bouton vous invitant à accepter l'invitation. Si vous avez été invité par SMS, cliquez sur le lien d'invitation sécurisé.**
 
 <figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 08.31.21@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
@@ -27,10 +27,10 @@ Si vous préférez utiliser Braver sur votre ordinateur, vous serez informé lor
 {% hint style="info" %}
 Vous devrez soit **répondre à une question de sécurité** ou **entrer un code secret à 12 chiffres** (p. ex. 1234-1234-1234).
 
-S'il vous demande un code secret, vous le trouverez **sous le bouton d'invitation** dans le courriel d'invitation sur lequel vous avez cliqué dans l'[étape 1](accepter-une-invitation.md#dans-le-courriel-que-vous-avez-recu-cliquez-sur-le-bouton-vous-invitant-a-accepter-linvitation).
+Si l'on vous demande un code secret, vous le trouverez **sous le bouton d'invitation** dans le courriel d'invitation sur lequel vous avez cliqué dans l'[étape 1](accepter-une-invitation.md#dans-le-courriel-que-vous-avez-recu-cliquez-sur-le-bouton-vous-invitant-a-accepter-linvitation).
 {% endhint %}
 
-<div align="center"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Step 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/CleanShot 2025-09-02 at 14.23.31@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 {% endstep %}
@@ -40,7 +40,7 @@ S'il vous demande un code secret, vous le trouverez **sous le bouton d'invitatio
 
 Choisissez l'option _Créer un nouveau compte_.
 
-<figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 08.35.24@2x.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/créer nouveau compte.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Ce n'est pas ce qui s'affiche à votre écran? [Cliquez ici.](accepter-une-invitation.md#autres-cas)
@@ -56,13 +56,29 @@ Ce n'est pas ce qui s'affiche à votre écran? [Cliquez ici.](accepter-une-invit
 {% step %}
 **Récupérez le code de sécurité à 6 chiffres dans vos courriels et saisissez-le dans le champ de texte prévu à cet effet.**
 
-<figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 08.40.18@2x.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2025-09-04 at 08.39.39@2x.png" alt="" width="375"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+**Configurez un NIP qui vous servira à déverrouiller facilement votre application si vous n'avez pas l'option de reconnaissance faciale. Cliquez sur&#x20;**_**Configurer**_**.**
+
+<figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 09.48.30@2x.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
+{% endstep %}
+
+{% step %}
+**Configurez votre NIP et répétez-le une seconde fois.**
+
+<div align="center"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 11.jpeg" alt="" width="262"><figcaption></figcaption></figure></div>
+
+
 {% endstep %}
 
 {% step %}
 **Acceptez les conditions d'utilisation.**
 
-Faites défiler jusqu'en bas de la page pour accepter
+Faites défiler jusqu'en bas de la page pour accepter.
 
 <div align="center"><figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 08.43.48@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -85,22 +101,6 @@ Vérifiez vos indésirables s'il n'apparaît pas dans votre boîte courriel!
 {% hint style="warning" %}
 Gardez ce code dans un lieu sécuritaire! Il vous servira si vous perdez votre mot de passe.
 {% endhint %}
-{% endstep %}
-
-{% step %}
-**Configurez un NIP qui vous servira à déverrouiller facilement votre application si vous n'avez pas l'option de reconnaissance faciale. Cliquez sur .**
-
-<figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 09.48.30@2x.png" alt="" width="375"><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-**Entrez votre NIP et répétez-le une seconde fois.**
-
-<div align="center"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 11.jpeg" alt="" width="262"><figcaption></figcaption></figure></div>
-
-
 {% endstep %}
 {% endstepper %}
 
