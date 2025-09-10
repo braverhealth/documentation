@@ -25,6 +25,7 @@
   * [Créer une nouvelle fiche patient](pour-les-professionnels/fiches-patients/creer-une-nouvelle-fiche-patient.md)
   * [Archiver une fiche patient](pour-les-professionnels/fiches-patients/archiver-une-fiche-patient.md)
   * [Modifier une fiche patient](pour-les-professionnels/fiches-patients/modifier-une-fiche-patient.md)
+  * [Filtrer les fiches patients](pour-les-professionnels/fiches-patients/filtrer-les-fiches-patients.md)
 * [Fils de discussions](pour-les-professionnels/fils-de-discussions/README.md)
   * [Créer un nouveau fil de discussion clinique](pour-les-professionnels/fils-de-discussions/creer-un-fil-de-discussion-clinique.md)
   * [Créer un nouveau fil de discussion non clinique](pour-les-professionnels/fils-de-discussions/creer-un-fil-de-discussion-non-clinique.md)
