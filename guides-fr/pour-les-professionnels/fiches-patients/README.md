@@ -1,6 +1,6 @@
 ---
-icon: folder-medical
 description: Pour assurer une traçabilité de l'information!
+icon: folder-medical
 ---
 
 # Fiches patient
@@ -17,4 +17,8 @@ description: Pour assurer une traçabilité de l'information!
 
 {% content-ref url="modifier-une-fiche-patient.md" %}
 [modifier-une-fiche-patient.md](modifier-une-fiche-patient.md)
+{% endcontent-ref %}
+
+{% content-ref url="filtrer-les-fiches-patients.md" %}
+[filtrer-les-fiches-patients.md](filtrer-les-fiches-patients.md)
 {% endcontent-ref %}
