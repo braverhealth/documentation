@@ -24,6 +24,12 @@ Les filtres varient selon les rôles qui vont ont été attribués et les config
 
 <figure><img src="../../.gitbook/assets/CleanShot 2025-09-09 at 08.37.40@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
+
+{% step %}
+### Cliquez sur _Enregistrer_.
+
+<figure><img src="../../.gitbook/assets/CleanShot 2025-09-05 at 08.52.03@2x.png" alt="" width="375"><figcaption></figcaption></figure>
+{% endstep %}
 {% endstepper %}
 
 ### Mises en situation
@@ -74,11 +80,11 @@ Les filtres varient selon les rôles qui vont ont été attribués et les config
 
 ### Mises en situation
 
-#### Pour identifier rapidement quels membres n'ont pas été invités ou dont les informations d'invitation sont incomplètes, choisissez ces options:
+#### 1. Pour identifier rapidement quels membres n'ont pas été invités ou dont les informations d'invitation sont incomplètes, choisissez ces options:
 
 <figure><img src="../../.gitbook/assets/CleanShot 2025-09-05 at 08.55.56@2x.png" alt="" width="188"><figcaption></figcaption></figure>
 
-#### Pour identifier quels membres n'ont pas accepté leur invitation, choisissez ces options:
+#### 2. Pour identifier quels membres n'ont pas accepté leur invitation, choisissez ces options:
 
 <figure><img src="../../.gitbook/assets/CleanShot 2025-09-05 at 09.00.42@2x.png" alt="" width="188"><figcaption></figcaption></figure>
 
