@@ -16,6 +16,8 @@ HTTP protocol accessibility is only enabled to redirect all traffic to HTTPS.
 The main URLs accessed by users will be for the [web application](https://app.braver.net) and the [administrative console](https://admin.braver.net).
 {% endhint %}
 
+Hello Marie-Ève
+
 | Type          | IP            | Ports   | Protocoles  |
 | ------------- | ------------- | ------- | ----------- |
 | Main          | 35.215.49.85  | 80, 443 | HTTP, HTTPS |
