@@ -2,7 +2,7 @@
 description: >-
   Cette version est disponible dans les magasins d'application depuis le 13 octobre 2025
   sur iOS, Android et le web.
-icon: sparkles
+icon: bug
 ---
 
 # Version 1.6.6
