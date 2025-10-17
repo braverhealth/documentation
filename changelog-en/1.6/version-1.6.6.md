@@ -7,13 +7,13 @@ icon: sparkles
 
 # Version 1.6.6
 
-## 1. New Features
+#### 1. New Features
 
 1. Display pending invitation status with ability to resend or recreate invitations
 2. Ringing sound and visual indication when receiving calls on the web
 3. Warning message in the call interface if a necessary permission is missing
 
-## 2. Improvements
+#### 2. Improvements
 
 1. Improved understandability of patient filters with reactive textual indicators
 2. Prevented cancellation of the SSO login or invitation handling selection process
@@ -21,7 +21,7 @@ icon: sparkles
 4. Improved patient search bar to display results with at least 2 characters entered
 5. Improved call interface with warning when a required permission is missing
 
-## 3. Fixes
+#### 3. Fixes
 
 1. Fixed non-archived patient filter not working or requiring a refresh to reflect selection
 2. Fixed issue where a patient could create a non-clinical thread with their clinical team
@@ -34,7 +34,7 @@ icon: sparkles
 9. Fixed application getting stuck when re-scanning QR code with an active SSO session
 10. Fixed photo and video options not being available in the compose menu in certain contexts
 
-## 4. Admin Console
+#### 4. Admin Console
 
 1. Fixed UX bug when using wrong password at login in the admin console
 2. Fixed language dropdown not working when editing a team in the admin console

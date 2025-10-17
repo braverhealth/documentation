@@ -7,11 +7,11 @@ icon: bug
 
 # Version 1.6.7
 
-## 1. Nouvelles fonctionnalités
+#### 1. Nouvelles fonctionnalités
 
 1. Interruption de la sonnerie d'appels lorsque l'appel est terminé
 
-## 2. Corrections
+#### 2. Corrections
 
 1. Correction du bouton qui indiquait « marquer comme lu » au lieu de « non lu »
 
