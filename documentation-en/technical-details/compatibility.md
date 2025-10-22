@@ -6,7 +6,7 @@ icon: mobile-notch
 
 ### Mobile Device
 
-* Minimum **iOS** / **iPadOS** version: **15.1**
+* Minimum **iOS** / **iPadOS** version: **16.0**
 * Minimum **Android** version: **7.0**
 
 <details>
