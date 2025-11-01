@@ -10,6 +10,9 @@ icon: sparkles
 ## 1. Nouvelles fonctionnalités
 
 1. Détection des numéros de téléphone dans les messages
+2. Mémorisation des choix de périphériques médias lors des appels web
+3. Ajout d'un sous-menu sur le bouton « quitter » pour offrir l'option de terminer la réunion pour tous
+4. Affichage de l'état de sonnerie sur chaque tuile de participant lors d'un appel
 
 ## 2. Améliorations
 

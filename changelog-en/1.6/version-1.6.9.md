@@ -10,6 +10,9 @@ icon: sparkles
 ## 1. New Features
 
 1. Detect phone numbers in messages
+2. Remember media device choices in web calls
+3. Add submenu on "leave" button to offer option to end meeting for all
+4. Add ringing state to each participant tile in call
 
 ## 2. Improvements
 
