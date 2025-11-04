@@ -7,19 +7,19 @@ icon: sparkles
 
 # Version 1.6.9
 
-## 1. Nouvelles fonctionnalités
+#### 1. Nouvelles fonctionnalités
 
 1. Détection des numéros de téléphone dans les messages
 2. Mémorisation des choix de périphériques médias lors des appels web
 3. Ajout d'un sous-menu sur le bouton « quitter » pour offrir l'option de terminer la réunion pour tous
 4. Affichage de l'état de sonnerie sur chaque tuile de participant lors d'un appel
 
-## 2. Améliorations
+#### 2. Améliorations
 
 1. Amélioration de l'expérience utilisateur de la sélection de patients/canaux pour la création de fils
 2. Amélioration de l'interface utilisateur de l'app proche aidant
 
-## 3. Corrections
+#### 3. Corrections
 
 1. Correction de l'écran de recherche de patients vide lors de la création d'un nouveau fil
 2. Correction du problème où la recherche de patients ne s'affichait pas dans les fils associés

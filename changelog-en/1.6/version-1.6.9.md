@@ -7,19 +7,19 @@ icon: sparkles
 
 # Version 1.6.9
 
-## 1. New Features
+#### 1. New Features
 
 1. Detect phone numbers in messages
 2. Remember media device choices in web calls
 3. Add submenu on "leave" button to offer option to end meeting for all
 4. Add ringing state to each participant tile in call
 
-## 2. Improvements
+#### 2. Improvements
 
 1. Improved UX of patient/channel selection for thread creation
 2. Improved caregiver app UI
 
-## 3. Fixes
+#### 3. Fixes
 
 1. Fixed blank patient search screen when creating new thread
 2. Fixed patient search not displaying in associated threads
