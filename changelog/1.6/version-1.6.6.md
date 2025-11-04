@@ -28,7 +28,7 @@ icon: bug
 3. Correction du verrouillage de l'appareil lors de l'enregistrement d'une longue vidéo
 4. Correction de l'impossibilité de créer un patient sans modification du formulaire
 5. Correction de la duplication des caractères accentués lors de l'utilisation d'un clavier externe
-6. Correction de la navigation vers la discussion d'origine d'un document épinglé dans l'app patient et proche aidant
+6. Correction de la navigation vers la discussion d'origine d'un document épinglé dans l'application patient et proche aidant
 7. Correction du problème où les patients et les proches aidants ne se voyaient pas dans les panneaux de participants
 8. Correction du problème où cliquer sur un fichier PDF n'ouvrait pas toujours la visionneuse PDF intégrée
 9. Correction du problème où l'application restait bloquée lors du re-scan du code QR avec une session SSO active

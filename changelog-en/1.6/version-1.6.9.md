@@ -17,7 +17,7 @@ icon: sparkles
 #### 2. Improvements
 
 1. Improved UX of patient/channel selection for thread creation
-2. Improved caregiver app UI
+2. Improved caregiver application UI
 
 #### 3. Fixes
 

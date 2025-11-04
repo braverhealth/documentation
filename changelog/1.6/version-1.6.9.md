@@ -17,7 +17,7 @@ icon: sparkles
 #### 2. Améliorations
 
 1. Amélioration de l'expérience utilisateur de la sélection de patients/canaux pour la création de fils
-2. Amélioration de l'interface utilisateur de l'app proche aidant
+2. Amélioration de l'interface utilisateur de l'application proche aidant
 
 #### 3. Corrections
 
