@@ -4,6 +4,7 @@
 
 ## 1.6
 
+* [Version 1.6.10](1.6/version-1.6.10.md)
 * [Version 1.6.9](1.6/version-1.6.9.md)
 * [Version 1.6.7](1.6/version-1.6.7.md)
 * [Version 1.6.6](1.6/version-1.6.6.md)
