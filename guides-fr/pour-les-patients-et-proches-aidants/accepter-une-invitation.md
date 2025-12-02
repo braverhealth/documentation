@@ -6,69 +6,67 @@ icon: envelope-open-text
 
 ## Pas-à-pas
 
-{% hint style="warning" %}
-**Vous utiliserez Braver sur un cellulaire ou une tablette?** [Installez l'application Braver](https://www.braver.net/fr/download/) sur votre appareil mobile, avant de passer à l'étape 1. Vous serez notifié lors d'un nouveau message et votre appareil sonnera si on vous appelle.
-
-Si vous préférez utiliser Braver sur votre ordinateur, vous serez informé lors d'un nouveau message par courriel. Suivez les prochaines étapes sur votre ordinateur.
+{% hint style="info" %}
+Il est possible de créer son compte autant sur un appareil mobile (cellulaire, tablette) que sur un ordinateur. Par ailleurs, il est possible que vous ayez reçu une invitation par SMS ou par courriel.
 {% endhint %}
 
 ### Cas fréquent
 
 {% stepper %}
 {% step %}
-**Dans le courriel que vous avez reçu, cliquez sur le bouton vous invitant à accepter l'invitation. Si vous avez été invité par SMS, cliquez sur le lien d'invitation sécurisé.**
+**Dans le courriel que vous avez reçu, cliquez sur le bouton vous invitant à accepter l'invitation.**&#x20;
 
-<figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 08.31.21@2x.png" alt="" width="375"><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-**Entrez le code secret de l'invitation ou répondez à la question secrète**
-
-{% hint style="info" %}
-Vous devrez soit **répondre à une question de sécurité** ou **entrer un code secret à 12 chiffres** (p. ex. 1234-1234-1234).
-
-Si l'on vous demande un code secret, vous le trouverez **sous le bouton d'invitation** dans le courriel d'invitation sur lequel vous avez cliqué dans l'[étape 1](accepter-une-invitation.md#dans-le-courriel-que-vous-avez-recu-cliquez-sur-le-bouton-vous-invitant-a-accepter-linvitation).
+{% hint style="warning" %}
+**📱Si vous avez été invité par SMS, cliquez sur le lien d'invitation sécurisé.**
 {% endhint %}
 
-<div align="center"><figure><img src="../.gitbook/assets/CleanShot 2025-09-02 at 14.23.31@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-
+<figure><img src="../.gitbook/assets/CleanShot 2025-12-01 at 16.13.07@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**C'est la première fois que vous ouvrez Braver?**
-
-Choisissez l'option _Créer un nouveau compte_.
-
-<figure><img src="../.gitbook/assets/créer nouveau compte.png" alt="" width="375"><figcaption></figcaption></figure>
+**C'est la première fois que vous ouvrez Braver?** Choisissez l'option _Créer un nouveau compte_.
 
 {% hint style="danger" %}
 Ce n'est pas ce qui s'affiche à votre écran? [Cliquez ici.](accepter-une-invitation.md#autres-cas)
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/créer nouveau compte.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Inscrivez votre adresse courriel et le mot de passe de votre choix. Sélectionnez ensuite&#x20;**_**Créer mon compte**_**.**
+**Choisissez le mot de passe de votre choix et répétez-le. Sélectionnez ensuite&#x20;**_**Créer mon compte**_**.**&#x20;
 
-<figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 08.37.12@2x.png" alt="" width="375"><figcaption></figcaption></figure>
+{% hint style="warning" %}
+**📱Si vous avez été invité par SMS, remplissez également le champ du courriel. Nous vous enverrons un code secret pour valider qu'il s'agit bien de votre courriel. (Voir étape suivante)**
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/CleanShot 2025-12-01 at 16.15.33@2x.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Récupérez le code de sécurité à 6 chiffres dans vos courriels et saisissez-le dans le champ de texte prévu à cet effet.**
+{% hint style="warning" %}
+**📱Si vous avez été invité par SMS, récupérez le code de sécurité à 6 chiffres dans vos courriels et saisissez-le dans le champ de texte prévu à cet effet.**
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/CleanShot 2025-09-04 at 08.39.39@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Configurez un NIP qui vous servira à déverrouiller facilement votre application si vous n'avez pas l'option de reconnaissance faciale. Cliquez sur&#x20;**_**Configurer**_**.**
+**Acceptez les conditions d'utilisation.** Faites défiler jusqu'en bas de la page pour accepter.
 
-<figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 09.48.30@2x.png" alt="" width="375"><figcaption></figcaption></figure>
+<div align="center"><figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 08.43.48@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Configurez un NIP qui vous servira à déverrouiller facilement votre application. Cliquez sur&#x20;**_**Configurer**_**.**
+
+<figure><img src="../.gitbook/assets/CleanShot 2025-12-01 at 16.20.00@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 {% endstep %}
 
 {% step %}
-**Configurez votre NIP et répétez-le une seconde fois.**
+**Configurez votre NIP et répétez-le une seconde fois. Passez à l'étape 10 si vous êtes sur un ordinateur.**
 
 <div align="center"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 11.jpeg" alt="" width="262"><figcaption></figcaption></figure></div>
 
@@ -76,31 +74,25 @@ Ce n'est pas ce qui s'affiche à votre écran? [Cliquez ici.](accepter-une-invit
 {% endstep %}
 
 {% step %}
-**Acceptez les conditions d'utilisation.**
-
-Faites défiler jusqu'en bas de la page pour accepter.
-
-<div align="center"><figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 08.43.48@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
-{% endstep %}
-
-{% step %}
-**Créez votre code de récupération en cliquant sur&#x20;**_**Débuter**_**.**
-
-<figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 09.43.40@2x.png" alt="" width="375"><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-**Cliquez ensuite sur&#x20;**_**Créer mon code de récupération**_**. Il sera dans vos courriels.**
-
-{% hint style="info" %}
-Vérifiez vos indésirables s'il n'apparaît pas dans votre boîte courriel!
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/CleanShot 2025-06-18 at 09.46.44@2x.png" alt="" width="375"><figcaption></figcaption></figure>
-
 {% hint style="warning" %}
-Gardez ce code dans un lieu sécuritaire! Il vous servira si vous perdez votre mot de passe.
+### **📱**Si vous êtes sur un appareil mobile (cellulaire ou tablette), téléchargez l'application pour poursuivre.&#x20;
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/IMG_3084.png" alt="" width="375"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+{% hint style="warning" %}
+### **📱**Si vous êtes sur un appareil mobile (cellulaire ou tablette), connectez-vous avec votre courriel et votre mot de passe.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/IMG_3097 (1).png" alt="" width="375"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Vous voilà dans Braver!
+
+<figure><img src="../.gitbook/assets/CleanShot 2025-12-01 at 16.21.05@2x.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
