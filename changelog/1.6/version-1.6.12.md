@@ -1,6 +1,6 @@
 ---
 description: >-
-  Cette version est disponible dans les magasins d'application depuis novembre 2025
+  Cette version est disponible dans les magasins d'application depuis le 2 décembre 2025
   sur iOS, Android et le web.
 icon: bug
 ---
