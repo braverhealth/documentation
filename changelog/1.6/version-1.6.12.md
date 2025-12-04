@@ -1,7 +1,7 @@
 ---
 description: >-
-  Cette version est disponible dans les magasins d'application depuis le 2 décembre 2025
-  sur iOS, Android et le web.
+  Cette version est disponible dans les magasins d'application depuis le 3
+  décembre 2025 sur iOS, Android et le web.
 icon: bug
 ---
 
@@ -31,4 +31,3 @@ icon: bug
 7. Correction du chargement infini pour les proches aidants supprimés
 8. Correction de l'impossibilité de sauvegarder les modifications des détails du proche aidant
 9. Correction de la langue des invitations SMS
-
