@@ -10,7 +10,7 @@ icon: bug
 #### 1. New Features
 
 1. Background noise removal during calls (web only)
-2. Camera button redesign
+2. Button to switch cameras during a call
 3. Picture in Picture mode for calls (web only)
 
 #### 2. Improvements
@@ -18,7 +18,7 @@ icon: bug
 1. Show drafts in patients/care channels/contacts pages
 2. Improved video tiles layout on mobile calls
 3. Option to uncheck all participants when calling
-4. Display archived care channels
+4. Display archived care channels in the patient and caregive portal
 
 #### 3. Fixes
 
