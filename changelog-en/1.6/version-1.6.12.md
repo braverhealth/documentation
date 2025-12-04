@@ -1,6 +1,6 @@
 ---
 description: >-
-  This version has been available in app stores since December 2 2025 on iOS,
+  This version has been available in app stores since December 3 2025 on iOS,
   Android and the web.
 icon: bug
 ---
@@ -31,4 +31,3 @@ icon: bug
 7. Fixed infinite loading for removed caregivers
 8. Fixed inability to save active caregiver details
 9. Fixed SMS invitation language issues
-
