@@ -6,97 +6,89 @@ icon: envelope-open-text
 
 ## Step-by-Step
 
-{% hint style="warning" %}
-Will you be using Braver on a mobile phone or tablet? [Install the Braver app](https://www.braver.net/en/download/) on your mobile device before proceeding to step 1. You'll be notified of new messages, and your device will ring if someone calls you.
-
-If you prefer to use Braver on your computer, you'll be notified of new messages via email. Follow the next steps on your computer.
+{% hint style="info" %}
+You can create your account on a mobile device (phone or tablet) or a computer. You may have received an invitation by SMS or email.
 {% endhint %}
 
 {% stepper %}
 {% step %}
-**In the email you received, click on the button inviting you to accept the invitation.**
+**In the email you received, click the button to accept the invitation.**
 
-<figure><img src="../.gitbook/assets/courriel invitation 1.webp" alt="" width="375"><figcaption></figcaption></figure>
+{% hint style="warning" %}
+**📱If you were invited by SMS, click the secure invitation link.**
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/step1-pàp.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Is this your first time opening Braver?**
-
-Choose the _Create a new account_ option.
-
-<div align="center"><figure><img src="../.gitbook/assets/créer compte 2.webp" alt="" width="375"><figcaption></figcaption></figure></div>
+**Is this your first time opening Braver?** Select _Create a new account_.
 
 {% hint style="danger" %}
 Is your screen showing something different? [Click here](accept-invitation.md#other-cases).
 {% endhint %}
+
+<div align="center"><figure><img src="../.gitbook/assets/créer compte 2.webp" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Enter your email address and the password of your choice. Then select&#x20;**_**Create my account**_**.**
+**Choose a password and repeat it. Then select&#x20;**_**Create my account**_**.**
 
-<div align="center"><figure><img src="../.gitbook/assets/création compte 3.png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-
-{% endstep %}
-
-{% step %}
-**Retrieve the 6-digit security code from your emails and enter it in the designated text field.**
-
-<div data-full-width="true"><figure><img src="../.gitbook/assets/image courriel.png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-{% hint style="info" %}
-Remember to check your spam folder if it does not appear in your email inbox quickly.
+{% hint style="warning" %}
+**📱If you were invited by SMS, also fill in the email field. We'll send you a code to confirm your email address. (See next step)**
 {% endhint %}
+
+<div align="center"><figure><img src="../.gitbook/assets/step3.avif" alt="" width="375"><figcaption></figcaption></figure></div>
+
+
 {% endstep %}
 
 {% step %}
-**Scroll to the bottom of the page and&#x20;**_**Accept the terms of use**_**.**
+{% hint style="warning" %}
+**📱If you were invited by SMS, retrieve the 6-digit security code from your email and enter it in the text field.**
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/step4.png" alt="" width="375"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+**Accept the terms of use.** Scroll to the bottom of the page to accept.
 
 <div align="center"><figure><img src="../.gitbook/assets/terms of use.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Create your recovery code by clicking on&#x20;**_**Get Started**_**.**
+**Set up a PIN to easily unlock your app.** Click on _Configure_.
 
-<div align="center"><figure><img src="../.gitbook/assets/get started.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/step6.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Then click on&#x20;**_**Create my recovery code**_**. It will be in your emails.**
-
-{% hint style="info" %}
-Remember to check your spam folder if it does not appear in your email inbox quickly.
-{% endhint %}
-
-<div align="center"><figure><img src="../.gitbook/assets/code de récup.png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-{% hint style="warning" %}
-Keep this code in a safe place!
-{% endhint %}
-{% endstep %}
-
-{% step %}
-**Set up a PIN that will allow you to easily unlock your application if you do not have the facial recognition option. Click on&#x20;**_**Configure**_**.**
-
-<div align="center"><figure><img src="../.gitbook/assets/configurer.avif" alt="" width="375"><figcaption></figcaption></figure></div>
-{% endstep %}
-
-{% step %}
-**Enter your PIN and repeat it a second time.**
+**Create your PIN and repeat it. If you're on a computer, skip to step 10.**
 
 <div align="center"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 11.jpeg" alt="" width="262"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Enter the invitation secret code or answer the secret question**
-
-{% hint style="info" %}
-You will either need to **answer a security question** or **enter a 12-digit secret code** (e.g., 1234-1234-1234).
-
-If it asks for a secret code, you will find it **under the invitation button** in the invitation email you clicked on in [step 1](accept-invitation.md#step-by-step).
+{% hint style="warning" %}
+**📱If you're on a mobile device (phone or tablet), download the app to continue.**
 {% endhint %}
 
-<div align="center"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Step 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/step8.png" alt="" width="375"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+{% hint style="warning" %}
+**📱If you're on a mobile device (phone or tablet), log in with your email and password.**
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/step9.png" alt="" width="375"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+## **You're now in Braver!**
+
+<figure><img src="../.gitbook/assets/step10.avif" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
