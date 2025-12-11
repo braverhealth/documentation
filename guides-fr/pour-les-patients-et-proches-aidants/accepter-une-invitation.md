@@ -69,30 +69,69 @@ Ce n'est pas ce qui s'affiche à votre écran? [Cliquez ici.](accepter-une-invit
 **Configurez votre NIP et répétez-le une seconde fois. Passez à l'étape 10 si vous êtes sur un ordinateur.**
 
 <div align="center"><figure><img src="../.gitbook/assets/creation-de-compte-autonome - Step 11.jpeg" alt="" width="262"><figcaption></figcaption></figure></div>
-
-
-{% endstep %}
-
-{% step %}
-{% hint style="warning" %}
-### **📱**Si vous êtes sur un appareil mobile (cellulaire ou tablette), téléchargez l'application pour poursuivre.&#x20;
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/IMG_3084.png" alt="" width="375"><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-{% hint style="warning" %}
-### **📱**Si vous êtes sur un appareil mobile (cellulaire ou tablette), connectez-vous avec votre courriel et votre mot de passe.
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/IMG_3097 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Vous voilà dans Braver!
 
+{% hint style="warning" %}
+**📱**Si vous êtes sur un appareil mobile (cellulaire ou tablette), vous devez télécharger l'application pour poursuivre.&#x20;
+
+* Android, poursuivez [en cliquant ici](accepter-une-invitation.md#android).&#x20;
+* iOS, poursuivez [en cliquant ici](accepter-une-invitation.md#ios-telechargez-lapplication).
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/CleanShot 2025-12-01 at 16.21.05@2x.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### 📱Android: Téléchargez l'application
+
+{% hint style="warning" %}
+9.1 📱Appareil mobile **Android** (cellulaire ou tablette), cliquez sur _Suivant._
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/IMG_3146.png" alt="" width="375"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+9.2📱Appareil mobile **Android** (cellulaire ou tablette), cliquez sur _Installer._
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/IMG_0008.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+9.3📱Appareil mobile **Android** (cellulaire ou tablette), cliquez sur Ouvri&#x72;_._ **Vous voilà dans Braver!**
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/CleanShot 2025-12-11 at 14.47.46@2x.png" alt="" width="375"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### 📱iOS: Téléchargez l'application
+
+{% hint style="warning" %}
+10.1📱Appareil mobile **iOS** (cellulaire ou tablette), cliquez sur _Suivant._
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/IMG_3146.png" alt="" width="375"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+10.2📱Appareil mobile **iOS** (cellulaire ou tablette), cliquez sur _Ouvrir._
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/IMG_3147.png" alt="" width="375"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+10.3📱Appareil mobile **iOS** (cellulaire ou tablette), cliquez sur _Afficher._
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/IMG_3149.png" alt="" width="375"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+10.4📱Appareil mobile **iOS** (cellulaire ou tablette), cliquez sur _ce_ bouton. **Vous voilà dans Braver!**
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/IMG_3150.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
