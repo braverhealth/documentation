@@ -2,6 +2,10 @@
 
 * [Suivi des versions](README.md)
 
+## 1.7
+
+* [Version 1.7.0](1.7/version-1.7.0.md)
+
 ## 1.6
 
 * [Version 1.6.15](1.6/version-1.6.15.md)
