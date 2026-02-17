@@ -27,6 +27,5 @@ icon: bug
 5. Fixed deleted segments not appearing in the app
 6. Fixed synchronization issues between mobile app and web version
 7. Fixed screen share expansion during calls (expanding person instead of screen share)
-8. Fixed inconsistent data when creating multiple instances of JoinedPatientView
-9. Fixed search bar locked when peek panel is open
-10. Fixed inverted video on web during calls
+8. Fixed search bar locked when details panel is open
+9. Fixed inverted video on web during calls
