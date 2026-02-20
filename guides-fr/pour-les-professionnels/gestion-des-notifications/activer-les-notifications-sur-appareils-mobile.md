@@ -32,7 +32,7 @@ Braver vous soutiendra davantage dans votre pratique si nous sommes en mesure de
 
 Assurez-vous que les 3 options d'affichage sont sélectionnées.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobiles iOS - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/notifs.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 {% endtab %}
@@ -56,7 +56,7 @@ Assurez-vous que les 3 options d'affichage sont sélectionnées.
 {% step %}
 **Dans l'onglet notifications, assurez-vous que les notifications soient autorisées avec ces paramètres.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Activer les notifications sur appareils mobile Android - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-04 at 15.06.11@2x.png" alt="" width="327"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

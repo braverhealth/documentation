@@ -49,7 +49,7 @@
   * [Créer un nouveau canal de soins](pour-les-professionnels/canaux-de-soins/creer-un-nouveau-canal-de-soins.md)
   * [Créer un fil de discussion clinique dans un canal de soins existant](pour-les-professionnels/canaux-de-soins/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant.md)
   * [Ajouter un participant à un canal de soins existant](pour-les-professionnels/canaux-de-soins/ajouter-un-participant-a-un-canal-de-soins-existant.md)
-  * [Épingler un document et consulter l'historique des versions](pour-les-professionnels/canaux-de-soins/epingler-un-document-et-consulter-lhistorique-des-versions.md)
+  * [Épingler un fichier, le mettre à jour et consulter l'historique des versions](pour-les-professionnels/canaux-de-soins/epingler-un-document-et-consulter-lhistorique-des-versions.md)
 * [Équipes](pour-les-professionnels/equipes/README.md)
   * [Voir de quelle(s) équipe(s) on fait partie et basculer d'équipe](pour-les-professionnels/equipes/voir-de-quelle-equipe-on-fait-partie.md)
   * [Consulter les fils de mon équipe](pour-les-professionnels/equipes/consulter-les-fils-de-mon-equipe.md)
@@ -71,7 +71,7 @@
   * [Régler sa période d'indisponibilité](pour-les-professionnels/gestion-des-notifications/regler-sa-periode-dindisponibilite.md)
   * [Régler son horaire de disponibilité](pour-les-professionnels/gestion-des-notifications/regler-son-horaire-de-disponibilites.md)
 * [Sécurité](pour-les-professionnels/securite/README.md)
-  * [Verrouiller ou fermer votre session](pour-les-professionnels/securite/basculer-de-session-sur-un-appareil-partage.md)
+  * [Verrouiller votre session ou vous déconnecter](pour-les-professionnels/securite/basculer-de-session-sur-un-appareil-partage.md)
   * [Générer un nouveau code de récupération](pour-les-professionnels/securite/generer-un-nouveau-code-de-recuperation.md)
   * [Modifier son mot de passe](pour-les-professionnels/securite/modifier-son-mot-de-passe.md)
   * [Modifier son NIP](pour-les-professionnels/securite/modifier-son-nip.md)
@@ -126,7 +126,6 @@
   * [Comment octroyer un rôle à un utilisateur existant?](pour-les-administrateurs/utilisateurs/comment-octroyer-un-role-a-un-utilisateur-existant.md)
 * [Journaux d'audit](pour-les-administrateurs/journaux-daudit/README.md)
   * [Comment faire une recherche dans les journaux d'audits?](pour-les-administrateurs/journaux-daudit/comment-faire-une-recherche-dans-le-journal-daudits.md)
-  * [Que puis-je retrouver dans le journal d'audits?](pour-les-administrateurs/journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md)
 
 ## Intégrations
 
@@ -135,9 +134,12 @@
   * [Déployer Braver via Leomed](integrations/leomed/je-deploie-braver-via-la-plateforme-leomed.md)
 * [Gustav](integrations/gustav/README.md)
   * [Déployer Braver via Gustav](integrations/gustav/je-deploie-braver-via-la-plateforme-gustav.md)
+  * [Activer son compte par la bulle intégrée dans Gustav](integrations/gustav/activation-dun-compte-par-la-bulle-integree.md)
+  * [Profiter de la navigation contextualisée](integrations/gustav/profiter-de-la-navigation-contextualisee.md)
 
 ## Pages privées
 
+* [Soins de longue durée](pages-privees/soins-de-longue-duree.md)
 * [Besoin d’aide? UVS - CISSS Laurentides](trousses/uvs-cisss-laurentides.md)
 * [Therapy Transfer - Mackay & PEL](trousses/therapy-transfer.md)
 * [Trousse informative Braver | Chaudière-Appalaches](trousses/trousse-mda-ma-cisss-ca.md)

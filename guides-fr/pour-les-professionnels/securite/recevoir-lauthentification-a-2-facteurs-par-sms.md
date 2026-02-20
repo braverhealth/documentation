@@ -4,44 +4,44 @@
 
 {% stepper %}
 {% step %}
-#### Sélectionnez la pastille avec votre photo ou vos initiales pour accéder à votre profil, puis cliquez sur votre nom.
+**1) Accédez à votre profil via votre avatar en bas de l'écran, puis 2) cliquez sur votre nom.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/recevoir-lauthentification-a-2-facteurs-par-sms - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-04 at 14.58.30@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez sur l’onglet _Paramètres_.
+**Cliquez sur l’onglet&#x20;**_**Paramètres**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/recevoir-lauthentification-a-2-facteurs-par-sms - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sous la mention Sécurité, sélectionnez _Authentification à deux facteurs_.
+**Sous la mention Sécurité, sélectionnez&#x20;**_**Authentification à deux facteurs**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/recevoir-lauthentification-a-2-facteurs-par-sms - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Par défaut, votre authentification à deux facteurs vous est envoyée par courriel. Si vous désirez la recevoir par SMS, sélectionnez cette option.
+**Par défaut, votre authentification à deux facteurs vous est envoyée par courriel. Si vous désirez la recevoir par SMS, sélectionnez&#x20;**_**Modifier**_**&#x20;dans la section SMS.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/recevoir-lauthentification-a-2-facteurs-par-sms - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Si vous n'avez aucun numéro de téléphone associé à votre compte, sélectionnez _Ajouter un numéro de téléphone_.
+**Si vous n'avez aucun numéro de téléphone associé à votre compte, sélectionnez&#x20;**_**Ajouter un numéro de téléphone**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/recevoir-lauthentification-a-2-facteurs-par-sms - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Indiquez votre numéro et sélectionnez _Créer_.
+**1) Indiquez votre numéro et 2) sélectionnez&#x20;**_**Créer**_**.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/recevoir-lauthentification-a-2-facteurs-par-sms - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-04 at 20.22.44@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous recevrez alors un code de confirmation à 6 chiffres. Notez-le dans le champ approprié, puis cliquez sur _Valider_.
+**Vous recevrez alors un code de confirmation à 6 chiffres sur votre cellulaire. 1) Notez-le dans le champ&#x20;**_**Code de confirmation**_**, puis 2) cliquez sur&#x20;**_**Valider**_**.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/recevoir-lauthentification-a-2-facteurs-par-sms - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-04 at 20.26.18@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

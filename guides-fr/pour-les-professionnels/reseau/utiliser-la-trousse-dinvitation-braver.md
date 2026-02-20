@@ -1,6 +1,6 @@
 ---
 description: >-
-  Cette trousse contient une banque d'outils clé-en-main pour développer votre
+  Cette trousse contient une banque d'outils clés en main pour développer votre
   réseau de collaborateurs.
 ---
 

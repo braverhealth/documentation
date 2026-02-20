@@ -4,44 +4,48 @@
 
 {% stepper %}
 {% step %}
-#### À partir de l'onglet _Patients_, trouvez et sélectionnez le patient concerné.
+**1) Accédez à la page&#x20;**_**Patients**_**&#x20;et 2) sélectionnez le patient qui vous intéresse ou 3) retrouvez-le grâce à la barre de recherche.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-01-21 at 14.38.10@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Dans la fiche du patient, dans le canal de soins souhaité, cliquez sur l'icône d'ajout d'un fil de discussion.
+**Dans la fiche du patient, dans le canal de soins souhaité, cliquez sur l'icône d'ajout d'un fil de discussion.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-01-21 at 14.56.38@2x.png" alt="" width="302"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### À ce stade, vous pouvez modifier les équipes participantes, mais pas les participants individuels.
+**1) Inscrivez un titre, 2) le message de votre choix et 3) ajoutez du contenu. 4) Cliquez sur suivant.**&#x20;
 
-Cliquez sur Modifier.
-
-<div align="left"><figure><img src="../../.gitbook/assets/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-01-21 at 14.59.16@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sélectionnez l'équipe à retirer.
+**Vous pouvez modifier les participants que vous souhaitez notifier. Cliquez sur&#x20;**_**Modifier**_**.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-01-21 at 15.02.44@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**1) Sélectionnez les personnes ou les équipes à retirer, puis 2) revenez à la page d'envoi.**
 
 {% hint style="info" %}
-Ici, on voit que l'équipe des médecins est grisée parce que l'auteur du message en fait partie et ne peut donc pas se retirer en tant que participant du message.
+Ici, on voit que l'équipe des infirmières est grisée parce que l'auteur du message en fait partie et ne peut donc pas se retirer en tant que participant du message.
 {% endhint %}
 
 {% hint style="warning" %}
-Il est important de comprendre que les équipes que vous avez retirées de la discussion ne seront pas notifiées, mais auront accès au contenu du fil dans le canal de soins.
+Il est important de comprendre que les personnes que vous avez retirées de la discussion ne seront pas notifiées, **mais auront accès au contenu du fil dans le canal de soins.**
 {% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-01-21 at 15.04.23@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Voici à quoi aura l'air votre page de création de fil si vous avez modifié les participants.
+**Cliquez sur&#x20;**_**Envoyer**_**.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-01-21 at 15.03.59@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-Vous pouvez ajouter le message de votre choix, un titre ainsi que du contenu avant de l'envoyer en cliquant sur le bouton d'envoi en forme de flèche.
+
 {% endstep %}
 {% endstepper %}

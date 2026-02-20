@@ -12,27 +12,29 @@ description: >-
 
 {% stepper %}
 {% step %}
-**Accéder à la** [**console administrative**](https://admin.braver.net)
+#### **Accédez à la console administrative: 1) Accédez à votre profil via votre avatar en bas de l'écran, puis 2) cliquez sur&#x20;**_**Console administrative**_**.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-04 at 20.36.36@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Cliquer sur l'item correspondant dans le menu de gauche**
+#### **Cliquez sur l'item&#x20;**_**Utilisateurs**_**&#x20;dans le menu de gauche.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-04 at 09.13.11@2x (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-04 at 20.40.34@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Retrouver l'utilisateur en question et cliquer dessus
+#### Retrouvez l'utilisateur en question et cliquez dessus.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Sélectionner un utilisateur et cliquer dessus.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-04 at 20.46.30@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Modifier les permissions
+#### Modifiez les permissions:
 
-1. Enlever ou ajouter une permission en cochant la case appropriée
-2. Cliquer sur le bouton Sauvegarder
+1. Enlevez ou ajoutez une permission en cochant la case appropriée.
+2. Cliquez sur le bouton _Sauvegarder_.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Mofifier les permissions.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-04 at 20.45.31@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

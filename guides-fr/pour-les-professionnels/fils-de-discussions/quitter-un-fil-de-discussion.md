@@ -4,19 +4,25 @@
 
 {% stepper %}
 {% step %}
-#### Cliquez dans le cercle présentant les participants, en haut, à droite de votre fil.
+**1) Accédez à la page&#x20;**_**Accueil**_**, puis 2) sélectionnez le fil de discussion de votre choix.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-01-20 at 15.48.43@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Cliquez dans le cercle présentant les participants, en haut, à droite de votre fil.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Si vous désirez quitter une discussion, cliquez sur les 3 petits points près de votre nom, puis cliquez sur _Quitter la discussion_.
+**Si vous désirez quitter une discussion, cliquez sur les 3 petits points près de votre nom, puis cliquez sur&#x20;**_**Quitter la discussion**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 16.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### À ce moment, on gardera une trace de votre présence dans la discussion. Vous apparaîtrez comme un participant qui a archivé la discussion de son côté.
+**À ce moment, on gardera une trace de votre présence dans la discussion. Vous apparaîtrez comme un participant qui a archivé la discussion de son côté.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 17.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 

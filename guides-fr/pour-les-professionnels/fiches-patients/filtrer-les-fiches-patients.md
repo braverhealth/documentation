@@ -6,11 +6,11 @@ Les filtres permettent de [filtrer les fiches patients](filtrer-les-fiches-patie
 
 ## 1. Filtrer les fiches patients
 
-### Tutoriel
+### Pas-à-pas
 
 {% stepper %}
 {% step %}
-### Accédez aux filtres dans la page _Patients_.
+### 1) Accédez à la page Patients, puis 2) sélectionnez les filtres.
 
 <figure><img src="../../.gitbook/assets/CleanShot 2025-09-09 at 08.36.42@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
@@ -44,11 +44,11 @@ Les filtres varient selon les rôles qui vont ont été attribués et les config
 
 ## 2. Visualiser l'état du processus d'invitation
 
-### Tutoriel
+### Pas-à-pas
 
 {% stepper %}
 {% step %}
-### Accédez aux filtres dans la page _Patients_.
+### 1) Accédez à la page Patients, puis 2) sélectionnez les filtres.
 
 <figure><img src="../../.gitbook/assets/CleanShot 2025-09-09 at 08.36.42@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}

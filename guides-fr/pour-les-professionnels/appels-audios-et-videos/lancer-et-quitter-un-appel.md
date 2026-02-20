@@ -6,7 +6,13 @@
 
 {% stepper %}
 {% step %}
-#### Dans un fil de discussion avec la ou les personnes à rejoindre, cliquez sur le téléphone.
+**1) Accédez à la page&#x20;**_**Accueil**_**, puis sélectionnez 2) le fil de discussion où vous voulez lancer un appel ou 3) créez un nouveau fil avec la ou les personnes à rejoindre.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-01-20 at 09.44.36@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Dans le fil de discussion, cliquez sur le téléphone.**
 
 {% hint style="warning" %}
 Si vous êtes seul dans la discussion, ou si les autres participants n'ont pas encore accepté la discussion, le bouton d'appel ne sera pas affiché.
@@ -16,7 +22,7 @@ Si vous êtes seul dans la discussion, ou si les autres participants n'ont pas e
 {% endstep %}
 
 {% step %}
-#### S'il y a plus d'une personne qui pourrait être notifiée de cet appel, l'application va vous proposer de sélectionner ceux que vous désirez notifier.
+**S'il y a plus d'une personne qui pourraient être notifiées de cet appel, l'application va vous proposer de sélectionner ceux que vous désirez notifier. Cliquez sur&#x20;**_**Démarrer l'appel**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Sélectionner les participants et démarrer lappel - Étape 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -24,7 +30,7 @@ Si vous êtes seul dans la discussion, ou si les autres participants n'ont pas e
 {% endstep %}
 
 {% step %}
-#### Vous voilà dans l'appel conférence ! Cliquez sur le téléphone rouge pour terminer l'appel.
+**Vous voilà dans l'appel conférence! Cliquez sur le bouton rouge pour terminer l'appel.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Cliquer sur licône de porter rouge pour quitter lappel.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

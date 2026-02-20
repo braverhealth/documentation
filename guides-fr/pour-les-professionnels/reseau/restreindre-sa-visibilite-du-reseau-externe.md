@@ -8,7 +8,13 @@ Restreindre votre visibilité du réseau vous permet d'apparaître dans les rech
 
 {% stepper %}
 {% step %}
-**Débutez en naviguant à votre profil en bas de l'écran.**
+**Cliquez sur votre avatar de profil au bas de la page.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-01-14 at 14.57.01@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Accédez à vos paramètres en cliquant sur votre nom.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

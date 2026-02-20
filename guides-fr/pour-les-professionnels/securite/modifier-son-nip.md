@@ -4,9 +4,9 @@
 
 {% stepper %}
 {% step %}
-#### Sélectionnez la pastille avec votre photo ou vos initiales pour accéder à votre profil, puis cliquez sur votre nom.
+**1) Accédez à votre profil via votre avatar en bas de l'écran, puis 2) cliquez sur votre nom.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Modifier son NIP - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-04 at 14.58.30@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
