@@ -1,7 +1,7 @@
 # Ajouter ou modifier son courriel
 
 {% hint style="info" %}
-Braver vous envoie des notifications de nouveaux messages et des récapitulatifs hebdomadaires par courriels. Si vous vous connectez via l'un de nos partenaire d'intégration, il est possible que votre courriel ne soit pas partagé à Braver; vous pouvez l'ajouter manuellement.&#x20;
+Braver vous envoie des notifications de nouveaux messages et des récapitulatifs hebdomadaires par courriels. Si vous vous connectez via l'un de nos partenaires d'intégration, il est possible que votre courriel ne soit pas partagé à Braver; vous pouvez l'ajouter manuellement.&#x20;
 {% endhint %}
 
 {% stepper %}
@@ -30,7 +30,7 @@ Braver vous envoie des notifications de nouveaux messages et des récapitulatifs
 {% endstep %}
 
 {% step %}
-### Cliquez sur Ajouter.
+### Cliquez sur _Ajouter_.
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-02 at 15.58.47@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
