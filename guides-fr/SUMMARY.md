@@ -70,6 +70,7 @@
   * [Activer les notifications sur un appareil mobile](pour-les-professionnels/gestion-des-notifications/activer-les-notifications-sur-appareils-mobile.md)
   * [Régler sa période d'indisponibilité](pour-les-professionnels/gestion-des-notifications/regler-sa-periode-dindisponibilite.md)
   * [Régler son horaire de disponibilité](pour-les-professionnels/gestion-des-notifications/regler-son-horaire-de-disponibilites.md)
+  * [Ajouter ou modifier son courriel](pour-les-professionnels/gestion-des-notifications/ajouter-ou-modifier-son-courriel.md)
 * [Sécurité](pour-les-professionnels/securite/README.md)
   * [Verrouiller votre session ou vous déconnecter](pour-les-professionnels/securite/basculer-de-session-sur-un-appareil-partage.md)
   * [Générer un nouveau code de récupération](pour-les-professionnels/securite/generer-un-nouveau-code-de-recuperation.md)
