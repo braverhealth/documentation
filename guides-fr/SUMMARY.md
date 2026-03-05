@@ -35,6 +35,7 @@
   * [Sauvegarder le brouillon d’un fil de discussion](pour-les-professionnels/fils-de-discussions/sauvegarder-le-brouillon-dun-fil-de-discussion.md)
   * [Dupliquer un fil de discussion](pour-les-professionnels/fils-de-discussions/dupliquer-un-fil-de-discussion.md)
   * [Gérer les participants d'un fil de discussion](pour-les-professionnels/fils-de-discussions/gerer-les-participants-dun-fil-de-discussion.md)
+  * [Copy of Gérer les participants d'un fil de discussion](pour-les-professionnels/fils-de-discussions/gerer-les-participants-dun-fil-de-discussion-1.md)
   * [Quitter un fil de discussion](pour-les-professionnels/fils-de-discussions/quitter-un-fil-de-discussion.md)
   * [Ajouter un message vocal à une discussion](pour-les-professionnels/fils-de-discussions/ajouter-un-message-vocal-a-une-discussion.md)
   * [Consulter les pièces jointes d’un fil de discussion](pour-les-professionnels/fils-de-discussions/consulter-les-pieces-jointes-dun-fil-de-discussion.md)
