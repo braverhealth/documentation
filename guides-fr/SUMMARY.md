@@ -140,7 +140,7 @@
 
 ## Pages privées
 
-* [Soins de longue durée](pages-privees/soins-de-longue-duree.md)
+* [Soins de longue durée | Gustav x](pages-privees/soins-de-longue-duree-or-gustav-x.md)
 * [Besoin d’aide? UVS - CISSS Laurentides](trousses/uvs-cisss-laurentides.md)
 * [Therapy Transfer - Mackay & PEL](trousses/therapy-transfer.md)
 * [Trousse informative Braver | Chaudière-Appalaches](trousses/trousse-mda-ma-cisss-ca.md)

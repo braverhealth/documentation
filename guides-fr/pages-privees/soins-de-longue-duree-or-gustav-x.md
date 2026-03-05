@@ -2,19 +2,19 @@
 description: Capsules de formation et pas-à-pas sélectionnés
 ---
 
-# Soins de longue durée
+# Soins de longue durée | Gustav x
 
 ## Sections
 
-1. [Pour débuter](soins-de-longue-duree.md#id-1.-pour-debuter)
-2. [Collaborer avec vos collègues](soins-de-longue-duree.md#id-2.-collaborer-avec-vos-collegues)
-3. [Optimiser le travail d'équipe](soins-de-longue-duree.md#id-3.-optimiser-le-travail-dequipe)
-4. [Collaborer avec des cliniciens externes à votre établissement](soins-de-longue-duree.md#id-4.-collaborer-avec-des-cliniciens-externes-a-votre-etablissement-a-venir)
-5. [Collaborer avec les proches aidants](soins-de-longue-duree.md#id-5.-collaborer-avec-les-proches-aidants)
-6. [Assurer la continuité des soins](soins-de-longue-duree.md#id-6.-assurer-la-continuite-des-soins)
-7. [Respecter votre vie privée](soins-de-longue-duree.md#id-7.-respecter-votre-vie-privee)
-8. [Les fonctionnalités « coups de pouce »](soins-de-longue-duree.md#id-8.-les-fonctionnalites-coups-de-pouce)
-9. [La console administrative](soins-de-longue-duree.md#id-9.-la-console-administrative)
+1. [Pour débuter](soins-de-longue-duree-or-gustav-x.md#id-1.-pour-debuter)
+2. [Collaborer avec vos collègues](soins-de-longue-duree-or-gustav-x.md#id-2.-collaborer-avec-vos-collegues)
+3. [Optimiser le travail d'équipe](soins-de-longue-duree-or-gustav-x.md#id-3.-optimiser-le-travail-dequipe)
+4. [Collaborer avec des cliniciens externes à votre établissement](soins-de-longue-duree-or-gustav-x.md#id-4.-collaborer-avec-des-cliniciens-externes-a-votre-etablissement-a-venir)
+5. [Collaborer avec les proches aidants](soins-de-longue-duree-or-gustav-x.md#id-5.-collaborer-avec-les-proches-aidants)
+6. [Assurer la continuité des soins](soins-de-longue-duree-or-gustav-x.md#id-6.-assurer-la-continuite-des-soins)
+7. [Respecter votre vie privée](soins-de-longue-duree-or-gustav-x.md#id-7.-respecter-votre-vie-privee)
+8. [Les fonctionnalités « coups de pouce »](soins-de-longue-duree-or-gustav-x.md#id-8.-les-fonctionnalites-coups-de-pouce)
+9. [La console administrative](soins-de-longue-duree-or-gustav-x.md#id-9.-la-console-administrative)
 
 ## 1. Pour débuter
 
@@ -40,9 +40,21 @@ Faites vos premiers pas dans l'application en créant votre compte et en tirant 
 
 ## 2. Collaborer avec vos collègues
 
-Écrivez à vos collègues, envoyez-leur des messages vocaux retranscrits pour les moments pressés et partagez des photos de plaies que vous pouvez éditer ou tout autre fichier. Les appels sont inclus dans votre forfait? Aporenez comment en profiter.
+Écrivez à vos collègues, envoyez-leur des messages vocaux retranscrits pour les moments pressés et partagez des photos de plaies que vous pouvez éditer ou tout autre fichier. Les appels sont inclus dans votre forfait? Apprenez comment en profiter.
 
-### La capsule de formation (À venir)
+### Les capsules de formation (3)
+
+#### Bloc 2: Collaborer avec vos collègues | Les fils de discussion
+
+{% embed url="https://www.loom.com/share/b846ecf1461341999b4562c8d6142a53" %}
+
+#### Bloc 2: Collaborer avec vos collègues | Messages vocaux retranscrits et prise de photo (mobile seulement)
+
+{% embed url="https://www.loom.com/share/a1193488c85345338273c88e573eedcf" %}
+
+#### Bloc 2: Collaborer avec vos collègues | Appels vidéo
+
+{% embed url="https://www.loom.com/share/c1f2e329a5b7416b8b02b32ae8a60e68" %}
 
 ### Les pas à pas
 
@@ -110,7 +122,7 @@ Impliquez quelqu'un de l'externe (ex. pour un patient qui fait de l'hémodialyse
 
 ## 5. Collaborer avec les proches aidants
 
-Écrivez à la famille ou au patient et partagez leur de la documentation. Vous souhaitez appeler un patient pour une courte téléconsultation? C'est possible selon votre forfait.
+Écrivez à la famille ou au patient et partagez-leur de la documentation. Vous souhaitez appeler un patient pour une courte téléconsultation? C'est possible selon votre forfait.
 
 ### La capsule de formation (À venir)
 
@@ -139,7 +151,9 @@ Impliquez quelqu'un de l'externe (ex. pour un patient qui fait de l'hémodialyse
 
 Facilitez la continuité des soins en vous assurant que vos fils de discussion actifs se retrouvent entre les bonnes mains lors d'un changement de quart.
 
-### La capsule de formation (À venir)
+### La capsule de formation
+
+{% embed url="https://www.loom.com/share/995aeb8142a840d09532cb00e15cd94d" %}
 
 ### Les pas à pas
 
@@ -163,7 +177,9 @@ Facilitez la continuité des soins en vous assurant que vos fils de discussion a
 
 Indiquez à vos collègues que vous êtes indisponibles et ne recevez pas de notifications sur votre mobile hors des heures de travail.
 
-### La capsule de formation (À venir)
+### La capsule de formation
+
+{% embed url="https://www.loom.com/share/94c609c77eff475db7de172cd0314500" %}
 
 ### Les pas à pas
 
@@ -179,7 +195,9 @@ Indiquez à vos collègues que vous êtes indisponibles et ne recevez pas de not
 
 Répondez à un message plus tard, soyez notifié de la façon que vous préférez et facilitez la documentation clinique de certains échanges.
 
-### La capsule de formation (À venir)
+### La capsule de formation
+
+{% embed url="https://www.loom.com/share/acb34a1ea3fd44f28477470aa0d9935d" %}
 
 ### Les pas à pas
 
