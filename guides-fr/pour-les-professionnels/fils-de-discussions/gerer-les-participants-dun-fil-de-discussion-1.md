@@ -20,7 +20,7 @@
 {% step %}
 **Si vous souhaitez ajouter un intervenant, cliquez sur&#x20;**_**Ajouter +**_**, à droite de la mention&#x20;**_**Intervenants individuels**_**.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Gérer les participants dun fil de discussion - Ajouter.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

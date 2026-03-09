@@ -42,7 +42,7 @@ Puis saisissez et répétez votre NIP.
 
 Faites défiler jusqu'en bas, puis cliquez sur le bouton d'acceptation si vous désirez continuer.
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.24.19@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-07 at 10.30.00@2x.png" alt="" width="302"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

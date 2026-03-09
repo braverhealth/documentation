@@ -11,7 +11,7 @@ Il devient alors facile de rejoindre une discussion appartenant à votre équipe
 {% hint style="warning" %}
 Si vous ne faites pas partie d'une équipe, ou si vous n'avez pas les permissions requises pour afficher cet onglet, vous n'aurez pas l'option d'accéder à cette page.
 
-**Aussi, il est important de noter que Braver journalise les accès à ces**_**Fils d'équipe**_**.** Les personnes autorisées de votre organisation peuvent donc produire des audits d'accès au besoin.
+**Aussi, il est important de noter que Braver journalise les accès à ces&#x20;**_**Fils d'équipe**_**.** Les personnes autorisées de votre organisation peuvent donc produire des audits d'accès au besoin.
 {% endhint %}
 
 ## Pas-à-pas
@@ -24,9 +24,15 @@ Si vous ne faites pas partie d'une équipe, ou si vous n'avez pas les permission
 {% endstep %}
 
 {% step %}
-**Sélectionnez 1) les fils d'équipe, puis 2) la discussion qui vous intéresse.**
+**Sélectionnez les fils d'équipe.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-03 at 11.03.32@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-08 at 14.12.08@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+&#x20;**Sélectionnez la discussion qui vous intéresse.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-08 at 14.12.12@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

@@ -18,7 +18,7 @@
 {% step %}
 **Accédez aux participants du fil, en haut, à droite.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/retourner-une-discussion-dans-la-boite-de-triage - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-08 at 13.38.28@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

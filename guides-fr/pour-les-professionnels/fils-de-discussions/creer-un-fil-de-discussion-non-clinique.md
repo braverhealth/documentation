@@ -2,6 +2,12 @@
 
 ## Pas-à-pas
 
+* [Scénario 1: Ajouter un ou des participants](creer-un-fil-de-discussion-non-clinique.md#scenario-1-ajouter-un-ou-des-participants)
+* [Scénario 2: Ajouter une ou des équipes](creer-un-fil-de-discussion-non-clinique.md#scenario-2-ajouter-une-ou-des-equipes)
+* [Autre chemin pour créer un fil de discussion non clinique](creer-un-fil-de-discussion-non-clinique.md#autre-chemin-pour-creer-un-fil-de-discussion-non-clinique)
+
+### Scénario 1: Ajouter un ou des participants
+
 {% stepper %}
 {% step %}
 **Accédez à la page&#x20;**_**Accueil**_**.**
@@ -26,15 +32,15 @@
 
 1. **Indiquez un titre pour votre message.**
 2. **Rédigez le contenu du message.**
-3. **Cliquez sur « pièces jointes » pour ajouter des fichiers si nécessaire.**
+3. **Cliquez sur&#x20;**_**Pièces jointes**_**&#x20;pour ajouter des fichiers si nécessaire.**
 4. **Définissez la priorité comme urgente si besoin.**
-5. **Cliquez sur « suivant » pour accéder à la deuxième page de rédaction.**
+5. **Cliquez sur&#x20;**_**Suivant**_**&#x20;pour accéder à la deuxième page de rédaction.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-09 at 13.07.44@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Cliquez sur « ajouter un participant ».**
+**Cliquez sur&#x20;**_**Ajouter un participant**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/457721db71c6483b946f1d824ef09153.jpg" alt="" width="335"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -47,7 +53,7 @@
 {% endstep %}
 
 {% step %}
-**Après avoir sélectionné le participant, cliquez sur « Ajouter à la discussion ».**
+**Après avoir sélectionné le participant, cliquez sur&#x20;**_**Ajouter à la discussion**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Ajouter un participant.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -84,8 +90,39 @@ Si vous cliquez sur _Aucun patient associé_, vous pourrez transformer le fil no
 <p align="center"><img src="../../.gitbook/assets/CleanShot 2026-02-09 at 13.31.17@2x.png" alt="" data-size="original"></p>
 {% endhint %}
 
-## Autre chemin pour créer un fil de discussion non clinique
+### Scénario 2: Ajouter une ou des équipes
 
-Dans l'onglet _Réseau_ > Choisissez votre interlocuteur > Cliquez sur _Nouveau fil_
+{% stepper %}
+{% step %}
+**À l'étape 6 du scénario 1, cliquez sur le lieu de travail où se trouve votre équipe:**
+
+* **Utilisez la barre de recherche pour trouver le lieu de travail souhaité.**
+* **Cliquez sur le nom du lieu de travail où se trouve l'équipe que vous désirez ajouter.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-07 at 10.27.35@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+_**Après avoir sélectionné le lieu de travail, cliquez sur Ajouter à la discussion.**_
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-05 at 15.52.14@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Cliquez sur le nom de l'équipe que vous désirez ajouter.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-05 at 15.52.27@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Cliquez sur&#x20;**_**Envoyer**_**&#x20;en bas de la page.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-05 at 15.52.41@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+{% endstepper %}
+
+### Autre chemin pour créer un fil de discussion non clinique
+
+1\) Dans l'onglet _Réseau, 2) &#x63;_&#x68;oisissez votre interlocuteur et 3) cliquez sur _Nouveau fil_
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-09 at 19.53.35@2x.png" alt=""><figcaption></figcaption></figure></div>

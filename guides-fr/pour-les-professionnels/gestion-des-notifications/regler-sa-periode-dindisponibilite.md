@@ -10,6 +10,12 @@
 {% endstep %}
 
 {% step %}
+###
+
+
+{% endstep %}
+
+{% step %}
 **Cliquez sur l'onglet&#x20;**_**Paramètres**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Régler son horaire de disponibilités et ses périodes dindisponibilité - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>

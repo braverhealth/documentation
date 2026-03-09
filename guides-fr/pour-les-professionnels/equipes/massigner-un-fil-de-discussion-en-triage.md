@@ -12,13 +12,13 @@
 {% step %}
 **Sélectionnez&#x20;**_**Triage**_**&#x20;pour consulter le nouveau message reçu par votre équipe.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/massigner-un-fil-de-discussion-en-triage - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-08 at 14.07.19@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 **Cliquez sur le nouveau message pour l'ouvrir. Les nouveaux messages sont marqués d'un cercle rouge et sont en surbrillance.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/massigner-un-fil-de-discussion-en-triage - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-08 at 14.08.22@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -29,7 +29,7 @@
 {% hint style="info" %}
 **Une fois que vous aurez accepté un fil de la boîte de triage, celui-ci ne figurera plus dans la boîte de triage, mais bien dans vos&#x20;**_**Fils actifs**_**&#x20;sous l'onglet&#x20;**_**Accueil**_**.**
 
-<img src="../../.gitbook/assets/massigner-un-fil-de-discussion-en-triage - Step 5.jpeg" alt="" data-size="original">
+<img src="../../.gitbook/assets/CleanShot 2026-03-08 at 14.10.02@2x.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 {% endstepper %}

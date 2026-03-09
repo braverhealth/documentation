@@ -1,5 +1,12 @@
 # Fermer et exporter en PDF un fil de discussion
 
+## Pas-à-pas
+
+* [Fermer un fil de discution](fermer-et-exporter-en-pdf-un-fil-de-discussion.md#fermer-un-fil-de-discussion)
+* [Exporter un fil de discussion en PDF](fermer-et-exporter-en-pdf-un-fil-de-discussion.md#exporter-un-fil-de-discussion-en-pdf)
+
+### Fermer un fil de discussion
+
 {% hint style="info" %}
 **Qui peut fermer une discussion ?**
 
@@ -7,8 +14,6 @@
 * Tous les membres de son équipe
 * Tous les membres de son unité organisationnelle (si applicable)
 {% endhint %}
-
-## Pas-à-pas
 
 {% stepper %}
 {% step %}
@@ -18,25 +23,31 @@
 {% endstep %}
 
 {% step %}
-**Cliquez sur les 3 petits points du fil de discussion que vous souhaitez fermer. Il s'agit du menu d'actions.**
+**Cliquez sur les 3 petits points du fil de discussion que vous souhaitez fermer. Il s'agit du menu d'actions.**&#x20;
 
-<div align="left"><figure><img src="../../.gitbook/assets/Fermer et exporter en PDF un fil de discussion - Step 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
+**Si vous êtes sur mobile, maintenez le fil de discussion enfoncé pour que le menu d'action s'ouvre.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-07 at 11.26.45@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Sélectionnez "Fermer pour tout le monde".**
+**Sélectionnez&#x20;**_**Fermer le fil de discussion**_**.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Fermer et exporter en PDF un fil de discussion - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-07 at 11.26.55@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Validez que vous avez bien terminé.**
+**Cliquez sur&#x20;**_**Oui, nous avons terminé!**_
 
-<div align="left"><figure><img src="../../.gitbook/assets/Fermer et exporter en PDF un fil de discussion - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-07 at 11.30.00@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Voilà, votre fil de discussion est fermé ! Il devient un artefact immuable, mais toujours accessible.
 {% endstep %}
+{% endstepper %}
 
+### Exporter un fil de discussion en PDF
+
+{% stepper %}
 {% step %}
 **Pour exporter un fil de discussion en PDF, accédez à la discussion fermée.**
 
@@ -44,9 +55,26 @@ Voilà, votre fil de discussion est fermé ! Il devient un artefact immuable, ma
 Lorsqu'une discussion est fermée, elle présente un crochet à sa droite. S'il s'agit d'une discussion clinique (au sujet d'un patient) vous la retrouverez dans la fiche du patient (page _Patients_) ou dans la fiche de votre interlocuteur (page _Réseau_).
 {% endhint %}
 
-1. Cliquez ensuite sur les 3 petits points en bas à droite de la discussion.
-2. Sélectionnez _Exporter en PDF_. Une fenêtre s'ouvrira pour que vous puissiez l'enregistrer au bon endroit.
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-07 at 11.35.02@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/Fermer et exporter en PDF un fil de discussion - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+{% step %}
+**Cliquez ensuite sur les 3 petits points en bas à droite de la discussion.**
+
+**Si vous êtes sur mobile, maintenez le fil de discussion enfoncé pour que le menu d'action s'ouvre.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-07 at 11.36.12@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Sélectionnez&#x20;**_**Exporter en PDF**_**.**&#x20;
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-07 at 11.36.20@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Une fenêtre s'ouvre pour que vous puissiez l'enregistrer au bon endroit.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-07 at 11.41.32@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

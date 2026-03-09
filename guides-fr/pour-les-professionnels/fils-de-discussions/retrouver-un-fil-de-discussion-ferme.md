@@ -6,7 +6,11 @@ Lorsqu'un fil de discussion est fermé, il devient un artefact immuable, mais to
 
 ## Pas-à-pas
 
-Les fils de discussion fermés se retrouvent dans la [page Équipe](retrouver-un-fil-de-discussion-ferme.md#page-equipe), la [page Patients](retrouver-un-fil-de-discussion-ferme.md#page-patients) ou la [page Réseau](retrouver-un-fil-de-discussion-ferme.md#page-reseau).
+Les fils de discussion fermés se retrouvent dans:&#x20;
+
+* la [page Équipe](retrouver-un-fil-de-discussion-ferme.md#page-equipe)
+* la [page Patients](retrouver-un-fil-de-discussion-ferme.md#page-patients)
+* la [page Réseau](retrouver-un-fil-de-discussion-ferme.md#page-reseau)
 
 ### Page _Équipe_
 
@@ -24,7 +28,7 @@ Selon les configurations de votre organisation, il est possible que vous n'ayez 
 {% step %}
 **On peut reconnaître les fils de discussion fermés grâce au crochet à droite de la date.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Retrouver un fil de discussion fermé - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-07 at 11.45.29@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -50,7 +54,7 @@ Selon les configurations de votre organisation, il est possible que vous n'ayez 
 {% endstep %}
 
 {% step %}
-**Dans la section du bas, j'ai toujours accès aux fils de discussion hors canal qui ont été fermés.**
+**Dans la section du bas, j'ai toujours accès aux fils de discussion hors canal qui ont été fermés. On peut reconnaître les fils de discussion fermés grâce au crochet à droite de la date.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/Retrouver un fil de discussion fermé - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -80,12 +84,12 @@ Selon les configurations de votre organisation, il est possible que vous n'ayez 
 {% step %}
 **Sélectionnez l'un de vos contacts pour voir les discussions actives ou fermées avec lui.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Retrouver un fil de discussion fermé - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-07 at 11.49.50@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Elles sont accessibles ici!**
+**Elles sont accessibles dans l'onglet activités. On peut reconnaître les fils de discussion fermés grâce au crochet à droite de la date.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Retrouver un fil de discussion fermé - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-07 at 12.45.41@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

@@ -30,9 +30,9 @@ Si vous avez utilisé Braver de manière autonome ou dans un logiciel tiers, cho
 {% endstep %}
 
 {% step %}
-**Faites défiler jusqu'en bas, puis cliquez sur&#x20;**_**Accepter les conditions d'utilisation**_**&#x20;si vous souhaitez continuer.**
+**1) Faites défiler jusqu'en bas, puis 2) cliquez sur&#x20;**_**Accepter les conditions d'utilisation**_**&#x20;si vous souhaitez continuer.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.24.19@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-05 at 15.13.06@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

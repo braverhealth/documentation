@@ -8,9 +8,15 @@ Pour l'instant, l'édition de photo et de vidéo est seulement possible sur un a
 
 {% stepper %}
 {% step %}
-**1) Accédez à la page&#x20;**_**Accueil**_**, puis sélectionnez 2) le fil de discussion qui vous intéresse ou 3) créez un nouveau fil.**
+**Accédez à la page&#x20;**_**Accueil.**_
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-01-20 at 09.44.36@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/1-Accueil.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Sélectionnez 1) le fil de discussion qui vous intéresse ou 2) créez un nouveau fil.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/fil actif ou nouveau fil.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -24,7 +30,7 @@ Les photos prises ou vidéos enregistrées n'apparaîtront pas sur la pellicule 
 {% endstep %}
 
 {% step %}
-**Accédez à l'outil de modification en cliquant sur l'image à envoyer.**
+**Accédez à l'outil de modification en cliquant sur l'image ou la vidéo à envoyer.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/IMG_3324 (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -45,5 +51,13 @@ Les photos prises ou vidéos enregistrées n'apparaîtront pas sur la pellicule 
 **Une fois vos modifications terminées, cliquez sur la flèche de sauvegarde.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/IMG_3326.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Pour terminer, appuyez sur la flèche violette pour que votre photo ou vidéo soit bien envoyée.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_3477.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+
 {% endstep %}
 {% endstepper %}

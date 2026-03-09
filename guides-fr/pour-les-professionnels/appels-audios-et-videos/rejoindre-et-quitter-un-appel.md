@@ -28,15 +28,29 @@
 
 {% stepper %}
 {% step %}
-**Lors de la réception d'un appel conférence, si vous travaillez sur un ordinateur, vous recevrez une notification indiquant un nouveau message dans la discussion correspondante, puis y trouverez un bouton pour rejoindre l'appel.**
+**Lors de la réception d'un appel conférence, si vous travaillez sur un ordinateur, vous recevrez une notification indiquant un nouveau message. Cliquez sur ce message.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/rejoindre-et-quitter-un-appel-sur-lordinateur - Rejoindre lappel.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-07 at 11.08.55@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Pour quitter la réunion, cliquez sur le téléphone rouge.**
+Dans le fil de discussion, cliquez sur _Rejoindre l'appel_.
 
-<div align="left"><figure><img src="../../.gitbook/assets/rejoindre-et-quitter-un-appel-sur-lordinateur - Quitter lappel.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-07 at 11.09.04@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+Il y aura également un bandeau dans la fenêtre de droite ainsi qu'une sonnerie vous avertissant qu'il y a un appel en cours.  Vous pouvez cliquer sur _Accepter_ et rejoindre l'appel à cet endroit ou encore _Refuser_ l'appel.
+
+![](<../../.gitbook/assets/CleanShot 2026-03-07 at 11.09.43@2x.png>)
+{% endhint %}
+
+
+{% endstep %}
+
+{% step %}
+**Pour quitter l'appel, cliquez sur le bouton rouge.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-07 at 11.02.37@2x (2).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 {% endtab %}

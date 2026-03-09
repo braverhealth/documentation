@@ -4,9 +4,15 @@
 
 {% stepper %}
 {% step %}
-**1) Accédez à votre profil via votre avatar en bas de l'écran, puis 2) cliquez sur votre nom.**
+**Accédez à votre profil via votre avatar en bas de l'écran.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-04 at 14.58.30@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-08 at 14.17.58@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Accédez à vos paramètres en cliquant sur votre nom.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-08 at 14.17.32@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -16,7 +22,11 @@
 {% endstep %}
 
 {% step %}
-**Sélectionnez&#x20;**_**Horaire de disponibilité**_**. Selon cet horaire, vos notifications seront mises en pause jusqu'à votre retour, où vous serez mis au courant de ce qui a été manqué.**
+**Sélectionnez&#x20;**_**Horaire de disponibilité**_**.**&#x20;
+
+{% hint style="info" %}
+**Selon cet horaire, vos notifications seront mises en pause jusqu'à votre retour, où vous serez mis au courant de ce qui a été manqué.**
+{% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/Régler son horaire de disponibilités et ses périodes dindisponibilité - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -42,6 +52,6 @@
 {% step %}
 **Enregistrez votre horaire en haut à droite.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Régler son horaire de disponibilités et ses périodes dindisponibilité - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-08 at 14.33.11@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

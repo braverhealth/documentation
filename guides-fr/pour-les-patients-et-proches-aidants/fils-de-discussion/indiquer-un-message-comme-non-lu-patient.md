@@ -4,23 +4,29 @@
 
 {% stepper %}
 {% step %}
-#### Choisissez le fil de discussion que vous voulez indiquer comme non lu.
+**Accédez à la page&#x20;**_**Accueil**_**.**
 
-* **Sur ordinateur**: Cliquez sur les trois petits points
-* **Sur cellulaire et tablette**: Appuyez longuement sur le fil de discussion
-
-<div align="left"><figure><img src="../../.gitbook/assets/indiquer-un-message-comme-non-lu-patient - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/1-Accueil.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Cliquez ensuite sur _Marquer comme non lu_
+**Repérez le fil de discussion actif que vous voulez indiquer comme non lu.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/indiquer-un-message-comme-non-lu-patient - Step 2.jpeg" alt=""><figcaption></figcaption></figure></div>
+* **Sur ordinateur**: Cliquez sur les trois petits points comme sur l'image
+* **Sur cellulaire et tablette**: Appuyez longuement sur le fil de discussion pour que le menu d'actions apparaisse
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-08 at 14.40.56@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Le message s'affiche maintenant comme si vous ne l'aviez pas ouvert !
+**Cliquez ensuite sur&#x20;**_**Marquer comme non lu.**_
 
-<div align="left"><figure><img src="../../.gitbook/assets/indiquer-un-message-comme-non-lu-patient - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-08 at 14.39.57@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Le message s'affiche maintenant comme si vous ne l'aviez pas ouvert !**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-08 at 14.40.10@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
