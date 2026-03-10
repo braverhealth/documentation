@@ -2,19 +2,19 @@
 description: Capsules de formation et pas-à-pas sélectionnés
 ---
 
-# Soins de longue durée | Gustav x
+# Soins de longue durée | Gustav x Braver
 
 ## Sections
 
-1. [Pour débuter](soins-de-longue-duree-or-gustav-x.md#id-1.-pour-debuter)
-2. [Collaborer avec vos collègues](soins-de-longue-duree-or-gustav-x.md#id-2.-collaborer-avec-vos-collegues)
-3. [Optimiser le travail d'équipe](soins-de-longue-duree-or-gustav-x.md#id-3.-optimiser-le-travail-dequipe)
-4. [Collaborer avec des cliniciens externes à votre établissement](soins-de-longue-duree-or-gustav-x.md#id-4.-collaborer-avec-des-cliniciens-externes-a-votre-etablissement-a-venir)
-5. [Collaborer avec les proches aidants](soins-de-longue-duree-or-gustav-x.md#id-5.-collaborer-avec-les-proches-aidants)
-6. [Assurer la continuité des soins](soins-de-longue-duree-or-gustav-x.md#id-6.-assurer-la-continuite-des-soins)
-7. [Respecter votre vie privée](soins-de-longue-duree-or-gustav-x.md#id-7.-respecter-votre-vie-privee)
-8. [Les fonctionnalités « coups de pouce »](soins-de-longue-duree-or-gustav-x.md#id-8.-les-fonctionnalites-coups-de-pouce)
-9. [La console administrative](soins-de-longue-duree-or-gustav-x.md#id-9.-la-console-administrative)
+1. [Pour débuter](soins-de-longue-duree-or-gustav-x-braver.md#id-1.-pour-debuter)
+2. [Collaborer avec vos collègues](soins-de-longue-duree-or-gustav-x-braver.md#id-2.-collaborer-avec-vos-collegues)
+3. [Optimiser le travail d'équipe](soins-de-longue-duree-or-gustav-x-braver.md#id-3.-optimiser-le-travail-dequipe)
+4. [Collaborer avec des cliniciens externes à votre établissement](soins-de-longue-duree-or-gustav-x-braver.md#id-4.-collaborer-avec-des-cliniciens-externes-a-votre-etablissement-a-venir)
+5. [Collaborer avec les proches aidants](soins-de-longue-duree-or-gustav-x-braver.md#id-5.-collaborer-avec-les-proches-aidants)
+6. [Assurer la continuité des soins](soins-de-longue-duree-or-gustav-x-braver.md#id-6.-assurer-la-continuite-des-soins)
+7. [Respecter votre vie privée](soins-de-longue-duree-or-gustav-x-braver.md#id-7.-respecter-votre-vie-privee)
+8. [Les fonctionnalités « coups de pouce »](soins-de-longue-duree-or-gustav-x-braver.md#id-8.-les-fonctionnalites-coups-de-pouce)
+9. [La console administrative](soins-de-longue-duree-or-gustav-x-braver.md#id-9.-la-console-administrative)
 
 ## 1. Pour débuter
 
@@ -153,7 +153,7 @@ Facilitez la continuité des soins en vous assurant que vos fils de discussion a
 
 ### La capsule de formation
 
-{% embed url="https://www.loom.com/share/995aeb8142a840d09532cb00e15cd94d" %}
+{% embed url="https://www.loom.com/share/71368cf29ae64db7a2825407bfc5a22b" %}
 
 ### Les pas à pas
 
@@ -171,6 +171,10 @@ Facilitez la continuité des soins en vous assurant que vos fils de discussion a
 
 {% content-ref url="../pour-les-professionnels/equipes/consulter-les-fils-de-mon-equipe.md" %}
 [consulter-les-fils-de-mon-equipe.md](../pour-les-professionnels/equipes/consulter-les-fils-de-mon-equipe.md)
+{% endcontent-ref %}
+
+{% content-ref url="../pour-les-professionnels/fils-de-discussions/quitter-un-fil-de-discussion.md" %}
+[quitter-un-fil-de-discussion.md](../pour-les-professionnels/fils-de-discussions/quitter-un-fil-de-discussion.md)
 {% endcontent-ref %}
 
 ## 7. Respecter votre vie privée
