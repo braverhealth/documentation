@@ -102,11 +102,11 @@ Faites vos premiers pas dans l'application en créant votre compte et en tirant 
 
 Partagez de l'information aux bonnes personnes en un clic et décidez de les notifier ou non. Le médecin est passé? Il peut vous le faire savoir rapidement.
 
-### La capsule de formation (À venir)
+### La capsule de formation
+
+{% embed url="https://www.loom.com/share/d978a35398b44a739c92caee6e9492c5" %}
 
 ### Les pas à pas
-
-* Activer un canal de soins (À venir)
 
 {% content-ref url="../pour-les-professionnels/canaux-de-soins/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant.md" %}
 [associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant.md](../pour-les-professionnels/canaux-de-soins/associer-un-fil-de-discussion-clinique-a-un-canal-de-soins-existant.md)
@@ -231,3 +231,4 @@ Suivez la création de comptes de vos équipes, consultez les journaux d'audits 
 * Changer d'équipe (surtout utile pour les pilotes qui souhaitent comprendre les permissions d'un clinicien) (À venir)
 * Les segments (À venir)
 * Suivre les créations de compte (À venir)
+* Activer un canal de soins (À venir)
