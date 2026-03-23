@@ -94,10 +94,6 @@ Faites vos premiers pas dans l'application en créant votre compte et en tirant 
 [ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion-patient.md](../pour-les-patients-et-proches-aidants/fils-de-discussion/ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion-patient.md)
 {% endcontent-ref %}
 
-{% content-ref url="../pour-les-professionnels/fils-de-discussions/editer-une-photo-ou-une-video.md" %}
-[editer-une-photo-ou-une-video.md](../pour-les-professionnels/fils-de-discussions/editer-une-photo-ou-une-video.md)
-{% endcontent-ref %}
-
 ## 3. Optimiser le travail d'équipe
 
 Partagez de l'information aux bonnes personnes en un clic et décidez de les notifier ou non. Le médecin est passé? Il peut vous le faire savoir rapidement.
@@ -209,12 +205,21 @@ Répondez à un message plus tard, soyez notifié de la façon que vous préfér
 [indiquer-un-message-comme-non-lu-patient.md](../pour-les-patients-et-proches-aidants/fils-de-discussion/indiquer-un-message-comme-non-lu-patient.md)
 {% endcontent-ref %}
 
+{% content-ref url="../pour-les-professionnels/fils-de-discussions/copier-un-message-a-partir-dun-fil-de-discussion.md" %}
+[copier-un-message-a-partir-dun-fil-de-discussion.md](../pour-les-professionnels/fils-de-discussions/copier-un-message-a-partir-dun-fil-de-discussion.md)
+{% endcontent-ref %}
+
 {% content-ref url="../pour-les-professionnels/fils-de-discussions/fermer-et-exporter-en-pdf-un-fil-de-discussion.md" %}
 [fermer-et-exporter-en-pdf-un-fil-de-discussion.md](../pour-les-professionnels/fils-de-discussions/fermer-et-exporter-en-pdf-un-fil-de-discussion.md)
 {% endcontent-ref %}
 
-* Recevoir des notifications par courriel (À venir)
-* Copier et coller un message dans un fil (À venir)
+{% content-ref url="../pour-les-professionnels/fils-de-discussions/editer-une-photo-ou-une-video.md" %}
+[editer-une-photo-ou-une-video.md](../pour-les-professionnels/fils-de-discussions/editer-une-photo-ou-une-video.md)
+{% endcontent-ref %}
+
+{% content-ref url="../pour-les-professionnels/gestion-des-notifications/ajouter-ou-modifier-son-courriel.md" %}
+[ajouter-ou-modifier-son-courriel.md](../pour-les-professionnels/gestion-des-notifications/ajouter-ou-modifier-son-courriel.md)
+{% endcontent-ref %}
 
 ## 9. La console administrative
 

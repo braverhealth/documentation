@@ -41,6 +41,7 @@
   * [Éditer une photo ou une vidéo](pour-les-professionnels/fils-de-discussions/editer-une-photo-ou-une-video.md)
   * [Fermer et exporter en PDF un fil de discussion](pour-les-professionnels/fils-de-discussions/fermer-et-exporter-en-pdf-un-fil-de-discussion.md)
   * [Retrouver un fil de discussion fermé](pour-les-professionnels/fils-de-discussions/retrouver-un-fil-de-discussion-ferme.md)
+  * [Copier un message à partir d'un fil de discussion](pour-les-professionnels/fils-de-discussions/copier-un-message-a-partir-dun-fil-de-discussion.md)
 * [Appels audios et vidéos](pour-les-professionnels/appels-audios-et-videos/README.md)
   * [Lancer et quitter un appel conférence](pour-les-professionnels/appels-audios-et-videos/lancer-et-quitter-un-appel.md)
   * [Rejoindre et quitter un appel conférence](pour-les-professionnels/appels-audios-et-videos/rejoindre-et-quitter-un-appel.md)
