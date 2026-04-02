@@ -2,6 +2,10 @@
 
 * [Change log](README.md)
 
+## 1.8
+
+* [Version 1.8.0](1.8/version-1.8.0.md)
+
 ## 1.7
 
 * [Version 1.7.3](1.7/version-1.7.3.md)
