@@ -1,6 +1,6 @@
 ---
 description: >-
-  This version has been available in app stores since [date] on iOS, Android and the web.
+  This version has been available in app stores since April 2 on iOS, Android and the web.
 icon: sparkles
 ---
 
