@@ -11,14 +11,14 @@ icon: sparkles
 1. Caregiver invitation via link
 2. Deep link to the mobile app when joining a call from a mobile browser
 3. Manual workplace entry
-4. Rich iOS push notifications displaying actual message content
-5. Smarter service worker: advanced caching and improved push notification handling (web)
+4. Rich push notifications displaying actual message content
+5. Improved performances on Web
 6. One-click care channel creation from an available trajectory
 
 #### 2. Improvements
 
 1. Automatic group selection during SSO login
-2. Fullscreen video when alone in a call (web)
+2. Fullscreen video when alone in a call
 3. First message required only for participants external to the organization
 4. Un-checking a team during thread creation also un-checks all its assigned members
 5. Report when a call could not ring on a user's device
