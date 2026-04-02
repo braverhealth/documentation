@@ -1,6 +1,6 @@
 ---
 description: >-
-  Cette version est disponible dans les magasins d'application depuis le [date] sur iOS, Android et le web.
+  Cette version est disponible dans les magasins d'application depuis le 2 avril sur iOS, Android et le web.
 icon: sparkles
 ---
 
