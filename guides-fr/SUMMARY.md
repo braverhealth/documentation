@@ -128,6 +128,8 @@
   * [Comment octroyer un rôle à un utilisateur existant?](pour-les-administrateurs/utilisateurs/comment-octroyer-un-role-a-un-utilisateur-existant.md)
 * [Journaux d'audit](pour-les-administrateurs/journaux-daudit/README.md)
   * [Comment faire une recherche dans les journaux d'audits?](pour-les-administrateurs/journaux-daudit/comment-faire-une-recherche-dans-le-journal-daudits.md)
+* [Domaines](pour-les-administrateurs/domaines/README.md)
+  * [Créer un domaine](pour-les-administrateurs/domaines/creer-un-domaine.md)
 
 ## Intégrations
 
