@@ -1,9 +1,9 @@
 ---
-icon: flag
 description: >-
   Dans cette section, vous trouverez une banque de tutoriels sous forme de
   vidéos et de pas-à-pas qui vous aideront à vous familiariser avec chacune des
   fonctionnalités de Braver.
+icon: flag
 ---
 
 # Débuter ici
@@ -35,6 +35,10 @@ Pour en découvrir davantage, les différentes sections ci-bas vous aideront à 
 
 {% content-ref url="fils-de-discussions/" %}
 [fils-de-discussions](fils-de-discussions/)
+{% endcontent-ref %}
+
+{% content-ref url="braver-connect/" %}
+[braver-connect](braver-connect/)
 {% endcontent-ref %}
 
 {% content-ref url="appels-audios-et-videos/" %}

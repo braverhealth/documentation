@@ -21,6 +21,8 @@
   * [Échanger des messages directs](pour-les-professionnels/reseau/envoyer-un-message-direct-avec-amis-seulement.md)
   * [Configurer un numéro de téléphone accessible aux amis](pour-les-professionnels/reseau/configurer-un-numero-de-telephone-accessible-aux-amis.md)
   * [Utiliser la trousse d'invitation Braver](pour-les-professionnels/reseau/utiliser-la-trousse-dinvitation-braver.md)
+* [Braver Connect](pour-les-professionnels/braver-connect/README.md)
+  * [Contacter un professionnel qui n'a pas de compte Braver](pour-les-professionnels/braver-connect/contacter-un-professionnel-qui-na-pas-de-compte-braver.md)
 * [Fiches patient](pour-les-professionnels/fiches-patients/README.md)
   * [Créer une nouvelle fiche patient](pour-les-professionnels/fiches-patients/creer-une-nouvelle-fiche-patient.md)
   * [Archiver une fiche patient](pour-les-professionnels/fiches-patients/archiver-une-fiche-patient.md)
@@ -85,6 +87,9 @@
 
 * [Débuter ici](pour-les-patients-et-proches-aidants/pour-debuter.md)
 * [Accepter une invitation à rejoindre son équipe de soins sur Braver](pour-les-patients-et-proches-aidants/accepter-une-invitation.md)
+* [Braver Connect](pour-les-patients-et-proches-aidants/braver-connect/README.md)
+  * [Ajouter un fichier, une photo ou une vidéo à un fil de discussion](pour-les-patients-et-proches-aidants/braver-connect/ajouter-un-fichier-une-photo-ou-une-video-a-un-fil-de-discussion-patient.md)
+  * [Répondre à un appel](pour-les-patients-et-proches-aidants/braver-connect/repondre-a-un-appel.md)
 * [Équipes de soins](pour-les-patients-et-proches-aidants/equipes-de-soins/README.md)
   * [Voir tous les participants d’une équipe de soins](pour-les-patients-et-proches-aidants/equipes-de-soins/voir-tous-les-participants-dune-equipe-de-soins-patient.md)
   * [Trouver une pièce jointe épinglée dans l’espace de mon équipe de soins](pour-les-patients-et-proches-aidants/equipes-de-soins/trouver-une-piece-jointe-epinglee-dans-lespace-de-mon-equipe-de-soins-patient.md)
