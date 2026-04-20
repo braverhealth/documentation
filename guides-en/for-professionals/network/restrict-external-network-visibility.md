@@ -10,48 +10,46 @@ Restricting your network visibility allows you to appear in searches for specifi
 {% step %}
 **Start by navigating to your profile at the bottom of the screen.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Access_settings.png" alt="" width="366"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 **Select the** _**Settings**_ **tab.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 08.40.48@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Select** _**Restrict My Visibility**_**.**
+**Select** _**Narrow My Visibility**_**.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 08.41.12@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 **Click in the bar to display the dropdown menu.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 08.41.41@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 **Select a profession for which you want to restrict your visibility. This profession will not be able to find you during a network search.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 08.45.24@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Once the profession is selected, click** _**Add to List**_**.**
+**Once the profession is selected, click** _**Add to List**_**.**&#x20;
 
-<div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
-{% endstep %}
-
-{% step %}
+{% hint style="info" %}
 **Repeat these steps for all relevant professions.**
+{% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 08.41.54@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**To save your choices, click** _**Save**_ **at the top right.**
+**Click the checkmark in the top right to save your choices.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/restreindre-sa-visibilite-du-reseau-externe - Step 9.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 08.42.27@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

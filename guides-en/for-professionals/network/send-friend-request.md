@@ -10,38 +10,44 @@ This is a limitation that will be corrected soon.
 
 {% stepper %}
 {% step %}
-#### Click on Network tab and search for the person you want to add as a "friend".
+**Go to the Network page.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/envoyer-une-demande-damitie - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/access_network.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Access their profile by selecting their name.
+**Search for the person you want to add as a "friend".**
 
-<div align="left"><figure><img src="../../.gitbook/assets/envoyer-une-demande-damitie - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/search_network.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Select Request to be Friends.
+**Access their profile by selecting their name.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/envoyer-une-demande-damitie - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 08.55.07@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### At this point, your request will be pending response. You can cancel your request if you wish.
+**Select Ask to be friends.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/envoyer-une-demande-damitie - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 08.55.30@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Your new "friend" can accept or ignore your invitation.
+**At this point, your request will be pending response. You can cancel your request if you wish.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/envoyer-une-demande-damitie - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 08.55.57@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### If the person accepts your invitation, their name will appear in Home > Direct Messages tab and you will be able to exchange freely with them.
+**Your new "friend" can accept or ignore your invitation.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/envoyer-une-demande-damitie - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 08.56.44@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**If the person accepts your invitation, their name will appear in Home > Direct Messages tab and you will be able to exchange freely with them.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 08.57.22@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

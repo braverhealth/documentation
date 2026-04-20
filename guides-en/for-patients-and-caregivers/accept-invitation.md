@@ -60,7 +60,7 @@ Is your screen showing something different? [Click here](accept-invitation.md#ot
 {% step %}
 **Set up a PIN to easily unlock your app.** Click on _Configure_.
 
-<div align="center"><figure><img src="../.gitbook/assets/step6.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/configure_NIP.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

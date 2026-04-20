@@ -12,32 +12,38 @@ All your friends will be automatically added to your directory.
 
 {% stepper %}
 {% step %}
-#### From Network page, search for the participant you want to add to your directory.
+**Go to the&#x20;**_**Network**_**&#x20;page.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-contact-a-votre-bottin - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/access_network.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Select the participant to open their profile.
+**Search for the participant you want to add to your directory, by clicking on the magnifying glass.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-contact-a-votre-bottin - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-15 at 15.42.18@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Click Add to My Directory.
+**Select the participant to open their profile.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-contact-a-votre-bottin - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-15 at 15.42.35@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### The contact is now added to my directory. I can remove them if needed.
+**Click Add to My Directory.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-contact-a-votre-bottin - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-15 at 15.59.47@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### All participants in my directory are displayed on Network page under Contacts.
+**The contact is now added to my directory. I can remove them if needed.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-contact-a-votre-bottin - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-15 at 16.01.07@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**All participants in my directory are displayed on the&#x20;**_**Network**_**&#x20;page under&#x20;**_**Contacts**_**.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-15 at 16.02.35@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
