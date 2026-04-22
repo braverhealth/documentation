@@ -66,13 +66,13 @@
 Consultez le tutoriel [_Gérer les participants d'un fil de discussion_](https://support.braver.net/guides/pour-les-professionnels/fils-de-discussions/gerer-les-participants-dun-fil-de-discussion) pour plus de détails à cet effet.
 {% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-09 at 13.55.32@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/menu_de_redaction_p1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 **Cliquez sur&#x20;**_**Ajouter un participant**_**.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-09 at 14.00.00@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/menu_de_rédaction_p2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 {% endstep %}
@@ -85,7 +85,7 @@ Consultez le tutoriel [_Gérer les participants d'un fil de discussion_](https:/
 Pour ajouter une équipe, consultez la section [Scénario 2: Ajouter une ou des équipes](creer-un-fil-de-discussion-clinique.md#scenario-2-ajouter-une-ou-des-equipes) de cette page.
 {% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-03-07 at 10.26.15@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/recherche_participant.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
