@@ -70,25 +70,64 @@ Is your screen showing something different? [Click here](accept-invitation.md#ot
 {% endstep %}
 
 {% step %}
-{% hint style="warning" %}
-**📱If you're on a mobile device (phone or tablet), download the app to continue.**
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/step8.png" alt="" width="375"><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-{% hint style="warning" %}
-**📱If you're on a mobile device (phone or tablet), log in with your email and password.**
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/step9.png" alt="" width="375"><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
 ## **You're now in Braver!**
 
+{% hint style="warning" %}
+**📱**If you are on a mobile device (phone or tablet), you must download the app to continue.
+
+* Android, continue by [clicking here](accept-invitation.md#android-download-the-app).
+* iOS, continue by [clicking here](accept-invitation.md#ios-download-the-app).
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/step10.avif" alt="" width="375"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### 📱Android: Download the app
+
+{% hint style="warning" %}
+9.1 📱**Android** mobile device (phone or tablet), click on _Next._
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/IMG_3146.png" alt="" width="375"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+9.2📱**Android** mobile device (phone or tablet), click on _Install_.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/IMG_0008.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+9.3📱**Android** mobile device (phone or tablet), click on Open. **You're now in Braver!**
+{% endhint %}
+{% endstep %}
+
+{% step %}
+### 📱iOS: Download the app
+
+{% hint style="warning" %}
+10.1📱**iOS** mobile device (phone or tablet), click on _Next_.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/IMG_3146.png" alt="" width="375"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+10.2📱**iOS** mobile device (phone or tablet), click on _Open._
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/IMG_3147.png" alt="" width="375"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+10.3📱**iOS** mobile device (phone or tablet), click on the blue button.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/IMG_3149.png" alt="" width="375"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+10.4📱**iOS** mobile device (phone or tablet), click on this button. **You're now in Braver!**
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/IMG_3150.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -118,7 +157,7 @@ In this case, you should enter your password in order to proceed to [step 10](ac
 
 If you have already created your account in the past with the same email address as the invitation, and your session is already active on your device, you will see a screen like the following:
 
-<div align="left"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Option 4.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/creation-de-compte-via-une-invitation - Option 4.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 \
 In this case, you should simply enter your PIN to proceed to [step 10](accept-invitation.md#step-by-step).
