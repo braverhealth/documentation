@@ -1,23 +1,29 @@
-# Create New Patient File
+# Create a New Patient File
 
 ## Step by Step
 
 {% stepper %}
 {% step %}
-#### Under Patients tab, click or tap the add button at bottom right.
+**Go to the Patients page.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Creer une nouvelle fiche patient - Step1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/access_patient_page.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Fill in the required fields, then click the checkmark at the top of the page, on the right.
+**Click the Add button in the bottom-right corner.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Creer une nouvelle fiche patient - Step2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 11.24.51@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Mrs. Gingras's patient file is now created.
+**1) Fill in the required fields, then 2) click the checkmark at the top right of the page to save.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Creer une nouvelle fiche patient - Step3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 11.26.03@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**The patient record is now created.**
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 11.37.37@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

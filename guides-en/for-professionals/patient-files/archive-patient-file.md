@@ -1,4 +1,4 @@
-# Archive Patient File
+# Archive a Patient File
 
 ## Step-by-Step
 
@@ -8,32 +8,32 @@ When you archive a patient file, it is archived only for you or your establishme
 
 {% stepper %}
 {% step %}
-#### Select Patients tab.
+**Go to the Patients page.** &#x20;
 
-<div align="left"><figure><img src="../../.gitbook/assets/Archiver une fiche patient - Step 1.jpeg" alt="" width="61"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/access_patient_page.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Choose patient file to archive.
+**Select the patient record you want to archive.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Archiver une fiche patient - Step 2.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 11.43.14@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Once in patient file, select box in top right.
+**In the patient record, select the archive box icon at the top right.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Archiver une fiche patient - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 11.43.57@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Confirm your choice. Note that discussion threads about this patient remain active.
+**Confirm your choice by clicking&#x20;**_**OK**_**. Note that discussion threads about this patient remain active.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Archiver une fiche patient - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 11.44.13@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Patient file is now archived.
+**The patient record is now archived.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Archiver une fiche patient - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-04-16 at 11.44.32@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

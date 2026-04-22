@@ -24,6 +24,7 @@
   * [Create a New Patient File](for-professionals/patient-files/create-new-patient-file.md)
   * [Archive a Patient File](for-professionals/patient-files/archive-patient-file.md)
   * [Modify a Patient File](for-professionals/patient-files/modify-patient-file.md)
+  * [Filter Patient Files](for-healthcare-professionals/patient-files/filter-patient-files.md)
 * [Discussion Threads](for-professionals/discussion-threads/README.md)
   * [Create a New Clinical Discussion Thread](for-professionals/discussion-threads/create-clinical-discussion-thread.md)
   * [Create a New Non-Clinical Discussion Thread](for-professionals/discussion-threads/create-non-clinical-discussion-thread.md)
