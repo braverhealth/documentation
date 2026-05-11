@@ -100,7 +100,7 @@ Partagez de l'information aux bonnes personnes en un clic et décidez de les not
 
 ### La capsule de formation
 
-{% embed url="https://www.loom.com/share/d978a35398b44a739c92caee6e9492c5" %}
+{% embed url="https://www.loom.com/share/8e8b9bfa4e0e48f98a8bc97f0b76a0e1" %}
 
 ### Les pas à pas
 
