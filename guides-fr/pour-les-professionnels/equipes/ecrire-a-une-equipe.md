@@ -31,7 +31,7 @@ Mettre un message ici pour référer aux boîtes de triage.
 {% step %}
 **Cliquez sur&#x20;**_**Ajouter un participant**_**.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/ajouter participant (fenêtre 2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/ajouter-participant-fenetre-2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

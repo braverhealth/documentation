@@ -18,7 +18,7 @@ You can create your account on a mobile device (phone or tablet) or a computer. 
 **📱If you were invited by SMS, click the secure invitation link.**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/step1-pàp.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/step1-pap.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
