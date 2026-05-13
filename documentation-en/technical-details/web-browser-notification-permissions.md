@@ -34,27 +34,11 @@ Close the settings panel and reload the Braver page for the changes to take effe
 
 {% stepper %}
 {% step %}
-### Click on the lock icon
+### Click on the lock icon and change the notification permission
 
-In the address bar, click on the lock icon to the left of the URL.
+In the address bar, click on the lock icon to the left of the URL. Click on **"Permissions for this site"**, then in the **"Notifications"** section, change the setting from **"Block"** or **"Ask (default)"** to **"Allow"**.
 
-<!-- <figure><img src="../.gitbook/assets/edge-permissions-step1.png" alt="" width="500"><figcaption></figcaption></figure> -->
-{% endstep %}
-
-{% step %}
-### Access permissions for this site
-
-Click on **"Permissions for this site"** in the dropdown menu.
-
-<!-- <figure><img src="../.gitbook/assets/edge-permissions-step2.png" alt="" width="500"><figcaption></figcaption></figure> -->
-{% endstep %}
-
-{% step %}
-### Enable notifications
-
-In the **"Notifications"** section, change the setting from **"Block"** or **"Ask"** to **"Allow"**.
-
-<!-- <figure><img src="../.gitbook/assets/edge-permissions-step3.png" alt="" width="500"><figcaption></figcaption></figure> -->
+<figure><img src="../.gitbook/assets/edge-permissions.png" alt="Edge notification settings" width="500"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

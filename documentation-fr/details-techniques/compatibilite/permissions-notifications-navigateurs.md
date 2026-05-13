@@ -34,27 +34,11 @@ Fermez le panneau des paramètres et rechargez la page Braver pour que les chang
 
 {% stepper %}
 {% step %}
-### Cliquez sur l'icône de cadenas
+### Cliquez sur l'icône de cadenas et modifiez la permission des notifications
 
-Dans la barre d'adresse, cliquez sur l'icône de cadenas à gauche de l'URL.
+Dans la barre d'adresse, cliquez sur l'icône de cadenas à gauche de l'URL. Cliquez sur **"Autorisations pour ce site"**, puis dans la section **"Notifications"**, changez le paramètre de **"Bloquer"** ou **"Demander (par défaut)"** à **"Autoriser"**.
 
-<!-- <figure><img src="../../.gitbook/assets/edge-permissions-step1.png" alt="" width="500"><figcaption></figcaption></figure> -->
-{% endstep %}
-
-{% step %}
-### Accédez aux autorisations pour ce site
-
-Cliquez sur **"Autorisations pour ce site"** dans le menu déroulant.
-
-<!-- <figure><img src="../../.gitbook/assets/edge-permissions-step2.png" alt="" width="500"><figcaption></figcaption></figure> -->
-{% endstep %}
-
-{% step %}
-### Activez les notifications
-
-Dans la section **"Notifications"**, changez le paramètre de **"Bloquer"** ou **"Demander"** à **"Autoriser"**.
-
-<!-- <figure><img src="../../.gitbook/assets/edge-permissions-step3.png" alt="" width="500"><figcaption></figcaption></figure> -->
+<figure><img src="../../.gitbook/assets/edge-permissions.png" alt="Paramètres de notifications Edge" width="500"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
