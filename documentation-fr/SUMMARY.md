@@ -50,6 +50,7 @@
     * [Réduction intelligente de l'utilisation Wifi](details-techniques/compatibilite/reglages-particuliers-pour-android/reduction-intelligente-de-lutilisation-wifi.md)
     * [Notifications adaptives](details-techniques/compatibilite/reglages-particuliers-pour-android/notifications-adaptives.md)
     * [Mise en veille d'applications en arrière-plan](details-techniques/compatibilite/reglages-particuliers-pour-android/mise-en-veille-dapplications-en-arriere-plan.md)
+* [Permissions de notifications sur navigateurs Web](details-techniques/compatibilite/permissions-notifications-navigateurs.md)
 * [Mises à jour](details-techniques/mises-a-jour/README.md)
   * [Inscription aux mises à jour](details-techniques/mises-a-jour/inscription-aux-mises-a-jour.md)
 * [Information légale](details-techniques/information-legale.md)
