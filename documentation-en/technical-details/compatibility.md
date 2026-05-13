@@ -37,3 +37,9 @@ For this mode, only iOS and iPadOS are supported, and we recommend **at minimum*
 {% hint style="warning" %}
 We are currently experiencing some issues with Firefox. We are working to fix this as soon as possible.
 {% endhint %}
+
+{% hint style="info" %}
+If you previously denied Braver's notification permissions in your browser, check out our guide to re-enable them.
+
+[**Web Browser Notification Permissions**](web-browser-notification-permissions.md)
+{% endhint %}

@@ -43,3 +43,9 @@ Pour ce mode, seulement iOS et iPadOS sont supportés et nous recommandons **au 
 {% hint style="warning" %}
 Nous rencontrons actuellement quelques problèmes avec Firefox. Nous travaillons à corriger cela aussitôt que possible.
 {% endhint %}
+
+{% hint style="info" %}
+Si vous avez refusé les notifications de Braver dans votre navigateur, consultez notre guide pour réactiver les permissions.
+
+[**Permissions de notifications sur navigateurs Web**](permissions-notifications-navigateurs.md)
+{% endhint %}

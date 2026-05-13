@@ -43,6 +43,7 @@
 
 * [Connectivité](details-techniques/connectivite.md)
 * [Compatibilité](details-techniques/compatibilite/README.md)
+  * [Permissions de notifications sur navigateurs Web](details-techniques/compatibilite/permissions-notifications-navigateurs.md)
   * [Réglages particuliers pour Android](details-techniques/compatibilite/reglages-particuliers-pour-android/README.md)
     * [Mode global d'économie d'énergie et de données](details-techniques/compatibilite/reglages-particuliers-pour-android/mode-global-deconomie-denergie-et-de-donnees.md)
     * [Restrictions individuelle de batterie et de données](details-techniques/compatibilite/reglages-particuliers-pour-android/restrictions-individuelle-de-batterie-et-de-donnees.md)
