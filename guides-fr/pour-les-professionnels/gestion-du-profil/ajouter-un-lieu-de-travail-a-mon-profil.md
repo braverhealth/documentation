@@ -1,8 +1,7 @@
 # Ajouter un lieu de travail à mon profil
 
-[Ajouter un lieu de travail à mon profil](ajouter-un-lieu-de-travail-a-mon-profil.md#ajouter-un-lieu-de-travail-a-mon-profil)
-
-[Créer un nouveau lieu de travail dans le réseau Braver](ajouter-un-lieu-de-travail-a-mon-profil.md#creer-un-nouveau-lieu-de-travail-dans-le-reseau-braver)
+* [Ajouter un lieu de travail à mon profil](ajouter-un-lieu-de-travail-a-mon-profil.md#ajouter-un-lieu-de-travail-a-mon-profil)
+* [Créer un nouveau lieu de travail dans le réseau Braver](ajouter-un-lieu-de-travail-a-mon-profil.md#creer-un-nouveau-lieu-de-travail-dans-le-reseau-braver)
 
 ### Ajouter un lieu de travail à mon profil
 
@@ -30,7 +29,7 @@ Il est possible d'avoir plus d'un lieu de travail!
 {% endstep %}
 
 {% step %}
-**Votre lieu de travail existe déjà dans Braver? Sélectionnez-le comme dans l'exemple. Sinon, consultez la section&#x20;**_**Créer un nouveau lieu de travail**_**&#x20;pour poursuivre.**
+**Votre lieu de travail existe déjà dans Braver? Sélectionnez-le comme dans l'exemple. Sinon, consultez la section** [_**Créer un nouveau lieu de travail dans le réseau Braver**_](ajouter-un-lieu-de-travail-a-mon-profil.md#creer-un-nouveau-lieu-de-travail-dans-le-reseau-braver) **pour poursuivre.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-05-27 at 14.20.38@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
