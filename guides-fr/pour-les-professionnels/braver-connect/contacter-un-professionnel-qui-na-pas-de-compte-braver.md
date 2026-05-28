@@ -217,9 +217,13 @@ Il existe plusieurs chemins pour écrire à un contact Braver Connect. Vous pour
 {% endstep %}
 
 {% step %}
-**1) Inscrivez le lieu de travail que vous souhaitez créer dans la boîte de recherche au haut de la page. Un ou plusieurs choix apparaîtront dans le menu sous la barre de recherche, 2) sélectionnez celui qui vous convient.**
+**1) Inscrivez le lieu de travail que vous souhaitez créer dans la boîte de recherche au haut de la page. Un ou plusieurs choix provenant de Google Maps apparaîtront dans le menu, sous la barre de recherche. 2) Sélectionnez celui qui vous convient.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-15 at 15.29.04@2x.png" alt="" width="357"><figcaption></figcaption></figure></div>
+{% hint style="info" %}
+Il est également possible d'entrer une adresse manuellement. Voir encadré vert sur l'image ci-dessous.
+{% endhint %}
+
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-05-27 at 15.25.36@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

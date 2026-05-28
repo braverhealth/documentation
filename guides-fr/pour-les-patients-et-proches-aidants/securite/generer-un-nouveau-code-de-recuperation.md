@@ -14,18 +14,18 @@ Sur un téléphone mobile, vous devez appuyer sur l'icône de roue en bas de l'�
 {% endstep %}
 
 {% step %}
-#### Sélectionnez l'onglet _Paramètres_.
+**Sélectionnez l'onglet&#x20;**_**Paramètres**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/generer-un-nouveau-code-de-recuperation  - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sous la section Sécurité, cliquez sur _Générer un code de récupération_.
+**Sous la section Sécurité, cliquez sur&#x20;**_**Générer un code de récupération**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/generer-un-nouveau-code-de-recuperation  - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Suivez les instructions
+**Suivez les instructions**
 {% endstep %}
 {% endstepper %}

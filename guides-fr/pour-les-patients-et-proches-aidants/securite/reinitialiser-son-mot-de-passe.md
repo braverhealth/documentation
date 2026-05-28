@@ -8,13 +8,13 @@ Si vous avez oublié ou perdu votre mot de passe, vous pouvez le réinitialiser 
 
 {% stepper %}
 {% step %}
-#### Lors de votre tentative de connexion, cliquez sur _Mot de passe oublié?_
+**Lors de votre tentative de connexion, cliquez sur&#x20;**_**Mot de passe oublié?**_
 
 <div align="left"><figure><img src="../../.gitbook/assets/reinitialiser-son-mot-de-passe - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Remplissez les champs demandés. Vous devrez inscrire un nouveau mot de passe et le valider en le réécrivant une deuxième fois.
+**Remplissez les champs demandés. Vous devrez inscrire un nouveau mot de passe et le valider en le réécrivant une deuxième fois.**
 
 Ensuite, sélectionnez _Réinitialiser le mot de passe_.
 

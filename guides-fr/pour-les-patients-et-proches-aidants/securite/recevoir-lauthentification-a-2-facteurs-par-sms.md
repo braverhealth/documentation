@@ -1,4 +1,4 @@
-# Recevoir l'authentification à 2 facteurs par SMS
+# Recevoir l’authentification à 2 facteurs par SMS
 
 ## Pas-à-pas
 
@@ -14,37 +14,37 @@ Sur un téléphone mobile, vous devez appuyer sur l'icône de roue en bas de l'�
 {% endstep %}
 
 {% step %}
-#### Cliquez sur l'onglet _Paramètres_.
+**Cliquez sur l'onglet&#x20;**_**Paramètres**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/recevoir-lauthentification-a-2-facteurs-par-sms - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Sous la mention Sécurité, sélectionnez _Authentification à deux facteurs_.
+**Sous la mention Sécurité, sélectionnez&#x20;**_**Authentification à deux facteurs**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/recevoir-lauthentification-a-2-facteurs-par-sms - Step 4.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Par défaut, votre authentification à deux facteurs vous est envoyée par courriel. Si vous désirez la recevoir par SMS, sélectionnez cette option.
+**Par défaut, votre authentification à deux facteurs vous est envoyée par courriel. Si vous désirez la recevoir par SMS, sélectionnez cette option.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/recevoir-lauthentification-a-2-facteurs-par-sms - Step 5.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Si vous n'avez aucun numéro de téléphone associé à votre compte, sélectionnez _Ajouter un numéro de téléphone_.
+**Si vous n'avez aucun numéro de téléphone associé à votre compte, sélectionnez&#x20;**_**Ajouter un numéro de téléphone**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/recevoir-lauthentification-a-2-facteurs-par-sms - Step 6.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Indiquez votre numéro et sélectionnez _Créer_.
+**Indiquez votre numéro et sélectionnez&#x20;**_**Créer**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/recevoir-lauthentification-a-2-facteurs-par-sms - Step 7.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### Vous recevrez alors un code de confirmation à 6 chiffres. Notez-le dans le champ approprié, puis cliquez sur _Valider_.
+**Vous recevrez alors un code de confirmation à 6 chiffres. Notez-le dans le champ approprié, puis cliquez sur&#x20;**_**Valider**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/recevoir-lauthentification-a-2-facteurs-par-sms - Step 8.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

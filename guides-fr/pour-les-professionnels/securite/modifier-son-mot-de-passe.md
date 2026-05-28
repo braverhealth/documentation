@@ -6,7 +6,7 @@
 {% step %}
 **1) Accédez à votre profil via votre avatar en bas de l'écran, puis 2) cliquez sur votre nom.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-04 at 14.58.30@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/accéder paramètres 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
