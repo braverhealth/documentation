@@ -30,7 +30,7 @@ Il est possible de créer son compte autant sur un appareil mobile (cellulaire, 
 Ce n'est pas ce qui s'affiche à votre écran? [Cliquez ici.](accepter-une-invitation.md#autres-cas)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/créer nouveau compte.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/creer-nouveau-compte.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

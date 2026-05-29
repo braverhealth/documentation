@@ -25,13 +25,13 @@ Mettre un message ici pour référer aux boîtes de triage.
 {% step %}
 **Vous voici dans le menu de rédaction d'un message. 1) Indiquez un titre, 2) ajoutez un message et 3) cliquez sur&#x20;**_**Suivant**_**.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/rédaction fil (fenêtre 1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/redaction-fil-fenetre-1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 **Cliquez sur&#x20;**_**Ajouter un participant**_**.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/ajouter participant (fenêtre 2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/ajouter-participant-fenetre-2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

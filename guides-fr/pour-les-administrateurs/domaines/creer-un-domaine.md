@@ -6,7 +6,7 @@ Afin de configurer différents éléments (bottins, identifiants de ressources, 
 {% step %}
 ### Assurez-vous d'être dans l'organisation et l'unité organisationnelle souhaitée, si cela s'applique à votre situation.
 
-<div align="left"><figure><img src="../../.gitbook/assets/vérifier_unité_org.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/verifier-unite-org.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -30,7 +30,7 @@ Afin de configurer différents éléments (bottins, identifiants de ressources, 
 {% step %}
 ### Le domaine est créé!
 
-<div align="left"><figure><img src="../../.gitbook/assets/domaine créé.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/domaine-cree.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
