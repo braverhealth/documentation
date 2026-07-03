@@ -16,19 +16,19 @@ Pour résoudre ce problème :
 
 {% stepper %}
 {% step %}
-### Allez dans les paramètres, puis dans la section Pile
+#### Allez dans les paramètres, puis dans la section Pile
 
 <div align="left"><figure><img src="../../../.gitbook/assets/Screenshot_20250203_101601_Settings.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Puis dans la section Protection de la pile
+#### Puis dans la section Protection de la pile
 
 <div align="left"><figure><img src="../../../.gitbook/assets/Screenshot_20250203_101801_Device care.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-### Sélectionnez l'option Basique ou désactivez l'option complètement
+#### Sélectionnez l'option Basique ou désactivez l'option complètement
 
 <div align="left"><figure><img src="../../../.gitbook/assets/Screenshot_20250203_101837_Device care.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}

@@ -47,5 +47,5 @@ Nous rencontrons actuellement quelques problèmes avec Firefox. Nous travaillons
 {% hint style="info" %}
 Si vous avez refusé les notifications de Braver dans votre navigateur, consultez notre guide pour réactiver les permissions.
 
-[**Permissions de notifications sur navigateurs Web**](permissions-notifications-navigateurs.md)
+[**Permissions de notifications sur navigateurs Web**](/broken/pages/qJbBvXfl9bnIMzU2BCWc)
 {% endhint %}
