@@ -73,6 +73,7 @@
   * [Ajouter un lieu de travail à mon profil](pour-les-professionnels/gestion-du-profil/ajouter-un-lieu-de-travail-a-mon-profil.md)
 * [Gestion des notifications](pour-les-professionnels/gestion-des-notifications/README.md)
   * [Activer les notifications sur un appareil mobile](pour-les-professionnels/gestion-des-notifications/activer-les-notifications-sur-appareils-mobile.md)
+  * [Permissions de notifications sur navigateurs Web](pour-les-professionnels/gestion-des-notifications/permissions-de-notifications-sur-navigateurs-web.md)
   * [Régler sa période d'indisponibilité](pour-les-professionnels/gestion-des-notifications/regler-sa-periode-dindisponibilite.md)
   * [Régler son horaire de disponibilité](pour-les-professionnels/gestion-des-notifications/regler-son-horaire-de-disponibilites.md)
   * [Ajouter ou modifier son courriel](pour-les-professionnels/gestion-des-notifications/ajouter-ou-modifier-son-courriel.md)
