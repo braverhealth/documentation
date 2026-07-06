@@ -15,6 +15,7 @@ description: Capsules de formation et pas-à-pas sélectionnés
 7. [Respecter votre vie privée](soins-de-longue-duree-or-gustav-x-braver.md#id-7.-respecter-votre-vie-privee)
 8. [Les fonctionnalités « coups de pouce »](soins-de-longue-duree-or-gustav-x-braver.md#id-8.-les-fonctionnalites-coups-de-pouce)
 9. [La console administrative](soins-de-longue-duree-or-gustav-x-braver.md#id-9.-la-console-administrative)
+10. [Sondage de satisfaction](soins-de-longue-duree-or-gustav-x-braver.md#id-10.-sondage-de-satisfaction)
 
 ## 1. Pour débuter
 
@@ -237,3 +238,10 @@ Suivez la création de comptes de vos équipes, consultez les journaux d'audits 
 * Les segments (À venir)
 * Suivre les créations de compte (À venir)
 * Activer un canal de soins (À venir)
+
+## 10. Sondage de satisfaction
+
+Merci de nous aider à améliorer la formation en répondant à notre court sondage (2 min)! Scannez le code QR ci-dessous avec un appareil mobile ou cliquez sur le lien suivant: [https://forms.gle/e4Yurg5E6b1eEvNQ8](https://forms.gle/e4Yurg5E6b1eEvNQ8). Bonne journée!
+
+<figure><img src="../.gitbook/assets/Sondage-Formation.png" alt="" width="375"><figcaption></figcaption></figure>
+

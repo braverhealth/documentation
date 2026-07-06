@@ -1,9 +1,9 @@
 ---
-icon: flag
 description: >-
   Dans cette section, vous trouverez un guide qui vous aidera à configurer
   Braver pour votre organisation ainsi que des tutoriels pour vous aider à
   chacune des étapes.
+icon: flag
 ---
 
 # Débuter ici
@@ -52,6 +52,6 @@ Pour vous assurer de bien comprendre les éléments de la structure organisation
 [comment-faire-une-recherche-dans-le-journal-daudits.md](journaux-daudit/comment-faire-une-recherche-dans-le-journal-daudits.md)
 {% endcontent-ref %}
 
-{% content-ref url="journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md" %}
-[que-puis-je-retrouver-dans-le-journal-daudits.md](journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md)
+{% content-ref url="https://github.com/braverhealth/documentation/blob/main/guides-fr/pour-les-administrateurs/journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md" %}
+[https://github.com/braverhealth/documentation/blob/main/guides-fr/pour-les-administrateurs/journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md](https://github.com/braverhealth/documentation/blob/main/guides-fr/pour-les-administrateurs/journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md)
 {% endcontent-ref %}

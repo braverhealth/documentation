@@ -45,7 +45,7 @@ Mettre un message ici pour référer aux boîtes de triage.
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-02-04 at 14.49.50@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../.gitbook/assets/%C3%89crire%20%C3%A0%20une%20%C3%A9quipe%20-%20Step%208.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://github.com/braverhealth/documentation/blob/main/guides-fr/.gitbook/assets/%C3%89crire%20%C3%A0%20une%20%C3%A9quipe%20-%20Step%208.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
