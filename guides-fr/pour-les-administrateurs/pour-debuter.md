@@ -52,6 +52,6 @@ Pour vous assurer de bien comprendre les éléments de la structure organisation
 [comment-faire-une-recherche-dans-le-journal-daudits.md](journaux-daudit/comment-faire-une-recherche-dans-le-journal-daudits.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://github.com/braverhealth/documentation/blob/main/guides-fr/pour-les-administrateurs/journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md" %}
-[https://github.com/braverhealth/documentation/blob/main/guides-fr/pour-les-administrateurs/journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md](https://github.com/braverhealth/documentation/blob/main/guides-fr/pour-les-administrateurs/journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits.md)
+{% content-ref url="https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits" %}
+[Que puis-je retrouver dans le journal d'audits?](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/pour-les-administrateurs/journaux-daudit/que-puis-je-retrouver-dans-le-journal-daudits)
 {% endcontent-ref %}
