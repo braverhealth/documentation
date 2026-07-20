@@ -1,6 +1,6 @@
 ---
 description: >-
-  This version has been available in app stores since July 20 2026 on iOS,
+  This version has been available in app stores since July 16 2026 on iOS,
   Android and the web.
 icon: sparkles
 ---
