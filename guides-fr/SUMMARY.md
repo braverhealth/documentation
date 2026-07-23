@@ -151,7 +151,8 @@
 
 ## Pages privées
 
-* [Soins de longue durée | Gustav x Braver](pages-privees/soins-de-longue-duree-or-gustav-x-braver.md)
+* [Soins de longue durée | Gustav x Braver (Pilotes)](pages-privees/soins-de-longue-duree-or-gustav-x-braver-pilotes.md)
+* [Soins de longue durée | Gustav x Braver (Cliniciens)](pages-privees/soins-de-longue-duree-or-gustav-x-braver-cliniciens.md)
 * [Besoin d’aide? UVS - CISSS Laurentides](trousses/uvs-cisss-laurentides.md)
 * [Therapy Transfer - Mackay & PEL](trousses/therapy-transfer.md)
 * [Trousse informative Braver | Chaudière-Appalaches](trousses/trousse-mda-ma-cisss-ca.md)
