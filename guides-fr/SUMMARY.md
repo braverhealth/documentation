@@ -161,3 +161,4 @@
 * [Trousse informative Braver | Outaouais](trousses/trousse-mda-ma-cisss-o.md)
 * [Trousse informative Braver | Montérégie-Est](trousses/trousse-mda-ma-cisss-me.md)
 * [Trousse de projet | Capitale-Nationale](trousses/trousse-mda-ma-cn.md)
+* [Soins virtuels (Module PPA)](pages-privees/soins-virtuels-module-ppa.md)
