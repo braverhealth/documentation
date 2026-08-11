@@ -27,6 +27,10 @@ Pour en découvrir davantage, les différentes sections ci-bas vous aideront à 
 [reseau](reseau/)
 {% endcontent-ref %}
 
+{% content-ref url="braver-connect/" %}
+[braver-connect](braver-connect/)
+{% endcontent-ref %}
+
 {% content-ref url="fiches-patients/" %}
 [fiches-patients](fiches-patients/)
 {% endcontent-ref %}
@@ -35,10 +39,6 @@ Pour en découvrir davantage, les différentes sections ci-bas vous aideront à 
 
 {% content-ref url="fils-de-discussions/" %}
 [fils-de-discussions](fils-de-discussions/)
-{% endcontent-ref %}
-
-{% content-ref url="braver-connect/" %}
-[braver-connect](braver-connect/)
 {% endcontent-ref %}
 
 {% content-ref url="appels-audios-et-videos/" %}
