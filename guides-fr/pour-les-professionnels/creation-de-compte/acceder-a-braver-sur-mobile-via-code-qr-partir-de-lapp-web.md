@@ -10,7 +10,7 @@ Vous souhaitez être notifié d'un nouveau message ou d'un appel en temps réel?
 {% step %}
 **À partir de l'**[**application Web**](https://app.braver.net/) **cliquez sur le bouton de transfert de session en bas à gauche.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/acceder-a-braver-sur-mobile-via-code-qr-partir-de-lapp-web - Step 1.jpeg" alt="" width="86"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-08-12 at 16.22.16@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
