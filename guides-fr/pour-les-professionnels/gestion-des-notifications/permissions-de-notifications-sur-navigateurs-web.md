@@ -2,10 +2,10 @@
 
 Si vous avez précédemment refusé les notifications de Braver dans votre navigateur, vous devrez accéder aux paramètres du site pour réactiver cette permission.
 
-1. [Google Chrome](activer-les-notifications-sur-un-navigateur-web.md#google-chrome)
-2. [Microsoft Edge](activer-les-notifications-sur-un-navigateur-web.md#microsoft-edge)
-3. [Mozilla Firefox](activer-les-notifications-sur-un-navigateur-web.md#mozilla-firefox)
-4. [Apple Safari](activer-les-notifications-sur-un-navigateur-web.md#apple-safari)
+1. [Google Chrome](permissions-de-notifications-sur-navigateurs-web.md#google-chrome)
+2. [Microsoft Edge](permissions-de-notifications-sur-navigateurs-web.md#microsoft-edge)
+3. [Mozilla Firefox](permissions-de-notifications-sur-navigateurs-web.md#mozilla-firefox)
+4. [Apple Safari](permissions-de-notifications-sur-navigateurs-web.md#apple-safari)
 
 {% hint style="info" %}
 Les captures d'écran ci-dessous peuvent varier légèrement selon la version de votre navigateur.

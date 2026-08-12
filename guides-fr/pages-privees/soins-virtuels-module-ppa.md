@@ -111,8 +111,8 @@ Si un fil de discussion est ouvert dans le canal de soins incluant le patient, c
 [activer-les-notifications-sur-appareils-mobile.md](../pour-les-professionnels/gestion-des-notifications/activer-les-notifications-sur-appareils-mobile.md)
 {% endcontent-ref %}
 
-{% content-ref url="../pour-les-professionnels/gestion-des-notifications/activer-les-notifications-sur-un-navigateur-web.md" %}
-[activer-les-notifications-sur-un-navigateur-web.md](../pour-les-professionnels/gestion-des-notifications/activer-les-notifications-sur-un-navigateur-web.md)
+{% content-ref url="../pour-les-professionnels/gestion-des-notifications/permissions-de-notifications-sur-navigateurs-web.md" %}
+[permissions-de-notifications-sur-navigateurs-web.md](../pour-les-professionnels/gestion-des-notifications/permissions-de-notifications-sur-navigateurs-web.md)
 {% endcontent-ref %}
 
 {% content-ref url="../pour-les-professionnels/gestion-des-notifications/regler-son-horaire-de-disponibilites.md" %}
