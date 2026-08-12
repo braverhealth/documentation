@@ -73,7 +73,7 @@
   * [Ajouter un lieu de travail à mon profil](pour-les-professionnels/gestion-du-profil/ajouter-un-lieu-de-travail-a-mon-profil.md)
 * [Gestion des notifications](pour-les-professionnels/gestion-des-notifications/README.md)
   * [Activer les notifications sur un appareil mobile](pour-les-professionnels/gestion-des-notifications/activer-les-notifications-sur-appareils-mobile.md)
-  * [Permissions de notifications sur navigateurs Web](pour-les-professionnels/gestion-des-notifications/permissions-de-notifications-sur-navigateurs-web.md)
+  * [Activer les notifications sur un navigateur Web](pour-les-professionnels/gestion-des-notifications/activer-les-notifications-sur-un-navigateur-web.md)
   * [Régler sa période d'indisponibilité](pour-les-professionnels/gestion-des-notifications/regler-sa-periode-dindisponibilite.md)
   * [Régler son horaire de disponibilité](pour-les-professionnels/gestion-des-notifications/regler-son-horaire-de-disponibilites.md)
   * [Ajouter ou modifier son courriel](pour-les-professionnels/gestion-des-notifications/ajouter-ou-modifier-son-courriel.md)
@@ -129,7 +129,8 @@
 * [Lieux de travail](pour-les-administrateurs/lieux-de-travail/README.md)
   * [Comment créer un lieu de travail?](pour-les-administrateurs/lieux-de-travail/comment-creer-un-lieu-de-travail.md)
 * [Équipes](pour-les-administrateurs/equipes/README.md)
-  * [Comment créer une équipe?](pour-les-administrateurs/equipes/comment-creer-une-equipe.md)
+  * [Créer une équipe](pour-les-administrateurs/equipes/comment-creer-une-equipe.md)
+  * [Créer un modèle d'équipe (À venir)](pour-les-administrateurs/equipes/creer-un-modele-dequipe-a-venir.md)
 * [Utilisateurs](pour-les-administrateurs/utilisateurs/README.md)
   * [Comment inviter des utilisateurs?](pour-les-administrateurs/utilisateurs/comment-inviter-des-utilisateurs.md)
   * [Comment annuler ou renvoyer une invitation?](pour-les-administrateurs/utilisateurs/comment-annuler-ou-renvoyer-une-invitation.md)
@@ -138,6 +139,7 @@
   * [Comment faire une recherche dans les journaux d'audits?](pour-les-administrateurs/journaux-daudit/comment-faire-une-recherche-dans-le-journal-daudits.md)
 * [Modules](pour-les-administrateurs/modules/README.md)
   * [Créer un module](pour-les-administrateurs/modules/creer-un-module.md)
+  * [Créer une trajectoire](pour-les-administrateurs/modules/creer-une-trajectoire.md)
 
 ## Intégrations
 
