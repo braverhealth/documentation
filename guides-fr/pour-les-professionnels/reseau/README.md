@@ -1,6 +1,6 @@
 ---
-icon: globe
 description: Pour être un bon collaborateur!
+icon: globe
 ---
 
 # Le réseau
@@ -21,12 +21,16 @@ description: Pour être un bon collaborateur!
 [inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver.md](inviter-un-professionnel-de-la-sante-a-rejoindre-le-reseau-braver.md)
 {% endcontent-ref %}
 
-{% content-ref url="utiliser-la-trousse-dinvitation-braver.md" %}
-[utiliser-la-trousse-dinvitation-braver.md](utiliser-la-trousse-dinvitation-braver.md)
-{% endcontent-ref %}
-
 {% content-ref url="restreindre-sa-visibilite-du-reseau-externe.md" %}
 [restreindre-sa-visibilite-du-reseau-externe.md](restreindre-sa-visibilite-du-reseau-externe.md)
+{% endcontent-ref %}
+
+{% content-ref url="voir-la-position-des-cliniques-sur-une-carte.md" %}
+[voir-la-position-des-cliniques-sur-une-carte.md](voir-la-position-des-cliniques-sur-une-carte.md)
+{% endcontent-ref %}
+
+{% content-ref url="utiliser-la-trousse-dinvitation-braver.md" %}
+[utiliser-la-trousse-dinvitation-braver.md](utiliser-la-trousse-dinvitation-braver.md)
 {% endcontent-ref %}
 
 ## Les amis
