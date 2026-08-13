@@ -1,6 +1,6 @@
 ---
-icon: message-pen
 description: Pour communiquer efficacement!
+icon: message-pen
 ---
 
 # Fils de discussions
@@ -31,6 +31,10 @@ description: Pour communiquer efficacement!
 
 {% content-ref url="dupliquer-un-fil-de-discussion.md" %}
 [dupliquer-un-fil-de-discussion.md](dupliquer-un-fil-de-discussion.md)
+{% endcontent-ref %}
+
+{% content-ref url="copier-un-message-a-partir-dun-fil-de-discussion.md" %}
+[copier-un-message-a-partir-dun-fil-de-discussion.md](copier-un-message-a-partir-dun-fil-de-discussion.md)
 {% endcontent-ref %}
 
 ## Gestion du fil de discussion
