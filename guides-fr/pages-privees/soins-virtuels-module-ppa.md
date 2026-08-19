@@ -89,6 +89,19 @@ Il est possible de n'écouter que le premier 1 min et 15 sec de la vidéo.
 [lancer-et-quitter-un-appel.md](../pour-les-professionnels/appels-audios-et-videos/lancer-et-quitter-un-appel.md)
 {% endcontent-ref %}
 
+{% hint style="info" %}
+Voici 2 façons d'appeler un patient qui n'a pas de compte Braver (en mode Braver Connect).&#x20;
+
+1. Donner un rendez-vous au patient:
+   1. Indiquer au patient qu’il recevra un lien à une heure précise pour joindre l’appel.
+   2. Démarrer un nouveau fil de discussion et demandez une confirmation écrite que le patient est bien là.
+   3. Lancer un appel. Lors de l’ajout des participants, vous pourrez voir si le patient a rejoint le fil et sera présent à l’appel.
+2. Appelez un patient avec qui vous clavardez:
+   1. Dans le fil de discussion en cours avec le patient: Lancer un appel
+      1. Sur Web: le patient pourra rejoindre l’appel en cliquant sur le bouton _**Rejoindre l’appel**_.
+      2. Sur mobile: en cliquant sur le bouton _**Rejoindre l’appel**_, le patient sera invité à télécharger l’app Braver (lors du premier appel seulement) et pourra joindre l’appel ensuite.
+{% endhint %}
+
 {% embed url="https://www.loom.com/share/d9218e50b99643eeaa0e97c42346655b" %}
 
 ***
