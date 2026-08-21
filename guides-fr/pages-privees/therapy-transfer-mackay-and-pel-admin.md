@@ -1,54 +1,22 @@
 # Therapy Transfer - Mackay and PEL (Admin)
 
-#### In the Braver app
+#### In the Braver App
 
-* [Archive old care channels](therapy-transfer-mackay-and-pel-admin.md#archive-old-care-channels)
 * [Archive former students](therapy-transfer-mackay-and-pel-admin.md#archive-former-students)
 * [Create new patient profiles](therapy-transfer-mackay-and-pel-admin.md#create-new-patient-profiles)
-* [Invite parents, or simply add their information](therapy-transfer-mackay-and-pel-admin.md#invite-parents-or-simply-add-their-information)
-* [Create Care Channels](therapy-transfer-mackay-and-pel-admin.md#create-trajectories)
+* [Invite new parents, or simply add their information](therapy-transfer-mackay-and-pel-admin.md#invite-parents-or-simply-add-their-information)
+* [Create New Care Channels](therapy-transfer-mackay-and-pel-admin.md#create-trajectories) (for old and new clients)
 * [Use a thread template](therapy-transfer-mackay-and-pel-admin.md#use-a-thread-template)
+* [Archive old care channels](therapy-transfer-mackay-and-pel-admin.md#archive-old-care-channels)
 
-#### In the admin app
+#### In the Admin App
 
 * [Remove access for professionals who have left](therapy-transfer-mackay-and-pel-admin.md#remove-access-for-professionals-who-have-left)
 * [Add new professionals](therapy-transfer-mackay-and-pel-admin.md#add-new-professionals)
 
 ***
 
-### Archive old care channels
-
-{% hint style="info" %}
-On the Patients page, [activate the "With active channels" filter](https://support-en.braver.net/guides/for-healthcare-professionals/patient-files/filter-patient-files) to view all patients with the _2025-2026 RPSS - Therapy Transfer_ care channel. Archive those care channels.
-{% endhint %}
-
-{% stepper %}
-{% step %}
-**In the patient file, identify the care channel and select&#x20;**_**See more**_**.**
-
-<div align="left"><figure><img src="../.gitbook/assets/CleanShot 2026-08-17 at 13.54.06@2x (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
-{% endstep %}
-
-{% step %}
-**Click on the box next to the title of the care channel.**
-
-<div align="left"><figure><img src="../.gitbook/assets/CleanShot 2026-08-17 at 13.54.14@2x (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
-{% endstep %}
-
-{% step %}
-**Select OK.**
-
-<div align="left"><figure><img src="../.gitbook/assets/CleanShot 2026-08-17 at 13.54.27@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
-{% endstep %}
-{% endstepper %}
-
-{% hint style="info" %}
-You can always access an archived care channel by clicking here. Parents can also access archived care channels in their app.
-
-<h2 align="center"><img src="../.gitbook/assets/CleanShot 2026-08-17 at 13.54.40@2x.png" alt="" data-size="original"></h2>
-{% endhint %}
-
-***
+## In the Braver App
 
 ### Archive former students
 
@@ -96,6 +64,8 @@ On the Patients page, activate only the "Not Archived" filter to view all non-ar
 {% endstep %}
 {% endstepper %}
 
+***
+
 ### Create Care Channels
 
 {% stepper %}
@@ -125,18 +95,14 @@ If it does not appear as shown below, please let us know.
 **Create the care channel with a first message.**
 
 {% hint style="info" %}
-If you decide to create a care channel without a first message, you can then use a thread template to notify only the parents.
+If you decide to create a care channel without a first message, you can then [use a thread template](therapy-transfer-mackay-and-pel-admin.md#use-a-thread-template) to notify only the parents.
 {% endhint %}
 
-<div align="left"><figure><img src="../.gitbook/assets/CleanShot 2026-08-17 at 14.53.56@2x (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
-{% endstep %}
-
-{% step %}
-**Write the first message, then select&#x20;**_**Create**_**.**
-
-<div align="left"><figure><img src="../.gitbook/assets/CleanShot 2026-08-17 at 14.54.49@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/CleanShot 2026-08-21 at 09.49.51@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
+
+***
 
 ### Use a thread template
 
@@ -169,6 +135,44 @@ We can configure the thread templates you need. It is easy to configure them in 
 <div align="left"><figure><img src="../.gitbook/assets/CleanShot 2026-08-17 at 15.18.05@2x (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
+
+***
+
+### Archive old care channels
+
+{% hint style="info" %}
+On the Patients page, [activate the "With active channels" filter](https://support-en.braver.net/guides/for-healthcare-professionals/patient-files/filter-patient-files) to view all patients with the _2025-2026 RPSS - Therapy Transfer_ care channel. Archive those care channels.
+{% endhint %}
+
+{% hint style="info" %}
+You can always access an archived care channel by clicking here. Parents can also access archived care channels in their app.
+
+<h2 align="center"><img src="../.gitbook/assets/CleanShot 2026-08-17 at 13.54.40@2x.png" alt="" data-size="original"></h2>
+{% endhint %}
+
+{% stepper %}
+{% step %}
+**In the patient file, identify the care channel and select&#x20;**_**See more**_**.**
+
+<div align="left"><figure><img src="../.gitbook/assets/CleanShot 2026-08-17 at 13.54.06@2x (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Click on the box next to the title of the care channel.**
+
+<div align="left"><figure><img src="../.gitbook/assets/CleanShot 2026-08-17 at 13.54.14@2x (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Select OK.**
+
+<div align="left"><figure><img src="../.gitbook/assets/CleanShot 2026-08-17 at 13.54.27@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+{% endstepper %}
+
+***
+
+## In the Admin App
 
 ### Remove access for professionals who have left
 
@@ -209,6 +213,8 @@ We can configure the thread templates you need. It is easy to configure them in 
 <div align="left"><figure><img src="../.gitbook/assets/CleanShot 2026-08-17 at 15.42.35@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
+
+***
 
 ### Add new professionals
 
