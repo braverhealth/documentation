@@ -44,6 +44,7 @@
 * [Connectivity](technical-details/connectivity.md)
 * [Compatibility](technical-details/compatibility.md)
 * [Web Browser Notification Permissions](technical-details/web-browser-notification-permissions.md)
+* [No Sound During a Call](technical-details/no-sound-during-a-call.md)
 * [Updates](technical-details/updates/README.md)
   * [Subscription for Updates](technical-details/updates/subscribing-to-updates.md)
 * [Legal Information](technical-details/legal-information.md)

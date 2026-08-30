@@ -54,3 +54,4 @@
   * [Inscription aux mises à jour](details-techniques/mises-a-jour/inscription-aux-mises-a-jour.md)
 * [Information légale](details-techniques/information-legale.md)
 * [Tests d'appels](details-techniques/tests-dappels.md)
+* [Aucun son durant un appel](details-techniques/aucun-son-durant-un-appel.md)
