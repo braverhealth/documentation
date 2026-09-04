@@ -22,9 +22,8 @@ icon: sparkles
 
 #### 3. Fixes
 
-1. Forms: fixed the grey date picker, submissions that stayed disabled once every field was filled, deprecated fields appearing in new forms, and a crash when saving a form without its labels
-2. Care channels: fixed adding team participants during creation, a blank details screen, and restrictions that were not applied to patients on Braver Connect
-3. Discussions: fixed removed users staying assignable, missing accept and decline actions for invited clinicians, and drafts that were not saved
-4. PDF exports for patients now show the latest revisions instead of the original message content
-5. Calls and media: fixed ending a meeting for all participants on LeoMed calls, and a crash when opening the media editor on iOS
-6. Signing in: fixed Microsoft SSO account creation failing on the first attempt, and the QR code login asking for a PIN twice
+1. Care channels: fixed adding team participants during creation, a blank details screen, and restrictions that were not applied to patients on Braver Connect
+2. Discussions: fixed removed users staying assignable, missing accept and decline actions for invited clinicians, and drafts that were not saved
+3. PDF exports for patients now show the latest revisions instead of the original message content
+4. Calls and media: fixed ending a meeting for all participants on LeoMed calls, and a crash when opening the media editor on iOS
+5. Signing in: fixed Microsoft SSO account creation failing on the first attempt, and the QR code login asking for a PIN twice

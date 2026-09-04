@@ -22,9 +22,8 @@ icon: sparkles
 
 #### 3. Corrections
 
-1. Formulaires : correction du sélecteur de date gris, des soumissions qui restaient désactivées une fois tous les champs remplis, des champs dépréciés qui apparaissaient dans les nouveaux formulaires, et d'un plantage lors de l'enregistrement d'un formulaire sans ses libellés
-2. Canaux de soins : correction de l'ajout de participants d'équipe lors de la création, d'un écran de détails vide, et des restrictions qui ne s'appliquaient pas aux patients sur Braver Connect
-3. Discussions : correction des utilisateurs retirés qui restaient assignables, des actions d'acceptation et de refus manquantes pour les cliniciens invités, et des brouillons qui n'étaient pas enregistrés
-4. Les exports PDF pour les patients affichent maintenant les dernières révisions plutôt que le contenu original des messages
-5. Appels et médias : correction de la fin de rencontre pour tous les participants sur les appels LeoMed, et d'un plantage à l'ouverture de l'éditeur de médias sur iOS
-6. Connexion : correction de la création de compte par SSO Microsoft qui échouait à la première tentative, et de la connexion par code QR qui demandait le code PIN deux fois
+1. Canaux de soins : correction de l'ajout de participants d'équipe lors de la création, d'un écran de détails vide, et des restrictions qui ne s'appliquaient pas aux patients sur Braver Connect
+2. Discussions : correction des utilisateurs retirés qui restaient assignables, des actions d'acceptation et de refus manquantes pour les cliniciens invités, et des brouillons qui n'étaient pas enregistrés
+3. Les exports PDF pour les patients affichent maintenant les dernières révisions plutôt que le contenu original des messages
+4. Appels et médias : correction de la fin de rencontre pour tous les participants sur les appels LeoMed, et d'un plantage à l'ouverture de l'éditeur de médias sur iOS
+5. Connexion : correction de la création de compte par SSO Microsoft qui échouait à la première tentative, et de la connexion par code QR qui demandait le code PIN deux fois
