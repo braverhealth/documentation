@@ -9,37 +9,21 @@ icon: sparkles
 #### 1. New Features
 
 1. Fill out and sign care forms directly in the app, on mobile and on the web
-2. New trajectory management role, allowing care channels to be created and staffed without granting access to the private content exchanged inside them
-3. Restriction settings panel, with a "Manage restrictions" entry in the inbox contextual menu
-4. Restrictions now cover actions beyond messaging
-5. Activities are now shown in the PDF export
-6. Current participant status is now shown in the PDF export
-7. Caregivers and clinicians are now distinguished in the PDF export
-8. Reactions are now included in the caregivers PDF export
-9. State-specific captions replace the generic "Activity inbox updated" notice
+2. New trajectory management role, to create care channels and assign people to them without gaining access to the private content exchanged inside
+3. Control what each participant or team is allowed to do in a channel, from a new restrictions panel in the inbox menu
+4. Richer PDF exports, with activities, current participant status, reactions, and a clear distinction between caregivers and clinicians
 
 #### 2. Improvements
 
-1. Lighter caregivers PDF export
-2. Faster participant selection: contact discussions are no longer loaded when adding a participant
-3. Reduced polling for call status
-4. Screen readers now announce text inputs that already contain text
-5. A choice value is now required when defining a form field
+1. Lighter PDF exports for caregivers
+2. Faster participant selection when adding someone to a discussion
+3. Better screen reader support in text fields
 
 #### 3. Fixes
 
-1. Fixed the date picker showing a grey screen, and submission staying disabled with every field filled, in Braver Connect forms
-2. Fixed a crash in care channels when a form was saved without its required labels
-3. Fixed deprecated form fields appearing in new form instances
-4. Fixed team participants that could not be added while creating a care channel
-5. Fixed a blank screen when opening care channel details in standalone mode
-6. Fixed inbox restrictions not being enforced for patients on Braver Connect
-7. Fixed removed users remaining assignable in existing discussions
-8. Fixed missing accept and decline actions for invited clinicians
-9. Fixed drafts that were not saved or removed reactively
-10. Fixed patient PDF exports showing the original message content instead of the latest revisions
-11. Fixed being unable to end a meeting for all participants, and the missing caller status, on LeoMed calls
-12. Fixed a crash on iOS when opening the media editor for a recently uploaded file
-13. Fixed Microsoft SSO account creation failing on the first attempt
-14. Fixed the QR code login asking for a PIN twice on mobile
-15. Fixed the "Where I'm involved" filter returning incomplete results in patient records
+1. Forms: fixed the grey date picker, submissions that stayed disabled once every field was filled, deprecated fields appearing in new forms, and a crash when saving a form without its labels
+2. Care channels: fixed adding team participants during creation, a blank details screen, and restrictions that were not applied to patients on Braver Connect
+3. Discussions: fixed removed users staying assignable, missing accept and decline actions for invited clinicians, and drafts that were not saved
+4. PDF exports for patients now show the latest revisions instead of the original message content
+5. Calls and media: fixed ending a meeting for all participants on LeoMed calls, and a crash when opening the media editor on iOS
+6. Signing in: fixed Microsoft SSO account creation failing on the first attempt, and the QR code login asking for a PIN twice
