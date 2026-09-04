@@ -1,7 +1,7 @@
 ---
 description: >-
-  Cette version est en cours de déploiement dans les magasins d'application sur
-  iOS, Android et le web.
+  Cette version est disponible dans les magasins d'application depuis le 4
+  septembre 2026 sur iOS et le web. La version Android est encore à venir.
 icon: sparkles
 ---
 
