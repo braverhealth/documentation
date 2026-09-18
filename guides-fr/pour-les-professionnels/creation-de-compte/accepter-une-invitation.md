@@ -18,7 +18,7 @@
 {% step %}
 **Est-ce la première fois que vous ouvrez Braver?** Choisissez l'option _Créer un nouveau compte_.
 
-<div align="left"><figure><img src="../../.gitbook/assets/créer nouveau compte.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-09-18 at 11.20.34 AM@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -46,9 +46,9 @@
 {% endstep %}
 
 {% step %}
-**Sélectionnez&#x20;**_**Ces réglages me conviennent**_**&#x20;ou modifiez-les, au besoin.** Si vous changez d'avis, vous pourrez toujours les modifier dans vos paramètres, sous _Modifier mes paramètres de joignabilité_.
+**Sélectionnez&#x20;**_**Ces réglages me conviennent**_**&#x20;ou&#x20;**_**J'aimerais modifier ces réglages**_**, selon vos besoins.** Si vous changez d'avis, vous pourrez toujours les modifier dans vos paramètres, sous _Modifier mes paramètres de joignabilité_.
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-09-18 at 10.53.15 AM@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-09-18 at 11.24.49 AM@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -58,7 +58,7 @@
 {% endstep %}
 
 {% step %}
-### Votre compte est créé! 🎉
+**Votre compte est créé! 🎉**
 {% endstep %}
 {% endstepper %}
 
@@ -68,9 +68,9 @@
 
 Si c'est la première fois que vous ouvrez Braver, mais que Braver a déjà été utilisé par quelqu'un d'autre sur votre appareil, vous verrez un écran comme le suivant :
 
-<div align="left"><figure><img src="../../.gitbook/assets/creation-de-compte-via-une-invitation - Option 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-09-18 at 11.22.56 AM@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-Vous pouvez alors choisir l'option _Créer un nouveau compte_ pour poursuivre la création de votre compte. Si vous avez déjà créé un compte Braver auparavant, cliquez sur votre nom ou sur _Utiliser un compte Braver existant_, puis saisissez vos informations de connexion.
+Vous pouvez alors choisir l'option _Créer un nouveau compte_ pour poursuivre la création de votre compte. Si vous avez déjà créé un compte Braver auparavant, cliquez sur votre nom ou sur _Utiliser un autre compte_, puis saisissez vos informations de connexion.
 
 ### Cas 2
 
