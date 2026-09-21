@@ -8,7 +8,7 @@ description: >-
 
 1. [Création de compte](fondations-ages-navigateur.rice.s.md#id-1.-creation-de-compte)
 2. Formation (À venir)
-3. Foire aux questions (À venir)
+3. [Foire aux questions](fondations-ages-navigateur.rice.s.md#id-3.-foire-aux-questions)
 4. [Support Braver ](fondations-ages-navigateur.rice.s.md#id-4.-support-braver)
 
 
@@ -39,7 +39,15 @@ ATTENTION!\
 
 ## 2. Formation (À venir)
 
-## 3. Foire aux questions (À venir)
+## 3. Foire aux questions
+
+<details>
+
+<summary>Je me suis connecté à Braver et mon compte est toujours actif. Toutefois, un message indique que ma profession n’a pas encore été validée sur le réseau Braver. Que dois-je faire?</summary>
+
+C’est tout à fait normal. L’application a évolué depuis votre dernière connexion. Vous devez maintenant indiquer votre profession, **« navigateur gériatrie sociale »**, ainsi que votre année de début.
+
+</details>
 
 ## 4. Support Braver&#x20;
 
