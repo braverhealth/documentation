@@ -23,6 +23,22 @@ C’est tout à fait normal. L’application a évolué depuis votre dernière c
 
 </details>
 
+<details>
+
+<summary>Question provenant d’une coordination: Est-ce que c'est seulement notre navigatrice qui doit se créer un compte auquel je pourrai accéder au besoin ou je dois m'en créer un aussi ?</summary>
+
+Non, chaque personne ayant reçu une invitation doit se créer un compte. Vous aurez chacun et chacune votre propre accès, tout en accédant au même environnement.
+
+</details>
+
+<details>
+
+<summary>Nous suivons le guide pas-à-pas et cela nous dit qu’on a déjà un compte. Ceci dit, même en voulant créer un nouveau compte, cela nous demande le code de récupération que nous n’avons pas en notre possession.</summary>
+
+Un code de récupération vous a été envoyé jadis, lors de la création de votre compte. Se trouve-t-il dans vos anciens courriels? Ce guide de soutien vous donnera plus de détails: [https://support.braver.net/guides/pour-les-professionnels/securite/reinitialiser-son-mot-de-passe](https://support.braver.net/guides/pour-les-professionnels/securite/reinitialiser-son-mot-de-passe)&#x20;
+
+</details>
+
 ## 2. Support Braver&#x20;
 
 N'hésitez pas à nous rejoindre! Voici comment:
