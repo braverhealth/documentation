@@ -6,12 +6,16 @@ description: >-
 
 # Fondations AGES (Navigateur.rice.s)
 
+***
+
+**Table des matières:**
+
 1. [Foire aux questions](fondations-ages-navigateur.rice.s.md#id-3.-foire-aux-questions)
 2. [Support Braver ](fondations-ages-navigateur.rice.s.md#id-4.-support-braver)
 3. [Création de compte](fondations-ages-navigateur.rice.s.md#id-1.-creation-de-compte)
 4. [Formation](fondations-ages-navigateur.rice.s.md#id-4.-formation)
 
-
+***
 
 ## 1. Foire aux questions
 
@@ -39,6 +43,8 @@ Un code de récupération vous a été envoyé jadis, lors de la création de vo
 
 </details>
 
+***
+
 ## 2. Support Braver&#x20;
 
 N'hésitez pas à nous rejoindre! Voici comment:
@@ -46,6 +52,8 @@ N'hésitez pas à nous rejoindre! Voici comment:
 {% content-ref url="https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/besoin-daide" %}
 [Besoin d'aide?](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/besoin-daide)
 {% endcontent-ref %}
+
+***
 
 ## 3. Création de compte
 
@@ -212,8 +220,3 @@ Archiver un canal de soins (À venir)
 {% embed url="https://support.braver.net/guides/pour-les-professionnels/fils-de-discussions/fermer-et-exporter-en-pdf-un-fil-de-discussion" %}
 
 {% embed url="https://support.braver.net/guides/pour-les-patients-et-proches-aidants/fils-de-discussion/indiquer-un-message-comme-non-lu-patient" %}
-
-***
-
-
-
