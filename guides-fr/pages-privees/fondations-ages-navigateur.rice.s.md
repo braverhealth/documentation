@@ -165,6 +165,8 @@ Ajouter une photo au canal de soins (À venir)
 
 {% embed url="https://www.loom.com/share/f3419b90f7d945f2a9f7a099b481b659" %}
 
+{% embed url="https://www.loom.com/share/1dbb77aea5f54faab42081b2203b3c9e" %}
+
 #### 4.5.2 Pas-à-pas
 
 {% embed url="https://support.braver.net/guides/pour-les-professionnels/braver-connect/contacter-un-professionnel-qui-na-pas-de-compte-braver" %}
@@ -220,3 +222,5 @@ Archiver un canal de soins (À venir)
 {% embed url="https://support.braver.net/guides/pour-les-professionnels/fils-de-discussions/fermer-et-exporter-en-pdf-un-fil-de-discussion" %}
 
 {% embed url="https://support.braver.net/guides/pour-les-patients-et-proches-aidants/fils-de-discussion/indiquer-un-message-comme-non-lu-patient" %}
+
+{% embed url="https://support.braver.net/guides/pour-les-professionnels/reseau/envoyer-une-demande-damitie" %}
