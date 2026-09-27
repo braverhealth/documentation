@@ -51,7 +51,7 @@ Dans la barre d'adresse, cliquez sur l'icône de bouclier ou de cadenas à gauch
 {% step %}
 Dans la section _**Permissions**_, trouvez _**Notifications**_ et cliquez sur le « **X** » à côté de _**Bloqué**_ pour supprimer le blocage.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Capture d’écran, le 2026-07-02 à 14.57.22.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/capture-decran-le-2026-07-02-a-14.57.22.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

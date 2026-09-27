@@ -44,7 +44,7 @@ Ici, on voit que l'équipe des infirmières est grisée parce que l'auteur du me
 Il est important de comprendre que les personnes que vous avez retirées de la discussion ne seront pas notifiées, **mais auront accès au contenu du fil dans le canal de soins.**
 {% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/désélectionner participants.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/deselectionner-participants.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

@@ -121,7 +121,7 @@ C. Choisir une équipe de votre unité organisationnelle;
 
 D. À venir.
 
-<div align="left"><figure><img src="../../.gitbook/assets/équipe step 1.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/equipe-step-1.png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
