@@ -4,7 +4,7 @@ description: >-
   pas-à-pas.
 ---
 
-# Comment créer une équipe?
+# Créer une équipe
 
 {% embed url="https://www.loom.com/share/5eb876cbec8845fa9ba3f31994cba2ce?sid=79569547-2002-45dc-b0b2-3c4a70f60d84" fullWidth="true" %}
 
@@ -24,7 +24,7 @@ description: >-
 {% step %}
 **Cliquer sur le bouton d'ajout en bas à droite**
 
-<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-02 at 21.05.23@2x (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2025-01-02 at 21.05.23@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

@@ -14,12 +14,11 @@ description: Capsules de formation et pas-à-pas sélectionnés
 6. [Assurer la continuité des soins](soins-de-longue-duree-or-gustav-x-braver-cliniciens.md#id-6.-assurer-la-continuite-des-soins)
 7. [Respecter votre vie privée](soins-de-longue-duree-or-gustav-x-braver-cliniciens.md#id-7.-respecter-votre-vie-privee)
 8. [Les fonctionnalités « coups de pouce »](soins-de-longue-duree-or-gustav-x-braver-cliniciens.md#id-8.-les-fonctionnalites-coups-de-pouce)
-9. [La console administrative](soins-de-longue-duree-or-gustav-x-braver-cliniciens.md#id-9.-la-console-administrative)
-10. [Sondage de satisfaction](soins-de-longue-duree-or-gustav-x-braver-cliniciens.md#id-10.-sondage-de-satisfaction)
+9. [Sondage de satisfaction](soins-de-longue-duree-or-gustav-x-braver-cliniciens.md#id-10.-sondage-de-satisfaction)
 
 ## 1. Pour débuter
 
-Faites vos premiers pas dans l'application en créant votre compte et en tirant la meilleure partie de l'intégration Gustav x Braver.&#x20;
+Faites vos premiers pas dans l'application en créant votre compte et en tirant la meilleure partie de l'intégration Gustav x Braver.
 
 ### La capsule de formation
 
@@ -46,6 +45,12 @@ Faites vos premiers pas dans l'application en créant votre compte et en tirant 
 ### Les capsules de formation (3)
 
 #### Bloc 2: Collaborer avec vos collègues | Les fils de discussion
+
+{% hint style="info" %}
+À VENIR TRÈS PROCHAINEMENT: Un collègue n'a pas encore créé son compte Braver? Vous pouvez tout de même chercher son nom et lui écrire; il recevra un courriel et vous recevrez une réponse via Braver, même sans compte. Visuellement, tant qu'il ne créera pas son compte, son avatar apparaîtra en blanc avec un contour en pointillé.\
+\
+N.B. Si, malgré tout, vous ne trouvez pas ce collègue dans Braver, merci de le signaler à votre administrateur Gustav/Braver qui pourra apporter les modifications nécessaires.
+{% endhint %}
 
 {% embed url="https://www.loom.com/share/b846ecf1461341999b4562c8d6142a53" %}
 
@@ -113,9 +118,23 @@ Partagez de l'information aux bonnes personnes en un clic et décidez de les not
 
 Impliquez quelqu'un de l'externe (ex. pour un patient qui fait de l'hémodialyse) qui pourra accéder à votre contenu en 3 clics et vous répondre sans devoir se créer un compte.
 
-### La capsule de formation (À venir)
+### Les capsules de formation
 
-### Les pas à pas (À venir)
+#### Bloc 4: Collaborer avec des cliniciens externes à votre établissement (MDAA) | Contacter une personne précise
+
+{% embed url="https://www.loom.com/share/cf8e60641dd74d9c868247117a52de05" %}
+
+#### Bloc 4: Collaborer avec des cliniciens externes à votre établissement (MDAA) | Adresse générique d'un lieu de travail
+
+{% embed url="https://www.loom.com/share/a872e8f5416a441db537b191546edc30" %}
+
+### Les pas à pas&#x20;
+
+{% content-ref url="../pour-les-professionnels/braver-connect/contacter-un-professionnel-qui-na-pas-de-compte-braver.md" %}
+[contacter-un-professionnel-qui-na-pas-de-compte-braver.md](../pour-les-professionnels/braver-connect/contacter-un-professionnel-qui-na-pas-de-compte-braver.md)
+{% endcontent-ref %}
+
+Collaborer avec des cliniciens externes à votre établissement (MDAA) | Adresse générique d'un lieu de travail (À venir)&#x20;
 
 ## 5. Collaborer avec les proches aidants
 
@@ -124,6 +143,10 @@ Impliquez quelqu'un de l'externe (ex. pour un patient qui fait de l'hémodialyse
 ### La capsule de formation (À venir)
 
 ### Les pas à pas
+
+Remplir la fiche du proche aidant via Gustav (À venir)
+
+Créer un canal de soins avec le patient ou le proche aidant (À venir)
 
 {% content-ref url="../pour-les-professionnels/communication-patients-et-proche-aidants/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins.md" %}
 [ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins.md](../pour-les-professionnels/communication-patients-et-proche-aidants/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins.md)
@@ -222,26 +245,8 @@ Répondez à un message plus tard, soyez notifié de la façon que vous préfér
 [ajouter-ou-modifier-son-courriel.md](../pour-les-professionnels/gestion-des-notifications/ajouter-ou-modifier-son-courriel.md)
 {% endcontent-ref %}
 
-## 9. La console administrative
-
-Suivez la création de comptes de vos équipes, consultez les journaux d'audits et segmentez vos équipes selon leur unité ou leur maisonnée.
-
-### La capsule de formation (À venir)
-
-### Les pas à pas
-
-{% content-ref url="../pour-les-administrateurs/journaux-daudit/comment-faire-une-recherche-dans-le-journal-daudits.md" %}
-[comment-faire-une-recherche-dans-le-journal-daudits.md](../pour-les-administrateurs/journaux-daudit/comment-faire-une-recherche-dans-le-journal-daudits.md)
-{% endcontent-ref %}
-
-* Changer d'équipe (surtout utile pour les pilotes qui souhaitent comprendre les permissions d'un clinicien) (À venir)
-* Les segments (À venir)
-* Suivre les créations de compte (À venir)
-* Activer un canal de soins (À venir)
-
-## 10. Sondage de satisfaction
+## 9. Sondage de satisfaction
 
 Merci de nous aider à améliorer la formation en répondant à notre court sondage (2 min)! Scannez le code QR ci-dessous avec un appareil mobile ou cliquez sur le lien suivant: [https://forms.gle/e4Yurg5E6b1eEvNQ8](https://forms.gle/e4Yurg5E6b1eEvNQ8). Bonne journée!
 
 <figure><img src="../.gitbook/assets/Sondage-Formation.png" alt="" width="375"><figcaption></figcaption></figure>
-

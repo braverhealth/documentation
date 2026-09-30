@@ -1,7 +1,7 @@
 # Créer une trajectoire
 
 {% hint style="info" %}
-Une trajectoire est un modèle de canal de soins. Lorsque vous configurez une trajectoire, vous pouvez ensuite rapidement créer des canaux de soins pour plusieurs patients, selon le même modèle. Le titre du canal de soins sera déjà défini, de même que les acteurs que vous souhaitez voir participer au canal de soins. \
+Une trajectoire est un modèle de canal de soins. Lorsque vous configurez une trajectoire, vous pouvez ensuite rapidement créer des canaux de soins pour plusieurs patients, selon le même modèle. Le titre du canal de soins sera déjà défini, de même que les acteurs que vous souhaitez voir participer au canal de soins.\
 \
 C'est également à cet endroit que vous pouvez prévoir un modèle de fil de discussion, ce qui peut vous être utile si vous avez à recopier fréquemment un même message dans le contexte de votre canal de soins.\
 \
@@ -103,7 +103,7 @@ C. Indiquer ici le nom des utilisateurs que l'on souhaite voir apparaître dans 
 {% step %}
 **Enregistrez votre progression.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/utilisateurs step 2.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/equipe step 2.png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
@@ -148,8 +148,6 @@ Les modèles de fil permettent de créer rapidement un fil de discussion dans un
 **1) Donnez un nom à votre modèle de fil et 2) cliquez sur&#x20;**_**Ajouter un modèle de fil**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/CleanShot 2026-07-14 at 13.13.52.png" alt="" width="277"><figcaption></figcaption></figure></div>
-
-
 {% endstep %}
 
 {% step %}
@@ -181,7 +179,7 @@ B. À venir.
 {% endstep %}
 
 {% step %}
-**1) Sélectionnez l'onglet&#x20;**_**Acteurs à inclure**_**. 2) Cochez les acteurs qui devront être inclus et notifiés lors de l'envoi de ce fil de discussion.**&#x20;
+**1) Sélectionnez l'onglet&#x20;**_**Acteurs à inclure**_**. 2) Cochez les acteurs qui devront être inclus et notifiés lors de l'envoi de ce fil de discussion.**
 
 {% hint style="info" %}
 Les autres acteurs y auront accès dans le canal de soins, mais ne seront pas notifiés.
@@ -200,7 +198,7 @@ Les autres acteurs y auront accès dans le canal de soins, mais ne seront pas no
 ### 4. Modifier la suggestion automatique
 
 {% hint style="info" %}
-C'est ici que vous pouvez configurer quand une trajectoire sera automatiquement suggérée dans les fiches patients. Vous pouvez restreindre les suggestions selon le statut du patient et définir une plage de dates. \
+C'est ici que vous pouvez configurer quand une trajectoire sera automatiquement suggérée dans les fiches patients. Vous pouvez restreindre les suggestions selon le statut du patient et définir une plage de dates.\
 \
 Vous pouvez ainsi sauver des clics lors de l'activation en plus de rendre vos équipes autonomes si elles ont la responsabilité de configurer un canal de soins pour les patients.
 

@@ -7,6 +7,7 @@ layout:
   cover:
     visible: true
     size: full
+    mask: none
   title:
     visible: false
   description:
@@ -23,11 +24,13 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Gustav
 
-<figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.50.42 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2025-01-09 at 21.50.42.gif" alt=""><figcaption></figcaption></figure>
 
 ### Avantages de l'intégration Gustav et Braver
 

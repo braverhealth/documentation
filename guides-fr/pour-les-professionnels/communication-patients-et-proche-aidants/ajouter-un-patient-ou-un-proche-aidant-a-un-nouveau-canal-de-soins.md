@@ -10,7 +10,7 @@ La communication avec le patient et son entourage s'inscrit exclusivement dans l
 {% step %}
 **Pour créer un canal de soins, cliquez sur&#x20;**_**Créer un canal**_**.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/ajouter-un-patient-ou-un-proche-aidant-a-un-nouveau-canal-de-soins - Step 1.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/creer-un-nouveau-canal-de-soins - Step 3.png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

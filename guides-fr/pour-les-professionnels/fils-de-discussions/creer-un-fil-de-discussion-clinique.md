@@ -18,7 +18,7 @@
 {% step %}
 **Sélectionnez la bulle dans le bas de la page.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/Créer un nouveau fil de discussion clinique - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Écrire à une équipe - Step 1.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -73,8 +73,6 @@ Consultez le tutoriel [_Gérer les participants d'un fil de discussion_](https:/
 **Cliquez sur&#x20;**_**Ajouter un participant**_**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/menu_de_rédaction_p2.png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-
 {% endstep %}
 
 {% step %}

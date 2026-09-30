@@ -16,7 +16,7 @@ Sur un téléphone mobile, vous devez appuyer sur l'icône de roue en bas de l'�
 {% step %}
 **Cliquez sur l'onglet&#x20;**_**Paramètres**_**.**
 
-<div align="left"><figure><img src="../../.gitbook/assets/recevoir-lauthentification-a-2-facteurs-par-sms - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Modifier son NIP - Step 3.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
