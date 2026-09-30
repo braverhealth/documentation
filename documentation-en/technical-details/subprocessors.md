@@ -22,5 +22,3 @@ Braver relies on a small number of service providers (subprocessors) to operate 
 * Braver's other providers, such as our staff's work tools, receive no personal information of our customers' users or of patients.
 
 This list is updated whenever a subprocessor is added or changed. For any question, [contact us](mailto:support@braver.health).
-
-_Last updated: September 30, 2026_

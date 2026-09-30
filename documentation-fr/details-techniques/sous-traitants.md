@@ -22,5 +22,3 @@ Braver fait appel à un nombre restreint de fournisseurs de services (sous-trait
 * Les autres fournisseurs de Braver, comme les outils de travail de notre personnel, ne reçoivent aucun renseignement personnel des utilisateurs de nos clients ni des patients.
 
 Cette liste est mise à jour lors de tout ajout ou changement de sous-traitant. Pour toute question, [écrivez-nous](mailto:support@braver.health).
-
-_Dernière mise à jour : 30 septembre 2026_
