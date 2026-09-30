@@ -47,3 +47,4 @@
 * [Updates](technical-details/updates/README.md)
   * [Subscription for Updates](technical-details/updates/subscribing-to-updates.md)
 * [Legal Information](technical-details/legal-information.md)
+* [Subprocessors](technical-details/subprocessors.md)
