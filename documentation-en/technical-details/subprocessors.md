@@ -10,7 +10,7 @@ Braver relies on a small number of service providers (subprocessors) to operate 
 | ------------ | ---------------- | -------------------- | ----------------- |
 | Google Cloud | Hosting of the Braver platform | Platform data; patient records, discussions, files and completed forms are end-to-end encrypted with keys that neither Braver nor Google holds | Montréal (Canada); backup copies in Toronto (Canada) |
 | Gemini on Vertex AI (Google Cloud) | Artificial intelligence features: summaries, clinical notes, message drafts | Only the content submitted when a professional triggers a feature, for example a discussion thread to summarize; no retention by Google, no model training | Montréal (Canada) |
-| Postmark | Transactional emails (invitations, sign-in links, security codes, notices) | Recipient email address and email content, with no clinical content | United States |
+| Postmark | Transactional emails (invitations, sign-in links, security codes, notices) | Recipient email address and email content, with no clinical content; for an invitation of an external professional to collaborate about a patient, that patient's initials and date of birth | United States |
 | Twilio | Authentication text messages | Phone number and security code, with no clinical content | United States |
 | Alohi (Fax.plus) | Faxing of clinical documents selected by a professional | Transmitted document and limited routing data | Montréal and Toronto (Canada); transit of less than one hour in Switzerland |
 
