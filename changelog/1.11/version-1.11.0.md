@@ -10,10 +10,10 @@ icon: sparkles
 #### 1. Nouvelles fonctionnalités
 
 1. Nouvel éditeur de photos et de vidéos : annotations, texte, recadrage et découpage vidéo
-2. Formulaires enrichis avec des cases à cocher, une option « Autre », des pièces jointes et des modèles PDF
+2. Formulaires enrichis avec des cases à cocher, une option « Autre », des pièces jointes, des signatures et des modèles PDF
 3. Retrait des formulaires publiés dans une discussion et ajout des réponses aux formulaires dans l'export PDF
 4. Archivage et restauration des formulaires et autres ressources des modules dans l'application d'administration
-5. Les administrateurs autorisés peuvent valider les professions et débloquer les codes de récupération des membres
+5. Les administrateurs autorisés peuvent valider les professions des membres
 
 #### 2. Améliorations
 

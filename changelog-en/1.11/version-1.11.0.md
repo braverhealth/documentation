@@ -10,10 +10,10 @@ icon: sparkles
 #### 1. New Features
 
 1. New photo and video editor with annotation, text, crop and video trim tools
-2. Richer forms with checkboxes, an Other option, attachments and PDF templates
+2. Richer forms with checkboxes, an Other option, attachments, signatures and PDF templates
 3. Remove forms posted in a discussion and include completed form answers in PDF exports
 4. Archive and restore forms and other module resources in the admin app
-5. Authorized administrators can validate members' professions and unblock their recovery codes
+5. Authorized administrators can validate members' professions
 
 #### 2. Improvements
 
