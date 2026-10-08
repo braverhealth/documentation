@@ -11,7 +11,7 @@ description: >-
 **Table des matières:**
 
 1. [Foire aux questions](fondations-ages-navigateur.rice.s.md#id-3.-foire-aux-questions)
-2. [Support Braver ](fondations-ages-navigateur.rice.s.md#id-4.-support-braver)
+2. [Support Braver](fondations-ages-navigateur.rice.s.md#id-4.-support-braver)
 3. [Création de compte](fondations-ages-navigateur.rice.s.md#id-1.-creation-de-compte)
 4. [Formation](fondations-ages-navigateur.rice.s.md#id-4.-formation)
 
@@ -39,13 +39,25 @@ Non, chaque personne ayant reçu une invitation doit se créer un compte. Vous a
 
 <summary>Nous suivons le guide pas-à-pas et cela nous dit qu’on a déjà un compte. Ceci dit, même en voulant créer un nouveau compte, cela nous demande le code de récupération que nous n’avons pas en notre possession.</summary>
 
-Un code de récupération vous a été envoyé jadis, lors de la création de votre compte. Se trouve-t-il dans vos anciens courriels? Ce guide de soutien vous donnera plus de détails: [https://support.braver.net/guides/pour-les-professionnels/securite/reinitialiser-son-mot-de-passe](https://support.braver.net/guides/pour-les-professionnels/securite/reinitialiser-son-mot-de-passe)&#x20;
+Un code de récupération vous a été envoyé jadis, lors de la création de votre compte. Se trouve-t-il dans vos anciens courriels? Ce guide de soutien vous donnera plus de détails: [https://support.braver.net/guides/pour-les-professionnels/securite/reinitialiser-son-mot-de-passe](https://support.braver.net/guides/pour-les-professionnels/securite/reinitialiser-son-mot-de-passe)
+
+</details>
+
+<details>
+
+<summary>J'ai perdu l'un de mes formulaires et je ne peux plus le remplir à nouveau.</summary>
+
+Seulement les 5 éléments les plus récents apparaissent dans le canal de soins. Il faut cliquer sur _**Tout voir**_ pour accéder aux autres éléments épinglés.
+
+
+
+<div align="center"><figure><img src="../.gitbook/assets/CleanShot 2026-10-08 at 3.57.37 PM@2x.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 </details>
 
 ***
 
-## 2. Support Braver&#x20;
+## 2. Support Braver
 
 N'hésitez pas à nous rejoindre! Voici comment:
 
@@ -66,7 +78,7 @@ ATTENTION!\
 \
 **Si vous aviez déjà créé un compte Braver dans le passé, merci de cliquer sur&#x20;**_**Utiliser un autre compte**_**.** Si c'est la première fois que vous créez un compte Braver, cliquez sur _Créer un nouveau compte_.
 
-![](<../.gitbook/assets/CleanShot 2026-09-18 at 11.20.34 AM@2x (1).png>)
+<img src="../.gitbook/assets/CleanShot 2026-09-18 at 11.20.34 AM@2x (1).png" alt="" data-size="original">
 {% endhint %}
 
 {% embed url="https://support.braver.net/guides/pour-les-professionnels/creation-de-compte/accepter-une-invitation" %}
