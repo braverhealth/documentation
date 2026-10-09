@@ -9,7 +9,7 @@ icon: sparkles
 
 #### 1. New Features
 
-1. Patients and caregivers can join a Braver Connect call in their phone's browser without installing the app
+1. You can join a Braver Connect call in your phone's browser without installing the app
 
 #### 2. Improvements
 

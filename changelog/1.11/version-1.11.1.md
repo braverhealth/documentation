@@ -9,7 +9,7 @@ icon: sparkles
 
 #### 1. Nouvelles fonctionnalités
 
-1. Les patients et proches aidants peuvent rejoindre un appel Braver Connect dans le navigateur de leur téléphone sans installer l'application
+1. Vous pouvez rejoindre un appel Braver Connect dans le navigateur de votre téléphone sans installer l'application
 
 #### 2. Améliorations
 
