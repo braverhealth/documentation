@@ -4,6 +4,7 @@
 
 ## 1.11
 
+* [Version 1.11.1](1.11/version-1.11.1.md)
 * [Version 1.11.0](1.11/version-1.11.0.md)
 
 ## 1.10
