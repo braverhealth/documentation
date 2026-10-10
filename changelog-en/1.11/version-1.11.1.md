@@ -1,0 +1,31 @@
+---
+description: >-
+  This release is being prepared. Availability dates for iOS, Android
+  and the web are still to be confirmed.
+icon: sparkles
+---
+
+# Version 1.11.1
+
+#### 1. New Features
+
+1. You can join a Braver Connect call in your phone's browser without installing the app
+
+#### 2. Improvements
+
+1. In the clinician app, view and edit photos and videos while they upload
+2. File transfers run more smoothly
+3. The default thread title is now optional in thread templates
+4. Forms show accepted formats and size limits before an attachment is added
+5. Returning from a sub-form restores your place
+6. On Android, PDF forms are easier to fill out with the keyboard and date picker
+
+#### 3. Fixes
+
+1. Trajectory filters account for your care channel access rights
+2. Management-only roles apply as soon as a care channel is created
+3. Quebec health insurance numbers and long identifiers display correctly in patient records
+4. Form choices show their full text
+5. Fields for attaching multiple files display correctly
+6. Submitted PDF forms include the last entered answer
+7. After sharing a form to a new thread, you stay on the page you were on
