@@ -40,4 +40,3 @@ We hope you find these resources helpful!
 ## Support
 
 * By e-mail, anytime: [support@braver.health](mailto:support@braver.health)
-* By telephone, Monday to Friday, between 9am and 5pm: [+1-888-342-8032](tel:1-888-342-8032)
