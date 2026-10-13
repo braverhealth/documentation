@@ -1,0 +1,37 @@
+{
+  "host": "support-en.braver.net",
+  "spaces": [
+    {
+      "dir": "documentation-en",
+      "prefix": "",
+      "id": "docs",
+      "label": "Documentation",
+      "icon": "book-open",
+      "gitbookId": "S2c7IBJV7U0eR8c2ljds"
+    },
+    {
+      "dir": "guides-en",
+      "prefix": "guides",
+      "id": "guides",
+      "label": "Guides",
+      "icon": "notebook-text",
+      "gitbookId": "d8hDMfWQR8ZiYaXo0Jis"
+    },
+    {
+      "dir": "formations-en",
+      "prefix": "training",
+      "id": "training",
+      "label": "Training",
+      "icon": "presentation",
+      "published": false
+    },
+    {
+      "dir": "changelog-en",
+      "prefix": "changelog",
+      "id": "changelog",
+      "label": "Change log",
+      "icon": "list-checks"
+    }
+  ],
+  "lang": "en"
+}

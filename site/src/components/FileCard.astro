@@ -1,0 +1,42 @@
+---
+// A downloadable file (GitBook `{% file %}` and embedded uploads). PDFs also get an inline preview on wide screens.
+import fs from 'node:fs'
+import path from 'node:path'
+import { pageLang, ui } from '~/lib/i18n'
+
+interface Props {
+  href: string
+  title?: string
+  preview?: boolean
+}
+const { href, title } = Astro.props
+const t = ui(Astro)
+const name = decodeURI(href.split('/').pop() ?? href)
+const ext = (name.match(/\.(\w+)$/)?.[1] ?? '').toLowerCase()
+const isPdf = ext === 'pdf'
+const preview = Astro.props.preview ?? isPdf
+let size: string | undefined
+try {
+  const bytes = fs.statSync(path.join(process.cwd(), 'public', decodeURI(href))).size
+  const locale = pageLang(Astro)
+  size = bytes > 1e6
+    ? `${(bytes / 1e6).toLocaleString(locale, { maximumFractionDigits: 1 })} Mo`
+    : `${Math.max(1, Math.round(bytes / 1e3)).toLocaleString(locale)} ko`
+  if (!locale.startsWith('fr')) size = size.replace('Mo', 'MB').replace('ko', 'KB')
+} catch {}
+---
+
+<div class="gb-file not-content">
+  <a class="gb-file-card" href={href} download={!isPdf || undefined} target={isPdf ? '_blank' : undefined} rel="noopener">
+    <span class="gb-file-icon" data-ext={ext} aria-hidden="true">
+      <svg viewBox="0 0 24 24" width="22" height="22"><path fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zM14 2v6h6"></path></svg>
+      <span>{ext || t.file}</span>
+    </span>
+    <span class="gb-file-text">
+      <span class="gb-file-title">{title ?? name}</span>
+      <span class="gb-file-meta">{[title && name, size].filter(Boolean).join(' · ')}</span>
+    </span>
+    <span class="gb-file-action">{isPdf ? t.open : t.download}</span>
+  </a>
+  {preview && isPdf && <iframe class="gb-file-preview" src={`${href}#navpanes=0&view=FitH`} title={title ?? name} loading="lazy"></iframe>}
+</div>

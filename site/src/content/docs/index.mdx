@@ -1,0 +1,96 @@
+---
+title: Centre d'assistance de Braver
+description: Que vous soyez sur le point de découvrir Braver, un utilisateur
+  expérimenté cherchant à approfondir vos connaissances, ou que vous rencontriez
+  un problème, vous êtes au bon endroit !
+icon: book
+prev: false
+next: false
+---
+
+import { Aside, LinkCard } from '@astrojs/starlight/components'
+import { CoverCards, CoverCard } from '~/components/cards'
+import img0 from "~/assets/documentation-fr/clinician-woman-1.jpg"
+import img1 from "~/assets/documentation-fr/iStock-2063461725 copy.jpg"
+import img2 from "~/assets/documentation-fr/professional-woman-1.jpg"
+import Inc3 from "~/includes/documentation-fr/besoin-daide.mdx"
+
+<Aside type="tip" icon="approve-check-circle">
+
+Utilisez la barre de recherche en haut de cette page pour rechercher du contenu ou encore poser une question à l'engin de recherche intelligent!
+
+</Aside>
+
+### Braver en bref
+
+<LinkCard title="Qu'est-ce que Braver?" href="/introduction/what-is-braver" />
+
+<LinkCard title="Qui peut rejoindre Braver?" href="/introduction/who-can-use-braver" />
+
+<LinkCard title="Dans quel contexte peut-on l'utiliser?" href="/introduction/in-what-context-use-braver" />
+
+### Pour devenir productif rapidement
+
+<CoverCards>
+<CoverCard href="/guides/for-healthcare-professionals/get-started-here" cover={img0}>
+<div><strong>Vous êtes un professionnel</strong></div>
+<div>Vous utilisez Braver pour communiquer dans le cadre de votre travail.</div>
+</CoverCard>
+<CoverCard href="/guides/for-patients-and-caregivers/get-started" cover={img1}>
+<div><strong>Vous êtes un patient ou proche aidant</strong></div>
+<div>Vous avez été invité par votre équipe de soins ou celle d'un proche.</div>
+</CoverCard>
+<CoverCard href="/guides/for-administrators/get-started" cover={img2}>
+<div><strong>Vous êtes un administrateur</strong></div>
+<div>Vous gérez un déploiement de Braver dans votre organisation de santé.</div>
+</CoverCard>
+</CoverCards>
+
+### Pour aller plus en profondeur
+
+<details>
+
+<summary>Si vous utilisez Braver pour communiquer dans le cadre de votre travail</summary>
+
+Commencer par [un survol](/for-healthcare-professionals/overview), ou passez directement à une section de la documentation qui pourrait vous être utile:
+
+* [Création de compte](/for-healthcare-professionals/account-creation)
+* [Le réseau](/for-healthcare-professionals/network)
+* [Fils de discussion](/for-healthcare-professionals/discussion-threads)
+* [Appels audios et vidéos](/for-healthcare-professionals/audio-and-video-calls)
+* [Canaux de soins](/for-healthcare-professionals/care-channels)
+* [Fiches patients](/for-healthcare-professionals/patient-files)
+* [Équipes](/for-healthcare-professionals/teams)
+* [Communication patients et proches aidant](/for-healthcare-professionals/patient-and-caregivers)
+* [Gestion du profil](/for-healthcare-professionals/profile)
+* [Gestion des notifications](/for-healthcare-professionals/notifications)
+* [Sécurité](/for-healthcare-professionals/security)
+
+</details>
+
+<details>
+
+<summary>Si vous êtes administrateur de Braver dans une organisation de santé</summary>
+
+Commencer par [un survol](/for-administrators/overview), ou passez directement à une section de la documentation qui pourrait vous être utile:
+
+* [Unités organisationnelles](/for-administrators/organizational-units)
+* [Lieux de travail](/for-administrators/workplaces)
+* [Équipes](/for-administrators/teams)
+* [Utilisateurs](/for-administrators/users)
+* [Journaux d'audit](/for-administrators/audit-logs)
+* [Bottins](broken-reference/)
+* [Appareil mobile géré à distance](/for-administrators/remotely-managed-mobile-device)
+
+Et si vous avez besoin de connaître les détails techniques en vue d'un déploiement
+
+* [Informations sur la compatibilité](/technical-details/compatibility)
+* [Informations sur la connectivité](/technical-details/connectivity)
+
+</details>
+
+### Besoin d'aide? <a href="#pour-nous-rejoindre" id="pour-nous-rejoindre"></a>
+
+<Inc3 />
+
+Si vous désirez rester en contact avec nos avancées, vous pouvez vous [inscrire à notre infolettre](https://braverhealth.typeform.com/to/htc30Hk5#email=xxxxx\&language=fr)!

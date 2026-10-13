@@ -1,0 +1,9 @@
+---
+// "Not translated yet" notice, styled like the (subtle) hints instead of Starlight's orange box.
+import Icon from './Icon.astro'
+---
+
+<p class="gb-notice not-content">
+  <Icon name="languages" size={16} />
+  <span>{Astro.locals.t('i18n.untranslatedContent')}</span>
+</p>

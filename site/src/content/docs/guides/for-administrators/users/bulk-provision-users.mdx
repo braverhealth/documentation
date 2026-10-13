@@ -1,0 +1,171 @@
+---
+title: Provisionner des utilisateurs en masse
+---
+
+import { Aside, Steps } from '@astrojs/starlight/components'
+import Figure from '~/components/Figure.astro'
+import img0 from "~/assets/guides-fr/console admin.png"
+import img1 from "~/assets/guides-fr/CleanShot 2026-07-15 at 15.54.39@2x.png"
+import img2 from "~/assets/guides-fr/CleanShot 2026-07-15 at 15.55.05@2x.png"
+import img3 from "~/assets/guides-fr/excel.png"
+import img4 from "~/assets/guides-fr/CleanShot 2026-07-15 at 15.55.05@2x (1).png"
+import img5 from "~/assets/guides-fr/CleanShot 2026-07-15 at 16.01.16@2x.png"
+import img6 from "~/assets/guides-fr/CleanShot 2026-07-16 at 10.02.31@2x.png"
+import img7 from "~/assets/guides-fr/CleanShot 2026-07-16 at 10.02.55@2x.png"
+import img8 from "~/assets/guides-fr/CleanShot 2026-07-16 at 10.03.50@2x.png"
+import img9 from "~/assets/guides-fr/CleanShot 2026-07-16 at 10.26.04@2x.png"
+import img10 from "~/assets/guides-fr/CleanShot 2026-07-16 at 10.26.20@2x.png"
+import img11 from "~/assets/guides-fr/CleanShot 2026-07-16 at 10.00.45@2x.png"
+
+<Aside type="note">
+
+Vous devez avoir le rôle « Admin » pour procéder à cette action.
+
+</Aside>
+
+## Pas-à-pas
+
+* [Provisionner des utilisateurs en masse](/guides/for-administrators/users/bulk-provision-users#provisionner-des-utilisateurs-en-masse)
+* [Supprimer des utilisateurs de la liste importée](/guides/for-administrators/users/bulk-provision-users#supprimer-des-utilisateurs-de-la-liste-importee)
+
+### Provisionner des utilisateurs en masse
+
+<Aside type="note">
+
+Une fois que les utilisateurs sont importés, il seront visibles par les membres de votre organisation et pourront être ajoutés aux fils de discussion. Ils recevront des courriels et pourront échanger en mode « Braver Connect » jusqu'à ce qu'ils optent pour créer leur compte.
+
+</Aside>
+
+<Steps>
+<ol>
+
+<li>
+
+**1) Cliquez sur votre avatar de profil, puis 2) sur&#x20;**_**Console administrative**_**.**
+
+<Figure src={img0} alt="" width={252} align="left" />
+
+</li>
+
+<li>
+
+**Une fois dans la console administrative, cliquez sur&#x20;**_**Provisionnement des utilisateurs**_**.**
+
+<Figure src={img1} alt="" width={375} align="left" />
+
+</li>
+
+<li>
+
+**Cliquez sur&#x20;**_**Télécharger le modèle**_**.**
+
+<Aside type="danger">
+
+Assurez-vous d'avoir fait l'étape 1: Créer les équipes et les lieux de travail dans la console administrative.
+
+</Aside>
+
+<Aside type="caution">
+
+Si vous modifiez les équipes et les lieux de travail, téléchargez le modèle à nouveau et utilisez ce dernier.
+
+</Aside>
+
+<Figure src={img2} alt="" width={375} align="left" />
+
+</li>
+
+<li>
+
+**Remplissez les lignes du modèle dans la première feuille du classeur nommée&#x20;**_**User Entries**_**. Ne pas modifier les autres feuilles accessibles dans le classeur au bas de la page (voir encadré rouge).**
+
+<Aside type="note">
+
+Dans les cases « TRUE » ou « FALSE », laissez une case vide équivaut à FALSE.
+
+</Aside>
+
+<Figure src={img3} alt="" width={563} align="left" />
+
+</li>
+
+<li>
+
+**1) Ajouter l'URL de l'émetteur SSO transmis par l'équipe Braver (facultatif) et 2) cliquez sur&#x20;**_**Téléverser la feuille de calcul**_**.**
+
+<Figure src={img4} alt="" width={375} align="left" />
+
+</li>
+
+<li>
+
+**Si les voyants sont au vert, cliquez sur&#x20;**_**Provisionner les utilisateurs**_**.**&#x20;
+
+<Figure src={img5} alt="" width={375} align="left" />
+
+<Aside type="note">
+
+**Si l'on vous indique des erreurs, révisez votre feuille de calcul et cliquez sur&#x20;**_**Recommencer**_**. Vous retournerez à l'étape 5 de ce pas-à-pas.**
+
+<Figure src={img11} alt="" />
+
+</Aside>
+
+</li>
+
+<li>
+
+**Cliquez sur&#x20;**_**Confirmer**_**.**
+
+<Figure src={img6} alt="" width={375} align="left" />
+
+</li>
+
+<li>
+
+**On vous confirme le succès de votre action. Cliquez sur&#x20;**_**OK**_**.**
+
+<Figure src={img7} alt="" width={375} align="left" />
+
+</li>
+
+<li>
+
+**Pour consulter l'état des créations de compte, cliquez sur&#x20;**_**Utilisateurs provisionné**_**s. Ceux qui figurent sans cet onglet et qui sont accompagnés d'un sablier n'ont pas encore créé leur compte Braver. Dès qu’un utilisateur va créer son compte, il sera déplacé dans la liste que l'on retrouve sous l'onglet&#x20;**_**Utilisateurs**_**.**
+
+<Aside type="note">
+
+**RAPPEL:** Une fois que les utilisateurs sont importés, il seront visibles par les membres de votre organisation et pourront être ajoutés aux fils de discussion. Ils recevront des courriels et pourront échanger en mode « Braver Connect » jusqu'à ce qu'ils optent pour créer leur compte.
+
+</Aside>
+
+<Figure src={img8} alt="" width={375} align="left" />
+
+</li>
+
+</ol>
+</Steps>
+
+### Supprimer des utilisateurs de la liste importée
+
+<Steps>
+<ol>
+
+<li>
+
+**Dans la console administrative, 1) cliquez sur&#x20;**_**Utilisateurs provisionnés**_**, puis 2) sélectionnez la poubelle sur la même ligne que l'utilisateur à supprimer.**
+
+<Figure src={img9} alt="" width={375} align="left" />
+
+</li>
+
+<li>
+
+**Confirmez votre sélection en cliquant sur&#x20;**_**Supprimer**_**.**
+
+<Figure src={img10} alt="" width={375} align="left" />
+
+</li>
+
+</ol>
+</Steps>

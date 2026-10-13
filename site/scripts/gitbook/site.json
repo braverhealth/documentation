@@ -1,0 +1,89 @@
+{
+  "host": "support.braver.net",
+  "defaultLang": "fr",
+  "langs": {
+    "fr": {
+      "lang": "fr-CA",
+      "oldHost": "support.braver.net"
+    },
+    "en": {
+      "lang": "en-CA",
+      "oldHost": "support-en.braver.net"
+    }
+  },
+  "spaces": [
+    {
+      "id": "docs",
+      "prefix": "",
+      "icon": "book-open",
+      "label": {
+        "fr": "Documentation",
+        "en": "Documentation"
+      },
+      "fr": {
+        "dir": "documentation-fr",
+        "gitbookId": "C7asQvRtcnnGS2hUcyO0"
+      },
+      "en": {
+        "dir": "documentation-en",
+        "gitbookId": "S2c7IBJV7U0eR8c2ljds"
+      }
+    },
+    {
+      "id": "guides",
+      "prefix": "guides",
+      "icon": "notebook-text",
+      "label": {
+        "fr": "Guides",
+        "en": "Guides"
+      },
+      "fr": {
+        "dir": "guides-fr",
+        "gitbookId": "0ai7456Hm287lPHBbGj2"
+      },
+      "en": {
+        "dir": "guides-en",
+        "gitbookId": "d8hDMfWQR8ZiYaXo0Jis"
+      },
+      "privateGroups": [
+        "Pages privées"
+      ]
+    },
+    {
+      "id": "training",
+      "prefix": "training",
+      "icon": "presentation",
+      "label": {
+        "fr": "Formations",
+        "en": "Training"
+      },
+      "fr": {
+        "dir": "formations-fr",
+        "gitbookId": "mZQ8lm0cUSwr36vZBzik"
+      },
+      "en": {
+        "dir": "formations-en",
+        "published": false
+      }
+    },
+    {
+      "id": "changelog",
+      "prefix": "changelog",
+      "icon": "list-checks",
+      "label": {
+        "fr": "Suivi des versions",
+        "en": "Change log"
+      },
+      "fr": {
+        "dir": "changelog",
+        "gitbookId": "57ZaWz2PEvUFxecHed5o"
+      },
+      "en": {
+        "dir": "changelog-en",
+        "gitbookId": "5XbTmFpPSkSzh8n7KkB6"
+      },
+      "pairBy": "path",
+      "landing": "latest"
+    }
+  ]
+}

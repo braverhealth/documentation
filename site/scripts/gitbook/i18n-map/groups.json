@@ -1,0 +1,4 @@
+{
+  "_doc": "Sidebar section headings (GitBook `## Group`) with no English counterpart: FR label -> English label (its slug becomes the URL segment). Others take the English group of their pages.",
+  "guides": { "Pages privées": "Private pages" }
+}

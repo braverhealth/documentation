@@ -1,0 +1,110 @@
+---
+title: Deploy Braver via Gustav
+description: Here are the steps to configure your Braver module in Gustav.
+---
+
+import { Aside, Steps } from '@astrojs/starlight/components'
+import Embed from '~/components/Embed.astro'
+
+<Aside type="note">
+
+The process usually involves creating a pre-production environment and then creating a second production environment. The first step is required only once, as we will use the same information.
+
+**The other two steps will need to be repeated for both environments.**
+
+</Aside>
+
+### Here are the steps to configure your organization in Braver
+
+<Steps>
+<ol>
+
+<li>
+
+**Share your organization's information with the Braver team**
+
+We will be automatically notified of your submission of this information and will contact you for the next steps.
+
+<Aside type="note">
+
+The information submitted through this form is kept confidential and is only shared internally with authorized personnel.
+
+</Aside>
+
+<Embed url="https://braverhealth.typeform.com/to/oCwOkEZl">[https://braverhealth.typeform.com/to/oCwOkEZl](https://braverhealth.typeform.com/to/oCwOkEZl)</Embed>
+
+</li>
+
+<li>
+
+**Group the professions you have in Gustav by team**
+
+We will send you a document to fill out that will allow us to associate the different professions configured in Gustav with dedicated teams in Braver.
+
+</li>
+
+<li>
+
+**Grant access to Braver module from Gustav**
+
+<Aside type="caution">
+
+Before proceeding with this step, you must wait for a member of the Gustav or Braver team to confirm that the integration is functional.
+
+</Aside>
+
+You must grant access to the "Braver" module to the relevant profiles. **Refer to Gustav's documentation to do this.**
+
+</li>
+
+<li>
+
+**Access the administrative application**
+
+<Aside type="caution">
+
+Subsequently, if you have not yet created your account, you should have received an email invitation. Here is [the tutorial](/en/guides/for-healthcare-professionals/account-creation/independent-account-creation) to help you create your account.
+
+</Aside>
+
+You can access the administrative application via [https://admin.braver.net](https://admin.braver.net/#/login). Use the same information you use to log into your Braver account (email + password)
+
+</li>
+
+<li>
+
+**Grant the "Admin" role to the right people**
+
+Here is how to [grant a role to an existing user](/en/guides/for-administrators/users/how-to-grant-role-to-existing-user).
+
+<Aside type="note">
+
+When activating Braver user accounts, the Gustav platform provides Braver with all roles and permissions except the Admin role. This role must therefore be manually granted in the Braver administrative application.
+
+The Admin role gives a user permission to log into the administrative application and thus create workplaces, teams, and invite users. However, since you are using Braver via an integration with Gustav, all these actions are facilitated for you, as they are automatically completed through the integration between the two platforms.
+
+</Aside>
+
+The most useful functionality in the Braver administrative application will be **the audit log**. Here is [the tutorial](/en/guides/for-administrators/audit-logs/how-to-search-in-audit-logs) showing how to search in the audit log.
+
+</li>
+
+</ol>
+</Steps>
+
+<Aside type="note">
+
+For patient and caregiver invitation, this will be done via Gustav. A tutorial will follow soon.
+
+</Aside>
+
+<Aside type="tip" icon="approve-check-circle">
+
+**Congratulations, your organization is now part of the Braver network!** 🎉
+
+Only two sections remain to be explored:
+
+* [Patient and Caregiver Module](/en/guides/for-administrators/configuration-guide)
+* [Other Technical Details](/en/guides/for-administrators/configuration-guide)
+
+</Aside>

@@ -1,0 +1,81 @@
+---
+// GitBook navigation semantics on Starlight's sidebar data:
+// - a top-level group without a page is a section heading (GitBook `## Group`), always open;
+// - a group whose first entry carries `data-self` is a page with children: its label is that page's link.
+import SidebarRestorePoint from '@astrojs/starlight/components/SidebarRestorePoint.astro'
+import type { StarlightRouteData } from '@astrojs/starlight/route-data'
+import { visibleIn } from '../translations'
+
+type Entry = StarlightRouteData['sidebar'][number]
+type Group = Extract<Entry, { type: 'group' }>
+
+interface Props {
+  entries: Entry[]
+  nested?: boolean
+}
+const { nested = false } = Astro.props
+const locale = Astro.locals.starlightRoute.locale
+
+// Hide pages that don't exist in this language (the converter tags them `data-only`), then empty groups.
+// When a group's own page is hidden, its first entry is no longer `data-self` and it renders as a plain group.
+const prune = (list: Entry[]): Entry[] =>
+  list.flatMap((e) => {
+    if (e.type === 'link') return visibleIn(e.attrs, locale) ? [e] : []
+    const kept = prune(e.entries)
+    return kept.length ? [{ ...e, entries: kept }] : []
+  })
+const entries = nested ? Astro.props.entries : prune(Astro.props.entries)
+
+const hasCurrent = (e: Entry): boolean => (e.type === 'link' ? e.isCurrent : e.entries.some(hasCurrent))
+const selfOf = (g: Group) => {
+  const first = g.entries[0]
+  return first?.type === 'link' && first.attrs['data-self'] !== undefined ? first : undefined
+}
+---
+
+<ul class:list={['gb-nav', { 'gb-nav--top': !nested }]}>
+  {
+    entries.map((entry) => {
+      if (entry.type === 'link') {
+        const { 'data-self': _self, 'data-only': _only, ...attrs } = entry.attrs
+        return (
+          <li>
+            <a href={entry.href} aria-current={entry.isCurrent ? 'page' : undefined} {...attrs}>
+              <span>{entry.label}</span>
+            </a>
+          </li>
+        )
+      }
+      const self = selfOf(entry)
+      if (!self && !nested) {
+        return (
+          <li class="gb-nav-section">
+            <h2 class="gb-nav-heading">{entry.label}</h2>
+            <Astro.self entries={entry.entries} nested />
+          </li>
+        )
+      }
+      const { 'data-self': _self, 'data-only': _only, ...selfAttrs } = self?.attrs ?? {}
+      return (
+        <li>
+          <details open={hasCurrent(entry) || !entry.collapsed}>
+            <summary>
+              {self ? (
+                <a href={self.href} aria-current={self.isCurrent ? 'page' : undefined} {...selfAttrs}>
+                  <span>{entry.label}</span>
+                </a>
+              ) : (
+                <span class="gb-nav-label">{entry.label}</span>
+              )}
+              <svg class="gb-nav-caret" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
+                <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="m9 18 6-6-6-6" />
+              </svg>
+            </summary>
+            <SidebarRestorePoint />
+            <Astro.self entries={self ? entry.entries.slice(1) : entry.entries} nested />
+          </details>
+        </li>
+      )
+    })
+  }
+</ul>

@@ -1,0 +1,21 @@
+# One Netlify site serves both languages: French at /, English at /en.
+# In Netlify, set the site's Base directory to `site` (this file is read from there).
+# Add support-en.braver.net as a domain alias of this site: public/_redirects sends every old
+# support-en URL to its page under support.braver.net/en, and every old French URL to its new path.
+
+[build]
+  command = "pnpm build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+[[headers]]
+  for = "/_astro/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/files/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"

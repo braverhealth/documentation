@@ -1,0 +1,81 @@
+---
+title: Configuration Guide
+description: This guide is intended for pilots, super-users, or administrators
+  who will need to configure the Braver platform for its implementation.
+icon: user-cog
+---
+
+import { Aside } from '@astrojs/starlight/components'
+import { CoverCards, CoverCard } from '~/components/cards'
+import img0 from "~/assets/guides-en/braver (1).png"
+import img1 from "~/assets/guides-en/leomed.png"
+import img2 from "~/assets/guides-en/gustab.png"
+
+## What can I expect in terms of piloting workload
+
+Configuration and deployment depend on the size of your organization.
+
+For example, for a small organization of around thirty clinicians, its implementation requires only a few hours of work.
+
+<Aside type="caution">
+
+If you use Braver through an integration partner (e.g., Leomed or Gustav), configuration and deployment are greatly simplified since many configuration elements are automated from the partner software configuration.
+
+</Aside>
+
+## Braver Concepts
+
+Before beginning the platform configuration, we recommend familiarizing yourself with Braver concepts that will help you define your organizational structure.
+
+The diagram below represents the hierarchy of concepts in Braver that allow you to configure your organizational structure.
+
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="Organizational Structure in Braver" class="gitbook-drawing" />
+
+<details>
+
+<summary>To go deeper into the concepts</summary>
+
+Here are documentation sections that might be useful to you:
+
+* [Organization](for-administrators/organisation)
+* [Organizational Units](for-administrators/organisational-units)
+* [Workplaces](for-administrators/workplaces)
+* [Teams](for-administrators/teams)
+* Segments (coming soon)
+* [Users](for-administrators/users)
+* [Audit Logs](for-administrators/audit-logs)
+* Directory (coming soon)
+
+</details>
+
+## Configure Braver
+
+Ready to start your configuration? Click on what applies to your organization:
+
+<CoverCards>
+<CoverCard href="/en/guides/for-administrators/configuration-guide/deploy-braver-independently" cover={img0}>
+<div>I deploy Braver</div>
+<div><strong>independently</strong></div>
+</CoverCard>
+<CoverCard href="/en/guides/integrations/leomed/deploy-braver-via-leomed-platform" cover={img1}>
+<div>I deploy Braver via</div>
+<div><strong>Leomed</strong></div>
+</CoverCard>
+<CoverCard href="/en/guides/integrations/gustav/deploy-braver-via-gustav-platform" cover={img2}>
+<div>I deploy Braver via</div>
+<div><strong>Gustav</strong></div>
+</CoverCard>
+</CoverCards>
+
+## Patient and Caregiver Module
+
+If you plan to use the patient and caregiver module via mobile devices (e.g., tablets) provided and managed by your organization, here is [a document to guide you in choosing devices and certain elements to consider.](/en/for-administrators/remotely-managed-mobile-device)
+
+If you plan to use the patient and caregiver module by inviting them to their personal devices (mobile or computer), we recommend supporting people in creating their accounts. If you do this in person, ensure you have access to a WiFi network or cellular data.
+
+We have also developed an express training tool for patients that you can use in electronic or paper version.
+
+## Other Technical Details
+
+* [Connectivity Information](/en/technical-details/connectivity)
+* [Device Compatibility Information](/en/technical-details/compatibility)

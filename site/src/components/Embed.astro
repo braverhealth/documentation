@@ -1,0 +1,36 @@
+---
+// `{% embed %}` replacement. Known providers render inline; anything else becomes a link card.
+import Loom from './embeds/Loom.astro'
+import YouTube from './embeds/YouTube.astro'
+import Frame from './embeds/Frame.astro'
+import Bookmark from './embeds/Bookmark.astro'
+
+interface Props {
+  url: string
+  caption?: string
+}
+const { url, caption } = Astro.props
+
+const loom = url.match(/loom\.com\/(?:share|embed)\/([a-f0-9]{32})/i)
+const youtube = url.match(/(?:youtube\.com\/(?:watch\?v=|embed\/|shorts\/)|youtu\.be\/)([\w-]{11})/)
+const vimeo = url.match(/vimeo\.com\/(?:video\/)?(\d+)/)
+const pitch = url.match(/pitch\.com\/(?:embed-link|embed|public)\/([\w-]+)/)
+const typeform = url.match(/^https:\/\/[\w-]+\.typeform\.com\/to\/(\w+)/)
+---
+
+{
+  loom ? (
+    <Loom id={loom[1]} url={url} caption={caption} />
+  ) : youtube ? (
+    <YouTube id={youtube[1]} caption={caption} />
+  ) : vimeo ? (
+    <Frame src={`https://player.vimeo.com/video/${vimeo[1]}?dnt=1`} url={url} ratio="16 / 9" caption={caption} />
+  ) : pitch ? (
+    // Pitch adds a 61px control bar under the 16:9 slide (same box GitBook uses)
+    <Frame src={`https://pitch.com/embed-link/${pitch[1]}`} url={url} ratio="16 / 9" extra="61px" caption={caption} title="Pitch" />
+  ) : typeform ? (
+    <Frame src={url} url={url} height="600px" caption={caption} title="Typeform" kind="form" />
+  ) : (
+    <Bookmark url={url} caption={caption} />
+  )
+}

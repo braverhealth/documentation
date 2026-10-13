@@ -1,0 +1,5 @@
+allowBuilds:
+  sharp: true
+  esbuild: true
+  # its postinstall only prints a version note
+  typesense-instantsearch-adapter: false

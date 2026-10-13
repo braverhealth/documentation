@@ -1,0 +1,44 @@
+---
+// Braver header: logo, section tabs (from sidebar topics), search, external links, language, theme.
+import Search from 'virtual:starlight/components/Search'
+import SiteTitle from 'virtual:starlight/components/SiteTitle'
+import ThemeSelect from 'virtual:starlight/components/ThemeSelect'
+
+import HeaderLinks from '../../components/HeaderLinks.astro'
+import Icon from '../../components/Icon.astro'
+import MobileMenuToggle from './MobileMenuToggle.astro'
+import { visibleIn } from '../../translations'
+
+const { hasSidebar, locale } = Astro.locals.starlightRoute
+const { topics = [] } = Astro.locals.starlightSidebarTopics ?? {}
+---
+
+<div class="box-border flex h-full items-center gap-2">
+  <div class="-m-3 flex min-w-0 shrink-0 overflow-clip p-3">
+    <SiteTitle />
+  </div>
+  <nav class="gb-tabs flex flex-1 flex-row gap-1 overflow-x-auto px-4 text-sm font-medium max-lg:hidden xl:px-6">
+    {
+      topics.filter((t) => visibleIn(t.attrs, locale)).map((topic) => (
+        <a href={topic.link} class="gb-tab" aria-current={topic.isCurrent ? 'page' : undefined}>
+          {topic.attrs?.['data-icon'] && <Icon name={String(topic.attrs['data-icon'])} size={16} />}
+          {topic.label}
+        </a>
+      ))
+    }
+  </nav>
+  <div class="flex flex-1 justify-end lg:max-w-60 print:hidden">
+    <Search />
+  </div>
+  <HeaderLinks class="hidden lg:flex print:hidden" />
+  <div class="hidden items-center md:flex print:hidden">
+    <ThemeSelect />
+  </div>
+  {
+    hasSidebar && (
+      <div class="flex items-center gap-2 md:hidden print:hidden">
+        <MobileMenuToggle />
+      </div>
+    )
+  }
+</div>

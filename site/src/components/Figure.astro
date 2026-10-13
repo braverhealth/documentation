@@ -1,0 +1,29 @@
+---
+import { Image } from 'astro:assets'
+import type { ImageMetadata } from 'astro'
+
+interface Props {
+  src: ImageMetadata | string
+  alt?: string
+  width?: number
+  align?: string
+  caption?: string
+}
+const { src, alt = '', width, align = 'left', caption } = Astro.props
+// GitBook's `width` is the displayed width; keep it, but never upscale a small screenshot
+const display = typeof src === 'string' ? width : Math.min(width ?? src.width, src.width, 1600)
+---
+
+<figure class="gb-figure" data-align={align}>
+  {
+    typeof src === 'string' ? (
+      <img src={src} alt={alt} width={width} loading="lazy" />
+    ) : src.format === 'svg' || src.format === 'gif' ? (
+      // SVGs need no resizing; animated GIFs come out larger as animated WebP, so serve them as-is
+      <img src={encodeURI(src.src)} alt={alt} width={display} loading="lazy" decoding="async" />
+    ) : (
+      <Image src={src} alt={alt} width={display} densities={[1, 2]} />
+    )
+  }
+  {caption && <figcaption set:html={caption} />}
+</figure>

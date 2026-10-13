@@ -1,0 +1,14 @@
+---
+// A video file hosted with the site (GitBook renders uploaded .mp4 files as players).
+interface Props {
+  src: string
+  caption?: string
+  loop?: boolean
+}
+const { src, caption, loop = false } = Astro.props
+---
+
+<figure class="gb-embed not-content">
+  <video src={src} controls preload="metadata" playsinline loop={loop} class="gb-video-file"></video>
+  {caption && <figcaption>{caption}</figcaption>}
+</figure>

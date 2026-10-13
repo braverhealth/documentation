@@ -1,0 +1,26 @@
+---
+// Starlight's footer (pagination) followed by the site footer GitBook showed on every page.
+import Default from '@astrojs/starlight/components/Footer.astro'
+import options from 'virtual:starlight-theme-nova/user-config'
+
+const footer = options.footer?.[Astro.locals.starlightRoute.lang]
+---
+
+<Default><slot /></Default>
+{
+  footer && (
+    <div class="gb-site-footer not-content">
+      <nav aria-labelledby="gb-site-footer-heading">
+        <h2 id="gb-site-footer-heading">{footer.heading}</h2>
+        <ul>
+          {footer.links.map((l) => (
+            <li>
+              <a href={l.href}>{l.label}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+      <p>{footer.copyright}</p>
+    </div>
+  )
+}

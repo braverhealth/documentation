@@ -1,0 +1,36 @@
+---
+import MenuIcon from '../icons/lucide-menu.svg'
+import XIcon from '../icons/lucide-x.svg'
+---
+
+<button
+  type="button"
+  popovertarget="starlight__sidebar"
+  class="nova-menu-toggle flex size-8 cursor-pointer rounded-md border-0 bg-transparent p-2 text-(--sl-color-text) transition hover:bg-gray-400/30 focus-visible:outline-offset-1 active:scale-90 print:hidden"
+  aria-label={Astro.locals.t('menuButton.accessibleLabel')}
+>
+  <div class="nova-menu-toggle-icons transition-transform">
+    <MenuIcon class="nova-menu-open" />
+    <XIcon class="nova-menu-close" />
+  </div>
+</button>
+
+<style is:global>
+  @layer nova {
+    .nova-menu-open {
+      display: block;
+    }
+    .nova-menu-close {
+      display: none;
+    }
+    body:has(#starlight__sidebar:popover-open) .nova-menu-toggle-icons {
+      rotate: 90deg;
+    }
+    body:has(#starlight__sidebar:popover-open) .nova-menu-open {
+      display: none;
+    }
+    body:has(#starlight__sidebar:popover-open) .nova-menu-close {
+      display: block;
+    }
+  }
+</style>

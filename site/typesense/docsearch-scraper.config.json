@@ -1,0 +1,39 @@
+{
+  "index_name": "braver-help",
+  "start_urls": [
+    "https://support.braver.net/"
+  ],
+  "sitemap_urls": [
+    "https://support.braver.net/sitemap-index.xml"
+  ],
+  "stop_urls": [
+    "\\.md$",
+    "/llms[^/]*\\.txt$",
+    "/guides/private-pages/"
+  ],
+  "selectors": {
+    "lvl0": {
+      "selector": ".gb-tab[aria-current]",
+      "global": true,
+      "default_value": "Documentation"
+    },
+    "lvl1": "main h1",
+    "lvl2": ".sl-markdown-content h2",
+    "lvl3": ".sl-markdown-content h3",
+    "lvl4": ".sl-markdown-content h4",
+    "lvl5": ".sl-markdown-content h5",
+    "text": ".sl-markdown-content p, .sl-markdown-content li, .sl-markdown-content td, .gb-lead"
+  },
+  "selectors_exclude": [
+    ".gb-notice",
+    ".starlight-aside__title",
+    "[data-pagefind-ignore]"
+  ],
+  "strip_chars": " .,;:#",
+  "custom_settings": {
+    "token_separators": [
+      "_",
+      "-"
+    ]
+  }
+}

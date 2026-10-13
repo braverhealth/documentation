@@ -1,0 +1,84 @@
+---
+title: Déployer Braver via Leomed
+description: Configurer votre organisation en seulement 3 étapes !
+---
+
+import { Aside, Steps } from '@astrojs/starlight/components'
+import Embed from '~/components/Embed.astro'
+
+<Aside type="note">
+
+Le processus comprend la plupart du temps la création d'un environnement en pré-production puis la création d'un second en production. La première étape est requise une seule fois, car nous utiliserons les mêmes informations.
+
+**Les deux autres étapes devront par contre être répétées pour les deux environnements.**
+
+</Aside>
+
+### Voici les étapes à suivre pour configurer votre organisation dans Braver :
+
+<Steps>
+<ol>
+
+<li>
+
+**Partager les informations de votre organisation à l'équipe Braver**
+
+Compléter le formulaire ci-dessous :
+
+<Embed url="https://braverhealth.typeform.com/to/xuw0zj3i">[https://braverhealth.typeform.com/to/xuw0zj3i](https://braverhealth.typeform.com/to/xuw0zj3i)</Embed>
+
+</li>
+
+<li>
+
+**Accéder à l'application administrative**
+
+<Aside type="caution">
+
+Avant de procéder à cette étape, vous devez attendre qu'un membre de l'équipe Leomed ou Braver vous confirme que l'intégration est fonctionnelle.
+
+Par la suite, si vous n'avez pas encore créé votre compte, vous devriez avoir reçu une invitation par courriel. Voici [le tutoriel](/guides/for-healthcare-professionals/account-creation/independent-account-creation) pour vous aider à créer votre compte.
+
+</Aside>
+
+Vous pouvez accéder à l'application administrative via [https://admin.braver.net](https://admin.braver.net/#/login). Utilisez les mêmes informations que vous utilisez pour vous connecter à votre compte Braver (email + mot de passe)
+
+</li>
+
+<li>
+
+**Octroyer le rôle "Admin" aux bonnes personnes**
+
+Voici [comment octroyer un rôle à un utilisateur.](/guides/for-administrators/users/how-to-grant-role-to-existing-user)
+
+<Aside type="note">
+
+Lors de l'activation du compte Braver des utilisateurs, la plateforme Leomed fournit à Braver l'ensemble des rôles et permissions à l'exception du rôle "Admin". Ce rôle doit donc être octroyé manuellement dans l'application administrative de Braver.
+
+Le rôle Admin donne la permission à un utilisateur de se connecter à l'application administrative et d'ainsi créer des lieux de travail, des équipes et d'inviter des utilisateurs. Toutefois, comme vous utilisez Braver via une intégration avec Leomed, toutes ces actions sont facilitées pour vous par l'intégration entre les deux plateformes.
+
+</Aside>
+
+La fonctionnalité qui vous sera la plus utile dans l'application administrative de Braver est **le journal d'audit**. Voici [comment faire une recherche dans le journal d'audit](/guides/for-administrators/audit-logs/how-to-search-in-audit-logs).
+
+</li>
+
+</ol>
+</Steps>
+
+<Aside type="note">
+
+Pour l'invitation des patients et proches aidants, celle-ci se fait au travers Leomed. Voici [le tutoriel](/guides/integrations/leomed/activate-patient-or-caregiver-account) pour vous guider.
+
+</Aside>
+
+<Aside type="tip" icon="approve-check-circle">
+
+**Félicitations, votre organisation fait maintenant partie du réseau Braver !** 🎉
+
+Il ne reste que deux sections à parcourir :
+
+* [Module patient et proche aidant](/guides/for-administrators/configuration-guide)
+* [Autres détails techniques](/guides/for-administrators/configuration-guide)
+
+</Aside>

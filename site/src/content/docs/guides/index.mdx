@@ -1,0 +1,29 @@
+---
+title: Bienvenue
+description: Bienvenue dans la section des guides et tutoriels ! Vous y
+  trouverez tout le matériel pour vous accompagner pas-à-pas dans l'utilisation
+  de la plateforme Braver.
+icon: hand
+---
+
+import { CoverCards, CoverCard } from '~/components/cards'
+import img0 from "~/assets/guides-fr/clinician-woman-1.jpg"
+import img1 from "~/assets/guides-fr/iStock-2063461725 copy.jpg"
+import img2 from "~/assets/guides-fr/professional-woman-1 (1).jpg"
+
+## Qui êtes-vous ?
+
+<CoverCards>
+<CoverCard href="/guides/for-healthcare-professionals/get-started-here" cover={img0}>
+<div><strong>Un professionnel</strong></div>
+<div>Si vous utilisez Braver pour communiquer dans le cadre de votre travail.</div>
+</CoverCard>
+<CoverCard href="/guides/for-patients-and-caregivers/get-started" cover={img1}>
+<div><strong>Un patient ou proche aidant</strong></div>
+<div>Si vous utilisez Braver car vous avez été invité par votre équipe de soins ou celle d'un proche.</div>
+</CoverCard>
+<CoverCard href="/guides/for-administrators/get-started" cover={img2}>
+<div><strong>Un administrateur</strong></div>
+<div>Si vous gérez un déploiement de Braver dans votre organisation de santé.</div>
+</CoverCard>
+</CoverCards>

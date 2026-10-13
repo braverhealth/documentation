@@ -1,0 +1,78 @@
+---
+// A header link with sub-links (GitBook's "Aller à →"): opens on hover with a mouse, on click or keyboard otherwise.
+// Without JavaScript the button is a plain link to `href`.
+import type { HeaderLink } from '../nova/user-options'
+import Icon from './Icon.astro'
+
+interface Props {
+  link: HeaderLink
+}
+const { link } = Astro.props
+const id = `gb-menu-${link.label.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`
+---
+
+<gb-header-menu class="gb-header-menu">
+  <a
+    href={link.href}
+    class:list={['gb-header-link', link.variant === 'primary' && 'gb-header-link--primary']}
+    aria-haspopup="menu"
+    aria-expanded="false"
+    aria-controls={id}
+  >
+    {link.label}
+    <Icon name="chevron-down" size={16} class="gb-header-menu-chevron" />
+  </a>
+  <div class="gb-header-menu-list" id={id} role="menu" hidden>
+    {link.items!.map((item) => <a role="menuitem" href={item.href}>{item.label}</a>)}
+  </div>
+</gb-header-menu>
+
+<script>
+  class HeaderMenu extends HTMLElement {
+    #timer?: ReturnType<typeof setTimeout>
+    connectedCallback() {
+      const trigger = this.querySelector<HTMLAnchorElement>('[aria-haspopup]')!
+      const list = this.querySelector<HTMLElement>('[role=menu]')!
+      const items = () => [...list.querySelectorAll<HTMLAnchorElement>('[role=menuitem]')]
+      const set = (open: boolean) => {
+        clearTimeout(this.#timer)
+        list.hidden = !open
+        trigger.setAttribute('aria-expanded', String(open))
+      }
+      const isOpen = () => !list.hidden
+      trigger.addEventListener('click', (e) => {
+        e.preventDefault()
+        set(!isOpen())
+      })
+      trigger.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowDown' || e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault()
+          set(true)
+          items()[0]?.focus()
+        }
+      })
+      list.addEventListener('keydown', (e) => {
+        const all = items()
+        const at = all.indexOf(document.activeElement as HTMLAnchorElement)
+        if (e.key === 'ArrowDown') { e.preventDefault(); all[(at + 1) % all.length]?.focus() }
+        if (e.key === 'ArrowUp') { e.preventDefault(); all[(at - 1 + all.length) % all.length]?.focus() }
+      })
+      this.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && isOpen()) { set(false); trigger.focus() }
+      })
+      // hover opens with a mouse, with a short grace period to reach the list
+      const fine = matchMedia('(hover: hover) and (pointer: fine)')
+      this.addEventListener('pointerenter', () => fine.matches && set(true))
+      this.addEventListener('pointerleave', () => {
+        if (fine.matches) this.#timer = setTimeout(() => set(false), 150)
+      })
+      document.addEventListener('pointerdown', (e) => {
+        if (isOpen() && !this.contains(e.target as Node)) set(false)
+      })
+      this.addEventListener('focusout', (e) => {
+        if (!this.contains(e.relatedTarget as Node)) set(false)
+      })
+    }
+  }
+  if (!customElements.get('gb-header-menu')) customElements.define('gb-header-menu', HeaderMenu)
+</script>

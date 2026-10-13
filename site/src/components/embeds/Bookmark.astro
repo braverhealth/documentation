@@ -1,0 +1,17 @@
+---
+// Unknown embed: a link card with the host name (no third-party favicon service).
+interface Props {
+  url: string
+  caption?: string
+}
+const { url, caption } = Astro.props
+const host = new URL(url).hostname.replace(/^www\./, '')
+---
+
+<a class="gb-bookmark not-content" href={url} rel="noopener">
+  <svg class="gb-bookmark-icon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
+  <span>
+    <span class="gb-bookmark-title">{caption ?? url}</span>
+    <span class="gb-bookmark-host">{host}</span>
+  </span>
+</a>

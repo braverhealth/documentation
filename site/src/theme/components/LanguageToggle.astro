@@ -1,0 +1,29 @@
+---
+// Switch to the same page in the other language. Missing English pages show Starlight's
+// "not translated yet" fallback; a page that only exists in English sends French readers to the section home.
+import config from 'virtual:starlight/user-config'
+import Icon from './Icon.astro'
+import { counterpartId, hasPage, pathOf } from '../translations'
+
+const route = Astro.locals.starlightRoute
+const others = Object.entries(config.locales ?? {}).filter(([key]) => (key === 'root' ? undefined : key) !== route.locale)
+const links = await Promise.all(
+  others.map(async ([key, locale]) => {
+    const target = key === 'root' ? undefined : key
+    const id = counterpartId(route.id, target)
+    const topic = Astro.locals.starlightSidebarTopics?.topics.find((t) => t.isCurrent)
+    const fallback = topic ? counterpartId(topic.link.replace(/^\/|\/$/g, '') || 'index', target) : counterpartId('index', target)
+    const exists = target ? true : await hasPage(id) // Starlight renders a fallback for every missing non-default page
+    return { href: pathOf(exists ? id : fallback), lang: locale!.lang!, label: (locale!.lang ?? key).slice(0, 2).toUpperCase() }
+  }),
+)
+---
+
+{
+  links.map((l) => (
+    <a href={l.href} hreflang={l.lang} lang={l.lang} class="gb-header-link gb-header-lang">
+      <Icon name="globe" size={16} />
+      {l.label}
+    </a>
+  ))
+}

@@ -1,0 +1,36 @@
+---
+import options from 'virtual:starlight-theme-nova/user-config'
+import HeaderMenu from './HeaderMenu.astro'
+import Icon from './Icon.astro'
+import LanguageToggle from './LanguageToggle.astro'
+
+interface Props {
+  class?: string
+  /** `list`: in the mobile menu, sub-links are shown directly instead of in a dropdown. */
+  layout?: 'header' | 'list'
+}
+const { layout = 'header' } = Astro.props
+const links = options.links?.[Astro.locals.starlightRoute.lang] ?? []
+---
+
+<div class:list={['gb-header-links', layout === 'list' && 'gb-header-links--list', Astro.props.class]}>
+  {
+    links.map((link) =>
+      link.items?.length && layout === 'header' ? (
+        <HeaderMenu link={link} />
+      ) : link.items?.length ? (
+        link.items.map((item) => (
+          <a href={item.href} class="gb-header-link">
+            {item.label}
+          </a>
+        ))
+      ) : (
+        <a href={link.href} class:list={['gb-header-link', link.variant === 'primary' && 'gb-header-link--primary']}>
+          {link.label}
+          {link.variant === 'primary' && <Icon name="arrow-right" size={16} />}
+        </a>
+      ),
+    )
+  }
+  <LanguageToggle />
+</div>

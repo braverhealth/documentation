@@ -1,0 +1,81 @@
+---
+const { hasSidebar } = Astro.locals.starlightRoute
+---
+
+<div class="flex min-h-screen flex-col">
+  <header
+    class="fixed inset-0 z-(--sl-z-index-navbar) box-border h-(--sl-nav-height) w-full border-0 border-b border-solid border-(--sl-color-hairline) bg-(--sl-color-bg-nav) px-(--sl-nav-pad-x) py-(--sl-nav-pad-y) backdrop-blur"
+  >
+    <slot name="header" />
+  </header>
+  {
+    hasSidebar && (
+      <nav
+        class="sidebar print:hidden"
+        aria-label={Astro.locals.t('sidebarNav.accessibleLabel')}
+        id="nova-sidebar-nav"
+      >
+        {/* Starlight 0.42 contract: on mobile the sidebar is a popover toggled by
+            `popovertarget="starlight__sidebar"` (see MobileMenuToggle). */}
+        <sl-sidebar-pane
+          popover=""
+          id="starlight__sidebar"
+          class:list={[
+            'nova-scroll-container sidebar-pane',
+            'fixed top-(--sl-nav-height) bottom-0 left-0 z-(--sl-z-index-menu) m-0 h-auto overflow-y-auto border-0 border-solid border-(--sl-color-hairline) bg-(--sl-color-black) p-0 text-inherit max-md:w-full md:block md:w-(--sl-sidebar-width) md:border-r',
+          ]}
+        >
+          <div
+            class:list={[
+              // The class name `sidebar-content` is used here: https://github.com/withastro/starlight/blob/5387d33b9644900afd61651b8287503698cdb065/packages/starlight/user-components/Badge.astro#L77
+              'sidebar-content',
+              'flex h-full min-h-max flex-col px-(--sl-sidebar-pad-x) py-4',
+            ]}
+          >
+            <slot name="sidebar" />
+          </div>
+        </sl-sidebar-pane>
+      </nav>
+    )
+  }
+  <div class="main-frame"><slot /></div>
+</div>
+
+<script>
+  // Same behaviour as Starlight 0.42's PageFrame: popover only on mobile, focus trapped while open.
+  class SidebarPane extends HTMLElement {
+    constructor() {
+      super()
+      const desktop = matchMedia('(min-width: 50em)')
+      const reset = () => {
+        this.popover = desktop.matches ? null : 'auto'
+      }
+      reset()
+      desktop.addEventListener('change', reset)
+      this.addEventListener('toggle', (event) => {
+        const open = (event as ToggleEvent).newState === 'open'
+        document
+          .querySelectorAll<HTMLElement>('.main-frame, .sl-skip-link')
+          .forEach((el) => el.toggleAttribute('inert', open))
+      })
+    }
+  }
+  customElements.define('sl-sidebar-pane', SidebarPane)
+</script>
+
+<style>
+  @layer nova {
+    .main-frame {
+      padding-top: calc(var(--sl-nav-height) + var(--sl-mobile-toc-height));
+      padding-inline-start: var(--sl-content-inline-start);
+    }
+  }
+</style>
+
+<style is:global>
+  @layer nova {
+    body:has(#starlight__sidebar:popover-open) {
+      overflow: hidden;
+    }
+  }
+</style>

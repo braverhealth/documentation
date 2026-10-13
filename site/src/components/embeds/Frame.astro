@@ -1,0 +1,30 @@
+---
+// A responsive iframe: fixed ratio (+ optional extra height for player chrome) or fixed height.
+interface Props {
+  src: string
+  url: string
+  ratio?: string
+  extra?: string
+  height?: string
+  caption?: string
+  title?: string
+  kind?: 'media' | 'form'
+}
+const { src, url, ratio, extra, height, caption, title, kind = 'media' } = Astro.props
+// player chrome below a fixed-ratio slide: height = width × ratio + extra
+const [w, h] = (ratio ?? '16 / 9').split('/').map(Number)
+const style = height ? { height } : extra ? { '--pad': `calc(${((h / w) * 100).toFixed(4)}% + ${extra})` } : { aspectRatio: ratio }
+---
+
+<figure class="gb-embed not-content" data-kind={kind}>
+  <div class:list={['gb-embed-box', extra && 'gb-embed-box--extra']} style={style}>
+    <iframe
+      src={src}
+      title={caption ?? title ?? url}
+      loading="lazy"
+      allow="autoplay; fullscreen; picture-in-picture; clipboard-write"
+      allowfullscreen
+      referrerpolicy="strict-origin-when-cross-origin"></iframe>
+  </div>
+  {caption && <figcaption>{caption}</figcaption>}
+</figure>

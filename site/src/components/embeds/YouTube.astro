@@ -1,0 +1,32 @@
+---
+// YouTube behind the same click-to-load preview as Loom (no cookies until played).
+import { ui } from '~/lib/i18n'
+
+interface Props {
+  id: string
+  caption?: string
+}
+const { id, caption } = Astro.props
+const t = ui(Astro)
+const title = caption ?? 'YouTube'
+---
+
+<figure class="gb-embed gb-video not-content">
+  <braver-video-facade
+    class="gb-embed-box"
+    style={{ aspectRatio: '16 / 9' }}
+    data-src={`https://www.youtube-nocookie.com/embed/${id}?autoplay=1`}
+    data-title={title}
+  >
+    <a href={`https://www.youtube.com/watch?v=${id}`} class="gb-video-play" aria-label={`${t.playVideo} : ${title}`}>
+      <img src={`https://i.ytimg.com/vi/${id}/hqdefault.jpg`} alt="" loading="lazy" width="480" height="360" />
+      <span class="gb-video-meta">
+        <span class="gb-video-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="22" height="22"><path fill="currentColor" d="M8 5.14v13.72a1 1 0 0 0 1.5.86l11-6.86a1 1 0 0 0 0-1.72l-11-6.86A1 1 0 0 0 8 5.14Z"></path></svg>
+        </span>
+        <span class="gb-video-title">{title}</span>
+      </span>
+    </a>
+  </braver-video-facade>
+  {caption && <figcaption>{caption}</figcaption>}
+</figure>

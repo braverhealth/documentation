@@ -1,0 +1,21 @@
+---
+// GitBook-style page header: optional cover, icon + title, and the description as a lead paragraph.
+import { Image } from 'astro:assets'
+import Icon from './Icon.astro'
+
+const { entry } = Astro.locals.starlightRoute
+const { title, description, icon, cover, coverY, hideTitle, hideDescription } = entry.data
+---
+
+{
+  cover && (
+    <div class="gb-cover not-content">
+      <Image src={cover} alt="" width={1200} densities={[1, 2]} style={{ objectPosition: `center ${50 + (coverY ?? 0) / 10}%` }} />
+    </div>
+  )
+}
+<h1 id="_top" class:list={['gb-title', hideTitle && 'sr-only']}>
+  {icon && <Icon name={icon} size={30} class="gb-title-icon" />}
+  <span>{title}</span>
+</h1>
+{description && !hideDescription && <p class="gb-lead">{description}</p>}

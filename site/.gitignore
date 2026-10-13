@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.astro/
+src/theme/generated/
+scripts/gitbook/remote-cache/
+dist-typesense/
+.env

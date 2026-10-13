@@ -1,0 +1,30 @@
+---
+title: Profiter de la navigation contextualisée
+---
+
+import { Steps } from '@astrojs/starlight/components'
+import Figure from '~/components/Figure.astro'
+import img0 from "~/assets/guides-fr/accueil_gustav.png"
+import img1 from "~/assets/guides-fr/fiche patient gustav.png"
+
+<Steps>
+<ol>
+
+<li>
+
+**Si vous êtes dans la page d'accueil de Gustav, la fenêtre intégrée de Braver sera également à la page d'accueil.**
+
+<Figure src={img0} alt="" width={563} align="left" />
+
+</li>
+
+<li>
+
+**Si vous ouvrez le dossier d'un patient, la fenêtre intégrée de Braver sera automatiquement redirigée vers la fiche de ce même patient.**
+
+<Figure src={img1} alt="" width={563} />
+
+</li>
+
+</ol>
+</Steps>

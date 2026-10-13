@@ -1,0 +1,9 @@
+---
+// GitBook "cards" table: a grid of cards with optional cover images.
+interface Props {
+  size?: 'large'
+}
+const { size } = Astro.props
+---
+
+<div class:list={['gb-cards not-content', size === 'large' && 'gb-cards--large']}><slot /></div>

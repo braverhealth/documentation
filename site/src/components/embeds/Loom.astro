@@ -1,0 +1,63 @@
+---
+// Loom video behind a lightweight preview: the player (≈1 MB) only loads on click.
+// The preview is a link to the video, so it still works without JavaScript and in text exports.
+import { Image, inferRemoteSize } from 'astro:assets'
+import { oembed } from '~/lib/oembed'
+import { ui } from '~/lib/i18n'
+
+interface Props {
+  id: string
+  url: string
+  caption?: string
+}
+const { id, url, caption } = Astro.props
+const t = ui(Astro)
+const meta = await oembed('https://www.loom.com/v1/oembed', `https://www.loom.com/share/${id}`)
+const title = caption ?? meta?.title ?? 'Loom'
+// oEmbed gives an animated GIF; the same path with .jpg is a still frame at the video's real size
+// (oEmbed's own width/height are not the video's proportions, so size the box from the frame)
+const poster = meta?.thumbnail_url?.replace(/\.gif$/, '.jpg')
+const size = poster ? await inferRemoteSize(poster).catch(() => undefined) : undefined
+const width = size?.width ?? 16
+const height = size?.height ?? 9
+const minutes = meta?.duration ? Math.floor(meta.duration / 60) : undefined
+const seconds = meta?.duration ? String(Math.round(meta.duration % 60)).padStart(2, '0') : undefined
+const embed = `https://www.loom.com/embed/${id}?hideEmbedTopBar=true&hide_owner=true&hide_share=true&hide_title=true&autoplay=1`
+void url
+---
+
+<figure class="gb-embed gb-video not-content">
+  <braver-video-facade
+    class="gb-embed-box"
+    style={{ aspectRatio: `${width} / ${height}`, maxWidth: `min(100%, calc(70vh * ${(width / height).toFixed(4)}))` }} data-src={embed} data-title={title}>
+    <a href={`https://www.loom.com/share/${id}`} class="gb-video-play" aria-label={`${t.playVideo} : ${title}`}>
+      {poster && <Image src={poster} alt="" width={960} height={Math.round((960 * height) / width)} loading="lazy" />}
+      <span class="gb-video-meta">
+        <span class="gb-video-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="22" height="22"><path fill="currentColor" d="M8 5.14v13.72a1 1 0 0 0 1.5.86l11-6.86a1 1 0 0 0 0-1.72l-11-6.86A1 1 0 0 0 8 5.14Z"></path></svg>
+        </span>
+        <span class="gb-video-title">{title}</span>
+        {minutes !== undefined && <span class="gb-video-duration">{minutes}:{seconds}</span>}
+      </span>
+    </a>
+  </braver-video-facade>
+  {caption && <figcaption>{caption}</figcaption>}
+</figure>
+
+<script>
+  class VideoFacade extends HTMLElement {
+    connectedCallback() {
+      this.querySelector('.gb-video-play')?.addEventListener('click', (event) => {
+        event.preventDefault()
+        const iframe = document.createElement('iframe')
+        iframe.src = this.dataset.src!
+        iframe.title = this.dataset.title ?? ''
+        iframe.allow = 'autoplay; fullscreen; picture-in-picture'
+        iframe.allowFullscreen = true
+        this.replaceChildren(iframe)
+        iframe.focus()
+      }, { once: true })
+    }
+  }
+  if (!customElements.get('braver-video-facade')) customElements.define('braver-video-facade', VideoFacade)
+</script>

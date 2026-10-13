@@ -1,0 +1,32 @@
+---
+// Sidebar: section list on mobile only (desktop has header tabs), then the GitBook-style page tree.
+import SidebarPersister from '@astrojs/starlight/components/SidebarPersister.astro'
+import MobileMenuFooter from 'virtual:starlight/components/MobileMenuFooter'
+import Icon from './Icon.astro'
+import SidebarTree from './SidebarTree.astro'
+import { visibleIn } from '../translations'
+
+const { hasSidebar, sidebar, locale } = Astro.locals.starlightRoute
+const { isPageWithTopic, topics } = Astro.locals.starlightSidebarTopics
+---
+
+{
+  hasSidebar && isPageWithTopic && (
+    <ul class="gb-topics md:hidden">
+      {topics.filter((t) => visibleIn(t.attrs, locale)).map((topic) => (
+        <li>
+          <a href={topic.link} aria-current={topic.isCurrent ? 'true' : undefined}>
+            {topic.attrs?.['data-icon'] && <Icon name={String(topic.attrs['data-icon'])} />}
+            {topic.label}
+          </a>
+        </li>
+      ))}
+    </ul>
+  )
+}
+<SidebarPersister>
+  <SidebarTree entries={sidebar} />
+</SidebarPersister>
+<div class="md:hidden">
+  <MobileMenuFooter />
+</div>

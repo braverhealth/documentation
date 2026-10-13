@@ -1,0 +1,84 @@
+---
+title: Deploy Braver via Leomed
+description: Configure your organization in just 3 steps!
+---
+
+import { Aside, Steps } from '@astrojs/starlight/components'
+import Embed from '~/components/Embed.astro'
+
+<Aside type="note">
+
+The process typically involves creating a pre-production environment and then a production environment. The first step is required only once, as we will use the same information.
+
+**The other two steps will need to be repeated for both environments.**
+
+</Aside>
+
+### Here are the steps to configure your organization in Braver:
+
+<Steps>
+<ol>
+
+<li>
+
+**Share your organization's information with Braver team**
+
+Complete the form below:
+
+<Embed url="https://braverhealth.typeform.com/to/xuw0zj3i">[https://braverhealth.typeform.com/to/xuw0zj3i](https://braverhealth.typeform.com/to/xuw0zj3i)</Embed>
+
+</li>
+
+<li>
+
+**Access administrative application**
+
+<Aside type="caution">
+
+Before proceeding with this step, you must wait for a member of Gustav or Braver team to confirm that the integration is functional.
+
+Subsequently, if you have not yet created your account, you should have received an email invitation. Here is [the tutorial](/en/guides/for-healthcare-professionals/account-creation/independent-account-creation) to help you create your account.
+
+</Aside>
+
+You can access the administrative application via [https://admin.braver.net](https://admin.braver.net/#/login). Use the same information you use to log into your Braver account (email + password)
+
+</li>
+
+<li>
+
+**Grant "Admin" role to the right people**
+
+Here is [how to grant a role to an existing user.](/en/guides/for-administrators/users/how-to-grant-role-to-existing-user)
+
+<Aside type="note">
+
+When activating Braver user accounts, the Leomed platform provides Braver with all roles and permissions except the "Admin" role. This role must therefore be manually granted in Braver's administrative application.
+
+The Admin role gives a user permission to log into the administrative application and thus create workplaces, teams, and invite users. However, since you are using Braver via an integration with Leomed, all these actions are facilitated for you by the integration between the two platforms.
+
+</Aside>
+
+The most useful functionality in Braver's administrative application will be **the audit log**. Here is [how to search in the audit log](/en/guides/for-administrators/audit-logs/how-to-search-in-audit-logs).
+
+</li>
+
+</ol>
+</Steps>
+
+<Aside type="note">
+
+For inviting patients and caregivers, this is done through Leomed. Here is [the tutorial](/en/guides/integrations/leomed/activate-patient-or-caregiver-account) to guide you.
+
+</Aside>
+
+<Aside type="tip" icon="approve-check-circle">
+
+**Congratulations, your organization is now part of the Braver network!** 🎉
+
+Only two sections remain to be reviewed:
+
+* [Patient and Caregiver Module](/en/guides/for-administrators/configuration-guide)
+* [Other Technical Details](/en/guides/for-administrators/configuration-guide)
+
+</Aside>
