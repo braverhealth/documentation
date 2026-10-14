@@ -1,0 +1,77 @@
+---
+title: Create a Trajectory
+description: "Create a trajectory (care channel template) in a module, then configure it in three steps."
+next:
+  link: /en/guides/for-administrators/modules/create-trajectory/configure-actors
+  label: Configure Actors
+---
+
+import { Aside, LinkCard, Steps } from '@astrojs/starlight/components'
+import Figure from '~/components/Figure.astro'
+import img0 from "~/assets/guides-fr/CleanShot 2026-07-03 at 10.41.34@2x.png"
+import img1 from "~/assets/guides-fr/CleanShot 2026-07-03 at 10.41.46@2x.png"
+import img2 from "~/assets/guides-fr/CleanShot 2026-07-03 at 10.42.41@2x.png"
+
+A **trajectory** is a care channel template. Once configured, it lets you quickly create care channels for many patients, with the same title and the same actors. You can also prepare discussion thread templates in it, so you don't have to retype the same message over and over.
+
+This page explains how to create the trajectory. Each of the configuration steps that follow has its own page.
+
+## Before You Start
+
+Trajectories are created in a module. If your organizational unit doesn't have a module yet, start by creating one.
+
+<LinkCard title="Create a Module" href="/en/guides/for-administrators/modules/create-module" />
+
+<Aside type="tip">
+
+Many configurations are possible. Feel free to ask the person supporting your deployment for advice!
+
+</Aside>
+
+## Create the Trajectory
+
+<Steps>
+<ol>
+
+<li>
+
+Make sure you are in the right organizational unit, then click **Modules**.
+
+<Figure src={img0} alt="Organizational unit selection and Modules menu" width={375} align="left" />
+
+</li>
+
+<li>
+
+Click **+**, then select **Trajectory**.
+
+<Figure src={img1} alt="+ button and Trajectory option" width={375} align="left" />
+
+</li>
+
+<li>
+
+Name the trajectory, then click **Create**.
+
+<Figure src={img2} alt="Trajectory name field and Create button" width={375} align="left" />
+
+</li>
+
+</ol>
+</Steps>
+
+## Next Steps
+
+Once the trajectory is created, configure it in this order:
+
+<LinkCard title="1. Configure Actors" href="/en/guides/for-administrators/modules/create-trajectory/configure-actors" description="Who can take part in the care channel, and under what conditions." />
+
+<LinkCard title="2. Create Thread Templates" href="/en/guides/for-administrators/modules/create-trajectory/create-thread-templates" description="Discussion threads ready to send: title, first message, people notified." />
+
+<LinkCard title="3. Configure Automatic Suggestion" href="/en/guides/for-administrators/modules/create-trajectory/configure-automatic-suggestion" description="When the trajectory is suggested in the patient's profile." />
+
+<Aside type="note">
+
+Thread templates use the trajectory's actors: configure the actors first.
+
+</Aside>

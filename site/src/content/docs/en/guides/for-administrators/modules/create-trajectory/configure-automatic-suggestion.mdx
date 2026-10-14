@@ -1,0 +1,60 @@
+---
+title: Configure Automatic Suggestion
+description: "Decide when a trajectory is suggested in patient profiles, based on the patient's status and a date range."
+prev:
+  link: /en/guides/for-administrators/modules/create-trajectory/create-thread-templates
+  label: Create Thread Templates
+next: false
+---
+
+import { Aside, LinkCard, Steps } from '@astrojs/starlight/components'
+import Figure from '~/components/Figure.astro'
+import img18 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.53.42.png"
+import img19 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.54.07.png"
+
+Automatic suggestion determines when the trajectory is suggested in patient profiles, based on the patient's status and a date range. This saves clicks during activation, and makes your teams autonomous if they are responsible for setting up a care channel for patients.
+
+## Turn On Automatic Suggestion
+
+<Steps>
+<ol>
+
+<li>
+
+Select **Modules**, then the **Trajectories** tab, and choose the trajectory.
+
+<Figure src={img19} alt="Trajectories tab of the Modules page" />
+
+</li>
+
+<li>
+
+Select the **Automatic suggestion** tab, then turn on the options you want.
+
+<Figure src={img18} alt="Automatic suggestion tab, options A to D" width={563} align="left" />
+
+</li>
+
+</ol>
+</Steps>
+
+## Options
+
+| Marker | Option | Effect |
+| --- | --- | --- |
+| A | When the patient is active | The trajectory is suggested for all active patients. |
+| B | When missing from the patient | The trajectory is suggested automatically, except for patients who already have the matching care channel. |
+| C | Before date | The date until which the trajectory is suggested in the patient's profile. |
+| D | From date | The date from which the trajectory is suggested in the patient's profile. |
+
+<Aside type="tip">
+
+You can turn on several options at once.
+
+</Aside>
+
+## What's Next?
+
+Your trajectory is ready. You can go back to the starting page to review the steps or create another one.
+
+<LinkCard title="Create a Trajectory" href="/en/guides/for-administrators/modules/create-trajectory" />
