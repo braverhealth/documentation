@@ -1,0 +1,171 @@
+---
+title: Bulk Provision Users
+---
+
+import { Aside, Steps } from '@astrojs/starlight/components'
+import Figure from '~/components/Figure.astro'
+import img0 from "~/assets/guides-fr/console admin.png"
+import img1 from "~/assets/guides-fr/CleanShot 2026-07-15 at 15.54.39@2x.png"
+import img2 from "~/assets/guides-fr/CleanShot 2026-07-15 at 15.55.05@2x.png"
+import img3 from "~/assets/guides-fr/excel.png"
+import img4 from "~/assets/guides-fr/CleanShot 2026-07-15 at 15.55.05@2x (1).png"
+import img5 from "~/assets/guides-fr/CleanShot 2026-07-15 at 16.01.16@2x.png"
+import img6 from "~/assets/guides-fr/CleanShot 2026-07-16 at 10.02.31@2x.png"
+import img7 from "~/assets/guides-fr/CleanShot 2026-07-16 at 10.02.55@2x.png"
+import img8 from "~/assets/guides-fr/CleanShot 2026-07-16 at 10.03.50@2x.png"
+import img9 from "~/assets/guides-fr/CleanShot 2026-07-16 at 10.26.04@2x.png"
+import img10 from "~/assets/guides-fr/CleanShot 2026-07-16 at 10.26.20@2x.png"
+import img11 from "~/assets/guides-fr/CleanShot 2026-07-16 at 10.00.45@2x.png"
+
+<Aside type="note">
+
+You must have the "Admin" role to perform this action.
+
+</Aside>
+
+## Step-by-Step
+
+* [Bulk provision users](/en/guides/for-administrators/users/bulk-provision-users#bulk-provision-users-1)
+* [Remove users from the imported list](/en/guides/for-administrators/users/bulk-provision-users#remove-users-from-the-imported-list)
+
+### Bulk Provision Users
+
+<Aside type="note">
+
+Once users are imported, they are visible to the members of your organization and can be added to discussion threads. They receive emails and can communicate in "Braver Connect" mode until they choose to create their account.
+
+</Aside>
+
+<Steps>
+<ol>
+
+<li>
+
+**1) Click your profile avatar, then 2) click&#x20;**_**Admin console**_**.**
+
+<Figure src={img0} alt="" width={252} align="left" />
+
+</li>
+
+<li>
+
+**In the admin console, click&#x20;**_**User provisioning**_**.**
+
+<Figure src={img1} alt="" width={375} align="left" />
+
+</li>
+
+<li>
+
+**Click&#x20;**_**Download template**_**.**
+
+<Aside type="danger">
+
+Make sure you have completed step 1: create the teams and workplaces in the admin console.
+
+</Aside>
+
+<Aside type="caution">
+
+If you change the teams or workplaces, download the template again and use the new one.
+
+</Aside>
+
+<Figure src={img2} alt="" width={375} align="left" />
+
+</li>
+
+<li>
+
+**Fill in the rows of the template in the first sheet of the workbook, named&#x20;**_**User Entries**_**. Don't change the other sheets available at the bottom of the workbook (see the red box).**
+
+<Aside type="note">
+
+In the "TRUE" or "FALSE" cells, leaving a cell empty is the same as FALSE.
+
+</Aside>
+
+<Figure src={img3} alt="" width={563} align="left" />
+
+</li>
+
+<li>
+
+**1) Add the SSO issuer URL provided by the Braver team (optional) and 2) click&#x20;**_**Upload spreadsheet**_**.**
+
+<Figure src={img4} alt="" width={375} align="left" />
+
+</li>
+
+<li>
+
+**If all indicators are green, click&#x20;**_**Provision users**_**.**&#x20;
+
+<Figure src={img5} alt="" width={375} align="left" />
+
+<Aside type="note">
+
+**If errors are reported, review your spreadsheet and click&#x20;**_**Start over**_**. You will go back to step 5 of this guide.**
+
+<Figure src={img11} alt="" />
+
+</Aside>
+
+</li>
+
+<li>
+
+**Click&#x20;**_**Confirm**_**.**
+
+<Figure src={img6} alt="" width={375} align="left" />
+
+</li>
+
+<li>
+
+**A message confirms that the action succeeded. Click&#x20;**_**OK**_**.**
+
+<Figure src={img7} alt="" width={375} align="left" />
+
+</li>
+
+<li>
+
+**To check the status of account creation, click&#x20;**_**Provisioned users**_**. Users listed in this tab with an hourglass haven't created their Braver account yet. As soon as a user creates their account, they are moved to the list under the&#x20;**_**Users**_ **tab.**
+
+<Aside type="note">
+
+**REMINDER:** Once users are imported, they are visible to the members of your organization and can be added to discussion threads. They receive emails and can communicate in "Braver Connect" mode until they choose to create their account.
+
+</Aside>
+
+<Figure src={img8} alt="" width={375} align="left" />
+
+</li>
+
+</ol>
+</Steps>
+
+### Remove Users from the Imported List
+
+<Steps>
+<ol>
+
+<li>
+
+**In the admin console, 1) click&#x20;**_**Provisioned users**_**, then 2) select the trash can on the same row as the user to remove.**
+
+<Figure src={img9} alt="" width={375} align="left" />
+
+</li>
+
+<li>
+
+**Confirm by clicking&#x20;**_**Delete**_**.**
+
+<Figure src={img10} alt="" width={375} align="left" />
+
+</li>
+
+</ol>
+</Steps>
