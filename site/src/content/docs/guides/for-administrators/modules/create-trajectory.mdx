@@ -1,8 +1,12 @@
 ---
 title: Créer une trajectoire
+description: "Configurer une trajectoire (modèle de canal de soins) : création, acteurs, modèles de fil et suggestion automatique."
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 3
 ---
 
-import { Aside, Steps } from '@astrojs/starlight/components'
+import { Aside, LinkCard, Steps } from '@astrojs/starlight/components'
 import Figure from '~/components/Figure.astro'
 import img0 from "~/assets/guides-fr/CleanShot 2026-07-03 at 10.41.34@2x.png"
 import img1 from "~/assets/guides-fr/CleanShot 2026-07-03 at 10.41.46@2x.png"
@@ -12,328 +16,256 @@ import img4 from "~/assets/guides-fr/CleanShot 2026-07-03 at 10.55.50@2x.png"
 import img5 from "~/assets/guides-fr/CleanShot 2026-07-03 at 10.57.22@2x.png"
 import img6 from "~/assets/guides-fr/CleanShot 2026-07-03 at 10.57.22@2x (1).png"
 import img7 from "~/assets/guides-fr/utilisateur step 1.png"
-import img8 from "~/assets/guides-fr/equipe step 2.png"
 import img9 from "~/assets/guides-fr/equipe-step-1.png"
 import img10 from "~/assets/guides-fr/CleanShot 2026-07-03 at 15.53.09@2x.png"
 import img11 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.13.52.png"
 import img12 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.14.09.png"
 import img13 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.14.09 (1).png"
 import img14 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.14.20 (1).png"
-import img15 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.14.20 (2).png"
 import img16 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.14.28.png"
-import img17 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.14.28 (1).png"
 import img18 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.53.42.png"
 import img19 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.54.07.png"
 
-<Aside type="note">
+Une **trajectoire** est un modèle de canal de soins. Une fois configurée, elle vous permet de créer rapidement des canaux de soins pour plusieurs patients, avec le même titre et les mêmes acteurs. Vous pouvez aussi y préparer des modèles de fil de discussion, pour ne pas avoir à recopier souvent le même message.
 
-Une trajectoire est un modèle de canal de soins. Lorsque vous configurez une trajectoire, vous pouvez ensuite rapidement créer des canaux de soins pour plusieurs patients, selon le même modèle. Le titre du canal de soins sera déjà défini, de même que les acteurs que vous souhaitez voir participer au canal de soins.\
-\
-C'est également à cet endroit que vous pouvez prévoir un modèle de fil de discussion, ce qui peut vous être utile si vous avez à recopier fréquemment un même message dans le contexte de votre canal de soins.\
-\
-Plusieurs configurations sont possibles; n'hésitez pas à demander conseil à la personne qui vous accompagne dans votre déploiement!
+## En bref
 
-</Aside>
+La configuration se fait en quatre étapes. Utilisez la table des matières pour aller directement à celle qui vous intéresse.
 
-1. [Créer la trajectoire](/guides/for-administrators/modules/create-trajectory#id-1.-creer-la-trajectoire)
-2. [Ajouter des acteurs](/guides/for-administrators/modules/create-trajectory#id-2.-ajouter-des-acteurs)
-3. [Ajouter des modèles de fil](/guides/for-administrators/modules/create-trajectory#id-3.-ajouter-des-modeles-de-fil)
-4. [Modifier la suggestion automatique](/guides/for-administrators/modules/create-trajectory#id-4.-modifier-la-suggestion-automatique)
+| Étape | Ce que vous configurez |
+| --- | --- |
+| 1. Créer la trajectoire | Le nom de la trajectoire, dans le bon module |
+| 2. Ajouter des acteurs | Qui peut participer au canal de soins, et à quelles conditions |
+| 3. Ajouter des modèles de fil | Des fils de discussion prêts à envoyer : titre, premier message, personnes notifiées |
+| 4. Configurer la suggestion automatique | Quand la trajectoire est suggérée dans la fiche du patient |
 
-### 1. Créer la trajectoire
+## Avant de commencer
 
-<Steps>
-<ol>
+Les trajectoires sont créées dans un module. Si votre unité organisationnelle n'a pas encore de module, commencez par en créer un.
 
-<li>
+<LinkCard title="Créer un module" href="/guides/for-administrators/modules/create-module" />
 
-**1) Vérifiez si vous êtes dans la bonne unité organisationnelle et 2) cliquez sur&#x20;**_**Modules**_**.**
+<Aside type="tip">
 
-<Figure src={img0} alt="" width={375} align="left" />
-
-</li>
-
-<li>
-
-**Cliquez sur le « + » et 2) sélectionnez&#x20;**_**Trajectoire**_**.**
-
-<Figure src={img1} alt="" width={375} align="left" />
-
-</li>
-
-<li>
-
-**1) Donnez un nom à votre nouvelle trajectoire et 2) cliquez sur&#x20;**_**Créer**_**.**
-
-<Figure src={img2} alt="" width={375} align="left" />
-
-</li>
-
-</ol>
-</Steps>
-
-### 2. Ajouter des acteurs
-
-<Aside type="note">
-
-Les acteurs déterminent qui peut participer à un canal de soins et sous quelles conditions. Ils peuvent être un utilisateur individuel, une équipe, ou les deux.
+Plusieurs configurations sont possibles. N'hésitez pas à demander conseil à la personne qui vous accompagne dans votre déploiement!
 
 </Aside>
 
-<Steps>
-<ol>
-
-<li>
-
-**1) Sélectionnez&#x20;**_**Acteurs**_**, puis 2) cliquez sur&#x20;**_**Ajouter un acteur**_**.**
-
-<Figure src={img3} alt="" width={563} align="left" />
-
-</li>
-
-<li>
-
-**1) Donnez un nom à votre nouvel acteur et 2) cliquez sur&#x20;**_**Ajouter un acteur**_**.**
-
-<Figure src={img4} alt="" width={375} align="left" />
-
-</li>
-
-</ol>
-</Steps>
-
-#### 2.1 Modifier les informations d'un acteur
+## 1. Créer la trajectoire
 
 <Steps>
 <ol>
 
 <li>
 
-**1) Sélectionnez l'onglet&#x20;**_**Informations**_**. Voici les options qui s'offrent à vous:**
+Vérifiez que vous êtes dans la bonne unité organisationnelle, puis cliquez sur **Modules**.
 
-A. Modifier le nom de l'acteur;
-
-B. Ajouter une description de l'acteur. Cette description apparaîtra sous le nom de l'acteur dans le menu de gauche;
-
-C. Forcer la sélection de cet acteur en activant l'interrupteur. À ce moment, l'acteur devra obligatoirement faire partie de la trajectoire;
-
-D. Indiquer un nombre maximal de ce type d'acteur dans la trajectoire. Laissez à 0 pour un nombre illimité;
-
-E. Décider si le mode d'assignation est:
-
-* Unique: Toujours inclure un membre de l'équipe s'il est assigné au canal ou s'il est le seul membre de l'équipe participant au canal;
-* Tous: Tous les membres de l'équipe participant au canal seront inclus dans les fils de discussion;
-* Aucun: Aucun membre de l’équipe qui participe au canal ne sera inclus dans les fils de discussion; ceux-ci arriveront dans la boîte de triage de l’équipe.
-
-<Figure src={img5} alt="" align="left" />
+<Figure src={img0} alt="Sélection de l'unité organisationnelle et menu Modules" width={375} align="left" />
 
 </li>
 
 <li>
 
-**Enregistrez votre progression.**
+Cliquez sur **+**, puis sélectionnez **Trajectoire**.
 
-<Figure src={img6} alt="" width={563} align="left" />
+<Figure src={img1} alt="Bouton + et choix Trajectoire" width={375} align="left" />
+
+</li>
+
+<li>
+
+Donnez un nom à la trajectoire, puis cliquez sur **Créer**.
+
+<Figure src={img2} alt="Champ du nom de la trajectoire et bouton Créer" width={375} align="left" />
 
 </li>
 
 </ol>
 </Steps>
 
-#### 2.2 Modifier le type _Utilisateur_
+## 2. Ajouter des acteurs
+
+Les acteurs déterminent qui peut participer à un canal de soins et à quelles conditions. Un acteur peut être un utilisateur, une équipe, ou les deux.
+
+### Créer un acteur
 
 <Steps>
 <ol>
 
 <li>
 
-**1) Sélectionnez l'onglet&#x20;**_**Utilisateur**_**. Voici les options qui s'offrent à vous:**
+Sélectionnez **Acteurs**, puis cliquez sur **Ajouter un acteur**.
 
-A. Activer l'interrupteur afin de choisir la sélection d'utilisateurs (en opposition à sélectionner une équipe par exemple);
-
-B. À venir;
-
-C. Indiquer ici le nom des utilisateurs que l'on souhaite voir apparaître dans la trajectoire. Il sera possible de choisir un ou plusieurs de ces utilisateurs dans un menu déroulant lors de l'activation du canal de soins associé.
-
-<Figure src={img7} alt="" width={563} align="left" />
+<Figure src={img3} alt="Section Acteurs et bouton Ajouter un acteur" width={563} align="left" />
 
 </li>
 
 <li>
 
-**Enregistrez votre progression.**
+Donnez un nom à l'acteur, puis cliquez sur **Ajouter un acteur**.
 
-<Figure src={img8} alt="" width={563} align="left" />
+<Figure src={img4} alt="Champ du nom de l'acteur" width={375} align="left" />
 
 </li>
 
 </ol>
 </Steps>
 
-#### 2.3 Modifier le type _Équipe_
+L'acteur se configure ensuite dans trois onglets : **Informations**, **Utilisateur** et **Équipe**.
 
-<Steps>
-<ol>
+<Aside type="caution" title="Enregistrez chaque onglet">
 
-<li>
+Après avoir modifié un onglet, cliquez sur **Enregistrer**.
 
-**1) Sélectionnez l'onglet&#x20;**_**Équipe**_**. Voici les options qui s'offrent à vous:**
-
-A. Activer l'interrupteur afin de choisir la sélection d'équipes (en opposition à sélectionner un utilisateur par exemple);
-
-B. Choisir une équipe provenant de [vos modèles d'équipes](/guides/for-administrators/teams/create-team-template-coming-soon);
-
-C. Choisir une équipe de votre unité organisationnelle;
-
-D. À venir.
-
-<Figure src={img9} alt="" width={563} align="left" />
-
-</li>
-
-<li>
-
-**Enregistrez votre progression.**
-
-<Figure src={img8} alt="" width={563} align="left" />
-
-</li>
-
-</ol>
-</Steps>
-
-### 3. Ajouter des modèles de fil
-
-<Aside type="note">
-
-Les modèles de fil permettent de créer rapidement un fil de discussion dans un canal de soins. Ils peuvent comprendre un titre, un message de départ et les participants à notifier et à inclure.
+<Figure src={img6} alt="Bouton Enregistrer" width={563} align="left" />
 
 </Aside>
 
-<Steps>
-<ol>
+### Onglet Informations
 
-<li>
+<Figure src={img5} alt="Onglet Informations d'un acteur, options A à E" align="left" />
 
-**1) Sélectionnez&#x20;**_**Modèles de fil**_**, puis 2) cliquez sur&#x20;**_**Ajouter un modèle de fil**_**.**
+| Repère | Option | Description |
+| --- | --- | --- |
+| A | Nom | Le nom de l'acteur. |
+| B | Description | S'affiche sous le nom de l'acteur dans le menu de gauche. |
+| C | Sélection obligatoire | Activez l'interrupteur pour que l'acteur fasse obligatoirement partie de la trajectoire. |
+| D | Nombre maximal | Le nombre maximal de ce type d'acteur dans la trajectoire. Laissez **0** pour un nombre illimité. |
+| E | Mode d'assignation | Les membres de l'équipe inclus dans les fils de discussion (voir le tableau ci-dessous). |
 
-<Figure src={img10} alt="" width={563} align="left" />
+**Modes d'assignation**
 
-</li>
+| Mode | Qui est inclus dans les fils de discussion |
+| --- | --- |
+| Unique | Toujours un membre de l'équipe, s'il est assigné au canal ou s'il est le seul membre de l'équipe qui participe au canal. |
+| Tous | Tous les membres de l'équipe qui participent au canal. |
+| Aucun | Aucun membre de l'équipe. Les fils de discussion arrivent dans la boîte de triage de l'équipe. |
 
-<li>
+### Onglet Utilisateur
 
-**1) Donnez un nom à votre modèle de fil et 2) cliquez sur&#x20;**_**Ajouter un modèle de fil**_**.**
+Utilisez cet onglet pour que l'acteur soit choisi parmi des utilisateurs précis.
 
-<Figure src={img11} alt="" width={277} align="left" />
+<Figure src={img7} alt="Onglet Utilisateur d'un acteur, options A à C" width={563} align="left" />
 
-</li>
+| Repère | Option | Description |
+| --- | --- | --- |
+| A | Sélection d'utilisateurs | Activez l'interrupteur pour choisir des utilisateurs (plutôt qu'une équipe, par exemple). |
+| B | À venir | — |
+| C | Utilisateurs proposés | Les utilisateurs qui apparaîtront dans la trajectoire. Lors de l'activation du canal de soins, on pourra en choisir un ou plusieurs dans un menu déroulant. |
 
-<li>
+### Onglet Équipe
 
-**1) Sélectionnez l'onglet&#x20;**_**Informations**_**. Voici les options qui s'offrent à vous:**
+Utilisez cet onglet pour que l'acteur soit une équipe.
 
-A. Modifier le nom du modèle (facultatif);
+<Figure src={img9} alt="Onglet Équipe d'un acteur, options A à D" width={563} align="left" />
 
-B. À venir.
+| Repère | Option | Description |
+| --- | --- | --- |
+| A | Sélection d'équipes | Activez l'interrupteur pour choisir des équipes (plutôt qu'un utilisateur, par exemple). |
+| B | Modèle d'équipe | Choisissez une équipe parmi [vos modèles d'équipes](/guides/for-administrators/teams/create-team-template-coming-soon). |
+| C | Équipe de l'unité organisationnelle | Choisissez une équipe de votre unité organisationnelle. |
+| D | À venir | — |
 
-<Figure src={img12} alt="" width={563} align="left" />
+## 3. Ajouter des modèles de fil
 
-</li>
+Les modèles de fil permettent de créer rapidement un fil de discussion dans un canal de soins. Ils peuvent comprendre un titre, un premier message et les participants à inclure et à notifier.
 
-<li>
-
-**Enregistrez votre progression.**
-
-<Figure src={img13} alt="" width={563} align="left" />
-
-</li>
-
-<li>
-
-**1) Sélectionnez l'onglet&#x20;**_**Contenu**_**. 2) Ajoutez le titre du fil de discussion ainsi que 3) le premier message de ce fil.**
-
-<Figure src={img14} alt="" width={563} align="left" />
-
-</li>
-
-<li>
-
-**Enregistrez votre progression.**
-
-<Figure src={img15} alt="" width={563} align="left" />
-
-</li>
-
-<li>
-
-**1) Sélectionnez l'onglet&#x20;**_**Acteurs à inclure**_**. 2) Cochez les acteurs qui devront être inclus et notifiés lors de l'envoi de ce fil de discussion.**
-
-<Aside type="note">
-
-Les autres acteurs y auront accès dans le canal de soins, mais ne seront pas notifiés.
-
-</Aside>
-
-<Figure src={img16} alt="" width={563} align="left" />
-
-</li>
-
-<li>
-
-**Enregistrez votre progression.**
-
-<Figure src={img17} alt="" width={563} align="left" />
-
-</li>
-
-</ol>
-</Steps>
-
-### 4. Modifier la suggestion automatique
-
-<Aside type="note">
-
-C'est ici que vous pouvez configurer quand une trajectoire sera automatiquement suggérée dans les fiches patients. Vous pouvez restreindre les suggestions selon le statut du patient et définir une plage de dates.\
-\
-Vous pouvez ainsi sauver des clics lors de l'activation en plus de rendre vos équipes autonomes si elles ont la responsabilité de configurer un canal de soins pour les patients.
-
-<img src="../../.gitbook/assets/CleanShot 2026-07-14 at 15.01.31.png" alt="" data-size="original" />
-
-</Aside>
+### Créer un modèle de fil
 
 <Steps>
 <ol>
 
 <li>
 
-**Sélectionnez 1)&#x20;**_**Modules**_**, puis 2) l'onglet&#x20;**_**Trajectoires**_**. Choisissez ensuite 3) la trajectoire désirée.**
+Sélectionnez **Modèles de fil**, puis cliquez sur **Ajouter un modèle de fil**.
 
-<Figure src={img19} alt="" />
+<Figure src={img10} alt="Section Modèles de fil et bouton Ajouter un modèle de fil" width={563} align="left" />
 
 </li>
 
 <li>
 
-**1) Sélectionnez l'onglet&#x20;**_**Suggestion automatique**_**. Voici les options qui s'offrent à vous:**
+Donnez un nom au modèle, puis cliquez sur **Ajouter un modèle de fil**.
 
-<Aside type="note">
-
-Il est possible d'activer plus d'une option.
-
-</Aside>
-
-A) _Quand le patient est actif:_ Cette trajectoire sera suggérée pour tous les patients actifs;
-
-B) _Quand absent du patient:_ Cette trajectoire sera suggérée automatiquement, en excluant ceux dont le canal de soins correspondant existe déjà;
-
-C) _Avant la date:_ Indiquez jusqu'à quand vous souhaitez que la suggestion automatique soit suggérée dans la fiche du patient;
-
-D) _À partir de la date:_ Indiquez à partir de quand la trajectoire doit être suggérée dans la fiche du patient.
-
-<Figure src={img18} alt="" width={563} align="left" />
+<Figure src={img11} alt="Champ du nom du modèle de fil" width={277} align="left" />
 
 </li>
 
 </ol>
 </Steps>
+
+Le modèle se configure ensuite dans trois onglets : **Informations**, **Contenu** et **Acteurs à inclure**.
+
+<Aside type="caution" title="Enregistrez chaque onglet">
+
+Après avoir modifié un onglet, cliquez sur **Enregistrer**.
+
+<Figure src={img13} alt="Bouton Enregistrer du modèle de fil" width={563} align="left" />
+
+</Aside>
+
+### Onglet Informations
+
+<Figure src={img12} alt="Onglet Informations d'un modèle de fil" width={563} align="left" />
+
+| Repère | Option | Description |
+| --- | --- | --- |
+| A | Nom du modèle | Modifiez le nom du modèle (facultatif). |
+| B | À venir | — |
+
+### Onglet Contenu
+
+Ajoutez le **titre** du fil de discussion et son **premier message**.
+
+<Figure src={img14} alt="Onglet Contenu : titre et premier message du fil" width={563} align="left" />
+
+### Onglet Acteurs à inclure
+
+Cochez les acteurs à inclure et à notifier lors de l'envoi de ce fil de discussion.
+
+<Figure src={img16} alt="Onglet Acteurs à inclure" width={563} align="left" />
+
+<Aside type="note">
+
+Les autres acteurs ont accès au fil dans le canal de soins, mais ne sont pas notifiés.
+
+</Aside>
+
+## 4. Configurer la suggestion automatique
+
+La suggestion automatique détermine quand la trajectoire est suggérée dans les fiches patients, selon le statut du patient et une plage de dates. Vous sauvez ainsi des clics lors de l'activation, et vos équipes deviennent autonomes si elles ont la responsabilité de configurer un canal de soins pour les patients.
+
+<Steps>
+<ol>
+
+<li>
+
+Sélectionnez **Modules**, puis l'onglet **Trajectoires**, et choisissez la trajectoire.
+
+<Figure src={img19} alt="Onglet Trajectoires de la page Modules" />
+
+</li>
+
+<li>
+
+Sélectionnez l'onglet **Suggestion automatique**, puis activez les options voulues.
+
+<Figure src={img18} alt="Onglet Suggestion automatique, options A à D" width={563} align="left" />
+
+</li>
+
+</ol>
+</Steps>
+
+| Repère | Option | Effet |
+| --- | --- | --- |
+| A | Quand le patient est actif | La trajectoire est suggérée pour tous les patients actifs. |
+| B | Quand absent du patient | La trajectoire est suggérée automatiquement, sauf aux patients dont le canal de soins correspondant existe déjà. |
+| C | Avant la date | La date jusqu'à laquelle la trajectoire est suggérée dans la fiche du patient. |
+| D | À partir de la date | La date à partir de laquelle la trajectoire est suggérée dans la fiche du patient. |
+
+<Aside type="tip">
+
+Vous pouvez activer plusieurs options à la fois.
+
+</Aside>
