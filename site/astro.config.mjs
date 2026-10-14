@@ -35,8 +35,11 @@ const env = process.env
 const typesense = Boolean(env.PUBLIC_TYPESENSE_HOST && env.PUBLIC_TYPESENSE_SEARCH_KEY && env.PUBLIC_TYPESENSE_COLLECTION)
 
 // Private customer pages: out of the sitemap and LLM files (they also carry noindex and stay out of search).
-// "Not translated yet" English copies are left out of the sitemap too.
-const notInSitemap = new Set([...privatePaths, ...fallbackPaths])
+// "Not translated yet" English copies are left out of the sitemap too. fallbackPaths comes from GitBook,
+// so paths that now have an English page written directly in the site (src/content/docs/en/...) are dropped here.
+const hasPage = (path) => ['.mdx', '.md', '/index.mdx', '/index.md'].some((ext) => fs.existsSync(`./src/content/docs${path}${ext}`))
+const untranslatedPaths = fallbackPaths.filter((path) => !hasPage(path))
+const notInSitemap = new Set([...privatePaths, ...untranslatedPaths])
 const privatePages = 'guides/private-pages/**'
 
 export default defineConfig({
