@@ -1,0 +1,102 @@
+---
+title: Configurer les acteurs d'une trajectoire
+description: "Ajouter des acteurs à une trajectoire et régler leurs onglets Informations, Utilisateur et Équipe."
+prev:
+  link: /guides/for-administrators/modules/create-trajectory
+  label: Créer une trajectoire
+next:
+  link: /guides/for-administrators/modules/create-trajectory/create-thread-templates
+  label: Créer des modèles de fil
+---
+
+import { Aside, Steps } from '@astrojs/starlight/components'
+import Figure from '~/components/Figure.astro'
+import img3 from "~/assets/guides-fr/CleanShot 2026-07-15 at 09.43.40@2x.png"
+import img4 from "~/assets/guides-fr/CleanShot 2026-07-03 at 10.55.50@2x.png"
+import img5 from "~/assets/guides-fr/CleanShot 2026-07-03 at 10.57.22@2x.png"
+import img6 from "~/assets/guides-fr/CleanShot 2026-07-03 at 10.57.22@2x (1).png"
+import img7 from "~/assets/guides-fr/utilisateur step 1.png"
+import img9 from "~/assets/guides-fr/equipe-step-1.png"
+
+Les acteurs déterminent qui peut participer à un canal de soins et à quelles conditions. Un acteur peut être un utilisateur, une équipe, ou les deux.
+
+Vous devez d'abord avoir [créé la trajectoire](/guides/for-administrators/modules/create-trajectory).
+
+## Créer un acteur
+
+<Steps>
+<ol>
+
+<li>
+
+Dans la trajectoire, sélectionnez **Acteurs**, puis cliquez sur **Ajouter un acteur**.
+
+<Figure src={img3} alt="Section Acteurs et bouton Ajouter un acteur" width={563} align="left" />
+
+</li>
+
+<li>
+
+Donnez un nom à l'acteur, puis cliquez sur **Ajouter un acteur**.
+
+<Figure src={img4} alt="Champ du nom de l'acteur" width={375} align="left" />
+
+</li>
+
+</ol>
+</Steps>
+
+L'acteur se configure ensuite dans trois onglets : **Informations**, **Utilisateur** et **Équipe**.
+
+<Aside type="caution" title="Enregistrez chaque onglet">
+
+Après avoir modifié un onglet, cliquez sur **Enregistrer**.
+
+<Figure src={img6} alt="Bouton Enregistrer" width={563} align="left" />
+
+</Aside>
+
+## Onglet Informations
+
+<Figure src={img5} alt="Onglet Informations d'un acteur, options A à E" align="left" />
+
+| Repère | Option | Description |
+| --- | --- | --- |
+| A | Nom | Le nom de l'acteur. |
+| B | Description | S'affiche sous le nom de l'acteur dans le menu de gauche. |
+| C | Sélection obligatoire | Activez l'interrupteur pour que l'acteur fasse obligatoirement partie de la trajectoire. |
+| D | Nombre maximal | Le nombre maximal de ce type d'acteur dans la trajectoire. Laissez **0** pour un nombre illimité. |
+| E | Mode d'assignation | Les membres de l'équipe inclus dans les fils de discussion (voir ci-dessous). |
+
+### Modes d'assignation
+
+| Mode | Qui est inclus dans les fils de discussion |
+| --- | --- |
+| Unique | Toujours un membre de l'équipe, s'il est assigné au canal ou s'il est le seul membre de l'équipe qui participe au canal. |
+| Tous | Tous les membres de l'équipe qui participent au canal. |
+| Aucun | Aucun membre de l'équipe. Les fils de discussion arrivent dans la boîte de triage de l'équipe. |
+
+## Onglet Utilisateur
+
+Utilisez cet onglet pour que l'acteur soit choisi parmi des utilisateurs précis.
+
+<Figure src={img7} alt="Onglet Utilisateur d'un acteur, options A à C" width={563} align="left" />
+
+| Repère | Option | Description |
+| --- | --- | --- |
+| A | Sélection d'utilisateurs | Activez l'interrupteur pour choisir des utilisateurs (plutôt qu'une équipe, par exemple). |
+| B | À venir | — |
+| C | Utilisateurs proposés | Les utilisateurs qui apparaîtront dans la trajectoire. Lors de l'activation du canal de soins, on pourra en choisir un ou plusieurs dans un menu déroulant. |
+
+## Onglet Équipe
+
+Utilisez cet onglet pour que l'acteur soit une équipe.
+
+<Figure src={img9} alt="Onglet Équipe d'un acteur, options A à D" width={563} align="left" />
+
+| Repère | Option | Description |
+| --- | --- | --- |
+| A | Sélection d'équipes | Activez l'interrupteur pour choisir des équipes (plutôt qu'un utilisateur, par exemple). |
+| B | Modèle d'équipe | Choisissez une équipe parmi [vos modèles d'équipes](/guides/for-administrators/teams/create-team-template-coming-soon). |
+| C | Équipe de l'unité organisationnelle | Choisissez une équipe de votre unité organisationnelle. |
+| D | À venir | — |
