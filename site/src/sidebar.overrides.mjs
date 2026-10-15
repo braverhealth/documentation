@@ -27,7 +27,7 @@ const translated = {
   '/guides/for-healthcare-professionals/braver-connect': 'Braver Connect',
   '/guides/for-healthcare-professionals/braver-connect/contact-professional-without-braver-account': "Contact a Professional Who Doesn't Have a Braver Account",
   '/guides/for-healthcare-professionals/discussion-threads/copy-message-from-discussion-thread': 'Copy a Message from a Discussion Thread',
-  '/guides/for-healthcare-professionals/patient-caregiver-communication/preallocate-patient-or-caregiver': 'Pre-Allocate a Patient and/or Caregiver',
+  '/guides/for-healthcare-professionals/patient-caregiver-communication/preallocate-patient-or-caregiver': 'Preallocate a Patient and/or Caregiver',
   '/guides/for-healthcare-professionals/patient-caregiver-communication/prefill-patient-or-caregiver-information': 'Prefill Patient or Caregiver Information',
   '/guides/for-healthcare-professionals/profile-management/add-workplace-to-profile': 'Add a Workplace to My Profile',
   '/guides/for-healthcare-professionals/notification-management/enable-notifications-in-web-browser': 'Enable Notifications in a Web Browser',
