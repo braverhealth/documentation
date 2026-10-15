@@ -168,6 +168,7 @@
 * [Soins virtuels (Module PPA)](pages-privees/soins-virtuels-module-ppa.md)
 * [Fondation AGES (Admin)](pages-privees/fondation-ages-admin.md)
 * [Fondations AGES (Navigateur.rice.s)](pages-privees/fondations-ages-navigateur.rice.s.md)
+* [Soins de longue durée (Formation accélérée)](pages-privees/soins-de-longue-duree-formation-acceleree.md)
 
 ***
 
