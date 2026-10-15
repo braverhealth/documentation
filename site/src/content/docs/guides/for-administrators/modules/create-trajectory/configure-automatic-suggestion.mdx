@@ -1,0 +1,60 @@
+---
+title: Configurer la suggestion automatique
+description: "Déterminer quand une trajectoire est suggérée dans les fiches patients, selon le statut du patient et une plage de dates."
+prev:
+  link: /guides/for-administrators/modules/create-trajectory/create-thread-templates
+  label: Créer des modèles de fil
+next: false
+---
+
+import { Aside, LinkCard, Steps } from '@astrojs/starlight/components'
+import Figure from '~/components/Figure.astro'
+import img18 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.53.42.png"
+import img19 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.54.07.png"
+
+La suggestion automatique détermine quand la trajectoire est suggérée dans les fiches patients, selon le statut du patient et une plage de dates. Vous sauvez ainsi des clics lors de l'activation, et vos équipes deviennent autonomes si elles ont la responsabilité de configurer un canal de soins pour les patients.
+
+## Activer la suggestion automatique
+
+<Steps>
+<ol>
+
+<li>
+
+Sélectionnez **Modules**, puis l'onglet **Trajectoires**, et choisissez la trajectoire.
+
+<Figure src={img19} alt="Onglet Trajectoires de la page Modules" />
+
+</li>
+
+<li>
+
+Sélectionnez l'onglet **Suggestion automatique**, puis activez les options voulues.
+
+<Figure src={img18} alt="Onglet Suggestion automatique, options A à D" width={563} align="left" />
+
+</li>
+
+</ol>
+</Steps>
+
+## Options
+
+| Repère | Option | Effet |
+| --- | --- | --- |
+| A | Quand le patient est actif | La trajectoire est suggérée pour tous les patients actifs. |
+| B | Quand absent du patient | La trajectoire est suggérée automatiquement, sauf aux patients dont le canal de soins correspondant existe déjà. |
+| C | Avant la date | La date jusqu'à laquelle la trajectoire est suggérée dans la fiche du patient. |
+| D | À partir de la date | La date à partir de laquelle la trajectoire est suggérée dans la fiche du patient. |
+
+<Aside type="tip">
+
+Vous pouvez activer plusieurs options à la fois.
+
+</Aside>
+
+## Et ensuite?
+
+Votre trajectoire est prête. Vous pouvez revenir à la page de départ pour revoir les étapes ou en créer une autre.
+
+<LinkCard title="Créer une trajectoire" href="/guides/for-administrators/modules/create-trajectory" />

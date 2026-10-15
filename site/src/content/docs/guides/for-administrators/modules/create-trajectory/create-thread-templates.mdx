@@ -1,0 +1,84 @@
+---
+title: Créer des modèles de fil
+description: "Préparer des fils de discussion prêts à envoyer dans une trajectoire : titre, premier message et acteurs à notifier."
+prev:
+  link: /guides/for-administrators/modules/create-trajectory/configure-actors
+  label: Configurer les acteurs
+next:
+  link: /guides/for-administrators/modules/create-trajectory/configure-automatic-suggestion
+  label: Configurer la suggestion automatique
+---
+
+import { Aside, Steps } from '@astrojs/starlight/components'
+import Figure from '~/components/Figure.astro'
+import img10 from "~/assets/guides-fr/CleanShot 2026-07-03 at 15.53.09@2x.png"
+import img11 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.13.52.png"
+import img12 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.14.09.png"
+import img13 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.14.09 (1).png"
+import img14 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.14.20 (1).png"
+import img16 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.14.28.png"
+
+Les modèles de fil permettent de créer rapidement un fil de discussion dans un canal de soins. Ils peuvent comprendre un titre, un premier message et les participants à inclure et à notifier.
+
+Comme un modèle de fil s'adresse aux acteurs de la trajectoire, [configurez les acteurs](/guides/for-administrators/modules/create-trajectory/configure-actors) en premier.
+
+## Créer un modèle de fil
+
+<Steps>
+<ol>
+
+<li>
+
+Dans la trajectoire, sélectionnez **Modèles de fil**, puis cliquez sur **Ajouter un modèle de fil**.
+
+<Figure src={img10} alt="Section Modèles de fil et bouton Ajouter un modèle de fil" width={563} align="left" />
+
+</li>
+
+<li>
+
+Donnez un nom au modèle, puis cliquez sur **Ajouter un modèle de fil**.
+
+<Figure src={img11} alt="Champ du nom du modèle de fil" width={277} align="left" />
+
+</li>
+
+</ol>
+</Steps>
+
+Le modèle se configure ensuite dans trois onglets : **Informations**, **Contenu** et **Acteurs à inclure**.
+
+<Aside type="caution" title="Enregistrez chaque onglet">
+
+Après avoir modifié un onglet, cliquez sur **Enregistrer**.
+
+<Figure src={img13} alt="Bouton Enregistrer du modèle de fil" width={563} align="left" />
+
+</Aside>
+
+## Onglet Informations
+
+<Figure src={img12} alt="Onglet Informations d'un modèle de fil" width={563} align="left" />
+
+| Repère | Option | Description |
+| --- | --- | --- |
+| A | Nom du modèle | Modifiez le nom du modèle (facultatif). |
+| B | À venir | — |
+
+## Onglet Contenu
+
+Ajoutez le **titre** du fil de discussion et son **premier message**.
+
+<Figure src={img14} alt="Onglet Contenu : titre et premier message du fil" width={563} align="left" />
+
+## Onglet Acteurs à inclure
+
+Cochez les acteurs à inclure et à notifier lors de l'envoi de ce fil de discussion.
+
+<Figure src={img16} alt="Onglet Acteurs à inclure" width={563} align="left" />
+
+<Aside type="note">
+
+Les autres acteurs ont accès au fil dans le canal de soins, mais ne sont pas notifiés.
+
+</Aside>

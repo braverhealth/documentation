@@ -11,9 +11,13 @@ import sitemap from '@astrojs/sitemap'
 import braverTheme from './src/theme/index.ts'
 import { iconsCss } from './src/theme/icons.ts'
 import { footer, links, locales, site, title } from './site.config.mjs'
-import { topics, topicMap } from './src/sidebar.generated.mjs'
+import { topics as generatedTopics, topicMap } from './src/sidebar.generated.mjs'
+import { applySidebarOverrides } from './src/sidebar.overrides.mjs'
 import { fallbackPaths, privatePaths, privateTitles } from './src/private.generated.mjs'
 import { LLMS_PAGE_SEPARATOR, dropPrivatePagesFromLlms } from './src/theme/private-pages.ts'
+
+// Generated sidebar + manual adjustments (sub-pages added outside GitBook).
+const topics = applySidebarOverrides(generatedTopics)
 
 // Sidebar and header icons are CSS masks; emit one rule per icon actually used.
 const icons = new Set()
