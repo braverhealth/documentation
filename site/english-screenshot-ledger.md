@@ -138,6 +138,7 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 - English assets can still contain French UI. The OCR pass found them outside the French asset folders; do not use the directory name as a completion signal.
 - The completed Patient Files page was found by visual inspection of `documentation-en/Creer une nouvelle fiche patient - Step4.jpeg`: its tabs, list heading, and gender labels were French even though OCR scored only one French word.
+- The completed Audit Logs page still embeds a French Loom video and preview thumbnail. Its five imported screenshots are localized; translating the video is a separate task.
 - Five raw screenshot `<img>` references occur on three queued pages: contact professional without a Braver account (3 references, including a duplicate), add or modify email (1), and prefill patient or caregiver information (1). Two additional raw SVG diagrams in configuration guides are excluded because they are not screenshots.
 - The French invitation-kit PDF is excluded; its English page explicitly says the kit is French-only.
 - The other English-folder screenshots with isolated French names, team names, addresses, or thread titles were not counted on that evidence alone. Pages without a flag still need a visual check if screenshot accuracy matters.
