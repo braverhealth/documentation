@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `0a752ba` (2026-10-15). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `a6ba508` (2026-10-15). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**87 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Two pages localized in this PR are listed under Completed.
+**84 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Five pages localized in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,18 +15,10 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Documentation (1)
+### Administrator guides (11)
 
 | English page | FR folder | EN OCR | Visual | Raw `<img>` |
 | --- | ---: | ---: | ---: | ---: |
-| [for-healthcare-professionals/patient-files](./src/content/docs/en/for-healthcare-professionals/patient-files.mdx) | — | — | 1 | — |
-
-### Administrator guides (13)
-
-| English page | FR folder | EN OCR | Visual | Raw `<img>` |
-| --- | ---: | ---: | ---: | ---: |
-| [guides/for-administrators/audit-logs/how-to-search-in-audit-logs](./src/content/docs/en/guides/for-administrators/audit-logs/how-to-search-in-audit-logs.mdx) | — | 5 | — | — |
-| [guides/for-administrators/modules/create-module](./src/content/docs/en/guides/for-administrators/modules/create-module.mdx) | 6 | — | — | — |
 | [guides/for-administrators/modules/create-trajectory/configure-actors](./src/content/docs/en/guides/for-administrators/modules/create-trajectory/configure-actors.mdx) | 6 | — | — | — |
 | [guides/for-administrators/modules/create-trajectory/configure-automatic-suggestion](./src/content/docs/en/guides/for-administrators/modules/create-trajectory/configure-automatic-suggestion.mdx) | 2 | — | — | — |
 | [guides/for-administrators/modules/create-trajectory/create-thread-templates](./src/content/docs/en/guides/for-administrators/modules/create-trajectory/create-thread-templates.mdx) | 6 | — | — | — |
@@ -138,11 +130,14 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 | --- | ---: | --- |
 | [Copy a Message from a Discussion Thread](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/copy-message-from-discussion-thread.mdx) | 2 | `3fbafb1` |
 | [Preallocate a Patient and/or Caregiver](./src/content/docs/en/guides/for-healthcare-professionals/patient-caregiver-communication/preallocate-patient-or-caregiver.mdx) | 2 | `0a752ba` |
+| [Patient Files](./src/content/docs/en/for-healthcare-professionals/patient-files.mdx) | 1 | `a6ba508` |
+| [How to Search in Audit Logs?](./src/content/docs/en/guides/for-administrators/audit-logs/how-to-search-in-audit-logs.mdx) | 5 | `a6ba508` |
+| [Create a Module](./src/content/docs/en/guides/for-administrators/modules/create-module.mdx) | 6 | `a6ba508` |
 
 ## Audit notes
 
 - English assets can still contain French UI. The OCR pass found them outside the French asset folders; do not use the directory name as a completion signal.
-- The visual-only entry is `documentation-en/Creer une nouvelle fiche patient - Step4.jpeg`: its tabs, list heading, and gender labels are French even though OCR scored only one French word.
+- The completed Patient Files page was found by visual inspection of `documentation-en/Creer une nouvelle fiche patient - Step4.jpeg`: its tabs, list heading, and gender labels were French even though OCR scored only one French word.
 - Five raw screenshot `<img>` references occur on three queued pages: contact professional without a Braver account (3 references, including a duplicate), add or modify email (1), and prefill patient or caregiver information (1). Two additional raw SVG diagrams in configuration guides are excluded because they are not screenshots.
 - The French invitation-kit PDF is excluded; its English page explicitly says the kit is French-only.
 - The other English-folder screenshots with isolated French names, team names, addresses, or thread titles were not counted on that evidence alone. Pages without a flag still need a visual check if screenshot accuracy matters.
