@@ -7,11 +7,11 @@ description: This page shows you how to search in the audit logs, either with a
 import { Steps } from '@astrojs/starlight/components'
 import Figure from '~/components/Figure.astro'
 import Embed from '~/components/Embed.astro'
-import img0 from "~/assets/guides-en/CleanShot 2025-01-04 at 09.50.25@2x.png"
-import img1 from "~/assets/guides-en/CleanShot 2025-01-04 at 10.02.59@2x.png"
-import img2 from "~/assets/guides-en/CleanShot 2025-01-04 at 10.01.24@2x.png"
-import img3 from "~/assets/guides-en/CleanShot 2025-01-04 at 10.27.23@2x.png"
-import img4 from "~/assets/guides-en/CleanShot 2025-01-04 at 09.54.28@2x.png"
+import img0 from '~/assets/guides-en/audit-log-navigation-en.png'
+import img1 from '~/assets/guides-en/audit-log-select-patient-en.png'
+import img2 from '~/assets/guides-en/audit-log-patient-id-url-en.png'
+import img3 from '~/assets/guides-en/audit-log-patient-id-filter-en.png'
+import img4 from '~/assets/guides-en/audit-log-filters-en.png'
 
 <Embed url="https://www.loom.com/share/674c57b709a145d3970ff8a4fe6a3971?sid=8e5171c4-3441-4de9-a1e3-649578e2b670">[https://www.loom.com/share/674c57b709a145d3970ff8a4fe6a3971?sid=8e5171c4-3441-4de9-a1e3-649578e2b670](https://www.loom.com/share/674c57b709a145d3970ff8a4fe6a3971?sid=8e5171c4-3441-4de9-a1e3-649578e2b670)</Embed>
 
@@ -24,7 +24,7 @@ import img4 from "~/assets/guides-en/CleanShot 2025-01-04 at 09.54.28@2x.png"
 
 #### Click on the corresponding item in the left menu
 
-<Figure src={img0} alt="" width={375} align="left" />
+<Figure src={img0} alt="Audit item selected in the admin console sidebar" width={375} align="left" />
 
 </li>
 
@@ -37,7 +37,7 @@ import img4 from "~/assets/guides-en/CleanShot 2025-01-04 at 09.54.28@2x.png"
 * Action (creation, writing, etc.)
 * Patient (see next step to learn how to find the patient ID)
 
-<Figure src={img4} alt="" />
+<Figure src={img4} alt="Audit filters for actor, target, action, patient, and discussion" />
 
 </li>
 
@@ -45,7 +45,7 @@ import img4 from "~/assets/guides-en/CleanShot 2025-01-04 at 09.54.28@2x.png"
 
 #### To search based on a patient, you must have the patient's identifier. To obtain it, you need to log in to the clinician application from a computer and access the specific patient record
 
-<Figure src={img1} alt="" width={563} align="left" />
+<Figure src={img1} alt="Patient record selected in the Patients list" width={563} align="left" />
 
 </li>
 
@@ -53,7 +53,7 @@ import img4 from "~/assets/guides-en/CleanShot 2025-01-04 at 09.54.28@2x.png"
 
 #### After accessing the specific patient record, you will find the patient identifier at the end of the URL in the navigation bar. Copy the patient identifier.
 
-<Figure src={img2} alt="" width={563} align="left" />
+<Figure src={img2} alt="Patient identifier highlighted at the end of the patient record URL" width={563} align="left" />
 
 </li>
 
@@ -61,7 +61,7 @@ import img4 from "~/assets/guides-en/CleanShot 2025-01-04 at 09.54.28@2x.png"
 
 #### Paste the patient identifier in the "Patient" text box in the audit log filters.
 
-<Figure src={img3} alt="" width={563} align="left" />
+<Figure src={img3} alt="Patient identifier entered in the audit log Patient filter" width={563} align="left" />
 
 </li>
 
