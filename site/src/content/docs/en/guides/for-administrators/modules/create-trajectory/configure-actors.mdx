@@ -18,7 +18,7 @@ import img6 from "~/assets/guides-fr/CleanShot 2026-07-03 at 10.57.22@2x (1).png
 import img7 from "~/assets/guides-fr/utilisateur step 1.png"
 import img9 from "~/assets/guides-fr/equipe-step-1.png"
 
-Actors determine who can take part in a care channel and under what conditions. An actor can be a user, a team, or both.
+Actors determine who can take part in a care channel and under what conditions. An actor can be an individual user, a team, or both.
 
 You must first have [created the trajectory](/en/guides/for-administrators/modules/create-trajectory).
 
@@ -64,17 +64,17 @@ After changing a tab, click **Save**.
 | --- | --- | --- |
 | A | Name | The actor's name. |
 | B | Description | Shown under the actor's name in the left menu. |
-| C | Required selection | Turn on the switch to make the actor a required part of the trajectory. |
-| D | Maximum number | The maximum number of this type of actor in the trajectory. Leave **0** for an unlimited number. |
-| E | Assignment mode | The team members included in discussion threads (see below). |
+| C | Required | Turn on the switch so that at least one selection is required for this actor. |
+| D | Max count | The maximum number of selections allowed for this actor. Use **0** for no limit. |
+| E | Default team members to include and notify | The team members included and notified in discussion threads (see below). |
 
-### Assignment Modes
+### Default Team Members to Include and Notify
 
-| Mode | Who is included in discussion threads |
+| Option | Who is included and notified |
 | --- | --- |
-| Single | Always one team member, if they are assigned to the channel or are the only team member taking part in the channel. |
-| All | All team members taking part in the channel. |
-| None | No team members. Discussion threads go to the team's triage inbox. |
+| Single | The assigned team member. If the channel has only one team member, that person is included and notified. |
+| All | All team members who take part in the channel, whether or not they are assigned. |
+| None | No team members. The thread is sent to the team's triage inbox. |
 
 ## User Tab
 
@@ -84,7 +84,7 @@ Use this tab so the actor is chosen from specific users.
 
 | Marker | Option | Description |
 | --- | --- | --- |
-| A | User selection | Turn on the switch to choose users (rather than a team, for example). |
+| A | Allow user selection | Turn on the switch so this actor can be a single-user selection (rather than a team, for example). |
 | B | Coming soon | — |
 | C | Suggested users | The users who will appear in the trajectory. When the care channel is activated, one or more of them can be chosen from a drop-down menu. |
 
@@ -96,7 +96,7 @@ Use this tab so the actor is a team.
 
 | Marker | Option | Description |
 | --- | --- | --- |
-| A | Team selection | Turn on the switch to choose teams (rather than a user, for example). |
+| A | Allow inbox selection | Turn on the switch so this actor can be a team selection (rather than a user, for example). |
 | B | Team template | Choose a team from [your team templates](/en/guides/for-administrators/teams/create-team-template-coming-soon). |
 | C | Organizational unit team | Choose a team from your organizational unit. |
 | D | Coming soon | — |

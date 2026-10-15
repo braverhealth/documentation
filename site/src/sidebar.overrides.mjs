@@ -56,7 +56,7 @@ const overrides = {
       { label: 'Créer une trajectoire', translations: en('Create a Trajectory'), link: trajectory, attrs: { 'data-self': '' } },
       { label: 'Configurer les acteurs', translations: en('Configure Actors'), link: `${trajectory}/configure-actors`, attrs: {} },
       { label: 'Créer des modèles de fil', translations: en('Create Thread Templates'), link: `${trajectory}/create-thread-templates`, attrs: {} },
-      { label: 'Configurer la suggestion automatique', translations: en('Configure Automatic Suggestion'), link: `${trajectory}/configure-automatic-suggestion`, attrs: {} },
+      { label: 'Configurer la suggestion automatique', translations: en('Configure Auto-suggestion'), link: `${trajectory}/configure-automatic-suggestion`, attrs: {} },
     ],
   },
 }

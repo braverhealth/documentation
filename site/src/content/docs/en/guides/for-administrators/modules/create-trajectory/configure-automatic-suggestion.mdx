@@ -1,6 +1,6 @@
 ---
-title: Configure Automatic Suggestion
-description: "Decide when a trajectory is suggested in patient profiles, based on the patient's status and a date range."
+title: Configure Auto-suggestion
+description: "Decide when a trajectory is automatically suggested in patient files, based on the patient's status and a date range."
 prev:
   link: /en/guides/for-administrators/modules/create-trajectory/create-thread-templates
   label: Create Thread Templates
@@ -12,9 +12,9 @@ import Figure from '~/components/Figure.astro'
 import img18 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.53.42.png"
 import img19 from "~/assets/guides-fr/CleanShot 2026-07-14 at 13.54.07.png"
 
-Automatic suggestion determines when the trajectory is suggested in patient profiles, based on the patient's status and a date range. This saves clicks during activation, and makes your teams autonomous if they are responsible for setting up a care channel for patients.
+Auto-suggestion determines when the trajectory is automatically suggested in patient files, based on the patient's status and a date range. This saves clicks during activation, and makes your teams autonomous if they are responsible for setting up a care channel for patients.
 
-## Turn On Automatic Suggestion
+## Turn On Auto-suggestion
 
 <Steps>
 <ol>
@@ -29,9 +29,9 @@ Select **Modules**, then the **Trajectories** tab, and choose the trajectory.
 
 <li>
 
-Select the **Automatic suggestion** tab, then turn on the options you want.
+Select the **Auto-suggestion** tab, click **Configure auto-suggest rules**, then turn on the options you want in the **Auto-suggest rules** dialog.
 
-<Figure src={img18} alt="Automatic suggestion tab, options A to D" width={563} align="left" />
+<Figure src={img18} alt="Auto-suggestion options A to D" width={563} align="left" />
 
 </li>
 
@@ -42,14 +42,14 @@ Select the **Automatic suggestion** tab, then turn on the options you want.
 
 | Marker | Option | Effect |
 | --- | --- | --- |
-| A | When the patient is active | The trajectory is suggested for all active patients. |
-| B | When missing from the patient | The trajectory is suggested automatically, except for patients who already have the matching care channel. |
-| C | Before date | The date until which the trajectory is suggested in the patient's profile. |
-| D | From date | The date from which the trajectory is suggested in the patient's profile. |
+| A | When patient is active | The trajectory is suggested for all active patients. |
+| B | When absent from patient | The trajectory is suggested unless a corresponding care channel already exists. |
+| C | Before date | Suggestions stop appearing on this date, at midnight. |
+| D | Starting on date | Suggestions start appearing on this date. |
 
 <Aside type="tip">
 
-You can turn on several options at once.
+You can turn on several options at once. For example, with A and B, the trajectory is suggested for active patients unless a corresponding care channel already exists.
 
 </Aside>
 
