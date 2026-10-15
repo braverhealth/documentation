@@ -36,7 +36,6 @@
   * [Roles and Permissions](for-administrators/users/roles-and-permissions.md)
 * [Audit Logs](for-administrators/audit-logs/README.md)
   * [What can I find in the audit log?](for-administrators/audit-logs/what-can-i-find-in-the-audit-log.md)
-* [Directories](for-administrators/directories.md)
 * [Remotely Managed Mobile Device](for-administrators/remotely-managed-mobile-device.md)
 
 ## Technical Details

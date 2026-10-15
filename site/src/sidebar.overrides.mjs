@@ -4,6 +4,7 @@
 // - `translated`: English labels for pages translated directly in the site (src/content/docs/en/...).
 //   The matching generated leaves get `translations` and lose their `data-only: fr` flag; a group whose
 //   own page (`data-self`) is listed gets the same English label.
+// - `removed`: links of generated leaves to drop from the sidebar.
 
 const en = (label) => ({ en: label, 'en-CA': label })
 
@@ -47,6 +48,11 @@ const translated = {
   '/guides/braver': 'Braver',
 }
 
+const removed = new Set([
+  // English-only page with no content and no French version.
+  '/for-administrators/directories',
+])
+
 const overrides = {
   [trajectory]: {
     label: 'Créer une trajectoire',
@@ -68,14 +74,16 @@ const translate = (item) => {
   return { ...item, translations: item.translations ?? en(label), attrs }
 }
 
-const apply = (items) => items.map((item) => {
-  if (item.items) {
-    const self = item.items.find((i) => i.attrs && 'data-self' in i.attrs)
-    const label = !item.translations && self?.link && translated[self.link]
-    return { ...item, ...(label ? { translations: en(label) } : {}), items: apply(item.items) }
-  }
-  if (item.link && overrides[item.link]) return overrides[item.link]
-  return translate(item)
-})
+const apply = (items) => items
+  .filter((item) => !(item.link && removed.has(item.link)))
+  .map((item) => {
+    if (item.items) {
+      const self = item.items.find((i) => i.attrs && 'data-self' in i.attrs)
+      const label = !item.translations && self?.link && translated[self.link]
+      return { ...item, ...(label ? { translations: en(label) } : {}), items: apply(item.items) }
+    }
+    if (item.link && overrides[item.link]) return overrides[item.link]
+    return translate(item)
+  })
 
 export const applySidebarOverrides = (topics) => apply(topics)
