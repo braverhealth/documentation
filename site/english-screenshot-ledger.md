@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `253d59f` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `a2fa9cd` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**60 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Twenty-nine pages localized in this PR are listed under Completed.
+**57 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Thirty-two pages localized in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,13 +15,10 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Healthcare professional guides (32)
+### Healthcare professional guides (29)
 
 | English page | FR folder | EN OCR | Visual | Raw `<img>` |
 | --- | ---: | ---: | ---: | ---: |
-| [guides/for-healthcare-professionals/discussion-threads/join-discussion-about-new-patient](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/join-discussion-about-new-patient.mdx) | — | 6 | — | — |
-| [guides/for-healthcare-professionals/discussion-threads/leave-discussion-thread](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/leave-discussion-thread.mdx) | — | 2 | — | — |
-| [guides/for-healthcare-professionals/discussion-threads/manage-discussion-thread-participants](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/manage-discussion-thread-participants.mdx) | — | 12 | — | — |
 | [guides/for-healthcare-professionals/discussion-threads/save-discussion-thread-draft](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/save-discussion-thread-draft.mdx) | — | 4 | — | — |
 | [guides/for-healthcare-professionals/discussion-threads/view-discussion-thread-attachments](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/view-discussion-thread-attachments.mdx) | — | 2 | — | — |
 | [guides/for-healthcare-professionals/network/invite-healthcare-professional-to-join-braver-network](./src/content/docs/en/guides/for-healthcare-professionals/network/invite-healthcare-professional-to-join-braver-network.mdx) | — | 1 | — | — |
@@ -128,6 +125,9 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 | [Duplicate Discussion Thread](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/duplicate-discussion-thread.mdx) | 4 | `253d59f` |
 | [Find Closed Discussion Thread](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/find-closed-discussion-thread.mdx) | 8 | `253d59f` |
 | [Indicate a Discussion Thread is High Priority](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/indicate-discussion-thread-is-high-priority.mdx) | 3 | `253d59f` |
+| [Join Discussion About New Patient](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/join-discussion-about-new-patient.mdx) | 7 | `a2fa9cd` |
+| [Leave Discussion Thread](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/leave-discussion-thread.mdx) | 2 | `a2fa9cd` |
+| [Manage Discussion Thread Participants](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/manage-discussion-thread-participants.mdx) | 12 | `a2fa9cd` |
 
 ## Audit notes
 
@@ -140,6 +140,7 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 - The three completed care-channel guides had 21 French UI screenshots; OCR flagged only 19. Their English recreations were checked for every visible label, callout, menu option, and the plain-A `About patient` heading.
 - The attachment, voice-message, and close/export guides had 11 French UI screenshots; OCR flagged only 8. Their replacements include translated conversation text, the voice-message language selector and keyboard, and the PDF export callouts.
 - The duplicate, closed-thread, and high-priority guides had 15 French UI screenshots. Two closed-thread candidates initially changed Latin placeholder messages; they were corrected to preserve the original content before the pages were updated.
+- The join-new-patient guide had seven French UI screenshots although OCR flagged six. The leave and participant-management guides share one text-free participant-circle crop, which was retained after visual inspection; their remaining 14 screenshots were localized.
 - Two raw screenshot `<img>` references remain on two queued pages: add or modify email (1) and prefill patient or caregiver information (1). Three broken raw references on the completed Braver Connect page were removed because their two source assets are absent from the repository. Two additional raw SVG diagrams in configuration guides are excluded because they are not screenshots.
 - The French invitation-kit PDF is excluded; its English page explicitly says the kit is French-only.
 - The other English-folder screenshots with isolated French names, team names, addresses, or thread titles were not counted on that evidence alone. Pages without a flag still need a visual check if screenshot accuracy matters.
