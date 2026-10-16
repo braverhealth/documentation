@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `97a7999` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `d3ec94b` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**42 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Forty-seven pages localized or visually cleared in this PR are listed under Completed.
+**39 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Fifty pages localized or visually cleared in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,13 +15,10 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Healthcare professional guides (14)
+### Healthcare professional guides (11)
 
 | English page | FR folder | EN OCR | Visual | Raw `<img>` |
 | --- | ---: | ---: | ---: | ---: |
-| [guides/for-healthcare-professionals/profile-management/modify-profile-photo-and-presentation-text](./src/content/docs/en/guides/for-healthcare-professionals/profile-management/modify-profile-photo-and-presentation-text.mdx) | — | 2 | — | — |
-| [guides/for-healthcare-professionals/security/delete-braver-account](./src/content/docs/en/guides/for-healthcare-professionals/security/delete-braver-account.mdx) | — | 4 | — | — |
-| [guides/for-healthcare-professionals/security/generate-new-recovery-code](./src/content/docs/en/guides/for-healthcare-professionals/security/generate-new-recovery-code.mdx) | — | 2 | — | — |
 | [guides/for-healthcare-professionals/security/modify-password](./src/content/docs/en/guides/for-healthcare-professionals/security/modify-password.mdx) | — | 4 | — | — |
 | [guides/for-healthcare-professionals/security/modify-pin](./src/content/docs/en/guides/for-healthcare-professionals/security/modify-pin.mdx) | — | 2 | — | — |
 | [guides/for-healthcare-professionals/security/receive-two-factor-authentication-by-sms](./src/content/docs/en/guides/for-healthcare-professionals/security/receive-two-factor-authentication-by-sms.mdx) | — | 6 | — | — |
@@ -130,7 +127,13 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 | [Add Profession](./src/content/docs/en/guides/for-healthcare-professionals/profile-management/add-profession.mdx) | 5 | `97a7999` |
 | [Add a Workplace to My Profile](./src/content/docs/en/guides/for-healthcare-professionals/profile-management/add-workplace-to-profile.mdx) | 14 | `97a7999` |
 
+| [Modify Profile Photo and Presentation Text](./src/content/docs/en/guides/for-healthcare-professionals/profile-management/modify-profile-photo-and-presentation-text.mdx) | 3 | `d3ec94b` |
+| [Delete Your Braver Account](./src/content/docs/en/guides/for-healthcare-professionals/security/delete-braver-account.mdx) | 5 | `d3ec94b` |
+| [Generate a New Recovery Code](./src/content/docs/en/guides/for-healthcare-professionals/security/generate-new-recovery-code.mdx) | 3 | `d3ec94b` |
+
 ## Audit notes
+
+- The profile-photo, account-deletion, and recovery-code guides contained 11 French UI screenshots although OCR flagged eight; all were localized, including the required `braver` deletion token and the recovery-code settings labels.
 
 - English assets can still contain French UI. The OCR pass found them outside the French asset folders; do not use the directory name as a completion signal.
 - The completed Patient Files page was found by visual inspection of `documentation-en/Creer une nouvelle fiche patient - Step4.jpeg`: its tabs, list heading, and gender labels were French even though OCR scored only one French word.
