@@ -11,12 +11,12 @@ next:
 
 import { Aside, Steps } from '@astrojs/starlight/components'
 import Figure from '~/components/Figure.astro'
-import img3 from "~/assets/guides-fr/CleanShot 2026-07-15 at 09.43.40@2x.png"
-import img4 from "~/assets/guides-fr/CleanShot 2026-07-03 at 10.55.50@2x.png"
-import img5 from "~/assets/guides-fr/CleanShot 2026-07-03 at 10.57.22@2x.png"
-import img6 from "~/assets/guides-fr/CleanShot 2026-07-03 at 10.57.22@2x (1).png"
-import img7 from "~/assets/guides-fr/utilisateur step 1.png"
-import img9 from "~/assets/guides-fr/equipe-step-1.png"
+import img3 from '~/assets/guides-en/actor-create-en.png'
+import img4 from '~/assets/guides-en/actor-add-dialog-en.png'
+import img5 from '~/assets/guides-en/actor-information-en.png'
+import img6 from '~/assets/guides-en/actor-save-en.png'
+import img7 from '~/assets/guides-en/actor-user-en.png'
+import img9 from '~/assets/guides-en/actor-team-en.png'
 
 Actors determine who can take part in a care channel and under what conditions. An actor can be an individual user, a team, or both.
 
@@ -39,7 +39,7 @@ In the trajectory, select **Actors**, then click **Add actor**.
 
 Name the actor, then click **Add actor**.
 
-<Figure src={img4} alt="Actor name field" width={375} align="left" />
+<Figure src={img4} alt="Add actor dialog showing the name field and Add actor button" width={563} align="left" />
 
 </li>
 
@@ -85,8 +85,8 @@ Use this tab so the actor is chosen from specific users.
 | Marker | Option | Description |
 | --- | --- | --- |
 | A | Allow user selection | Turn on the switch so this actor can be a single-user selection (rather than a team, for example). |
-| B | Coming soon | — |
-| C | Suggested users | The users who will appear in the trajectory. When the care channel is activated, one or more of them can be chosen from a drop-down menu. |
+| B | Limit to profession identifiers (optional) | If set, only users with the listed professions can be selected for this actor. |
+| C | Only allow user IDs | Restrict the choices to the listed users. |
 
 ## Team Tab
 
@@ -97,6 +97,6 @@ Use this tab so the actor is a team.
 | Marker | Option | Description |
 | --- | --- | --- |
 | A | Allow inbox selection | Turn on the switch so this actor can be a team selection (rather than a user, for example). |
-| B | Team template | Choose a team from [your team templates](/en/guides/for-administrators/teams/create-team-template-coming-soon). |
-| C | Organizational unit team | Choose a team from your organizational unit. |
-| D | Coming soon | — |
+| B | Only allow template IDs | Restrict the choices to the listed team templates. |
+| C | Only allow team IDs | Restrict the choices to the listed teams. |
+| D | Select workplace types | Restrict the choices to the selected workplace types. |
