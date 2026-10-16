@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `c219de6` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `2c4c55b` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**30 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Fifty-nine pages localized or visually cleared in this PR are listed under Completed.
+**27 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Sixty-two pages localized or visually cleared in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,18 +15,10 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Healthcare professional guides (2)
+### Patient and caregiver guides (19)
 
 | English page | FR folder | EN OCR | Visual | Raw `<img>` |
 | --- | ---: | ---: | ---: | ---: |
-| [guides/for-healthcare-professionals/teams/view-teams](./src/content/docs/en/guides/for-healthcare-professionals/teams/view-teams.mdx) | — | 2 | — | — |
-| [guides/for-healthcare-professionals/teams/write-to-a-team](./src/content/docs/en/guides/for-healthcare-professionals/teams/write-to-a-team.mdx) | — | 4 | — | — |
-
-### Patient and caregiver guides (20)
-
-| English page | FR folder | EN OCR | Visual | Raw `<img>` |
-| --- | ---: | ---: | ---: | ---: |
-| [guides/for-patients-and-caregivers/accept-invitation](./src/content/docs/en/guides/for-patients-and-caregivers/accept-invitation.mdx) | — | 11 | — | — |
 | [guides/for-patients-and-caregivers/audio-video-calls/join-and-leave-call](./src/content/docs/en/guides/for-patients-and-caregivers/audio-video-calls/join-and-leave-call.mdx) | — | 1 | — | — |
 | [guides/for-patients-and-caregivers/braver-connect/add-file-photo-or-video-to-discussion-thread](./src/content/docs/en/guides/for-patients-and-caregivers/braver-connect/add-file-photo-or-video-to-discussion-thread.mdx) | 17 | — | — | — |
 | [guides/for-patients-and-caregivers/care-teams/find-pinned-attachment-in-care-team-space](./src/content/docs/en/guides/for-patients-and-caregivers/care-teams/find-pinned-attachment-in-care-team-space.mdx) | — | 3 | — | — |
@@ -134,7 +126,13 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 | [Return a Discussion to Triage Box](./src/content/docs/en/guides/for-healthcare-professionals/teams/return-discussion-to-triage-box.mdx) | 5 | `c219de6` |
 | [View Team Threads](./src/content/docs/en/guides/for-healthcare-professionals/teams/view-team-discussion-threads.mdx) | 2 | `c219de6` |
 
+| [View Which Teams You Belong To](./src/content/docs/en/guides/for-healthcare-professionals/teams/view-teams.mdx) | 2 | `2c4c55b` |
+| [Write to a Team](./src/content/docs/en/guides/for-healthcare-professionals/teams/write-to-a-team.mdx) | 6 | `2c4c55b` |
+| [Accept Invitation to Join Care Team on Braver](./src/content/docs/en/guides/for-patients-and-caregivers/accept-invitation.mdx) | 16 | `2c4c55b` |
+
 ## Audit notes
+
+- The last two healthcare team guides and the patient invitation guide now use English screenshots. The team-writing guide reuses its team-picker screenshot for a legacy step whose source image is absent. The patient guide reuses the existing English Terms of Service screenshot rather than recreating legal text; its other 15 screenshots were localized, retaining blurred data and the example security code.
 
 - The assignment, return-to-triage, and view-team-thread guides had 12 French UI screenshots. One additional participant-icon crop in the return guide has no text and was retained. Proper team names `Médecins`, `IPS`, and `Soins infirmiers`, patient names, and Latin placeholders were preserved.
 
