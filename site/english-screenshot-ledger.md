@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `d3437ae` (2026-10-15). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `91af9fa` (2026-10-15). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**78 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Eleven pages localized in this PR are listed under Completed.
+**75 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Fourteen pages localized in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,13 +15,10 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Administrator guides (5)
+### Administrator guides (2)
 
 | English page | FR folder | EN OCR | Visual | Raw `<img>` |
 | --- | ---: | ---: | ---: | ---: |
-| [guides/for-administrators/users/bulk-provision-users](./src/content/docs/en/guides/for-administrators/users/bulk-provision-users.mdx) | 12 | — | — | — |
-| [guides/for-administrators/users/how-to-cancel-or-resend-invitation](./src/content/docs/en/guides/for-administrators/users/how-to-cancel-or-resend-invitation.mdx) | — | 1 | — | — |
-| [guides/for-administrators/users/how-to-grant-role-to-existing-user](./src/content/docs/en/guides/for-administrators/users/how-to-grant-role-to-existing-user.mdx) | — | 2 | — | — |
 | [guides/for-administrators/users/how-to-invite-users](./src/content/docs/en/guides/for-administrators/users/how-to-invite-users.mdx) | — | 2 | — | — |
 | [guides/for-administrators/workplaces/how-to-create-workplace](./src/content/docs/en/guides/for-administrators/workplaces/how-to-create-workplace.mdx) | — | 2 | — | — |
 
@@ -133,6 +130,9 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 | [Create a Trajectory](./src/content/docs/en/guides/for-administrators/modules/create-trajectory/index.mdx) | 3 | `d3437ae` |
 | [How to Create an Organizational Unit?](./src/content/docs/en/guides/for-administrators/organizational-units/how-to-create-organizational-unit.mdx) | 3 | `d3437ae` |
 | [How to Create a Team?](./src/content/docs/en/guides/for-administrators/teams/how-to-create-team.mdx) | 3 | `d3437ae` |
+| [Bulk Provision Users](./src/content/docs/en/guides/for-administrators/users/bulk-provision-users.mdx) | 12 | `91af9fa` |
+| [How to Cancel or Resend an Invitation?](./src/content/docs/en/guides/for-administrators/users/how-to-cancel-or-resend-invitation.mdx) | 2 | `91af9fa` |
+| [How to Grant a Role to an Existing User?](./src/content/docs/en/guides/for-administrators/users/how-to-grant-role-to-existing-user.mdx) | 3 | `91af9fa` |
 
 ## Audit notes
 
@@ -140,6 +140,7 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 - The completed Patient Files page was found by visual inspection of `documentation-en/Creer une nouvelle fiche patient - Step4.jpeg`: its tabs, list heading, and gender labels were French even though OCR scored only one French word.
 - The completed Audit Logs page still embeds a French Loom video and preview thumbnail. Its five imported screenshots are localized; translating the video is a separate task.
 - The completed organizational-unit and team guides each retain one text-free add-button crop; their other two screenshots were localized. Both pages also embed Loom videos, which were outside this screenshot review.
+- The completed invitation and grant-role guides each had one more French UI screenshot than the initial OCR count. All screenshots on those pages were visually checked and localized; their embedded Loom videos were outside this review.
 - Five raw screenshot `<img>` references occur on three queued pages: contact professional without a Braver account (3 references, including a duplicate), add or modify email (1), and prefill patient or caregiver information (1). Two additional raw SVG diagrams in configuration guides are excluded because they are not screenshots.
 - The French invitation-kit PDF is excluded; its English page explicitly says the kit is French-only.
 - The other English-folder screenshots with isolated French names, team names, addresses, or thread titles were not counted on that evidence alone. Pages without a flag still need a visual check if screenshot accuracy matters.
