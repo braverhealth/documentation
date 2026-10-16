@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `1828b1a` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `983a768` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**36 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Fifty-three pages localized or visually cleared in this PR are listed under Completed.
+**33 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Fifty-six pages localized or visually cleared in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,13 +15,10 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Healthcare professional guides (8)
+### Healthcare professional guides (5)
 
 | English page | FR folder | EN OCR | Visual | Raw `<img>` |
 | --- | ---: | ---: | ---: | ---: |
-| [guides/for-healthcare-professionals/security/reset-password](./src/content/docs/en/guides/for-healthcare-professionals/security/reset-password.mdx) | — | 2 | — | — |
-| [guides/for-healthcare-professionals/security/switch-session-on-shared-device](./src/content/docs/en/guides/for-healthcare-professionals/security/switch-session-on-shared-device.mdx) | — | 2 | — | — |
-| [guides/for-healthcare-professionals/teams/assign-myself-to-discussion-thread-in-triage](./src/content/docs/en/guides/for-healthcare-professionals/teams/assign-myself-to-discussion-thread-in-triage.mdx) | — | 4 | — | — |
 | [guides/for-healthcare-professionals/teams/assign-unassign-participant-as-thread-responsible](./src/content/docs/en/guides/for-healthcare-professionals/teams/assign-unassign-participant-as-thread-responsible.mdx) | — | 6 | — | — |
 | [guides/for-healthcare-professionals/teams/return-discussion-to-triage-box](./src/content/docs/en/guides/for-healthcare-professionals/teams/return-discussion-to-triage-box.mdx) | — | 4 | — | — |
 | [guides/for-healthcare-professionals/teams/view-team-discussion-threads](./src/content/docs/en/guides/for-healthcare-professionals/teams/view-team-discussion-threads.mdx) | — | 1 | — | — |
@@ -132,7 +129,13 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 | [Modify PIN](./src/content/docs/en/guides/for-healthcare-professionals/security/modify-pin.mdx) | 5 | `1828b1a` |
 | [Receive Two-Factor Authentication by SMS](./src/content/docs/en/guides/for-healthcare-professionals/security/receive-two-factor-authentication-by-sms.mdx) | 7 | `1828b1a` |
 
+| [Reset Password](./src/content/docs/en/guides/for-healthcare-professionals/security/reset-password.mdx) | 2 | `983a768` |
+| [Lock or Close Your Session](./src/content/docs/en/guides/for-healthcare-professionals/security/switch-session-on-shared-device.mdx) | 3 | `983a768` |
+| [Assign Myself to a Discussion Thread in Triage](./src/content/docs/en/guides/for-healthcare-professionals/teams/assign-myself-to-discussion-thread-in-triage.mdx) | 5 | `983a768` |
+
 ## Audit notes
+
+- The reset, shared-session, and self-assignment guides had ten French UI screenshots; OCR flagged eight. The self-assignment images retain the proper team name `Médecins` and `MÉ` avatar while translating Team, triage messages, and actions.
 
 - The password, PIN, and SMS two-factor guides had 17 French UI screenshot references although OCR flagged 12. Their two shared first-step sources were reused across all three pages after localization; the distinct screens preserve the PIN keypad, masked password state, email address, SMS phone suffix, and form arrows.
 
