@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `983a768` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `c219de6` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**33 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Fifty-six pages localized or visually cleared in this PR are listed under Completed.
+**30 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Fifty-nine pages localized or visually cleared in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,13 +15,10 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Healthcare professional guides (5)
+### Healthcare professional guides (2)
 
 | English page | FR folder | EN OCR | Visual | Raw `<img>` |
 | --- | ---: | ---: | ---: | ---: |
-| [guides/for-healthcare-professionals/teams/assign-unassign-participant-as-thread-responsible](./src/content/docs/en/guides/for-healthcare-professionals/teams/assign-unassign-participant-as-thread-responsible.mdx) | — | 6 | — | — |
-| [guides/for-healthcare-professionals/teams/return-discussion-to-triage-box](./src/content/docs/en/guides/for-healthcare-professionals/teams/return-discussion-to-triage-box.mdx) | — | 4 | — | — |
-| [guides/for-healthcare-professionals/teams/view-team-discussion-threads](./src/content/docs/en/guides/for-healthcare-professionals/teams/view-team-discussion-threads.mdx) | — | 1 | — | — |
 | [guides/for-healthcare-professionals/teams/view-teams](./src/content/docs/en/guides/for-healthcare-professionals/teams/view-teams.mdx) | — | 2 | — | — |
 | [guides/for-healthcare-professionals/teams/write-to-a-team](./src/content/docs/en/guides/for-healthcare-professionals/teams/write-to-a-team.mdx) | — | 4 | — | — |
 
@@ -133,7 +130,13 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 | [Lock or Close Your Session](./src/content/docs/en/guides/for-healthcare-professionals/security/switch-session-on-shared-device.mdx) | 3 | `983a768` |
 | [Assign Myself to a Discussion Thread in Triage](./src/content/docs/en/guides/for-healthcare-professionals/teams/assign-myself-to-discussion-thread-in-triage.mdx) | 5 | `983a768` |
 
+| [Assign or Unassign a Participant as Thread Responsible](./src/content/docs/en/guides/for-healthcare-professionals/teams/assign-unassign-participant-as-thread-responsible.mdx) | 6 | `c219de6` |
+| [Return a Discussion to Triage Box](./src/content/docs/en/guides/for-healthcare-professionals/teams/return-discussion-to-triage-box.mdx) | 5 | `c219de6` |
+| [View Team Threads](./src/content/docs/en/guides/for-healthcare-professionals/teams/view-team-discussion-threads.mdx) | 2 | `c219de6` |
+
 ## Audit notes
+
+- The assignment, return-to-triage, and view-team-thread guides had 12 French UI screenshots. One additional participant-icon crop in the return guide has no text and was retained. Proper team names `Médecins`, `IPS`, and `Soins infirmiers`, patient names, and Latin placeholders were preserved.
 
 - The reset, shared-session, and self-assignment guides had ten French UI screenshots; OCR flagged eight. The self-assignment images retain the proper team name `Médecins` and `MÉ` avatar while translating Team, triage messages, and actions.
 
