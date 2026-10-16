@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `d3ec94b` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `1828b1a` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**39 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Fifty pages localized or visually cleared in this PR are listed under Completed.
+**36 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Fifty-three pages localized or visually cleared in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,13 +15,10 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Healthcare professional guides (11)
+### Healthcare professional guides (8)
 
 | English page | FR folder | EN OCR | Visual | Raw `<img>` |
 | --- | ---: | ---: | ---: | ---: |
-| [guides/for-healthcare-professionals/security/modify-password](./src/content/docs/en/guides/for-healthcare-professionals/security/modify-password.mdx) | — | 4 | — | — |
-| [guides/for-healthcare-professionals/security/modify-pin](./src/content/docs/en/guides/for-healthcare-professionals/security/modify-pin.mdx) | — | 2 | — | — |
-| [guides/for-healthcare-professionals/security/receive-two-factor-authentication-by-sms](./src/content/docs/en/guides/for-healthcare-professionals/security/receive-two-factor-authentication-by-sms.mdx) | — | 6 | — | — |
 | [guides/for-healthcare-professionals/security/reset-password](./src/content/docs/en/guides/for-healthcare-professionals/security/reset-password.mdx) | — | 2 | — | — |
 | [guides/for-healthcare-professionals/security/switch-session-on-shared-device](./src/content/docs/en/guides/for-healthcare-professionals/security/switch-session-on-shared-device.mdx) | — | 2 | — | — |
 | [guides/for-healthcare-professionals/teams/assign-myself-to-discussion-thread-in-triage](./src/content/docs/en/guides/for-healthcare-professionals/teams/assign-myself-to-discussion-thread-in-triage.mdx) | — | 4 | — | — |
@@ -131,7 +128,13 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 | [Delete Your Braver Account](./src/content/docs/en/guides/for-healthcare-professionals/security/delete-braver-account.mdx) | 5 | `d3ec94b` |
 | [Generate a New Recovery Code](./src/content/docs/en/guides/for-healthcare-professionals/security/generate-new-recovery-code.mdx) | 3 | `d3ec94b` |
 
+| [Modify Password](./src/content/docs/en/guides/for-healthcare-professionals/security/modify-password.mdx) | 5 | `1828b1a` |
+| [Modify PIN](./src/content/docs/en/guides/for-healthcare-professionals/security/modify-pin.mdx) | 5 | `1828b1a` |
+| [Receive Two-Factor Authentication by SMS](./src/content/docs/en/guides/for-healthcare-professionals/security/receive-two-factor-authentication-by-sms.mdx) | 7 | `1828b1a` |
+
 ## Audit notes
+
+- The password, PIN, and SMS two-factor guides had 17 French UI screenshot references although OCR flagged 12. Their two shared first-step sources were reused across all three pages after localization; the distinct screens preserve the PIN keypad, masked password state, email address, SMS phone suffix, and form arrows.
 
 - The profile-photo, account-deletion, and recovery-code guides contained 11 French UI screenshots although OCR flagged eight; all were localized, including the required `braver` deletion token and the recovery-code settings labels.
 
