@@ -1,28 +1,32 @@
-# Soins de longue durée (Formation accélérée)
+# Braver | Soins de longue durée (Formation accélérée)
 
-## Parcours de formation:
+## Présentation de Braver
 
-### [1. Formation accélérée](soins-de-longue-duree-formation-acceleree.md#id-1.-formation-acceleree-1)
+**Moins d’allers-retours, plus de temps pour soigner.** Braver est une application québécoise qui sécurise et centralise vos communications cliniques : échangez messages, photos et documents avec les professionnels impliqués auprès de vos patients, dans un espace sécurisé. Fini les suivis éparpillés, vos échanges restent regroupés par patient, et la coordination des soins s’en trouve facilitée. Certifiée TGV par Santé Québec, Braver répond aux exigences les plus strictes en matière de sécurité et de protection des renseignements de santé. Adoptez une solution d’ici pour mieux soigner, ensemble.
 
-[1.1 Les bases de Braver (12 min)](soins-de-longue-duree-formation-acceleree.md#id-1.1-les-bases-de-braver-12-min)
+## Parcours de formation
 
-[1.2 Médecins, pharmaciens et utilisateurs d'un mobile personnel (7 min)](soins-de-longue-duree-formation-acceleree.md#id-1.-2-medecins-pharmaciens-et-les-utilisateurs-dun-mobile-personnel-7-min)
+### [1. Formation accélérée](braver-or-soins-de-longue-duree-formation-acceleree.md#id-1.-formation-acceleree-1)
 
-### [2. Formation complète](soins-de-longue-duree-formation-acceleree.md#id-2.-formation-complete-1)
+[1.1 Les bases de Braver (12 min)](braver-or-soins-de-longue-duree-formation-acceleree.md#id-1.1-les-bases-de-braver-12-min)
 
-[2.1 Pour débuter (4 min)](soins-de-longue-duree-formation-acceleree.md#id-2.1-pour-debuter-4-min)
+[1.2 Médecins, pharmaciens et utilisateurs d'un mobile personnel (7 min)](braver-or-soins-de-longue-duree-formation-acceleree.md#id-1.-2-medecins-pharmaciens-et-les-utilisateurs-dun-mobile-personnel-7-min)
 
-[2.2 Collaborer avec vos collègues (11 min)](soins-de-longue-duree-formation-acceleree.md#id-2.2-collaborer-avec-vos-collegues-11-min)
+### [2. Formation complète](braver-or-soins-de-longue-duree-formation-acceleree.md#id-2.-formation-complete-1)
 
-[2.3 Collaborer avec des cliniciens externes à votre établissement (7 min)](soins-de-longue-duree-formation-acceleree.md#id-2.3-collaborer-avec-des-cliniciens-externes-a-votre-etablissement-7-min)
+[2.1 Pour débuter (4 min)](braver-or-soins-de-longue-duree-formation-acceleree.md#id-2.1-pour-debuter-4-min)
 
-[2.4 Assurer la continuité des soins (4 min)](soins-de-longue-duree-formation-acceleree.md#id-2.4-assurer-la-continuite-des-soins-4-min)
+[2.2 Collaborer avec vos collègues (11 min)](braver-or-soins-de-longue-duree-formation-acceleree.md#id-2.2-collaborer-avec-vos-collegues-11-min)
 
-[2.5 Respecter votre vie privée (2 min)](soins-de-longue-duree-formation-acceleree.md#id-2.5-respecter-votre-vie-privee-2-min)
+[2.3 Collaborer avec des cliniciens externes à votre établissement (7 min)](braver-or-soins-de-longue-duree-formation-acceleree.md#id-2.3-collaborer-avec-des-cliniciens-externes-a-votre-etablissement-7-min)
 
-[2.6 Les fonctionnalités « coups de pouce » (5 min)](soins-de-longue-duree-formation-acceleree.md#id-2.6-.-les-fonctionnalites-coups-de-pouce-5-min)
+[2.4 Assurer la continuité des soins (4 min)](braver-or-soins-de-longue-duree-formation-acceleree.md#id-2.4-assurer-la-continuite-des-soins-4-min)
 
-### [3. Sondage de satisfaction](soins-de-longue-duree-formation-acceleree.md#id-3.-sondage-de-satisfaction-1)
+[2.5 Respecter votre vie privée (2 min)](braver-or-soins-de-longue-duree-formation-acceleree.md#id-2.5-respecter-votre-vie-privee-2-min)
+
+[2.6 Les fonctionnalités « coups de pouce » (5 min)](braver-or-soins-de-longue-duree-formation-acceleree.md#id-2.6-.-les-fonctionnalites-coups-de-pouce-5-min)
+
+### [3. Sondage de satisfaction](braver-or-soins-de-longue-duree-formation-acceleree.md#id-3.-sondage-de-satisfaction-1)
 
 ***
 
@@ -109,6 +113,10 @@ N.B. Si, malgré tout, vous ne trouvez pas ce collègue dans Braver, merci de le
 {% embed url="https://www.loom.com/share/a1193488c85345338273c88e573eedcf" %}
 
 #### Capsule de formation (3 de 3) : Les appels vidéo
+
+{% hint style="danger" %}
+**IMPORTANT**: Si la qualité des appels n'est pas au rendez-vous, il est important de le laisser savoir à votre pilote afin que nous puissions ajuster certains éléments sur votre réseau.
+{% endhint %}
 
 {% embed url="https://www.loom.com/share/c1f2e329a5b7416b8b02b32ae8a60e68" %}
 
