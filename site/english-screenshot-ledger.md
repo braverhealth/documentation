@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `71bd3a2` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `36d67ca` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**72 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Seventeen pages localized in this PR are listed under Completed.
+**69 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Twenty pages localized in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,13 +15,10 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Healthcare professional guides (44)
+### Healthcare professional guides (41)
 
 | English page | FR folder | EN OCR | Visual | Raw `<img>` |
 | --- | ---: | ---: | ---: | ---: |
-| [guides/for-healthcare-professionals/audio-video-calls/join-and-leave-call](./src/content/docs/en/guides/for-healthcare-professionals/audio-video-calls/join-and-leave-call.mdx) | — | 1 | — | — |
-| [guides/for-healthcare-professionals/braver-connect/contact-professional-without-braver-account](./src/content/docs/en/guides/for-healthcare-professionals/braver-connect/contact-professional-without-braver-account.mdx) | 26 | — | — | 3 |
-| [guides/for-healthcare-professionals/care-channels/add-participant-to-existing-care-channel](./src/content/docs/en/guides/for-healthcare-professionals/care-channels/add-participant-to-existing-care-channel.mdx) | — | 5 | — | — |
 | [guides/for-healthcare-professionals/care-channels/associate-clinical-discussion-thread-with-existing-care-channel](./src/content/docs/en/guides/for-healthcare-professionals/care-channels/associate-clinical-discussion-thread-with-existing-care-channel.mdx) | — | 4 | — | — |
 | [guides/for-healthcare-professionals/care-channels/create-new-care-channel](./src/content/docs/en/guides/for-healthcare-professionals/care-channels/create-new-care-channel.mdx) | — | 7 | — | — |
 | [guides/for-healthcare-professionals/care-channels/pin-document-and-view-version-history](./src/content/docs/en/guides/for-healthcare-professionals/care-channels/pin-document-and-view-version-history.mdx) | — | 8 | — | — |
@@ -128,6 +125,9 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 | [How to Invite Users?](./src/content/docs/en/guides/for-administrators/users/how-to-invite-users.mdx) | 4 | `71bd3a2` |
 | [How to Create a Workplace?](./src/content/docs/en/guides/for-administrators/workplaces/how-to-create-workplace.mdx) | 5 | `71bd3a2` |
 | [Accept Invitation](./src/content/docs/en/guides/for-healthcare-professionals/account-creation/accept-invitation.mdx) | 5 | `71bd3a2` |
+| [Join and Leave Conference Call](./src/content/docs/en/guides/for-healthcare-professionals/audio-video-calls/join-and-leave-call.mdx) | 4 | `36d67ca` |
+| [Contact a Professional Who Doesn't Have a Braver Account](./src/content/docs/en/guides/for-healthcare-professionals/braver-connect/contact-professional-without-braver-account.mdx) | 26 | `36d67ca` |
+| [Add Participant to Existing Care Channel](./src/content/docs/en/guides/for-healthcare-professionals/care-channels/add-participant-to-existing-care-channel.mdx) | 5 | `36d67ca` |
 
 ## Audit notes
 
@@ -137,6 +137,6 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 - The completed organizational-unit and team guides each retain one text-free add-button crop; their other two screenshots were localized. Both pages also embed Loom videos, which were outside this screenshot review.
 - The completed invitation and grant-role guides each had one more French UI screenshot than the initial OCR count. All screenshots on those pages were visually checked and localized; their embedded Loom videos were outside this review.
 - The invite-users and workplace guides reuse an already localized Users screenshot and retain two text-free add-button crops. Eleven new images were generated across these three pages; the invite-users and workplace pages had more French UI than their OCR counts showed.
-- Five raw screenshot `<img>` references occur on three queued pages: contact professional without a Braver account (3 references, including a duplicate), add or modify email (1), and prefill patient or caregiver information (1). Two additional raw SVG diagrams in configuration guides are excluded because they are not screenshots.
+- Two raw screenshot `<img>` references remain on two queued pages: add or modify email (1) and prefill patient or caregiver information (1). Three broken raw references on the completed Braver Connect page were removed because their two source assets are absent from the repository. Two additional raw SVG diagrams in configuration guides are excluded because they are not screenshots.
 - The French invitation-kit PDF is excluded; its English page explicitly says the kit is French-only.
 - The other English-folder screenshots with isolated French names, team names, addresses, or thread titles were not counted on that evidence alone. Pages without a flag still need a visual check if screenshot accuracy matters.
