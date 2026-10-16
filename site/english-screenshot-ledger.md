@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `6785596` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `094f38e` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**66 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Twenty-three pages localized in this PR are listed under Completed.
+**63 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Twenty-six pages localized in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,13 +15,10 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Healthcare professional guides (38)
+### Healthcare professional guides (35)
 
 | English page | FR folder | EN OCR | Visual | Raw `<img>` |
 | --- | ---: | ---: | ---: | ---: |
-| [guides/for-healthcare-professionals/discussion-threads/add-file-photo-or-video-to-discussion-thread](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/add-file-photo-or-video-to-discussion-thread.mdx) | — | 2 | — | — |
-| [guides/for-healthcare-professionals/discussion-threads/add-voice-message-to-discussion](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/add-voice-message-to-discussion.mdx) | — | 3 | — | — |
-| [guides/for-healthcare-professionals/discussion-threads/close-and-export-discussion-thread-as-pdf](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/close-and-export-discussion-thread-as-pdf.mdx) | — | 3 | — | — |
 | [guides/for-healthcare-professionals/discussion-threads/duplicate-discussion-thread](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/duplicate-discussion-thread.mdx) | — | 4 | — | — |
 | [guides/for-healthcare-professionals/discussion-threads/find-closed-discussion-thread](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/find-closed-discussion-thread.mdx) | — | 8 | — | — |
 | [guides/for-healthcare-professionals/discussion-threads/indicate-discussion-thread-is-high-priority](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/indicate-discussion-thread-is-high-priority.mdx) | — | 3 | — | — |
@@ -128,6 +125,9 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 | [Create a Clinical Discussion Thread in an Existing Care Channel](./src/content/docs/en/guides/for-healthcare-professionals/care-channels/associate-clinical-discussion-thread-with-existing-care-channel.mdx) | 5 | `6785596` |
 | [Create a New Care Channel](./src/content/docs/en/guides/for-healthcare-professionals/care-channels/create-new-care-channel.mdx) | 7 | `6785596` |
 | [Pin a Document and View Version History](./src/content/docs/en/guides/for-healthcare-professionals/care-channels/pin-document-and-view-version-history.mdx) | 9 | `6785596` |
+| [Add File, Photo, or Video to Discussion Thread](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/add-file-photo-or-video-to-discussion-thread.mdx) | 2 | `094f38e` |
+| [Add Voice Message to Discussion](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/add-voice-message-to-discussion.mdx) | 5 | `094f38e` |
+| [Close and Export Discussion Thread as PDF](./src/content/docs/en/guides/for-healthcare-professionals/discussion-threads/close-and-export-discussion-thread-as-pdf.mdx) | 4 | `094f38e` |
 
 ## Audit notes
 
@@ -138,6 +138,7 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 - The completed invitation and grant-role guides each had one more French UI screenshot than the initial OCR count. All screenshots on those pages were visually checked and localized; their embedded Loom videos were outside this review.
 - The invite-users and workplace guides reuse an already localized Users screenshot and retain two text-free add-button crops. Eleven new images were generated across these three pages; the invite-users and workplace pages had more French UI than their OCR counts showed.
 - The three completed care-channel guides had 21 French UI screenshots; OCR flagged only 19. Their English recreations were checked for every visible label, callout, menu option, and the plain-A `About patient` heading.
+- The attachment, voice-message, and close/export guides had 11 French UI screenshots; OCR flagged only 8. Their replacements include translated conversation text, the voice-message language selector and keyboard, and the PDF export callouts.
 - Two raw screenshot `<img>` references remain on two queued pages: add or modify email (1) and prefill patient or caregiver information (1). Three broken raw references on the completed Braver Connect page were removed because their two source assets are absent from the repository. Two additional raw SVG diagrams in configuration guides are excluded because they are not screenshots.
 - The French invitation-kit PDF is excluded; its English page explicitly says the kit is French-only.
 - The other English-folder screenshots with isolated French names, team names, addresses, or thread titles were not counted on that evidence alone. Pages without a flag still need a visual check if screenshot accuracy matters.
