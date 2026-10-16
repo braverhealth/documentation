@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `2c4c55b` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `0096673` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**27 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Sixty-two pages localized or visually cleared in this PR are listed under Completed.
+**24 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Sixty-five pages localized or visually cleared in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,13 +15,10 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Patient and caregiver guides (19)
+### Patient and caregiver guides (16)
 
 | English page | FR folder | EN OCR | Visual | Raw `<img>` |
 | --- | ---: | ---: | ---: | ---: |
-| [guides/for-patients-and-caregivers/audio-video-calls/join-and-leave-call](./src/content/docs/en/guides/for-patients-and-caregivers/audio-video-calls/join-and-leave-call.mdx) | — | 1 | — | — |
-| [guides/for-patients-and-caregivers/braver-connect/add-file-photo-or-video-to-discussion-thread](./src/content/docs/en/guides/for-patients-and-caregivers/braver-connect/add-file-photo-or-video-to-discussion-thread.mdx) | 17 | — | — | — |
-| [guides/for-patients-and-caregivers/care-teams/find-pinned-attachment-in-care-team-space](./src/content/docs/en/guides/for-patients-and-caregivers/care-teams/find-pinned-attachment-in-care-team-space.mdx) | — | 3 | — | — |
 | [guides/for-patients-and-caregivers/care-teams/view-all-participants-in-care-team](./src/content/docs/en/guides/for-patients-and-caregivers/care-teams/view-all-participants-in-care-team.mdx) | — | 2 | — | — |
 | [guides/for-patients-and-caregivers/discussion-threads/access-attachments-in-discussion-thread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/access-attachments-in-discussion-thread.mdx) | — | 3 | — | — |
 | [guides/for-patients-and-caregivers/discussion-threads/add-file-photo-or-video-to-discussion-thread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/add-file-photo-or-video-to-discussion-thread.mdx) | — | 3 | — | — |
@@ -130,7 +127,13 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 | [Write to a Team](./src/content/docs/en/guides/for-healthcare-professionals/teams/write-to-a-team.mdx) | 6 | `2c4c55b` |
 | [Accept Invitation to Join Care Team on Braver](./src/content/docs/en/guides/for-patients-and-caregivers/accept-invitation.mdx) | 16 | `2c4c55b` |
 
+| [Join and Leave a Conference Call](./src/content/docs/en/guides/for-patients-and-caregivers/audio-video-calls/join-and-leave-call.mdx) | 4 | `0096673` |
+| [Add a File, Photo or Video to a Discussion Thread](./src/content/docs/en/guides/for-patients-and-caregivers/braver-connect/add-file-photo-or-video-to-discussion-thread.mdx) | 17 | `0096673` |
+| [Find a Pinned Attachment in a Care Team Space](./src/content/docs/en/guides/for-patients-and-caregivers/care-teams/find-pinned-attachment-in-care-team-space.mdx) | 4 | `0096673` |
+
 ## Audit notes
+
+- The patient call, Braver Connect attachment, and pinned-content guides had 25 French UI screenshots, although OCR initially flagged only four outside the French asset folder. Their English images preserve blurred file-picker details, names, filenames, call times, the pre-prod ribbon, and a plain-A `About patient` heading. The call guide also embeds Loom videos, which are outside this screenshot review.
 
 - The last two healthcare team guides and the patient invitation guide now use English screenshots. The team-writing guide reuses its team-picker screenshot for a legacy step whose source image is absent. The patient guide reuses the existing English Terms of Service screenshot rather than recreating legal text; its other 15 screenshots were localized, retaining blurred data and the example security code.
 
