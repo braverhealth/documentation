@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `a6ba508` (2026-10-15). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `a4ec2e0` (2026-10-15). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**84 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Five pages localized in this PR are listed under Completed.
+**81 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Eight pages localized in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,13 +15,10 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Administrator guides (11)
+### Administrator guides (8)
 
 | English page | FR folder | EN OCR | Visual | Raw `<img>` |
 | --- | ---: | ---: | ---: | ---: |
-| [guides/for-administrators/modules/create-trajectory/configure-actors](./src/content/docs/en/guides/for-administrators/modules/create-trajectory/configure-actors.mdx) | 6 | — | — | — |
-| [guides/for-administrators/modules/create-trajectory/configure-automatic-suggestion](./src/content/docs/en/guides/for-administrators/modules/create-trajectory/configure-automatic-suggestion.mdx) | 2 | — | — | — |
-| [guides/for-administrators/modules/create-trajectory/create-thread-templates](./src/content/docs/en/guides/for-administrators/modules/create-trajectory/create-thread-templates.mdx) | 6 | — | — | — |
 | [guides/for-administrators/modules/create-trajectory/index](./src/content/docs/en/guides/for-administrators/modules/create-trajectory/index.mdx) | 3 | — | — | — |
 | [guides/for-administrators/organizational-units/how-to-create-organizational-unit](./src/content/docs/en/guides/for-administrators/organizational-units/how-to-create-organizational-unit.mdx) | — | 2 | — | — |
 | [guides/for-administrators/teams/how-to-create-team](./src/content/docs/en/guides/for-administrators/teams/how-to-create-team.mdx) | — | 2 | — | — |
@@ -133,6 +130,9 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 | [Patient Files](./src/content/docs/en/for-healthcare-professionals/patient-files.mdx) | 1 | `a6ba508` |
 | [How to Search in Audit Logs?](./src/content/docs/en/guides/for-administrators/audit-logs/how-to-search-in-audit-logs.mdx) | 5 | `a6ba508` |
 | [Create a Module](./src/content/docs/en/guides/for-administrators/modules/create-module.mdx) | 6 | `a6ba508` |
+| [Configure a Trajectory's Actors](./src/content/docs/en/guides/for-administrators/modules/create-trajectory/configure-actors.mdx) | 6 | `a4ec2e0` |
+| [Configure Auto-suggestion](./src/content/docs/en/guides/for-administrators/modules/create-trajectory/configure-automatic-suggestion.mdx) | 2 | `a4ec2e0` |
+| [Create Thread Templates](./src/content/docs/en/guides/for-administrators/modules/create-trajectory/create-thread-templates.mdx) | 6 | `a4ec2e0` |
 
 ## Audit notes
 
