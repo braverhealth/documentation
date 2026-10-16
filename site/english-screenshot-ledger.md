@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `29b785c` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `1202510` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**48 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Forty-one pages localized or visually cleared in this PR are listed under Completed.
+**45 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Forty-four pages localized or visually cleared in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,13 +15,10 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Healthcare professional guides (20)
+### Healthcare professional guides (17)
 
 | English page | FR folder | EN OCR | Visual | Raw `<img>` |
 | --- | ---: | ---: | ---: | ---: |
-| [guides/for-healthcare-professionals/patient-caregiver-communication/add-patient-or-caregiver-to-new-care-channel](./src/content/docs/en/guides/for-healthcare-professionals/patient-caregiver-communication/add-patient-or-caregiver-to-new-care-channel.mdx) | — | 9 | — | — |
-| [guides/for-healthcare-professionals/patient-caregiver-communication/chat-with-patient-or-caregiver](./src/content/docs/en/guides/for-healthcare-professionals/patient-caregiver-communication/chat-with-patient-or-caregiver.mdx) | — | 7 | — | — |
-| [guides/for-healthcare-professionals/patient-caregiver-communication/invite-patient-or-caregiver-to-join-braver](./src/content/docs/en/guides/for-healthcare-professionals/patient-caregiver-communication/invite-patient-or-caregiver-to-join-braver.mdx) | — | 7 | — | — |
 | [guides/for-healthcare-professionals/patient-caregiver-communication/prefill-patient-or-caregiver-information](./src/content/docs/en/guides/for-healthcare-professionals/patient-caregiver-communication/prefill-patient-or-caregiver-information.mdx) | 4 | — | — | 1 |
 | [guides/for-healthcare-professionals/profile-management/add-profession](./src/content/docs/en/guides/for-healthcare-professionals/profile-management/add-profession.mdx) | — | 3 | — | — |
 | [guides/for-healthcare-professionals/profile-management/add-workplace-to-profile](./src/content/docs/en/guides/for-healthcare-professionals/profile-management/add-workplace-to-profile.mdx) | 14 | — | — | — |
@@ -128,6 +125,9 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 | [Enable Notifications in a Web Browser](./src/content/docs/en/guides/for-healthcare-professionals/notification-management/enable-notifications-in-web-browser.mdx) | 6 | `29b785c` |
 | [Set Your Availability Schedule](./src/content/docs/en/guides/for-healthcare-professionals/notification-management/set-availability-schedule.mdx) | 7 | `29b785c` |
 | [Set Unavailability Period](./src/content/docs/en/guides/for-healthcare-professionals/notification-management/set-unavailability-period.mdx) | 6 | `29b785c` |
+| [Create Care Channel with Patient and Caregivers](./src/content/docs/en/guides/for-healthcare-professionals/patient-caregiver-communication/add-patient-or-caregiver-to-new-care-channel.mdx) | 9 | `1202510` |
+| [Initiate a New Discussion Thread with Patient or Caregiver](./src/content/docs/en/guides/for-healthcare-professionals/patient-caregiver-communication/chat-with-patient-or-caregiver.mdx) | 7 | `1202510` |
+| [Invite Patient or Caregiver to Join Braver](./src/content/docs/en/guides/for-healthcare-professionals/patient-caregiver-communication/invite-patient-or-caregiver-to-join-braver.mdx) | 7 | `1202510` |
 
 ## Audit notes
 
@@ -144,6 +144,7 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 - The draft guide's four screenshots and the attachment guide's three French UI screenshots were localized. The attachment viewer itself shows only a Latin handwriting sample and was retained. All 11 network-invitation screenshots already show English UI; the OCR flag was the directory's `Pharmaciens` team name, so no image was regenerated on that page.
 - The friend-request page's seven screenshots already show English UI; its OCR flag was a name or team label in a reused Network screenshot. The mobile guide's nine iOS/Android screenshots were localized. Its source repeats the iOS app-list screenshot for the final toggle step because no separate toggle screenshot exists in the repo. The email guide's twelve screenshots were localized, and its broken raw image was replaced with text because the referenced source asset is absent.
 - The browser guide's Chrome, Edge, and Firefox permission-popover captures were already English despite being stored in `guides-fr`; they were copied to `guides-en`. Firefox's main panel and both Safari screenshots were recreated in English. The two schedule guides reuse their first two localized profile screenshots; their other nine screenshots were recreated in English.
+- The three patient-and-caregiver communication guides now use 23 English screenshots. One create-channel screenshot was reused from an earlier completed guide; the other 22 were recreated, including the pending and activated invitation states.
 - One raw screenshot `<img>` reference remains on the queued prefill patient or caregiver information page. Three broken raw references on the completed Braver Connect page were removed because their two source assets are absent from the repository. Two additional raw SVG diagrams in configuration guides are excluded because they are not screenshots.
 - The French invitation-kit PDF is excluded; its English page explicitly says the kit is French-only.
 - The other English-folder screenshots with isolated French names, team names, addresses, or thread titles were not counted on that evidence alone. Pages without a flag still need a visual check if screenshot accuracy matters.
