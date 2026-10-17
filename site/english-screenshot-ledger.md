@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `4bc973a` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `c8a968d` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**21 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Sixty-eight pages localized or visually cleared in this PR are listed under Completed.
+**18 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Seventy-one pages localized or visually cleared in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,13 +15,10 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Patient and caregiver guides (13)
+### Patient and caregiver guides (10)
 
 | English page | FR folder | EN OCR | Visual | Raw `<img>` |
 | --- | ---: | ---: | ---: | ---: |
-| [guides/for-patients-and-caregivers/discussion-threads/find-closed-discussion-thread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/find-closed-discussion-thread.mdx) | — | 3 | — | — |
-| [guides/for-patients-and-caregivers/discussion-threads/mark-message-as-unread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/mark-message-as-unread.mdx) | — | 3 | — | — |
-| [guides/for-patients-and-caregivers/discussion-threads/reply-to-new-message](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/reply-to-new-message.mdx) | — | 3 | — | — |
 | [guides/for-patients-and-caregivers/discussion-threads/view-all-participants-in-discussion-thread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/view-all-participants-in-discussion-thread.mdx) | — | 3 | — | — |
 | [guides/for-patients-and-caregivers/notification-management/activate-notifications-on-mobile-devices](./src/content/docs/en/guides/for-patients-and-caregivers/notification-management/activate-notifications-on-mobile-devices.mdx) | — | 5 | — | — |
 | [guides/for-patients-and-caregivers/notification-management/set-availability-schedule](./src/content/docs/en/guides/for-patients-and-caregivers/notification-management/set-availability-schedule.mdx) | — | 6 | — | — |
@@ -132,7 +129,13 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 | [Accessing Attachments in a Discussion Thread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/access-attachments-in-discussion-thread.mdx) | 4 | `4bc973a` |
 | [Adding a File, Photo, or Video to a Discussion Thread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/add-file-photo-or-video-to-discussion-thread.mdx) | 4 | `4bc973a` |
 
+| [Finding a Closed Discussion Thread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/find-closed-discussion-thread.mdx) | 3 | `c8a968d` |
+| [Mark a Discussion as Unread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/mark-message-as-unread.mdx) | 3 | `c8a968d` |
+| [Responding to a New Message](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/reply-to-new-message.mdx) | 3 | `c8a968d` |
+
 ## Audit notes
+
+- The patient closed-thread, mark-unread, and reply guides had nine French UI screenshots. Their English replacements preserve user placeholder snippets such as `vvfb`, the named care teams, unread markers, closed-thread checkmarks, and typed reply state.
 
 - The care-team participants and two discussion-attachment guides had nine French UI screenshots. The care-team opener reuses the localized pinned-content image, while the send-button crop has no text and remains unchanged. Named teams and the `exercice-de-respiration-mpoc` filename were preserved.
 
