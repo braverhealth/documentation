@@ -1,0 +1,60 @@
+---
+title: Configure Auto-suggestion
+description: "Decide when a trajectory is automatically suggested in patient files, based on the patient's status and a date range."
+prev:
+  link: /en/guides/for-administrators/modules/create-trajectory/create-thread-templates
+  label: Create Thread Templates
+next: false
+---
+
+import { Aside, LinkCard, Steps } from '@astrojs/starlight/components'
+import Figure from '~/components/Figure.astro'
+import img18 from '~/assets/guides-en/auto-suggestion-options-en.png'
+import img19 from '~/assets/guides-en/auto-suggestion-select-trajectory-en.png'
+
+Auto-suggestion determines when the trajectory is automatically suggested in patient files, based on the patient's status and a date range. This saves clicks during activation, and makes your teams autonomous if they are responsible for setting up a care channel for patients.
+
+## Turn On Auto-suggestion
+
+<Steps>
+<ol>
+
+<li>
+
+Select **Modules**, then the **Trajectories** tab, and choose the trajectory.
+
+<Figure src={img19} alt="Trajectories tab of the Modules page" />
+
+</li>
+
+<li>
+
+Select the **Auto-suggestion** tab and turn on the options you want. If the options are in a dialog, click **Configure auto-suggest rules** to open it.
+
+<Figure src={img18} alt="Auto-suggestion options A to D" width={563} align="left" />
+
+</li>
+
+</ol>
+</Steps>
+
+## Options
+
+| Marker | Option | Effect |
+| --- | --- | --- |
+| A | When patient is active | The trajectory is suggested for all active patients. |
+| B | When absent from patient | The trajectory is suggested unless a corresponding care channel already exists. |
+| C | Before date | Suggestions stop appearing on this date, at midnight. |
+| D | Starting on date | Suggestions start appearing on this date. |
+
+<Aside type="tip">
+
+You can turn on several options at once. For example, with A and B, the trajectory is suggested for active patients unless a corresponding care channel already exists.
+
+</Aside>
+
+## What's Next?
+
+Your trajectory is ready. You can go back to the starting page to review the steps or create another one.
+
+<LinkCard title="Create a Trajectory" href="/en/guides/for-administrators/modules/create-trajectory" />

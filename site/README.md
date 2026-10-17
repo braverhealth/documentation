@@ -12,6 +12,7 @@ One site, two languages, deployed on Netlify (base directory `site`):
 
 - `site.config.mjs`: languages, titles, header links.
 - `src/content/docs/`: French pages. `src/content/docs/en/`: English pages at the same paths.
+- [English screenshot ledger](english-screenshot-ledger.md): English pages that still show French UI images, with review status and source links.
 - `src/sidebar.generated.mjs`: navigation (sections = header tabs). English labels sit in `translations`; entries tagged `data-only` exist in one language and are hidden in the other.
 - `src/theme/`: the theme, started from [starlight-theme-nova](https://github.com/ocavue/starlight-theme-nova) 0.12.3 and now owned here (`nova/NOTICE.md`). `braver.css` holds the brand layer.
 - `src/components/`: content components used in MDX.

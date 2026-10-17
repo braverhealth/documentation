@@ -1,0 +1,102 @@
+---
+title: Configure a Trajectory's Actors
+description: "Add actors to a trajectory and set up their Information, User and Team tabs."
+prev:
+  link: /en/guides/for-administrators/modules/create-trajectory
+  label: Create a Trajectory
+next:
+  link: /en/guides/for-administrators/modules/create-trajectory/create-thread-templates
+  label: Create Thread Templates
+---
+
+import { Aside, Steps } from '@astrojs/starlight/components'
+import Figure from '~/components/Figure.astro'
+import img3 from '~/assets/guides-en/actor-create-en.png'
+import img4 from '~/assets/guides-en/actor-add-dialog-en.png'
+import img5 from '~/assets/guides-en/actor-information-en.png'
+import img6 from '~/assets/guides-en/actor-save-en.png'
+import img7 from '~/assets/guides-en/actor-user-en.png'
+import img9 from '~/assets/guides-en/actor-team-en.png'
+
+Actors determine who can take part in a care channel and under what conditions. An actor can be an individual user, a team, or both.
+
+You must first have [created the trajectory](/en/guides/for-administrators/modules/create-trajectory).
+
+## Create an Actor
+
+<Steps>
+<ol>
+
+<li>
+
+In the trajectory, select **Actors**, then click **Add actor**.
+
+<Figure src={img3} alt="Actors section and Add actor button" width={563} align="left" />
+
+</li>
+
+<li>
+
+Name the actor, then click **Add actor**.
+
+<Figure src={img4} alt="Add actor dialog showing the name field and Add actor button" width={563} align="left" />
+
+</li>
+
+</ol>
+</Steps>
+
+The actor is then configured in three tabs: **Information**, **User** and **Team**.
+
+<Aside type="caution" title="Save each tab">
+
+After changing a tab, click **Save**.
+
+<Figure src={img6} alt="Save button" width={563} align="left" />
+
+</Aside>
+
+## Information Tab
+
+<Figure src={img5} alt="An actor's Information tab, options A to E" align="left" />
+
+| Marker | Option | Description |
+| --- | --- | --- |
+| A | Name | The actor's name. |
+| B | Description | Shown under the actor's name in the left menu. |
+| C | Required | Turn on the switch so that at least one selection is required for this actor. |
+| D | Max count | The maximum number of selections allowed for this actor. Use **0** for no limit. |
+| E | Default team members to include and notify | The team members included and notified in discussion threads (see below). |
+
+### Default Team Members to Include and Notify
+
+| Option | Who is included and notified |
+| --- | --- |
+| Single | The assigned team member. If the channel has only one team member, that person is included and notified. |
+| All | All team members who take part in the channel, whether or not they are assigned. |
+| None | No team members. The thread is sent to the team's triage inbox. |
+
+## User Tab
+
+Use this tab so the actor is chosen from specific users.
+
+<Figure src={img7} alt="An actor's User tab, options A to C" width={563} align="left" />
+
+| Marker | Option | Description |
+| --- | --- | --- |
+| A | Allow user selection | Turn on the switch so this actor can be a single-user selection (rather than a team, for example). |
+| B | Limit to profession identifiers (optional) | If set, only users with the listed professions can be selected for this actor. |
+| C | Only allow user IDs | Restrict the choices to the listed users. |
+
+## Team Tab
+
+Use this tab so the actor is a team.
+
+<Figure src={img9} alt="An actor's Team tab, options A to D" width={563} align="left" />
+
+| Marker | Option | Description |
+| --- | --- | --- |
+| A | Allow inbox selection | Turn on the switch so this actor can be a team selection (rather than a user, for example). |
+| B | Only allow template IDs | Restrict the choices to the listed team templates. |
+| C | Only allow team IDs | Restrict the choices to the listed teams. |
+| D | Select workplace types | Restrict the choices to the selected workplace types. |

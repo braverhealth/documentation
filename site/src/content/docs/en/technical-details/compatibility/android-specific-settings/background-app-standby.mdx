@@ -1,0 +1,48 @@
+---
+title: Background App Standby
+icon: bell-ring
+---
+
+import { Steps } from '@astrojs/starlight/components'
+import Figure from '~/components/Figure.astro'
+import img0 from "~/assets/documentation-en/android-background-standby-step-1-en.png"
+import img1 from "~/assets/documentation-en/android-background-standby-step-2-en.png"
+import img2 from "~/assets/documentation-en/android-background-standby-step-3-en.png"
+
+## The Problem
+
+On Samsung Galaxy phones, the feature that puts unused apps to sleep turns off their background activity. If an app is put to sleep, you will only receive its notifications when you open it again.
+
+## The Solution
+
+To prevent apps from being put to sleep automatically:
+
+<Steps>
+<ol>
+
+<li>
+
+#### Go to Settings, then to the Battery section
+
+<Figure src={img0} alt="Samsung Settings with Battery highlighted" width={375} align="left" />
+
+</li>
+
+<li>
+
+#### Then go to Background usage limits
+
+<Figure src={img1} alt="Battery settings with Background usage limits highlighted" width={375} align="left" />
+
+</li>
+
+<li>
+
+#### Turn off Put unused apps to sleep
+
+<Figure src={img2} alt="Background usage limits with Put unused apps to sleep turned off" width={375} align="left" />
+
+</li>
+
+</ol>
+</Steps>

@@ -1,0 +1,50 @@
+---
+title: Adaptive Battery
+icon: bell-ring
+---
+
+import { Steps } from '@astrojs/starlight/components'
+import Figure from '~/components/Figure.astro'
+import img0 from "~/assets/documentation-en/android-adaptive-battery-step-1-en.png"
+import img1 from "~/assets/documentation-en/android-adaptive-battery-step-2-en.png"
+import img2 from "~/assets/documentation-en/android-adaptive-battery-step-3-en.png"
+
+## The Problem
+
+Your phone's adaptive battery feature can delay notifications. It limits background activity for apps you use infrequently in order to save battery.
+
+This feature, found especially on Google Pixel phones, is often cited as the main cause of delayed notifications.
+
+## The Solution
+
+To fix this problem:
+
+<Steps>
+<ol>
+
+<li>
+
+#### Go to Settings, then to the Battery section
+
+<Figure src={img0} alt="Samsung Settings with Battery highlighted" width={375} align="left" />
+
+</li>
+
+<li>
+
+#### Then go to Battery protection
+
+<Figure src={img1} alt="Battery settings with Battery protection highlighted" width={375} align="left" />
+
+</li>
+
+<li>
+
+#### Select the Basic option or turn the option off completely
+
+<Figure src={img2} alt="Battery protection options with Basic selected" width={375} align="left" />
+
+</li>
+
+</ol>
+</Steps>
