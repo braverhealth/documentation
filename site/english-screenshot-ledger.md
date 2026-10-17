@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `c8a968d` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `b99f7e0` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**18 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Seventy-one pages localized or visually cleared in this PR are listed under Completed.
+**15 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Seventy-four pages localized or visually cleared in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,13 +15,10 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Patient and caregiver guides (10)
+### Patient and caregiver guides (7)
 
 | English page | FR folder | EN OCR | Visual | Raw `<img>` |
 | --- | ---: | ---: | ---: | ---: |
-| [guides/for-patients-and-caregivers/discussion-threads/view-all-participants-in-discussion-thread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/view-all-participants-in-discussion-thread.mdx) | — | 3 | — | — |
-| [guides/for-patients-and-caregivers/notification-management/activate-notifications-on-mobile-devices](./src/content/docs/en/guides/for-patients-and-caregivers/notification-management/activate-notifications-on-mobile-devices.mdx) | — | 5 | — | — |
-| [guides/for-patients-and-caregivers/notification-management/set-availability-schedule](./src/content/docs/en/guides/for-patients-and-caregivers/notification-management/set-availability-schedule.mdx) | — | 6 | — | — |
 | [guides/for-patients-and-caregivers/notification-management/set-unavailability-period](./src/content/docs/en/guides/for-patients-and-caregivers/notification-management/set-unavailability-period.mdx) | — | 6 | — | — |
 | [guides/for-patients-and-caregivers/profile-management/modify-profile-photo](./src/content/docs/en/guides/for-patients-and-caregivers/profile-management/modify-profile-photo.mdx) | — | 1 | — | — |
 | [guides/for-patients-and-caregivers/security/generate-new-recovery-code](./src/content/docs/en/guides/for-patients-and-caregivers/security/generate-new-recovery-code.mdx) | — | 3 | — | — |
@@ -168,3 +165,6 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 - The prefill patient or caregiver guide had four French screenshots; its broken raw image reference was removed because the source asset is absent from the repository. The profession guide had five French UI screenshots despite an English asset directory, and the workplace guide had 14. Three broken raw references on the completed Braver Connect page were also removed because their source assets are absent. Two additional raw SVG diagrams in configuration guides are excluded because they are not screenshots.
 - The French invitation-kit PDF is excluded; its English page explicitly says the kit is French-only.
 - The other English-folder screenshots with isolated French names, team names, addresses, or thread titles were not counted on that evidence alone. Pages without a flag still need a visual check if screenshot accuracy matters.
+| [View All Participants in a Discussion Thread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/view-all-participants-in-discussion-thread.mdx) | 4 | `b99f7e0` |
+| [Activate Notifications on Mobile Device](./src/content/docs/en/guides/for-patients-and-caregivers/notification-management/activate-notifications-on-mobile-devices.mdx) | 9 reused | `b99f7e0` |
+| [Set Your Availability Schedule](./src/content/docs/en/guides/for-patients-and-caregivers/notification-management/set-availability-schedule.mdx) | 7 (6 reused) | `b99f7e0` |
