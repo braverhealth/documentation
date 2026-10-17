@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `0096673` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `4bc973a` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**24 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Sixty-five pages localized or visually cleared in this PR are listed under Completed.
+**21 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Sixty-eight pages localized or visually cleared in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,13 +15,10 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Patient and caregiver guides (16)
+### Patient and caregiver guides (13)
 
 | English page | FR folder | EN OCR | Visual | Raw `<img>` |
 | --- | ---: | ---: | ---: | ---: |
-| [guides/for-patients-and-caregivers/care-teams/view-all-participants-in-care-team](./src/content/docs/en/guides/for-patients-and-caregivers/care-teams/view-all-participants-in-care-team.mdx) | — | 2 | — | — |
-| [guides/for-patients-and-caregivers/discussion-threads/access-attachments-in-discussion-thread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/access-attachments-in-discussion-thread.mdx) | — | 3 | — | — |
-| [guides/for-patients-and-caregivers/discussion-threads/add-file-photo-or-video-to-discussion-thread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/add-file-photo-or-video-to-discussion-thread.mdx) | — | 3 | — | — |
 | [guides/for-patients-and-caregivers/discussion-threads/find-closed-discussion-thread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/find-closed-discussion-thread.mdx) | — | 3 | — | — |
 | [guides/for-patients-and-caregivers/discussion-threads/mark-message-as-unread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/mark-message-as-unread.mdx) | — | 3 | — | — |
 | [guides/for-patients-and-caregivers/discussion-threads/reply-to-new-message](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/reply-to-new-message.mdx) | — | 3 | — | — |
@@ -131,7 +128,13 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 | [Add a File, Photo or Video to a Discussion Thread](./src/content/docs/en/guides/for-patients-and-caregivers/braver-connect/add-file-photo-or-video-to-discussion-thread.mdx) | 17 | `0096673` |
 | [Find a Pinned Attachment in a Care Team Space](./src/content/docs/en/guides/for-patients-and-caregivers/care-teams/find-pinned-attachment-in-care-team-space.mdx) | 4 | `0096673` |
 
+| [View All Participants of a Care Team](./src/content/docs/en/guides/for-patients-and-caregivers/care-teams/view-all-participants-in-care-team.mdx) | 3 | `4bc973a` |
+| [Accessing Attachments in a Discussion Thread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/access-attachments-in-discussion-thread.mdx) | 4 | `4bc973a` |
+| [Adding a File, Photo, or Video to a Discussion Thread](./src/content/docs/en/guides/for-patients-and-caregivers/discussion-threads/add-file-photo-or-video-to-discussion-thread.mdx) | 4 | `4bc973a` |
+
 ## Audit notes
+
+- The care-team participants and two discussion-attachment guides had nine French UI screenshots. The care-team opener reuses the localized pinned-content image, while the send-button crop has no text and remains unchanged. Named teams and the `exercice-de-respiration-mpoc` filename were preserved.
 
 - The patient call, Braver Connect attachment, and pinned-content guides had 25 French UI screenshots, although OCR initially flagged only four outside the French asset folder. Their English images preserve blurred file-picker details, names, filenames, call times, the pre-prod ribbon, and a plain-A `About patient` heading. The call guide also embeds Loom videos, which are outside this screenshot review.
 
