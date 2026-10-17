@@ -1,8 +1,8 @@
 # English pages with French screenshots
 
-Snapshot of PR #43 at `fc960d8` (2026-10-16). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
+Snapshot of PR #43 at `5d23789` (2026-10-17). This is a page-level work queue for the [screenshot localization skill](../.agents/skills/localize-doc-screenshots/SKILL.md). Update it as each page is reviewed or localized.
 
-**9 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Eighty pages localized or visually cleared in this PR are listed under Completed.
+**0 pages to review or localize.** The scan covered 209 English MDX pages and 616 imported image references. Eighty-nine pages localized or visually cleared in this PR are listed under Completed.
 
 The columns record why a page is on the queue:
 
@@ -15,29 +15,7 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 
 ## To review or localize
 
-### Patient and caregiver guides (1)
-
-| English page | FR folder | EN OCR | Visual | Raw `<img>` |
-| --- | ---: | ---: | ---: | ---: |
-| [guides/for-patients-and-caregivers/security/reset-password](./src/content/docs/en/guides/for-patients-and-caregivers/security/reset-password.mdx) | — | 2 | — | — |
-
-### Integration guides (3)
-
-| English page | FR folder | EN OCR | Visual | Raw `<img>` |
-| --- | ---: | ---: | ---: | ---: |
-| [guides/integrations/gustav/activate-account-via-integrated-bubble](./src/content/docs/en/guides/integrations/gustav/activate-account-via-integrated-bubble.mdx) | 7 | — | — | — |
-| [guides/integrations/gustav/use-contextual-navigation](./src/content/docs/en/guides/integrations/gustav/use-contextual-navigation.mdx) | 2 | — | — | — |
-| [guides/integrations/leomed/activate-patient-or-caregiver-account](./src/content/docs/en/guides/integrations/leomed/activate-patient-or-caregiver-account.mdx) | — | 2 | — | — |
-
-### Technical details (5)
-
-| English page | FR folder | EN OCR | Visual | Raw `<img>` |
-| --- | ---: | ---: | ---: | ---: |
-| [technical-details/compatibility/android-specific-settings/adaptive-battery](./src/content/docs/en/technical-details/compatibility/android-specific-settings/adaptive-battery.mdx) | 3 | — | — | — |
-| [technical-details/compatibility/android-specific-settings/background-app-standby](./src/content/docs/en/technical-details/compatibility/android-specific-settings/background-app-standby.mdx) | 3 | — | — | — |
-| [technical-details/compatibility/android-specific-settings/global-power-and-data-saving-mode](./src/content/docs/en/technical-details/compatibility/android-specific-settings/global-power-and-data-saving-mode.mdx) | 1 | — | — | — |
-| [technical-details/compatibility/android-specific-settings/individual-battery-and-data-restrictions](./src/content/docs/en/technical-details/compatibility/android-specific-settings/individual-battery-and-data-restrictions.mdx) | 5 | — | — | — |
-| [technical-details/compatibility/android-specific-settings/smart-wifi-usage-reduction](./src/content/docs/en/technical-details/compatibility/android-specific-settings/smart-wifi-usage-reduction.mdx) | 5 | — | — | — |
+None. All 89 identified English pages have been localized or visually cleared.
 
 ## Completed in PR #43
 
@@ -168,3 +146,12 @@ Counts are image references on that page, not estimates of editing effort. Inspe
 | [Modify Password](./src/content/docs/en/guides/for-patients-and-caregivers/security/modify-password.mdx) | 5 reused | `fc960d8` |
 | [Modify PIN](./src/content/docs/en/guides/for-patients-and-caregivers/security/modify-pin.mdx) | 5 reused | `fc960d8` |
 | [Receive Two-Factor Authentication by SMS](./src/content/docs/en/guides/for-patients-and-caregivers/security/receive-two-factor-authentication-by-sms.mdx) | 7 reused | `fc960d8` |
+| [Reset Password](./src/content/docs/en/guides/for-patients-and-caregivers/security/reset-password.mdx) | 2 reused | `5d23789` |
+| [Activate Your Account via the Bubble Integrated in Gustav](./src/content/docs/en/guides/integrations/gustav/activate-account-via-integrated-bubble.mdx) | 7 | `5d23789` |
+| [Use Contextual Navigation](./src/content/docs/en/guides/integrations/gustav/use-contextual-navigation.mdx) | 2 | `5d23789` |
+| [Activate Patient or Caregiver Account](./src/content/docs/en/guides/integrations/leomed/activate-patient-or-caregiver-account.mdx) | 2 | `5d23789` |
+| [Adaptive Battery](./src/content/docs/en/technical-details/compatibility/android-specific-settings/adaptive-battery.mdx) | 3 | `5d23789` |
+| [Background App Standby](./src/content/docs/en/technical-details/compatibility/android-specific-settings/background-app-standby.mdx) | 3 | `5d23789` |
+| [Global Power and Data Saving Mode](./src/content/docs/en/technical-details/compatibility/android-specific-settings/global-power-and-data-saving-mode.mdx) | 1 | `5d23789` |
+| [Individual Battery and Data Restrictions](./src/content/docs/en/technical-details/compatibility/android-specific-settings/individual-battery-and-data-restrictions.mdx) | 5 | `5d23789` |
+| [Smart Wi-Fi Usage Reduction](./src/content/docs/en/technical-details/compatibility/android-specific-settings/smart-wifi-usage-reduction.mdx) | 5 | `5d23789` |
