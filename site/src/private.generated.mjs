@@ -28,7 +28,9 @@ export const privatePaths = [
   "/guides/private-pages/ages-foundation-admin",
   "/en/guides/private-pages/ages-foundation-admin",
   "/guides/private-pages/ages-foundation-navigators",
-  "/en/guides/private-pages/ages-foundation-navigators"
+  "/en/guides/private-pages/ages-foundation-navigators",
+  "/guides/private-pages/long-term-care-accelerated-training",
+  "/en/guides/private-pages/long-term-care-accelerated-training"
 ]
 /** Their titles, used to drop them from llms-full.txt. */
 export const privateTitles = [
@@ -45,7 +47,8 @@ export const privateTitles = [
   "Trousse de projet | Capitale-Nationale",
   "Soins virtuels (Module PPA)",
   "Fondation AGES (Admin)",
-  "Fondations AGES (Navigateur.rice.s)"
+  "Fondations AGES (Navigateur.rice.s)",
+  "Braver | Soins de longue durée (Formation accélérée)"
 ]
 /** English paths that only show a French page with a "not translated yet" notice. */
 export const fallbackPaths = [
@@ -92,6 +95,7 @@ export const fallbackPaths = [
   "/en/guides/private-pages/virtual-care-ppa-module",
   "/en/guides/private-pages/ages-foundation-admin",
   "/en/guides/private-pages/ages-foundation-navigators",
+  "/en/guides/private-pages/long-term-care-accelerated-training",
   "/en/guides/braver",
   "/en/training",
   "/en/training/for-the-professionals/essential-training-for-professionals",
