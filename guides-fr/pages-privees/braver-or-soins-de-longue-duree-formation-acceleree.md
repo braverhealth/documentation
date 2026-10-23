@@ -26,7 +26,9 @@
 
 [2.6 Les fonctionnalités « coups de pouce » (5 min)](braver-or-soins-de-longue-duree-formation-acceleree.md#id-2.6-.-les-fonctionnalites-coups-de-pouce-5-min)
 
-### [3. Sondage de satisfaction](braver-or-soins-de-longue-duree-formation-acceleree.md#id-3.-sondage-de-satisfaction-1)
+### [3. Support Braver](braver-or-soins-de-longue-duree-formation-acceleree.md#id-3.-support-braver)
+
+### [4. Sondage de satisfaction (formation)](braver-or-soins-de-longue-duree-formation-acceleree.md#id-4.-sondage-de-satisfaction-formation)
 
 ***
 
@@ -258,8 +260,18 @@ Répondez à un message plus tard, soyez notifié de la façon que vous préfér
 
 ***
 
-### 3. Sondage de satisfaction
+### 3. Support Braver
 
-Merci de nous aider à améliorer la formation en répondant à notre court sondage (2 min)! Scannez le code QR ci-dessous avec un appareil mobile ou cliquez sur le lien suivant: [https://forms.gle/e4Yurg5E6b1eEvNQ8](https://forms.gle/e4Yurg5E6b1eEvNQ8). Bonne journée!
+N'hésitez pas à nous rejoindre! Voici comment:
 
-<figure><img src="../.gitbook/assets/Sondage-Formation.png" alt="" width="375"><figcaption></figcaption></figure>
+{% content-ref url="https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/besoin-daide" %}
+[Besoin d'aide?](https://app.gitbook.com/s/C7asQvRtcnnGS2hUcyO0/besoin-daide)
+{% endcontent-ref %}
+
+### 4. Sondage de satisfaction (Formation)
+
+Merci de nous aider à améliorer la formation en répondant à notre court sondage (2 min)! \
+\
+Scannez le code QR ci-dessous avec un appareil mobile ou cliquez sur le lien suivant: [https://forms.gle/e4Yurg5E6b1eEvNQ8](https://forms.gle/e4Yurg5E6b1eEvNQ8).&#x20;
+
+<figure><img src="../.gitbook/assets/Sondage-Formation.png" alt="" width="188"><figcaption></figcaption></figure>
