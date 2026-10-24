@@ -11,8 +11,7 @@ icon: sparkles
 
 1. Remplissage et signature des formulaires de soins directement dans l'application, sur mobile comme sur le web
 2. Nouveau rôle de gestion de trajectoire, pour créer des canaux de soins et y assigner des personnes sans avoir accès au contenu privé qui y est échangé
-3. Contrôle de ce que chaque participant ou équipe peut faire dans un canal, à partir d'un nouveau panneau de restrictions dans le menu de la boîte de réception
-4. Export PDF enrichi, avec les activités, le statut actuel des participants, les réactions et une distinction claire entre les proches aidants et les cliniciens
+3. Export PDF enrichi, avec les activités, le statut actuel des participants, les réactions et une distinction claire entre les proches aidants et les cliniciens
 
 #### 2. Améliorations
 
